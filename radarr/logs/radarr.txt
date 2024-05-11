@@ -1581,3 +1581,41 @@
 2024-05-11 01:59:39.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 10:32:17PM and 5/10/2024 11:30:26PM UTC. Search may be required.
 2024-05-11 01:59:43.8|Info|DownloadDecisionMaker|Processing 227 releases
 2024-05-11 01:59:44.2|Info|RssSyncService|RSS Sync Completed. Reports found: 227, Reports grabbed: 0
+2024-05-11 02:30:08.5|Info|RssSyncService|Starting RSS Sync
+2024-05-11 02:30:10.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 11:30:26PM and 5/10/2024 11:30:26PM UTC. Search may be required.
+2024-05-11 02:30:15.0|Info|DownloadDecisionMaker|Processing 227 releases
+2024-05-11 02:30:15.4|Info|RssSyncService|RSS Sync Completed. Reports found: 227, Reports grabbed: 0
+2024-05-11 03:00:39.2|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:00:41.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 11:48:47PM and 5/11/2024 12:41:11AM UTC. Search may be required.
+2024-05-11 03:00:45.4|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-11 03:00:45.8|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-11 03:31:09.8|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:31:11.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/11/2024 12:41:11AM and 5/11/2024 12:41:11AM UTC. Search may be required.
+2024-05-11 03:31:16.1|Info|DownloadDecisionMaker|Processing 224 releases
+2024-05-11 03:31:16.5|Info|RssSyncService|RSS Sync Completed. Reports found: 224, Reports grabbed: 0
+2024-05-11 04:01:40.3|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:01:42.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/11/2024 12:41:11AM and 5/11/2024 12:41:11AM UTC. Search may be required.
+2024-05-11 04:01:46.5|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-11 04:01:46.9|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-11 04:32:10.9|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:32:13.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/11/2024 1:35:20AM and 5/11/2024 1:35:20AM UTC. Search may be required.
+2024-05-11 04:32:17.1|Info|DownloadDecisionMaker|Processing 220 releases
+2024-05-11 04:32:17.5|Info|RssSyncService|RSS Sync Completed. Reports found: 220, Reports grabbed: 0
+2024-05-11 05:02:41.4|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:02:45.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/11/2024 1:35:20AM and 5/11/2024 2:30:54AM UTC. Search may be required.
+2024-05-11 05:02:47.7|Info|DownloadDecisionMaker|Processing 219 releases
+2024-05-11 05:02:48.1|Info|RssSyncService|RSS Sync Completed. Reports found: 219, Reports grabbed: 0
+2024-05-11 05:33:12.1|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:33:15.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/11/2024 2:30:54AM and 5/11/2024 2:30:54AM UTC. Search may be required.
+2024-05-11 05:33:18.9|Info|DownloadDecisionMaker|Processing 210 releases
+2024-05-11 05:33:19.3|Info|RssSyncService|RSS Sync Completed. Reports found: 210, Reports grabbed: 0
+2024-05-11 06:03:43.1|Info|RssSyncService|Starting RSS Sync
+2024-05-11 06:03:49.7|Info|DownloadDecisionMaker|Processing 209 releases
+2024-05-11 06:03:50.0|Info|RssSyncService|RSS Sync Completed. Reports found: 209, Reports grabbed: 0
+2024-05-11 06:34:14.1|Info|RssSyncService|Starting RSS Sync
+2024-05-11 06:34:20.3|Info|DownloadDecisionMaker|Processing 210 releases
+2024-05-11 06:34:20.7|Info|RssSyncService|RSS Sync Completed. Reports found: 210, Reports grabbed: 0
+2024-05-11 07:04:45.3|Info|RssSyncService|Starting RSS Sync
+2024-05-11 07:04:49.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/11/2024 2:30:54AM and 5/11/2024 4:37:29AM UTC. Search may be required.
+2024-05-11 07:04:51.6|Info|DownloadDecisionMaker|Processing 212 releases
+2024-05-11 07:04:52.0|Info|RssSyncService|RSS Sync Completed. Reports found: 212, Reports grabbed: 0

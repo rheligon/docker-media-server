@@ -126,6 +126,7 @@ services:
       - /etc/localtime:/etc/localtime:ro
       - ${APP_PATH}/qbittorrent:/config
       - ${DATA_PATH}/torrents:/data/torrents
+      - ${APP_PATH}/vuetorrent:/opt/vuetorrent
   # GLUETUN
   gluetun:
     image: qmcgaw/gluetun

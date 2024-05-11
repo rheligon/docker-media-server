@@ -4745,3 +4745,138 @@ database is locked
 2024-05-11 02:21:11.9|Info|RssSyncService|Starting RSS Sync
 2024-05-11 02:21:25.2|Info|DownloadDecisionMaker|Processing 269 releases
 2024-05-11 02:21:25.5|Info|RssSyncService|RSS Sync Completed. Reports found: 269, Reports grabbed: 0
+2024-05-11 02:36:42.2|Info|RssSyncService|Starting RSS Sync
+2024-05-11 02:36:55.4|Info|DownloadDecisionMaker|Processing 273 releases
+2024-05-11 02:36:55.7|Info|RssSyncService|RSS Sync Completed. Reports found: 273, Reports grabbed: 0
+2024-05-11 02:52:12.5|Info|RssSyncService|Starting RSS Sync
+2024-05-11 02:52:25.7|Info|DownloadDecisionMaker|Processing 267 releases
+2024-05-11 02:52:26.1|Info|RssSyncService|RSS Sync Completed. Reports found: 267, Reports grabbed: 0
+2024-05-11 03:07:42.7|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:07:56.3|Info|DownloadDecisionMaker|Processing 270 releases
+2024-05-11 03:07:56.7|Info|RssSyncService|RSS Sync Completed. Reports found: 270, Reports grabbed: 0
+2024-05-11 03:23:12.9|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:23:26.6|Info|DownloadDecisionMaker|Processing 270 releases
+2024-05-11 03:23:26.9|Info|RssSyncService|RSS Sync Completed. Reports found: 270, Reports grabbed: 0
+2024-05-11 03:38:43.2|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:38:56.8|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-11 03:38:57.1|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-11 03:46:43.3|Info|SceneMappingService|Updating Scene mappings
+2024-05-11 03:54:13.4|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:54:27.1|Info|DownloadDecisionMaker|Processing 273 releases
+2024-05-11 03:54:27.4|Info|RssSyncService|RSS Sync Completed. Reports found: 273, Reports grabbed: 0
+2024-05-11 04:09:43.5|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:09:57.4|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-11 04:09:57.7|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-11 04:25:13.7|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:25:19.9|Info|DownloadDecisionMaker|Processing 275 releases
+2024-05-11 04:25:20.2|Info|RssSyncService|RSS Sync Completed. Reports found: 275, Reports grabbed: 0
+2024-05-11 04:40:43.9|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:40:50.2|Info|DownloadDecisionMaker|Processing 280 releases
+2024-05-11 04:40:50.5|Info|RssSyncService|RSS Sync Completed. Reports found: 280, Reports grabbed: 0
+2024-05-11 04:56:14.2|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:56:20.4|Info|DownloadDecisionMaker|Processing 284 releases
+2024-05-11 04:56:20.7|Info|RssSyncService|RSS Sync Completed. Reports found: 284, Reports grabbed: 0
+2024-05-11 05:11:44.4|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:11:50.7|Info|DownloadDecisionMaker|Processing 277 releases
+2024-05-11 05:11:51.0|Info|RssSyncService|RSS Sync Completed. Reports found: 277, Reports grabbed: 0
+2024-05-11 05:27:14.7|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:27:21.0|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-11 05:27:21.3|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-11 05:42:45.2|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:42:51.7|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-11 05:42:52.0|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-11 05:58:15.5|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:58:21.8|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-11 05:58:22.1|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-11 06:13:46.1|Info|RssSyncService|Starting RSS Sync
+2024-05-11 06:13:52.4|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-11 06:13:52.7|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-11 06:28:16.5|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-11 06:28:16.5|Info|HousekeepingService|Running housecleaning tasks
+2024-05-11 06:28:16.7|Info|Database|Vacuuming Log database
+2024-05-11 06:28:16.7|Info|Database|Log database compressed
+2024-05-11 06:28:16.7|Info|Database|Vacuuming Main database
+2024-05-11 06:28:17.2|Info|Database|Main database compressed
+2024-05-11 06:29:16.5|Info|RssSyncService|Starting RSS Sync
+2024-05-11 06:29:22.8|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-11 06:29:23.1|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-11 06:36:46.8|Info|RefreshSeriesService|Updating The Apothecary Diaries
+2024-05-11 06:36:47.2|Info|RefreshEpisodeService|Starting episode info refresh for: [431162][The Apothecary Diaries]
+2024-05-11 06:36:47.5|Info|RefreshEpisodeService|Finished episode refresh for series: [431162][The Apothecary Diaries].
+2024-05-11 06:36:48.0|Info|DiskScanService|Scanning The Apothecary Diaries
+2024-05-11 06:36:48.0|Info|DiskScanService|Completed scanning disk for The Apothecary Diaries
+2024-05-11 06:36:48.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2024-05-11 06:36:48.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2024-05-11 06:36:48.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2024-05-11 06:36:48.1|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2024-05-11 06:36:48.1|Info|RefreshSeriesService|Updating Re:Monster
+2024-05-11 06:36:48.2|Info|RefreshEpisodeService|Starting episode info refresh for: [439755][Re:Monster]
+2024-05-11 06:36:48.4|Info|RefreshEpisodeService|Finished episode refresh for series: [439755][Re:Monster].
+2024-05-11 06:36:48.8|Info|DiskScanService|Scanning Re:Monster
+2024-05-11 06:36:48.8|Info|DiskScanService|Completed scanning disk for Re:Monster
+2024-05-11 06:36:48.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2024-05-11 06:36:48.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2024-05-11 06:36:48.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2024-05-11 06:36:48.8|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2024-05-11 06:43:46.9|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from qBittorrent
+
+[v4.0.4.1491] System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+ ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.ProcessRequest(HttpRequestBuilder requestBuilder, QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 399
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.GetApiVersion(QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 77
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrent.GetItems() in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrent.cs:line 220
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads(IDownloadClient downloadClient) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 90
+
+2024-05-11 06:44:46.9|Info|RssSyncService|Starting RSS Sync
+2024-05-11 06:44:53.2|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-11 06:44:53.6|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-11 06:45:17.0|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from qBittorrent
+
+[v4.0.4.1491] System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+ ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.IsApiSupported(QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 68
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxySelector.FetchProxy(QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxySelector.cs:line 96
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Sonarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxySelector.GetProxyCache(QBittorrentSettings settings, Boolean force) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxySelector.cs:line 72
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxySelector.GetProxy(QBittorrentSettings settings, Boolean force) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxySelector.cs:line 62
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrent.GetItems() in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrent.cs:line 220
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads(IDownloadClient downloadClient) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 90
+
+2024-05-11 06:46:47.0|Info|SceneMappingService|Updating Scene mappings
+2024-05-11 07:00:17.4|Info|RssSyncService|Starting RSS Sync
+2024-05-11 07:00:23.6|Info|DownloadDecisionMaker|Processing 276 releases
+2024-05-11 07:00:23.9|Info|RssSyncService|RSS Sync Completed. Reports found: 276, Reports grabbed: 0

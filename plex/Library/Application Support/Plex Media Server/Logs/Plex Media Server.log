@@ -4130,3 +4130,337 @@ May 11, 2024 02:21:47.367 [140736205336800] DEBUG - [Req#747] [Now] Adding 0 ses
 May 11, 2024 02:21:47.367 [140736244838624] DEBUG - Completed: [172.21.0.2:43712] 200 GET /status/sessions (2 live) #747 2ms 263 bytes
 May 11, 2024 02:25:37.984 [140736179777760] DEBUG - [ViewStateSync] Starting
 May 11, 2024 02:25:37.984 [140736179777760] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 02:28:18.472 [140736205336800] DEBUG - Request: [172.21.0.2:40560 (WAN)] GET /status/sessions (2 live) #749 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:28:18.472 [140736205336800] DEBUG - [Req#749] [Now] Adding 0 sessions.
+May 11, 2024 02:28:18.472 [140736244838624] DEBUG - Completed: [172.21.0.2:40560] 200 GET /status/sessions (2 live) #749 0ms 263 bytes
+May 11, 2024 02:28:21.359 [140736205336800] DEBUG - Request: [172.21.0.2:46064 (WAN)] GET /status/sessions (2 live) #74b Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:28:21.359 [140736205336800] DEBUG - [Req#74b] [Now] Adding 0 sessions.
+May 11, 2024 02:28:21.359 [140736244838624] DEBUG - Completed: [172.21.0.2:46064] 200 GET /status/sessions (2 live) #74b 0ms 263 bytes
+May 11, 2024 02:28:32.323 [140736205336800] DEBUG - Request: [172.21.0.2:37522 (WAN)] GET /status/sessions (2 live) #74d Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:28:32.323 [140736205336800] DEBUG - [Req#74d] [Now] Adding 0 sessions.
+May 11, 2024 02:28:32.324 [140736244838624] DEBUG - Completed: [172.21.0.2:37522] 200 GET /status/sessions (2 live) #74d 1ms 263 bytes
+May 11, 2024 02:29:41.666 [140736184037600] DEBUG - SSDP departed after not being seen for 27.704240 seconds: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 11, 2024 02:29:59.675 [140736196817120] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:1765/
+May 11, 2024 02:29:59.796 [140736221573344] DEBUG - [HttpClient/HCl#6e] HTTP/1.1 (0.1s) 200 response from GET http://192.168.1.228:1765/
+May 11, 2024 02:29:59.797 [140736196817120] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.228:1765/
+May 11, 2024 02:29:59.797 [140736196817120] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 11, 2024 02:42:01.725 [140736175517920] DEBUG - SSDP departed after not being seen for 27.700737 seconds: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 11, 2024 02:42:09.733 [140736196817120] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:1765/
+May 11, 2024 02:42:09.857 [140736221573344] DEBUG - [HttpClient/HCl#6f] HTTP/1.1 (0.1s) 200 response from GET http://192.168.1.228:1765/
+May 11, 2024 02:42:09.858 [140736196817120] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.228:1765/
+May 11, 2024 02:42:09.858 [140736196817120] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 11, 2024 02:45:26.512 [140736205336800] DEBUG - Request: [172.21.0.2:52884 (WAN)] GET /status/sessions (2 live) #74f Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:45:26.512 [140736205336800] DEBUG - [Req#74f] [Now] Adding 0 sessions.
+May 11, 2024 02:45:26.513 [140736246968544] DEBUG - Completed: [172.21.0.2:52884] 200 GET /status/sessions (2 live) #74f 0ms 263 bytes
+May 11, 2024 02:45:26.532 [140736205336800] DEBUG - Request: [172.21.0.2:52896 (WAN)] GET /library/sections/1/all (5 live) #751 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:45:26.532 [140736205336800] WARN - [Req#751] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 02:45:26.533 [140736211759328] DEBUG - Request: [172.21.0.2:52908 (WAN)] GET /library/sections/4/all (5 live) #753 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:45:26.533 [140736207466720] DEBUG - Request: [172.21.0.2:52922 (WAN)] GET /library/sections/2/all (5 live) #754 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:45:26.534 [140736211759328] WARN - [Req#753] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 02:45:26.534 [140736207466720] WARN - [Req#754] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 02:45:26.535 [140736246968544] DEBUG - Completed: [172.21.0.2:52896] 200 GET /library/sections/1/all (5 live) #751 2ms 666 bytes
+May 11, 2024 02:45:26.535 [140736205336800] DEBUG - Request: [172.21.0.2:52926 (WAN)] GET /library/sections/3/albums (4 live) #755 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:45:26.537 [140736246968544] DEBUG - Completed: [172.21.0.2:52908] 200 GET /library/sections/4/all (4 live) #753 3ms 2943 bytes
+May 11, 2024 02:45:26.539 [140736244838624] DEBUG - Completed: [172.21.0.2:52922] 200 GET /library/sections/2/all (4 live) #754 6ms 4208 bytes
+May 11, 2024 02:45:26.539 [140736246968544] DEBUG - Completed: [172.21.0.2:52926] 200 GET /library/sections/3/albums (4 live) #755 4ms 568 bytes
+May 11, 2024 02:45:27.231 [140736211759328] DEBUG - Request: [172.21.0.2:52936 (WAN)] GET /status/sessions (3 live) #756 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:45:27.231 [140736211759328] DEBUG - [Req#756] [Now] Adding 0 sessions.
+May 11, 2024 02:45:27.231 [140736244838624] DEBUG - Completed: [172.21.0.2:52936] 200 GET /status/sessions (3 live) #756 0ms 263 bytes
+May 11, 2024 02:45:32.208 [140736211759328] DEBUG - Request: [172.21.0.2:52330 (WAN)] GET /status/sessions (2 live) #75a Signed-in Token (rhel625) (chadberry)
+May 11, 2024 02:45:32.208 [140736211759328] DEBUG - [Req#75a] [Now] Adding 0 sessions.
+May 11, 2024 02:45:32.208 [140736246968544] DEBUG - Completed: [172.21.0.2:52330] 200 GET /status/sessions (2 live) #75a 0ms 263 bytes
+May 11, 2024 02:55:37.985 [140736175517920] DEBUG - [ViewStateSync] Starting
+May 11, 2024 02:55:37.985 [140736175517920] DEBUG - [ViewStateSync] Fetching user tokens
+May 11, 2024 02:55:37.985 [140736175517920] DEBUG - [ViewStateSync/HCl#70] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 02:55:38.136 [140736221573344] DEBUG - [HttpClient/HCl#70] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 02:55:38.138 [140736207466720] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 03:00:16.470 [140736205336800] DEBUG - Statistics: Flushing 3 expired bandwidth entries, 0 expired media entries.
+May 11, 2024 03:07:11.844 [140736205336800] DEBUG - SSDP departed after not being seen for 29.792020 seconds: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 11, 2024 03:18:48.408 [140736207466720] DEBUG - Butler: Starting delayed task RefreshEpgGuides.
+May 11, 2024 03:19:01.716 [140736225849568] DEBUG - Activity: registered new sub-activity f3b33156-da4c-4e82-897d-b04788739965 - "RefreshEpgGuides" parent: 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e overall progress: 97.4% (37/38)
+May 11, 2024 03:19:01.716 [140736225849568] DEBUG - Activity: updated activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e - completed 97.4% - Butler tasks
+May 11, 2024 03:19:01.717 [140736225849568] DEBUG - Activity: ended sub-activity f3b33156-da4c-4e82-897d-b04788739965 parent: 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e overall progress: 100.0% (38/38)
+May 11, 2024 03:19:01.717 [140736225849568] DEBUG - Activity: updated activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e - completed 100.0% - Butler tasks
+May 11, 2024 03:25:37.986 [140736207466720] DEBUG - [ViewStateSync] Starting
+May 11, 2024 03:25:37.986 [140736207466720] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 03:49:48.409 [140736207466720] DEBUG - Butler: Starting delayed task ButlerTaskGenerateCreditsMarkers.
+May 11, 2024 03:50:01.719 [140736225849568] DEBUG - Activity: registered new sub-activity 7870a0f1-133b-4e65-8d98-0b848663c572 - "ButlerTaskGenerateCreditsMarkers" parent: 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e overall progress: 97.4% (38/39)
+May 11, 2024 03:50:01.719 [140736225849568] DEBUG - Activity: updated activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e - completed 97.4% - Butler tasks
+May 11, 2024 03:50:01.720 [140736225849568] DEBUG - Activity: ended sub-activity 7870a0f1-133b-4e65-8d98-0b848663c572 parent: 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e overall progress: 100.0% (39/39)
+May 11, 2024 03:50:01.720 [140736225849568] DEBUG - Activity: updated activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e - completed 100.0% - Butler tasks
+May 11, 2024 03:55:37.987 [140736205336800] DEBUG - [ViewStateSync] Starting
+May 11, 2024 03:55:37.987 [140736205336800] DEBUG - [ViewStateSync] Fetching user tokens
+May 11, 2024 03:55:37.987 [140736205336800] DEBUG - [ViewStateSync/HCl#71] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 03:55:38.142 [140736221573344] DEBUG - [HttpClient/HCl#71] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 03:55:38.143 [140736187773152] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 03:57:48.408 [140736207466720] DEBUG - Butler: Starting delayed task ButlerTaskGenerateVoiceActivity.
+May 11, 2024 03:58:01.721 [140736225849568] DEBUG - Activity: registered new sub-activity ba5202f3-961b-4003-a781-1802a5a46df3 - "ButlerTaskGenerateVoiceActivity" parent: 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e overall progress: 97.5% (39/40)
+May 11, 2024 03:58:01.721 [140736225849568] DEBUG - Activity: updated activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e - completed 97.5% - Butler tasks
+May 11, 2024 03:58:01.721 [140736225849568] DEBUG - Activity: ended sub-activity ba5202f3-961b-4003-a781-1802a5a46df3 parent: 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e overall progress: 100.0% (40/40)
+May 11, 2024 03:58:01.721 [140736225849568] DEBUG - Activity: updated activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e - completed 100.0% - Butler tasks
+May 11, 2024 04:25:37.987 [140736207466720] DEBUG - [ViewStateSync] Starting
+May 11, 2024 04:25:37.987 [140736207466720] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 04:38:48.408 [140736205336800] DEBUG - Butler: Starting delayed task RefreshPeriodicMetadata.
+May 11, 2024 04:39:01.724 [140736225849568] DEBUG - Butler: Considering 0 artists for periodic refresh.
+May 11, 2024 04:39:01.724 [140736225849568] DEBUG - Butler: There are 0 old artists.
+May 11, 2024 04:39:01.724 [140736225849568] DEBUG - Butler: refreshing metadata for 0 seasons because they contain episodes released in the past week
+May 11, 2024 04:39:01.726 [140736225849568] DEBUG - Activity: registered new sub-activity 653b58a0-4d49-4380-96e3-a681aa8d1e78 - "RefreshPeriodicMetadata" parent: 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e overall progress: 97.6% (40/41)
+May 11, 2024 04:39:01.726 [140736225849568] DEBUG - Activity: updated activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e - completed 97.6% - Butler tasks
+May 11, 2024 04:39:01.726 [140736225849568] DEBUG - Activity: ended sub-activity 653b58a0-4d49-4380-96e3-a681aa8d1e78 parent: 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e overall progress: 100.0% (41/41)
+May 11, 2024 04:39:01.726 [140736225849568] DEBUG - Activity: updated activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e - completed 100.0% - Butler tasks
+May 11, 2024 04:39:01.726 [140736225849568] DEBUG - Butler: Periodic metadata refresh complete (movies: 0, seasons: 0, artists: 0, shows: 0)
+May 11, 2024 04:39:01.727 [140736225849568] DEBUG - Butler: Done doing work.
+May 11, 2024 04:39:01.727 [140736225849568] DEBUG - Activity: Ended activity 79a7fe3f-8ce7-479b-9cb4-65ea6e451f5e.
+May 11, 2024 04:55:37.988 [140736207466720] DEBUG - [ViewStateSync] Starting
+May 11, 2024 04:55:37.988 [140736207466720] DEBUG - [ViewStateSync] Fetching user tokens
+May 11, 2024 04:55:37.988 [140736207466720] DEBUG - [ViewStateSync/HCl#72] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 04:55:38.143 [140736221573344] DEBUG - [HttpClient/HCl#72] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 04:55:38.144 [140736205336800] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 05:04:48.430 [140736207466720] DEBUG - Butler: we're outside the window, stopping.
+May 11, 2024 05:12:11.958 [140736211759328] DEBUG - Request: [172.21.0.2:51106 (WAN)] GET /status/sessions (2 live) #75d Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:11.958 [140736211759328] DEBUG - [Req#75d] [Now] Adding 0 sessions.
+May 11, 2024 05:12:11.959 [140736246968544] DEBUG - Completed: [172.21.0.2:51106] 200 GET /status/sessions (2 live) #75d 0ms 263 bytes
+May 11, 2024 05:12:11.981 [140736205336800] DEBUG - Request: [172.21.0.2:51108 (WAN)] GET /library/sections/1/all (5 live) #75f Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:11.981 [140736205336800] WARN - [Req#75f] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 05:12:11.984 [140736205336800] DEBUG - Request: [172.21.0.2:51120 (WAN)] GET /library/sections/4/all (5 live) #761 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:11.984 [140736246968544] DEBUG - Completed: [172.21.0.2:51108] 200 GET /library/sections/1/all (5 live) #75f 3ms 666 bytes
+May 11, 2024 05:12:11.984 [140736187773152] DEBUG - Request: [172.21.0.2:51128 (WAN)] GET /library/sections/2/all (5 live) #762 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:11.985 [140736184037600] DEBUG - Request: [172.21.0.2:51130 (WAN)] GET /library/sections/3/albums (4 live) #763 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:11.985 [140736205336800] WARN - [Req#761] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 05:12:11.985 [140736187773152] WARN - [Req#762] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 05:12:11.992 [140736246968544] DEBUG - Completed: [172.21.0.2:51120] 200 GET /library/sections/4/all (4 live) #761 11ms 2943 bytes
+May 11, 2024 05:12:11.995 [140736244838624] DEBUG - Completed: [172.21.0.2:51130] 200 GET /library/sections/3/albums (3 live) #763 14ms 568 bytes
+May 11, 2024 05:12:11.999 [140736244838624] DEBUG - Completed: [172.21.0.2:51128] 200 GET /library/sections/2/all (2 live) #762 18ms 4208 bytes
+May 11, 2024 05:12:14.563 [140736211759328] DEBUG - Request: [172.21.0.2:51142 (WAN)] GET /status/sessions (2 live) #764 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:14.563 [140736211759328] DEBUG - [Req#764] [Now] Adding 0 sessions.
+May 11, 2024 05:12:14.563 [140736244838624] DEBUG - Completed: [172.21.0.2:51142] 200 GET /status/sessions (2 live) #764 0ms 263 bytes
+May 11, 2024 05:12:18.582 [140736205336800] DEBUG - Request: [172.21.0.2:51144 (WAN)] GET /status/sessions (2 live) #769 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:18.583 [140736205336800] DEBUG - [Req#769] [Now] Adding 0 sessions.
+May 11, 2024 05:12:18.583 [140736244838624] DEBUG - Completed: [172.21.0.2:51144] 200 GET /status/sessions (2 live) #769 0ms 263 bytes
+May 11, 2024 05:12:24.592 [140736205336800] DEBUG - Request: [172.21.0.2:55496 (WAN)] GET /status/sessions (2 live) #76b Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:24.592 [140736205336800] DEBUG - [Req#76b] [Now] Adding 0 sessions.
+May 11, 2024 05:12:24.592 [140736246968544] DEBUG - Completed: [172.21.0.2:55496] 200 GET /status/sessions (2 live) #76b 0ms 263 bytes
+May 11, 2024 05:12:29.604 [140736205336800] DEBUG - Request: [172.21.0.2:55512 (WAN)] GET /status/sessions (2 live) #76d Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:29.604 [140736205336800] DEBUG - [Req#76d] [Now] Adding 0 sessions.
+May 11, 2024 05:12:29.604 [140736244838624] DEBUG - Completed: [172.21.0.2:55512] 200 GET /status/sessions (2 live) #76d 0ms 263 bytes
+May 11, 2024 05:12:34.632 [140736205336800] DEBUG - Request: [172.21.0.2:41820 (WAN)] GET /status/sessions (2 live) #76f Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:34.632 [140736205336800] DEBUG - [Req#76f] [Now] Adding 0 sessions.
+May 11, 2024 05:12:34.633 [140736244838624] DEBUG - Completed: [172.21.0.2:41820] 200 GET /status/sessions (2 live) #76f 0ms 263 bytes
+May 11, 2024 05:12:39.650 [140736205336800] DEBUG - Request: [172.21.0.2:41836 (WAN)] GET /status/sessions (2 live) #771 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:39.650 [140736205336800] DEBUG - [Req#771] [Now] Adding 0 sessions.
+May 11, 2024 05:12:39.650 [140736244838624] DEBUG - Completed: [172.21.0.2:41836] 200 GET /status/sessions (2 live) #771 0ms 263 bytes
+May 11, 2024 05:12:44.681 [140736205336800] DEBUG - Request: [172.21.0.2:40330 (WAN)] GET /status/sessions (2 live) #773 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:44.681 [140736205336800] DEBUG - [Req#773] [Now] Adding 0 sessions.
+May 11, 2024 05:12:44.682 [140736244838624] DEBUG - Completed: [172.21.0.2:40330] 200 GET /status/sessions (2 live) #773 0ms 263 bytes
+May 11, 2024 05:12:49.705 [140736205336800] DEBUG - Request: [172.21.0.2:40336 (WAN)] GET /status/sessions (2 live) #775 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:49.705 [140736205336800] DEBUG - [Req#775] [Now] Adding 0 sessions.
+May 11, 2024 05:12:49.705 [140736246968544] DEBUG - Completed: [172.21.0.2:40336] 200 GET /status/sessions (2 live) #775 0ms 263 bytes
+May 11, 2024 05:12:54.721 [140736205336800] DEBUG - Request: [172.21.0.2:38424 (WAN)] GET /status/sessions (2 live) #777 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:54.721 [140736205336800] DEBUG - [Req#777] [Now] Adding 0 sessions.
+May 11, 2024 05:12:54.722 [140736246968544] DEBUG - Completed: [172.21.0.2:38424] 200 GET /status/sessions (2 live) #777 0ms 263 bytes
+May 11, 2024 05:12:59.748 [140736205336800] DEBUG - Request: [172.21.0.2:38426 (WAN)] GET /status/sessions (2 live) #779 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:12:59.748 [140736205336800] DEBUG - [Req#779] [Now] Adding 0 sessions.
+May 11, 2024 05:12:59.749 [140736246968544] DEBUG - Completed: [172.21.0.2:38426] 200 GET /status/sessions (2 live) #779 0ms 263 bytes
+May 11, 2024 05:13:04.764 [140736205336800] DEBUG - Request: [172.21.0.2:46186 (WAN)] GET /status/sessions (2 live) #77b Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:04.764 [140736205336800] DEBUG - [Req#77b] [Now] Adding 0 sessions.
+May 11, 2024 05:13:04.764 [140736244838624] DEBUG - Completed: [172.21.0.2:46186] 200 GET /status/sessions (2 live) #77b 0ms 263 bytes
+May 11, 2024 05:13:09.783 [140736205336800] DEBUG - Request: [172.21.0.2:46194 (WAN)] GET /status/sessions (2 live) #77d Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:09.783 [140736205336800] DEBUG - [Req#77d] [Now] Adding 0 sessions.
+May 11, 2024 05:13:09.783 [140736244838624] DEBUG - Completed: [172.21.0.2:46194] 200 GET /status/sessions (2 live) #77d 0ms 263 bytes
+May 11, 2024 05:13:14.794 [140736205336800] DEBUG - Request: [172.21.0.2:44408 (WAN)] GET /status/sessions (2 live) #77f Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:14.794 [140736205336800] DEBUG - [Req#77f] [Now] Adding 0 sessions.
+May 11, 2024 05:13:14.794 [140736244838624] DEBUG - Completed: [172.21.0.2:44408] 200 GET /status/sessions (2 live) #77f 0ms 263 bytes
+May 11, 2024 05:13:19.820 [140736205336800] DEBUG - Request: [172.21.0.2:44424 (WAN)] GET /status/sessions (2 live) #781 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:19.820 [140736205336800] DEBUG - [Req#781] [Now] Adding 0 sessions.
+May 11, 2024 05:13:19.820 [140736244838624] DEBUG - Completed: [172.21.0.2:44424] 200 GET /status/sessions (2 live) #781 0ms 263 bytes
+May 11, 2024 05:13:24.833 [140736205336800] DEBUG - Request: [172.21.0.2:40074 (WAN)] GET /status/sessions (2 live) #783 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:24.833 [140736205336800] DEBUG - [Req#783] [Now] Adding 0 sessions.
+May 11, 2024 05:13:24.833 [140736246968544] DEBUG - Completed: [172.21.0.2:40074] 200 GET /status/sessions (2 live) #783 0ms 263 bytes
+May 11, 2024 05:13:29.855 [140736205336800] DEBUG - Request: [172.21.0.2:40086 (WAN)] GET /status/sessions (2 live) #785 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:29.855 [140736205336800] DEBUG - [Req#785] [Now] Adding 0 sessions.
+May 11, 2024 05:13:29.855 [140736246968544] DEBUG - Completed: [172.21.0.2:40086] 200 GET /status/sessions (2 live) #785 0ms 263 bytes
+May 11, 2024 05:13:34.882 [140736205336800] DEBUG - Request: [172.21.0.2:51320 (WAN)] GET /status/sessions (2 live) #787 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:34.882 [140736205336800] DEBUG - [Req#787] [Now] Adding 0 sessions.
+May 11, 2024 05:13:34.882 [140736244838624] DEBUG - Completed: [172.21.0.2:51320] 200 GET /status/sessions (2 live) #787 0ms 263 bytes
+May 11, 2024 05:13:39.897 [140736205336800] DEBUG - Request: [172.21.0.2:51328 (WAN)] GET /status/sessions (2 live) #789 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:39.897 [140736205336800] DEBUG - [Req#789] [Now] Adding 0 sessions.
+May 11, 2024 05:13:39.898 [140736246968544] DEBUG - Completed: [172.21.0.2:51328] 200 GET /status/sessions (2 live) #789 0ms 263 bytes
+May 11, 2024 05:13:44.925 [140736205336800] DEBUG - Request: [172.21.0.2:56660 (WAN)] GET /status/sessions (2 live) #78b Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:44.925 [140736205336800] DEBUG - [Req#78b] [Now] Adding 0 sessions.
+May 11, 2024 05:13:44.925 [140736246968544] DEBUG - Completed: [172.21.0.2:56660] 200 GET /status/sessions (2 live) #78b 0ms 263 bytes
+May 11, 2024 05:13:49.939 [140736205336800] DEBUG - Request: [172.21.0.2:56674 (WAN)] GET /status/sessions (2 live) #78d Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:49.939 [140736205336800] DEBUG - [Req#78d] [Now] Adding 0 sessions.
+May 11, 2024 05:13:49.940 [140736246968544] DEBUG - Completed: [172.21.0.2:56674] 200 GET /status/sessions (2 live) #78d 0ms 263 bytes
+May 11, 2024 05:13:54.958 [140736205336800] DEBUG - Request: [172.21.0.2:33734 (WAN)] GET /status/sessions (2 live) #78f Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:54.958 [140736205336800] DEBUG - [Req#78f] [Now] Adding 0 sessions.
+May 11, 2024 05:13:54.958 [140736246968544] DEBUG - Completed: [172.21.0.2:33734] 200 GET /status/sessions (2 live) #78f 0ms 263 bytes
+May 11, 2024 05:13:59.975 [140736205336800] DEBUG - Request: [172.21.0.2:33744 (WAN)] GET /status/sessions (2 live) #791 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:13:59.975 [140736205336800] DEBUG - [Req#791] [Now] Adding 0 sessions.
+May 11, 2024 05:13:59.975 [140736246968544] DEBUG - Completed: [172.21.0.2:33744] 200 GET /status/sessions (2 live) #791 0ms 263 bytes
+May 11, 2024 05:14:04.989 [140736205336800] DEBUG - Request: [172.21.0.2:57014 (WAN)] GET /status/sessions (2 live) #793 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:04.990 [140736205336800] DEBUG - [Req#793] [Now] Adding 0 sessions.
+May 11, 2024 05:14:04.990 [140736246968544] DEBUG - Completed: [172.21.0.2:57014] 200 GET /status/sessions (2 live) #793 0ms 263 bytes
+May 11, 2024 05:14:10.008 [140736205336800] DEBUG - Request: [172.21.0.2:57030 (WAN)] GET /status/sessions (2 live) #795 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:10.008 [140736205336800] DEBUG - [Req#795] [Now] Adding 0 sessions.
+May 11, 2024 05:14:10.008 [140736244838624] DEBUG - Completed: [172.21.0.2:57030] 200 GET /status/sessions (2 live) #795 0ms 263 bytes
+May 11, 2024 05:14:15.021 [140736205336800] DEBUG - Request: [172.21.0.2:42876 (WAN)] GET /status/sessions (2 live) #797 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:15.021 [140736205336800] DEBUG - [Req#797] [Now] Adding 0 sessions.
+May 11, 2024 05:14:15.021 [140736244838624] DEBUG - Completed: [172.21.0.2:42876] 200 GET /status/sessions (2 live) #797 0ms 263 bytes
+May 11, 2024 05:14:20.041 [140736205336800] DEBUG - Request: [172.21.0.2:42888 (WAN)] GET /status/sessions (2 live) #799 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:20.041 [140736205336800] DEBUG - [Req#799] [Now] Adding 0 sessions.
+May 11, 2024 05:14:20.041 [140736244838624] DEBUG - Completed: [172.21.0.2:42888] 200 GET /status/sessions (2 live) #799 0ms 263 bytes
+May 11, 2024 05:14:25.060 [140736205336800] DEBUG - Request: [172.21.0.2:52692 (WAN)] GET /status/sessions (2 live) #79b Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:25.060 [140736205336800] DEBUG - [Req#79b] [Now] Adding 0 sessions.
+May 11, 2024 05:14:25.060 [140736244838624] DEBUG - Completed: [172.21.0.2:52692] 200 GET /status/sessions (2 live) #79b 0ms 263 bytes
+May 11, 2024 05:14:30.086 [140736205336800] DEBUG - Request: [172.21.0.2:52698 (WAN)] GET /status/sessions (2 live) #79d Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:30.086 [140736205336800] DEBUG - [Req#79d] [Now] Adding 0 sessions.
+May 11, 2024 05:14:30.087 [140736244838624] DEBUG - Completed: [172.21.0.2:52698] 200 GET /status/sessions (2 live) #79d 0ms 263 bytes
+May 11, 2024 05:14:35.102 [140736205336800] DEBUG - Request: [172.21.0.2:58384 (WAN)] GET /status/sessions (2 live) #79f Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:35.102 [140736205336800] DEBUG - [Req#79f] [Now] Adding 0 sessions.
+May 11, 2024 05:14:35.102 [140736246968544] DEBUG - Completed: [172.21.0.2:58384] 200 GET /status/sessions (2 live) #79f 0ms 263 bytes
+May 11, 2024 05:14:40.114 [140736205336800] DEBUG - Request: [172.21.0.2:58400 (WAN)] GET /status/sessions (2 live) #7a1 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:40.114 [140736205336800] DEBUG - [Req#7a1] [Now] Adding 0 sessions.
+May 11, 2024 05:14:40.114 [140736246968544] DEBUG - Completed: [172.21.0.2:58400] 200 GET /status/sessions (2 live) #7a1 0ms 263 bytes
+May 11, 2024 05:14:45.138 [140736205336800] DEBUG - Request: [172.21.0.2:60924 (WAN)] GET /status/sessions (2 live) #7a3 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:45.138 [140736205336800] DEBUG - [Req#7a3] [Now] Adding 0 sessions.
+May 11, 2024 05:14:45.138 [140736246968544] DEBUG - Completed: [172.21.0.2:60924] 200 GET /status/sessions (2 live) #7a3 0ms 263 bytes
+May 11, 2024 05:14:50.165 [140736205336800] DEBUG - Request: [172.21.0.2:60934 (WAN)] GET /status/sessions (2 live) #7a5 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:50.165 [140736205336800] DEBUG - [Req#7a5] [Now] Adding 0 sessions.
+May 11, 2024 05:14:50.165 [140736246968544] DEBUG - Completed: [172.21.0.2:60934] 200 GET /status/sessions (2 live) #7a5 0ms 263 bytes
+May 11, 2024 05:14:55.182 [140736205336800] DEBUG - Request: [172.21.0.2:48374 (WAN)] GET /status/sessions (2 live) #7a7 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:14:55.182 [140736205336800] DEBUG - [Req#7a7] [Now] Adding 0 sessions.
+May 11, 2024 05:14:55.183 [140736246968544] DEBUG - Completed: [172.21.0.2:48374] 200 GET /status/sessions (2 live) #7a7 0ms 263 bytes
+May 11, 2024 05:15:00.199 [140736205336800] DEBUG - Request: [172.21.0.2:48380 (WAN)] GET /status/sessions (2 live) #7a9 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:00.199 [140736205336800] DEBUG - [Req#7a9] [Now] Adding 0 sessions.
+May 11, 2024 05:15:00.200 [140736246968544] DEBUG - Completed: [172.21.0.2:48380] 200 GET /status/sessions (2 live) #7a9 0ms 263 bytes
+May 11, 2024 05:15:05.222 [140736205336800] DEBUG - Request: [172.21.0.2:45932 (WAN)] GET /status/sessions (2 live) #7ab Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:05.222 [140736205336800] DEBUG - [Req#7ab] [Now] Adding 0 sessions.
+May 11, 2024 05:15:05.222 [140736246968544] DEBUG - Completed: [172.21.0.2:45932] 200 GET /status/sessions (2 live) #7ab 0ms 263 bytes
+May 11, 2024 05:15:10.236 [140736205336800] DEBUG - Request: [172.21.0.2:45934 (WAN)] GET /status/sessions (2 live) #7ad Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:10.236 [140736205336800] DEBUG - [Req#7ad] [Now] Adding 0 sessions.
+May 11, 2024 05:15:10.237 [140736246968544] DEBUG - Completed: [172.21.0.2:45934] 200 GET /status/sessions (2 live) #7ad 0ms 263 bytes
+May 11, 2024 05:15:15.262 [140736205336800] DEBUG - Request: [172.21.0.2:58966 (WAN)] GET /status/sessions (2 live) #7af Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:15.262 [140736205336800] DEBUG - [Req#7af] [Now] Adding 0 sessions.
+May 11, 2024 05:15:15.262 [140736244838624] DEBUG - Completed: [172.21.0.2:58966] 200 GET /status/sessions (2 live) #7af 0ms 263 bytes
+May 11, 2024 05:15:20.284 [140736205336800] DEBUG - Request: [172.21.0.2:58974 (WAN)] GET /status/sessions (2 live) #7b1 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:20.284 [140736205336800] DEBUG - [Req#7b1] [Now] Adding 0 sessions.
+May 11, 2024 05:15:20.284 [140736244838624] DEBUG - Completed: [172.21.0.2:58974] 200 GET /status/sessions (2 live) #7b1 0ms 263 bytes
+May 11, 2024 05:15:25.297 [140736205336800] DEBUG - Request: [172.21.0.2:47778 (WAN)] GET /status/sessions (2 live) #7b3 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:25.297 [140736205336800] DEBUG - [Req#7b3] [Now] Adding 0 sessions.
+May 11, 2024 05:15:25.297 [140736244838624] DEBUG - Completed: [172.21.0.2:47778] 200 GET /status/sessions (2 live) #7b3 0ms 263 bytes
+May 11, 2024 05:15:30.317 [140736205336800] DEBUG - Request: [172.21.0.2:47788 (WAN)] GET /status/sessions (2 live) #7b5 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:30.317 [140736205336800] DEBUG - [Req#7b5] [Now] Adding 0 sessions.
+May 11, 2024 05:15:30.318 [140736244838624] DEBUG - Completed: [172.21.0.2:47788] 200 GET /status/sessions (2 live) #7b5 0ms 263 bytes
+May 11, 2024 05:15:35.334 [140736205336800] DEBUG - Request: [172.21.0.2:43326 (WAN)] GET /status/sessions (2 live) #7b7 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:35.334 [140736205336800] DEBUG - [Req#7b7] [Now] Adding 0 sessions.
+May 11, 2024 05:15:35.335 [140736244838624] DEBUG - Completed: [172.21.0.2:43326] 200 GET /status/sessions (2 live) #7b7 0ms 263 bytes
+May 11, 2024 05:15:40.359 [140736205336800] DEBUG - Request: [172.21.0.2:43342 (WAN)] GET /status/sessions (2 live) #7b9 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:40.359 [140736205336800] DEBUG - [Req#7b9] [Now] Adding 0 sessions.
+May 11, 2024 05:15:40.359 [140736244838624] DEBUG - Completed: [172.21.0.2:43342] 200 GET /status/sessions (2 live) #7b9 0ms 263 bytes
+May 11, 2024 05:15:45.384 [140736205336800] DEBUG - Request: [172.21.0.2:39724 (WAN)] GET /status/sessions (2 live) #7bb Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:45.384 [140736205336800] DEBUG - [Req#7bb] [Now] Adding 0 sessions.
+May 11, 2024 05:15:45.385 [140736244838624] DEBUG - Completed: [172.21.0.2:39724] 200 GET /status/sessions (2 live) #7bb 0ms 263 bytes
+May 11, 2024 05:15:50.396 [140736205336800] DEBUG - Request: [172.21.0.2:39732 (WAN)] GET /status/sessions (2 live) #7bd Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:50.396 [140736205336800] DEBUG - [Req#7bd] [Now] Adding 0 sessions.
+May 11, 2024 05:15:50.397 [140736244838624] DEBUG - Completed: [172.21.0.2:39732] 200 GET /status/sessions (2 live) #7bd 0ms 263 bytes
+May 11, 2024 05:15:55.413 [140736205336800] DEBUG - Request: [172.21.0.2:41898 (WAN)] GET /status/sessions (2 live) #7bf Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:15:55.413 [140736205336800] DEBUG - [Req#7bf] [Now] Adding 0 sessions.
+May 11, 2024 05:15:55.413 [140736244838624] DEBUG - Completed: [172.21.0.2:41898] 200 GET /status/sessions (2 live) #7bf 0ms 263 bytes
+May 11, 2024 05:16:00.434 [140736205336800] DEBUG - Request: [172.21.0.2:41906 (WAN)] GET /status/sessions (2 live) #7c1 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:00.434 [140736205336800] DEBUG - [Req#7c1] [Now] Adding 0 sessions.
+May 11, 2024 05:16:00.434 [140736244838624] DEBUG - Completed: [172.21.0.2:41906] 200 GET /status/sessions (2 live) #7c1 0ms 263 bytes
+May 11, 2024 05:16:05.448 [140736205336800] DEBUG - Request: [172.21.0.2:44584 (WAN)] GET /status/sessions (2 live) #7c3 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:05.448 [140736205336800] DEBUG - [Req#7c3] [Now] Adding 0 sessions.
+May 11, 2024 05:16:05.448 [140736244838624] DEBUG - Completed: [172.21.0.2:44584] 200 GET /status/sessions (2 live) #7c3 0ms 263 bytes
+May 11, 2024 05:16:10.475 [140736205336800] DEBUG - Request: [172.21.0.2:44586 (WAN)] GET /status/sessions (2 live) #7c5 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:10.475 [140736205336800] DEBUG - [Req#7c5] [Now] Adding 0 sessions.
+May 11, 2024 05:16:10.475 [140736244838624] DEBUG - Completed: [172.21.0.2:44586] 200 GET /status/sessions (2 live) #7c5 0ms 263 bytes
+May 11, 2024 05:16:15.497 [140736205336800] DEBUG - Request: [172.21.0.2:41084 (WAN)] GET /status/sessions (2 live) #7c7 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:15.497 [140736205336800] DEBUG - [Req#7c7] [Now] Adding 0 sessions.
+May 11, 2024 05:16:15.498 [140736246968544] DEBUG - Completed: [172.21.0.2:41084] 200 GET /status/sessions (2 live) #7c7 0ms 263 bytes
+May 11, 2024 05:16:20.513 [140736205336800] DEBUG - Request: [172.21.0.2:41086 (WAN)] GET /status/sessions (2 live) #7c9 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:20.513 [140736205336800] DEBUG - [Req#7c9] [Now] Adding 0 sessions.
+May 11, 2024 05:16:20.513 [140736244838624] DEBUG - Completed: [172.21.0.2:41086] 200 GET /status/sessions (2 live) #7c9 0ms 263 bytes
+May 11, 2024 05:16:25.534 [140736205336800] DEBUG - Request: [172.21.0.2:52364 (WAN)] GET /status/sessions (2 live) #7cb Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:25.534 [140736205336800] DEBUG - [Req#7cb] [Now] Adding 0 sessions.
+May 11, 2024 05:16:25.534 [140736244838624] DEBUG - Completed: [172.21.0.2:52364] 200 GET /status/sessions (2 live) #7cb 0ms 263 bytes
+May 11, 2024 05:16:30.550 [140736205336800] DEBUG - Request: [172.21.0.2:52372 (WAN)] GET /status/sessions (2 live) #7cd Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:30.550 [140736205336800] DEBUG - [Req#7cd] [Now] Adding 0 sessions.
+May 11, 2024 05:16:30.551 [140736246968544] DEBUG - Completed: [172.21.0.2:52372] 200 GET /status/sessions (2 live) #7cd 1ms 263 bytes
+May 11, 2024 05:16:35.570 [140736205336800] DEBUG - Request: [172.21.0.2:51670 (WAN)] GET /status/sessions (2 live) #7cf Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:35.570 [140736205336800] DEBUG - [Req#7cf] [Now] Adding 0 sessions.
+May 11, 2024 05:16:35.570 [140736246968544] DEBUG - Completed: [172.21.0.2:51670] 200 GET /status/sessions (2 live) #7cf 0ms 263 bytes
+May 11, 2024 05:16:40.593 [140736205336800] DEBUG - Request: [172.21.0.2:51684 (WAN)] GET /status/sessions (2 live) #7d1 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:40.593 [140736205336800] DEBUG - [Req#7d1] [Now] Adding 0 sessions.
+May 11, 2024 05:16:40.593 [140736246968544] DEBUG - Completed: [172.21.0.2:51684] 200 GET /status/sessions (2 live) #7d1 0ms 263 bytes
+May 11, 2024 05:16:45.613 [140736205336800] DEBUG - Request: [172.21.0.2:44618 (WAN)] GET /status/sessions (2 live) #7d3 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:45.613 [140736205336800] DEBUG - [Req#7d3] [Now] Adding 0 sessions.
+May 11, 2024 05:16:45.613 [140736246968544] DEBUG - Completed: [172.21.0.2:44618] 200 GET /status/sessions (2 live) #7d3 0ms 263 bytes
+May 11, 2024 05:16:50.630 [140736205336800] DEBUG - Request: [172.21.0.2:44624 (WAN)] GET /status/sessions (2 live) #7d5 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:50.630 [140736205336800] DEBUG - [Req#7d5] [Now] Adding 0 sessions.
+May 11, 2024 05:16:50.630 [140736246968544] DEBUG - Completed: [172.21.0.2:44624] 200 GET /status/sessions (2 live) #7d5 0ms 263 bytes
+May 11, 2024 05:16:55.644 [140736205336800] DEBUG - Request: [172.21.0.2:40782 (WAN)] GET /status/sessions (2 live) #7d7 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:16:55.644 [140736205336800] DEBUG - [Req#7d7] [Now] Adding 0 sessions.
+May 11, 2024 05:16:55.644 [140736246968544] DEBUG - Completed: [172.21.0.2:40782] 200 GET /status/sessions (2 live) #7d7 0ms 263 bytes
+May 11, 2024 05:17:00.675 [140736205336800] DEBUG - Request: [172.21.0.2:40790 (WAN)] GET /status/sessions (2 live) #7d9 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:00.675 [140736205336800] DEBUG - [Req#7d9] [Now] Adding 0 sessions.
+May 11, 2024 05:17:00.675 [140736246968544] DEBUG - Completed: [172.21.0.2:40790] 200 GET /status/sessions (2 live) #7d9 0ms 263 bytes
+May 11, 2024 05:17:05.691 [140736205336800] DEBUG - Request: [172.21.0.2:36232 (WAN)] GET /status/sessions (2 live) #7db Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:05.691 [140736205336800] DEBUG - [Req#7db] [Now] Adding 0 sessions.
+May 11, 2024 05:17:05.691 [140736244838624] DEBUG - Completed: [172.21.0.2:36232] 200 GET /status/sessions (2 live) #7db 0ms 263 bytes
+May 11, 2024 05:17:10.713 [140736205336800] DEBUG - Request: [172.21.0.2:36238 (WAN)] GET /status/sessions (2 live) #7dd Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:10.713 [140736205336800] DEBUG - [Req#7dd] [Now] Adding 0 sessions.
+May 11, 2024 05:17:10.713 [140736246968544] DEBUG - Completed: [172.21.0.2:36238] 200 GET /status/sessions (2 live) #7dd 0ms 263 bytes
+May 11, 2024 05:17:15.728 [140736205336800] DEBUG - Request: [172.21.0.2:37080 (WAN)] GET /status/sessions (2 live) #7df Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:15.728 [140736205336800] DEBUG - [Req#7df] [Now] Adding 0 sessions.
+May 11, 2024 05:17:15.728 [140736246968544] DEBUG - Completed: [172.21.0.2:37080] 200 GET /status/sessions (2 live) #7df 0ms 263 bytes
+May 11, 2024 05:17:20.744 [140736205336800] DEBUG - Request: [172.21.0.2:37086 (WAN)] GET /status/sessions (2 live) #7e1 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:20.744 [140736205336800] DEBUG - [Req#7e1] [Now] Adding 0 sessions.
+May 11, 2024 05:17:20.744 [140736246968544] DEBUG - Completed: [172.21.0.2:37086] 200 GET /status/sessions (2 live) #7e1 0ms 263 bytes
+May 11, 2024 05:17:25.769 [140736205336800] DEBUG - Request: [172.21.0.2:54592 (WAN)] GET /status/sessions (2 live) #7e3 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:25.770 [140736205336800] DEBUG - [Req#7e3] [Now] Adding 0 sessions.
+May 11, 2024 05:17:25.770 [140736246968544] DEBUG - Completed: [172.21.0.2:54592] 200 GET /status/sessions (2 live) #7e3 0ms 263 bytes
+May 11, 2024 05:17:30.789 [140736205336800] DEBUG - Request: [172.21.0.2:54604 (WAN)] GET /status/sessions (2 live) #7e5 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:30.789 [140736205336800] DEBUG - [Req#7e5] [Now] Adding 0 sessions.
+May 11, 2024 05:17:30.789 [140736246968544] DEBUG - Completed: [172.21.0.2:54604] 200 GET /status/sessions (2 live) #7e5 0ms 263 bytes
+May 11, 2024 05:17:35.805 [140736205336800] DEBUG - Request: [172.21.0.2:55822 (WAN)] GET /status/sessions (2 live) #7e7 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:35.805 [140736205336800] DEBUG - [Req#7e7] [Now] Adding 0 sessions.
+May 11, 2024 05:17:35.805 [140736246968544] DEBUG - Completed: [172.21.0.2:55822] 200 GET /status/sessions (2 live) #7e7 0ms 263 bytes
+May 11, 2024 05:17:40.817 [140736205336800] DEBUG - Request: [172.21.0.2:55830 (WAN)] GET /status/sessions (2 live) #7e9 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:40.817 [140736205336800] DEBUG - [Req#7e9] [Now] Adding 0 sessions.
+May 11, 2024 05:17:40.817 [140736246968544] DEBUG - Completed: [172.21.0.2:55830] 200 GET /status/sessions (2 live) #7e9 0ms 263 bytes
+May 11, 2024 05:17:45.838 [140736205336800] DEBUG - Request: [172.21.0.2:37428 (WAN)] GET /status/sessions (2 live) #7eb Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:17:45.838 [140736205336800] DEBUG - [Req#7eb] [Now] Adding 0 sessions.
+May 11, 2024 05:17:45.838 [140736244838624] DEBUG - Completed: [172.21.0.2:37428] 200 GET /status/sessions (2 live) #7eb 0ms 263 bytes
+May 11, 2024 05:25:37.988 [140736207466720] DEBUG - [ViewStateSync] Starting
+May 11, 2024 05:25:37.988 [140736207466720] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 05:37:06.357 [140736205336800] DEBUG - Request: [172.21.0.2:38778 (WAN)] GET /status/sessions (2 live) #7ed Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:37:06.357 [140736205336800] DEBUG - [Req#7ed] [Now] Adding 0 sessions.
+May 11, 2024 05:37:06.357 [140736244838624] DEBUG - Completed: [172.21.0.2:38778] 200 GET /status/sessions (2 live) #7ed 0ms 263 bytes
+May 11, 2024 05:37:06.378 [140736205336800] DEBUG - Request: [172.21.0.2:38786 (WAN)] GET /library/sections/1/all (5 live) #7ef Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:37:06.378 [140736211759328] DEBUG - Request: [172.21.0.2:38798 (WAN)] GET /library/sections/2/all (5 live) #7f2 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:37:06.378 [140736187773152] DEBUG - Request: [172.21.0.2:38810 (WAN)] GET /library/sections/3/albums (5 live) #7f3 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:37:06.379 [140736211759328] WARN - [Req#7f2] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 05:37:06.379 [140736205336800] WARN - [Req#7ef] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 05:37:06.379 [140736184037600] DEBUG - Request: [172.21.0.2:38788 (WAN)] GET /library/sections/4/all (5 live) #7f1 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:37:06.385 [140736184037600] WARN - [Req#7f1] Missing X-Plex-Container-Size header. This will fail with status code 400 in the future.
+May 11, 2024 05:37:06.385 [140736246968544] DEBUG - Completed: [172.21.0.2:38810] 200 GET /library/sections/3/albums (5 live) #7f3 6ms 568 bytes
+May 11, 2024 05:37:06.386 [140736246968544] DEBUG - Completed: [172.21.0.2:38786] 200 GET /library/sections/1/all (4 live) #7ef 7ms 666 bytes
+May 11, 2024 05:37:06.388 [140736244838624] DEBUG - Completed: [172.21.0.2:38798] 200 GET /library/sections/2/all (3 live) #7f2 9ms 4208 bytes
+May 11, 2024 05:37:06.395 [140736246968544] DEBUG - Completed: [172.21.0.2:38788] 200 GET /library/sections/4/all (2 live) #7f1 16ms 2943 bytes
+May 11, 2024 05:37:07.398 [140736187773152] DEBUG - Request: [172.21.0.2:38820 (WAN)] GET /status/sessions (2 live) #7f4 Signed-in Token (rhel625) (chadberry)
+May 11, 2024 05:37:07.398 [140736187773152] DEBUG - [Req#7f4] [Now] Adding 0 sessions.
+May 11, 2024 05:37:07.398 [140736246968544] DEBUG - Completed: [172.21.0.2:38820] 200 GET /status/sessions (2 live) #7f4 0ms 263 bytes
+May 11, 2024 05:55:37.989 [140736225849568] DEBUG - [ViewStateSync] Starting
+May 11, 2024 05:55:37.989 [140736225849568] DEBUG - [ViewStateSync] Fetching user tokens
+May 11, 2024 05:55:37.989 [140736225849568] DEBUG - [ViewStateSync/HCl#73] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 05:55:38.155 [140736221573344] DEBUG - [HttpClient/HCl#73] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 05:55:38.156 [140736211759328] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 06:00:17.270 [140736207466720] DEBUG - Statistics: Flushing 1 expired bandwidth entries, 0 expired media entries.
+May 11, 2024 06:25:37.989 [140736225849568] DEBUG - [ViewStateSync] Starting
+May 11, 2024 06:25:37.989 [140736225849568] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 11, 2024 06:55:37.990 [140736207466720] DEBUG - [ViewStateSync] Starting
+May 11, 2024 06:55:37.990 [140736207466720] DEBUG - [ViewStateSync] Fetching user tokens
+May 11, 2024 06:55:37.990 [140736207466720] DEBUG - [ViewStateSync/HCl#74] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 06:55:38.134 [140736221573344] DEBUG - [HttpClient/HCl#74] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 11, 2024 06:55:38.135 [140736211759328] DEBUG - [ViewStateSync] No user tokens found; stopping

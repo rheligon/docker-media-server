@@ -4550,3 +4550,194 @@ container.With(rules => rules.WithCaptureContainerDisposeStackTrace())"
 2024-05-11 02:21:14.0|Info|Sonarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
 2024-05-11 02:21:21.5|Info|DownloadDecisionMaker|Processing 269 releases
 2024-05-11 02:21:21.9|Info|RssSyncService|RSS Sync Completed. Reports found: 269, Reports grabbed: 0
+2024-05-11 02:36:41.2|Info|RssSyncService|Starting RSS Sync
+2024-05-11 02:36:51.4|Info|DownloadDecisionMaker|Processing 273 releases
+2024-05-11 02:36:51.7|Info|RssSyncService|RSS Sync Completed. Reports found: 273, Reports grabbed: 0
+2024-05-11 02:52:11.5|Info|RssSyncService|Starting RSS Sync
+2024-05-11 02:52:21.7|Info|DownloadDecisionMaker|Processing 267 releases
+2024-05-11 02:52:22.0|Info|RssSyncService|RSS Sync Completed. Reports found: 267, Reports grabbed: 0
+2024-05-11 03:07:42.1|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:07:52.3|Info|DownloadDecisionMaker|Processing 270 releases
+2024-05-11 03:07:52.7|Info|RssSyncService|RSS Sync Completed. Reports found: 270, Reports grabbed: 0
+2024-05-11 03:23:12.3|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:23:22.6|Info|DownloadDecisionMaker|Processing 270 releases
+2024-05-11 03:23:22.9|Info|RssSyncService|RSS Sync Completed. Reports found: 270, Reports grabbed: 0
+2024-05-11 03:38:42.6|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:38:52.8|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-11 03:38:53.1|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-11 03:50:42.8|Info|SceneMappingService|Updating Scene mappings
+2024-05-11 03:54:12.9|Info|RssSyncService|Starting RSS Sync
+2024-05-11 03:54:23.1|Info|DownloadDecisionMaker|Processing 273 releases
+2024-05-11 03:54:23.4|Info|RssSyncService|RSS Sync Completed. Reports found: 273, Reports grabbed: 0
+2024-05-11 04:09:43.2|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:10:47.5|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-11 04:10:47.9|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-11 04:26:13.4|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:26:19.7|Info|DownloadDecisionMaker|Processing 275 releases
+2024-05-11 04:26:20.0|Info|RssSyncService|RSS Sync Completed. Reports found: 275, Reports grabbed: 0
+2024-05-11 04:41:43.7|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:41:49.9|Info|DownloadDecisionMaker|Processing 280 releases
+2024-05-11 04:41:50.3|Info|RssSyncService|RSS Sync Completed. Reports found: 280, Reports grabbed: 0
+2024-05-11 04:57:14.0|Info|RssSyncService|Starting RSS Sync
+2024-05-11 04:57:20.2|Info|DownloadDecisionMaker|Processing 282 releases
+2024-05-11 04:57:20.5|Info|RssSyncService|RSS Sync Completed. Reports found: 282, Reports grabbed: 0
+2024-05-11 05:12:44.3|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:12:50.5|Info|DownloadDecisionMaker|Processing 277 releases
+2024-05-11 05:12:50.8|Info|RssSyncService|RSS Sync Completed. Reports found: 277, Reports grabbed: 0
+2024-05-11 05:28:14.6|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:28:20.9|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-11 05:28:21.3|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-11 05:43:45.5|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:43:51.8|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-11 05:43:52.2|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-11 05:59:16.1|Info|RssSyncService|Starting RSS Sync
+2024-05-11 05:59:40.8|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-11 05:59:41.1|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-11 06:14:46.8|Info|RssSyncService|Starting RSS Sync
+2024-05-11 06:14:53.5|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-11 06:14:53.8|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-11 06:30:17.4|Info|RssSyncService|Starting RSS Sync
+2024-05-11 06:30:23.7|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-11 06:30:24.0|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-11 06:36:17.7|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-11 06:36:17.8|Info|HousekeepingService|Running housecleaning tasks
+2024-05-11 06:36:17.9|Info|Database|Vacuuming Log database
+2024-05-11 06:36:17.9|Info|Database|Log database compressed
+2024-05-11 06:36:17.9|Info|Database|Vacuuming Main database
+2024-05-11 06:36:18.6|Info|Database|Main database compressed
+2024-05-11 06:41:17.9|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from qBittorrent
+
+[v4.0.4.1491] System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+ ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.ProcessRequest(HttpRequestBuilder requestBuilder, QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 399
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.GetApiVersion(QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 77
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrent.GetItems() in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrent.cs:line 220
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads(IDownloadClient downloadClient) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 90
+
+2024-05-11 06:41:47.9|Info|RefreshSeriesService|Updating Project Runway
+2024-05-11 06:41:48.2|Info|RefreshEpisodeService|Starting episode info refresh for: [74285][Project Runway]
+2024-05-11 06:41:50.5|Info|RefreshEpisodeService|Finished episode refresh for series: [74285][Project Runway].
+2024-05-11 06:41:50.6|Info|DiskScanService|Scanning Project Runway
+2024-05-11 06:41:50.6|Info|DiskScanService|Completed scanning disk for Project Runway
+2024-05-11 06:41:50.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2024-05-11 06:41:50.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2024-05-11 06:41:50.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2024-05-11 06:41:50.7|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2024-05-11 06:41:50.7|Info|RefreshSeriesService|Updating RuPaul's Drag Race
+2024-05-11 06:41:50.7|Info|RefreshEpisodeService|Starting episode info refresh for: [85002][RuPaul's Drag Race]
+2024-05-11 06:41:53.8|Info|RefreshEpisodeService|Finished episode refresh for series: [85002][RuPaul's Drag Race].
+2024-05-11 06:41:53.8|Info|DiskScanService|Scanning RuPaul's Drag Race
+2024-05-11 06:41:53.8|Info|DiskScanService|Completed scanning disk for RuPaul's Drag Race
+2024-05-11 06:41:53.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2024-05-11 06:41:53.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2024-05-11 06:41:53.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2024-05-11 06:41:53.8|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2024-05-11 06:41:53.9|Info|RefreshSeriesService|Skipping refresh of series: Scavengers Reign
+2024-05-11 06:41:53.9|Info|DiskScanService|Scanning Scavengers Reign
+2024-05-11 06:41:53.9|Info|DiskScanService|Completed scanning disk for Scavengers Reign
+2024-05-11 06:41:53.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2024-05-11 06:41:53.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2024-05-11 06:41:53.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2024-05-11 06:41:53.9|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2024-05-11 06:43:48.0|Error|DownloadClientRemovesCompletedDownloadsCheck|Unknown error occurred in DownloadClientHistoryRetentionCheck HealthCheck
+
+[v4.0.4.1491] System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+ ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.ProcessRequest(HttpRequestBuilder requestBuilder, QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 399
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.GetApiVersion(QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 77
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrent.GetStatus() in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrent.cs:line 369
+   at NzbDrone.Core.HealthCheck.Checks.DownloadClientRemovesCompletedDownloadsCheck.Check() in ./Sonarr.Core/HealthCheck/Checks/DownloadClientRemovesCompletedDownloadsCheck.cs:line 42
+
+2024-05-11 06:43:48.1|Error|DownloadClientSortingCheck|Unknown error occurred in DownloadClientSortingCheck HealthCheck
+
+[v4.0.4.1491] System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+ ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.ProcessRequest(HttpRequestBuilder requestBuilder, QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 399
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.GetApiVersion(QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 77
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrent.GetStatus() in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrent.cs:line 369
+   at NzbDrone.Core.HealthCheck.Checks.DownloadClientSortingCheck.Check() in ./Sonarr.Core/HealthCheck/Checks/DownloadClientSortingCheck.cs:line 43
+
+2024-05-11 06:44:18.0|Warn|DownloadMonitoringService|Unable to retrieve queue and history items from qBittorrent
+
+[v4.0.4.1491] System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+ ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.ProcessRequest(HttpRequestBuilder requestBuilder, QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 399
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrentProxyV2.GetApiVersion(QBittorrentSettings settings) in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrentProxyV2.cs:line 77
+   at NzbDrone.Core.Download.Clients.QBittorrent.QBittorrent.GetItems() in ./Sonarr.Core/Download/Clients/QBittorrent/QBittorrent.cs:line 220
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientDownloads(IDownloadClient downloadClient) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 90
+
+2024-05-11 06:45:48.0|Info|RssSyncService|Starting RSS Sync
+2024-05-11 06:45:54.6|Info|DownloadDecisionMaker|Processing 277 releases
+2024-05-11 06:45:55.0|Info|RssSyncService|RSS Sync Completed. Reports found: 277, Reports grabbed: 0
+2024-05-11 06:50:48.0|Info|SceneMappingService|Updating Scene mappings
+2024-05-11 07:01:18.4|Info|RssSyncService|Starting RSS Sync
+2024-05-11 07:01:24.6|Info|DownloadDecisionMaker|Processing 274 releases
+2024-05-11 07:01:25.0|Info|RssSyncService|RSS Sync Completed. Reports found: 274, Reports grabbed: 0

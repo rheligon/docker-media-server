@@ -1,0 +1,18 @@
+May 10, 2024 23:27:24.372 [140733383863800] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 10, 2024 23:27:24.372 [140733383863800] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 10, 2024 23:27:24.372 [140733383863800] INFO - Processor: 4-core AArch64
+May 10, 2024 23:27:24.372 [140733383863800] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 2 --log-file-suffix  Matcher --item 135
+May 10, 2024 23:27:24.375 [140733464142008] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 10, 2024 23:27:24.499 [140733464142008] DEBUG - Matcher: found 0 auxiliary files for Season 1
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E01 - The Signal [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E02 - The Storm [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E03 - The Wall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E04 - The Dream [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E05 - The Demeter [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E06 - The Fall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E07 - The Cure [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E08 - The Nest [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E09 - The Mountain [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E10 - The Decision [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E11 - The Return [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:24.506 [140733464142008] DEBUG - Matcher: no sidecar subtitle files found for /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E12 - The Reunion [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv

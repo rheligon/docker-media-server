@@ -1,0 +1,32 @@
+May 08, 2024 20:17:26.485 [140733445598712] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 08, 2024 20:17:26.486 [140733445598712] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 08, 2024 20:17:26.486 [140733445598712] INFO - Processor: 4-core AArch64
+May 08, 2024 20:17:26.486 [140733445598712] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 131
+May 08, 2024 20:17:26.487 [140733525876920] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 08, 2024 20:17:26.606 [140733525876920] DEBUG - Analyzing media parts for item 131 (tv.plex.agents): 119
+May 08, 2024 20:17:26.606 [140733525876920] DEBUG - [ID 119] Media part analysis: /config/Library/Application Support/Plex Media Server/Metadata/TV Shows/9/4fa28d7c944b3211c49d2ca5ddd3d5442fd175a.bundle/Contents/_combined/themes/tv.plex.agents.series_94f07d5dc6840c8bcb19212b60d6f99610b9c308
+May 08, 2024 20:17:26.606 [140733525876920] DEBUG - [MI] Opening input file: "/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/9/4fa28d7c944b3211c49d2ca5ddd3d5442fd175a.bundle/Contents/_combined/themes/tv.plex.agents.series_94f07d5dc6840c8bcb19212b60d6f99610b9c308"
+May 08, 2024 20:17:26.606 [140733525876920] DEBUG - [FFMPEG] - Opening '/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/9/4fa28d7c944b3211c49d2ca5ddd3d5442fd175a.bundle/Contents/_combined/themes/tv.plex.agents.series_94f07d5dc6840c8bcb19212b60d6f99610b9c308' for reading
+May 08, 2024 20:17:26.606 [140733525876920] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 08, 2024 20:17:26.607 [140733525876920] DEBUG - [FFMPEG] - Format mp3 probed with size=8192 and score=51
+May 08, 2024 20:17:26.608 [140733525876920] DEBUG - [FFMPEG] - pad 576 1728
+May 08, 2024 20:17:26.608 [140733525876920] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 835 bytes read:65664 seeks:2 nb_streams:1
+May 08, 2024 20:17:26.608 [140733525876920] DEBUG - [FFMPEG] - demuxer injecting skip 1105 / discard 0
+May 08, 2024 20:17:26.608 [140733525876920] DEBUG - [FFMPEG] - skip 1105 / discard 0 samples due to side data
+May 08, 2024 20:17:26.608 [140733525876920] DEBUG - [FFMPEG] - skip 1105/1152 samples
+May 08, 2024 20:17:26.608 [140733525876920] DEBUG - [FFMPEG] - All info found
+May 08, 2024 20:17:26.608 [140733525876920] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 42819 bytes read:98432 seeks:2 frames:50
+May 08, 2024 20:17:26.609 [140733525876920] DEBUG - [MI]  * cf2aad4a063419e101d27f2e877124ba752314b5 [mp3 /mp3] Duration: 16170ms, 0x0 (0.000000) 0.000fps, bitrate=256kbps, audio channels=2, optimizedForStreaming=0 ("/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/9/4fa28d7c944b3211c49d2ca5ddd3d5442fd175a.bundle/Contents/_combined/themes/tv.plex.agents.series_94f07d5dc6840c8bcb19212b60d6f99610b9c308")
+May 08, 2024 20:17:26.609 [140733525876920] DEBUG - [MI] Chapters had generic titles, clearing.
+May 08, 2024 20:17:26.609 [140733525876920] DEBUG - [MI] Closing input file: "/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/9/4fa28d7c944b3211c49d2ca5ddd3d5442fd175a.bundle/Contents/_combined/themes/tv.plex.agents.series_94f07d5dc6840c8bcb19212b60d6f99610b9c308"
+May 08, 2024 20:17:26.609 [140733525876920] DEBUG - Committing media stream changes for part 119
+May 08, 2024 20:17:26.610 [140733525876920] DEBUG - Updating media item 119, size=518268, metadata_item_id=131
+May 08, 2024 20:17:26.610 [140733525876920] DEBUG - Updating part with ID=119 [/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/9/4fa28d7c944b3211c49d2ca5ddd3d5442fd175a.bundle/Contents/_combined/themes/tv.plex.agents.series_94f07d5dc6840c8bcb19212b60d6f99610b9c308]
+May 08, 2024 20:17:26.612 [140733430787576] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-2&metadataItemID=131&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 08, 2024 20:17:26.613 [140733430279672] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-2&metadataItemID=131&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 08, 2024 20:17:26.613 [140733430787576] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-2&metadataItemID=131&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 08, 2024 20:17:26.614 [140733525876920] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 08, 2024 20:17:26.614 [140733525876920] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 08, 2024 20:17:26.614 [140733430279672] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-2&metadataItemID=131&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 08, 2024 20:17:26.614 [140733430279672] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 08, 2024 20:17:26.614 [140733525876920] DEBUG - Updating metadata item (save) (tv.plex.agents) with ID 131

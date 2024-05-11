@@ -1,0 +1,667 @@
+(N) 2024-04-28T06:43:41 - qBittorrent v4.6.4 started
+(N) 2024-04-28T06:43:41 - Using config directory: /config/qBittorrent
+(N) 2024-04-28T06:43:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-28T06:43:41 - Peer ID: "-qB4640-"
+(I) 2024-04-28T06:43:41 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-28T06:43:41 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-28T06:43:41 - Local Peer Discovery support: ON
+(I) 2024-04-28T06:43:41 - Peer Exchange (PeX) support: ON
+(I) 2024-04-28T06:43:41 - Anonymous mode: OFF
+(I) 2024-04-28T06:43:41 - Encryption support: ON
+(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "172.25.0.5". Port: "TCP/6881"
+(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "172.25.0.5". Port: "UTP/6881"
+(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-04-28T06:43:41 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-04-28T06:43:42 - Using built-in WebUI.
+(W) 2024-04-28T06:43:42 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-04-28T06:43:42 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-04-28T06:43:46 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(I) 2024-04-28T06:43:46 - Successfully updated IP geolocation database.
+(I) 2024-04-28T06:44:01 - Detected external IP. IP: "79.116.12.229"
+(N) 2024-04-28T06:45:30 - qBittorrent termination initiated
+(N) 2024-04-28T06:45:30 - qBittorrent is now ready to exit
+(N) 2024-04-28T06:45:34 - qBittorrent v4.6.4 started
+(N) 2024-04-28T06:45:34 - Using config directory: /config/qBittorrent
+(N) 2024-04-28T06:45:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-28T06:45:34 - Peer ID: "-qB4640-"
+(I) 2024-04-28T06:45:34 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-28T06:45:34 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-28T06:45:34 - Local Peer Discovery support: ON
+(I) 2024-04-28T06:45:34 - Peer Exchange (PeX) support: ON
+(I) 2024-04-28T06:45:34 - Anonymous mode: OFF
+(I) 2024-04-28T06:45:34 - Encryption support: ON
+(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "172.25.0.5". Port: "TCP/6881"
+(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "172.25.0.5". Port: "UTP/6881"
+(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-28T06:45:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-28T06:45:34 - Using built-in WebUI.
+(W) 2024-04-28T06:45:34 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-04-28T06:45:34 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-04-28T06:45:54 - Detected external IP. IP: "79.116.12.229"
+(N) 2024-04-28T06:47:04 - WebAPI login success. IP: ::ffff:192.168.1.210
+(N) 2024-04-28T06:50:24 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-28T06:53:54 - WebAPI login success. IP: ::ffff:172.25.0.1
+(N) 2024-04-28T06:54:19 - WebAPI login success. IP: ::ffff:172.25.0.1
+(N) 2024-04-28T16:53:37 - qBittorrent termination initiated
+(N) 2024-04-28T16:53:37 - qBittorrent is now ready to exit
+(N) 2024-04-28T16:54:00 - qBittorrent v4.6.4 started
+(N) 2024-04-28T16:54:00 - Using config directory: /config/qBittorrent
+(N) 2024-04-28T16:54:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-28T16:54:00 - Peer ID: "-qB4640-"
+(I) 2024-04-28T16:54:00 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-28T16:54:00 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-28T16:54:00 - Local Peer Discovery support: ON
+(I) 2024-04-28T16:54:00 - Peer Exchange (PeX) support: ON
+(I) 2024-04-28T16:54:00 - Anonymous mode: OFF
+(I) 2024-04-28T16:54:00 - Encryption support: ON
+(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "172.26.0.6". Port: "TCP/6881"
+(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "172.26.0.6". Port: "UTP/6881"
+(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-28T16:54:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-28T16:54:00 - Using built-in WebUI.
+(N) 2024-04-28T16:54:00 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-28T16:54:00 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-04-28T16:54:20 - Detected external IP. IP: "79.116.12.229"
+(N) 2024-04-28T16:54:23 - WebAPI login success. IP: ::ffff:172.26.0.1
+(N) 2024-04-28T16:54:23 - WebAPI login success. IP: ::ffff:172.26.0.1
+(N) 2024-04-28T17:10:09 - qBittorrent termination initiated
+(N) 2024-04-28T17:10:09 - qBittorrent is now ready to exit
+(N) 2024-04-28T17:10:18 - qBittorrent v4.6.4 started
+(N) 2024-04-28T17:10:18 - Using config directory: /config/qBittorrent
+(N) 2024-04-28T17:10:18 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-28T17:10:18 - Peer ID: "-qB4640-"
+(I) 2024-04-28T17:10:18 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-28T17:10:18 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-28T17:10:18 - Local Peer Discovery support: ON
+(I) 2024-04-28T17:10:18 - Peer Exchange (PeX) support: ON
+(I) 2024-04-28T17:10:18 - Anonymous mode: OFF
+(I) 2024-04-28T17:10:18 - Encryption support: ON
+(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "172.27.0.5". Port: "TCP/6881"
+(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "172.27.0.5". Port: "UTP/6881"
+(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-28T17:10:18 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-28T17:10:18 - Using built-in WebUI.
+(N) 2024-04-28T17:10:18 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-28T17:10:18 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-04-28T17:10:38 - Detected external IP. IP: "79.116.12.229"
+(N) 2024-04-28T17:10:42 - WebAPI login success. IP: ::ffff:172.27.0.1
+(N) 2024-04-28T17:10:43 - WebAPI login success. IP: ::ffff:172.27.0.1
+(N) 2024-04-28T20:54:50 - WebAPI login success. IP: ::ffff:192.168.1.210
+(N) 2024-04-28T21:19:42 - qBittorrent termination initiated
+(N) 2024-04-28T21:19:42 - qBittorrent is now ready to exit
+(N) 2024-04-28T21:28:34 - qBittorrent v4.6.4 started
+(N) 2024-04-28T21:28:34 - Using config directory: /config/qBittorrent
+(N) 2024-04-28T21:28:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-28T21:28:34 - Peer ID: "-qB4640-"
+(I) 2024-04-28T21:28:34 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-28T21:28:34 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-28T21:28:34 - Local Peer Discovery support: ON
+(I) 2024-04-28T21:28:34 - Peer Exchange (PeX) support: ON
+(I) 2024-04-28T21:28:34 - Anonymous mode: OFF
+(I) 2024-04-28T21:28:34 - Encryption support: ON
+(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "172.28.0.6". Port: "TCP/6881"
+(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "172.28.0.6". Port: "UTP/6881"
+(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-28T21:28:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-28T21:28:34 - Using built-in WebUI.
+(N) 2024-04-28T21:28:34 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-28T21:28:34 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-04-28T21:28:54 - Detected external IP. IP: "79.116.12.229"
+(N) 2024-04-28T21:28:59 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-28T21:28:59 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-28T22:10:28 - qBittorrent termination initiated
+(N) 2024-04-28T22:10:28 - qBittorrent is now ready to exit
+(N) 2024-04-28T22:11:29 - qBittorrent v4.6.4 started
+(N) 2024-04-28T22:11:29 - Using config directory: /config/qBittorrent
+(N) 2024-04-28T22:11:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-28T22:11:29 - Peer ID: "-qB4640-"
+(I) 2024-04-28T22:11:29 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-28T22:11:29 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-28T22:11:29 - Local Peer Discovery support: ON
+(I) 2024-04-28T22:11:29 - Peer Exchange (PeX) support: ON
+(I) 2024-04-28T22:11:29 - Anonymous mode: OFF
+(I) 2024-04-28T22:11:29 - Encryption support: ON
+(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
+(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
+(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-28T22:11:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-28T22:11:29 - Using built-in WebUI.
+(N) 2024-04-28T22:11:29 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-28T22:11:29 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-04-28T22:11:59 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-28T22:12:00 - WebAPI login success. IP: ::ffff:172.28.0.1
+(W) 2024-04-28T23:00:57 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:03 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:08 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:08 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:19 - WebAPI login failure. Reason: invalid credentials, attempt count: 5, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:50 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:51 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:53 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:56 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:01:59 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:02:01 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:02:03 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:02:04 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
+(W) 2024-04-28T23:02:17 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:02:18 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:02:19 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:02:20 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:02:31 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:02:44 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:02:49 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(N) 2024-04-28T23:02:52 - WebAPI login success. IP: ::ffff:192.168.1.210
+(W) 2024-04-28T23:03:04 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:03:12 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:03:14 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:03:23 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:03:39 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:16:27 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:16:29 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:16:39 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:16:41 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:16:47 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:16:55 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:03 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:03 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:06 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:09 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:12 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:16 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:19 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:22 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:33 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:17:41 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:18:14 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:18:40 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:18:45 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:18:55 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:19:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:19:20 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:19:46 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:19:49 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:19:54 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:20:10 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:20:16 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:20:17 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:20:19 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:20:27 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(W) 2024-04-28T23:20:37 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
+(N) 2024-04-28T23:20:46 - qBittorrent termination initiated
+(N) 2024-04-28T23:20:46 - qBittorrent is now ready to exit
+(N) 2024-04-28T23:20:50 - qBittorrent v4.6.4 started
+(N) 2024-04-28T23:20:50 - Using config directory: /config/qBittorrent
+(N) 2024-04-28T23:20:50 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-28T23:20:50 - Peer ID: "-qB4640-"
+(I) 2024-04-28T23:20:50 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-28T23:20:50 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-28T23:20:50 - Local Peer Discovery support: ON
+(I) 2024-04-28T23:20:50 - Peer Exchange (PeX) support: ON
+(I) 2024-04-28T23:20:50 - Anonymous mode: OFF
+(I) 2024-04-28T23:20:50 - Encryption support: ON
+(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
+(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
+(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-28T23:20:50 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-28T23:20:50 - Using built-in WebUI.
+(N) 2024-04-28T23:20:50 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-28T23:20:50 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-04-28T23:20:51 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-28T23:21:00 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-28T23:21:20 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T01:04:01 - qBittorrent termination initiated
+(N) 2024-04-29T01:04:01 - qBittorrent is now ready to exit
+(N) 2024-04-29T01:04:06 - qBittorrent v4.6.4 started
+(N) 2024-04-29T01:04:06 - Using config directory: /config/qBittorrent
+(N) 2024-04-29T01:04:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-29T01:04:06 - Peer ID: "-qB4640-"
+(I) 2024-04-29T01:04:06 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-29T01:04:06 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-29T01:04:06 - Local Peer Discovery support: ON
+(I) 2024-04-29T01:04:06 - Peer Exchange (PeX) support: ON
+(I) 2024-04-29T01:04:06 - Anonymous mode: OFF
+(I) 2024-04-29T01:04:06 - Encryption support: ON
+(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
+(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
+(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-29T01:04:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-29T01:04:06 - Using built-in WebUI.
+(N) 2024-04-29T01:04:06 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-29T01:04:06 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-04-29T01:04:15 - qBittorrent termination initiated
+(N) 2024-04-29T01:04:16 - qBittorrent is now ready to exit
+(N) 2024-04-29T01:04:20 - qBittorrent v4.6.4 started
+(N) 2024-04-29T01:04:20 - Using config directory: /config/qBittorrent
+(N) 2024-04-29T01:04:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-29T01:04:20 - Peer ID: "-qB4640-"
+(I) 2024-04-29T01:04:20 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-29T01:04:20 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-29T01:04:20 - Local Peer Discovery support: ON
+(I) 2024-04-29T01:04:20 - Peer Exchange (PeX) support: ON
+(I) 2024-04-29T01:04:20 - Anonymous mode: OFF
+(I) 2024-04-29T01:04:20 - Encryption support: ON
+(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
+(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
+(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-29T01:04:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-29T01:04:20 - Using built-in WebUI.
+(N) 2024-04-29T01:04:20 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-29T01:04:20 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-04-29T01:04:26 - qBittorrent termination initiated
+(N) 2024-04-29T01:04:30 - qBittorrent is now ready to exit
+(N) 2024-04-29T01:04:34 - qBittorrent v4.6.4 started
+(N) 2024-04-29T01:04:34 - Using config directory: /config/qBittorrent
+(N) 2024-04-29T01:04:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-29T01:04:34 - Peer ID: "-qB4640-"
+(I) 2024-04-29T01:04:34 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-29T01:04:34 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-29T01:04:34 - Local Peer Discovery support: ON
+(I) 2024-04-29T01:04:34 - Peer Exchange (PeX) support: ON
+(I) 2024-04-29T01:04:34 - Anonymous mode: OFF
+(I) 2024-04-29T01:04:34 - Encryption support: ON
+(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
+(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
+(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-29T01:04:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-29T01:04:34 - Using built-in WebUI.
+(N) 2024-04-29T01:04:34 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-29T01:04:34 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-04-29T01:12:41 - qBittorrent termination initiated
+(N) 2024-04-29T01:12:41 - qBittorrent is now ready to exit
+(N) 2024-04-29T01:12:45 - qBittorrent v4.6.4 started
+(N) 2024-04-29T01:12:45 - Using config directory: /config/qBittorrent
+(N) 2024-04-29T01:12:45 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-29T01:12:45 - Peer ID: "-qB4640-"
+(I) 2024-04-29T01:12:45 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-29T01:12:45 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-29T01:12:45 - Local Peer Discovery support: ON
+(I) 2024-04-29T01:12:45 - Peer Exchange (PeX) support: ON
+(I) 2024-04-29T01:12:45 - Anonymous mode: OFF
+(I) 2024-04-29T01:12:45 - Encryption support: ON
+(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
+(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
+(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-29T01:12:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-29T01:12:45 - Using built-in WebUI.
+(N) 2024-04-29T01:12:45 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-29T01:12:45 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-04-29T01:12:46 - Successfully listening on IP. IP: "10.10.110.61". Port: "TCP/6881"
+(I) 2024-04-29T01:12:46 - Successfully listening on IP. IP: "10.10.110.61". Port: "UTP/6881"
+(I) 2024-04-29T01:12:46 - Successfully listening on IP. IP: "fe80::4f2c:fe84:28b7:36f9%tun0". Port: "TCP/6881"
+(I) 2024-04-29T01:12:46 - Successfully listening on IP. IP: "fe80::4f2c:fe84:28b7:36f9%tun0". Port: "UTP/6881"
+(I) 2024-04-29T01:12:54 - Detected external IP. IP: "176.125.230.12"
+(N) 2024-04-29T01:13:31 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T01:16:22 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T01:16:22 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T09:51:09 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T10:37:03 - qBittorrent termination initiated
+(N) 2024-04-29T10:37:03 - qBittorrent is now ready to exit
+(N) 2024-04-29T10:44:23 - qBittorrent v4.6.4 started
+(N) 2024-04-29T10:44:23 - Using config directory: /config/qBittorrent
+(N) 2024-04-29T10:44:23 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-04-29T10:44:23 - Peer ID: "-qB4640-"
+(I) 2024-04-29T10:44:23 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-04-29T10:44:23 - Distributed Hash Table (DHT) support: ON
+(I) 2024-04-29T10:44:23 - Local Peer Discovery support: ON
+(I) 2024-04-29T10:44:23 - Peer Exchange (PeX) support: ON
+(I) 2024-04-29T10:44:23 - Anonymous mode: OFF
+(I) 2024-04-29T10:44:23 - Encryption support: ON
+(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "172.28.0.7". Port: "TCP/6881"
+(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "172.28.0.7". Port: "UTP/6881"
+(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-04-29T10:44:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-04-29T10:44:23 - Using built-in WebUI.
+(N) 2024-04-29T10:44:23 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-04-29T10:44:23 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-04-29T10:44:25 - Successfully listening on IP. IP: "10.5.110.55". Port: "TCP/6881"
+(I) 2024-04-29T10:44:25 - Successfully listening on IP. IP: "10.5.110.55". Port: "UTP/6881"
+(I) 2024-04-29T10:44:25 - Successfully listening on IP. IP: "fe80::125d:b4e2:1980:4d01%tun0". Port: "TCP/6881"
+(I) 2024-04-29T10:44:25 - Successfully listening on IP. IP: "fe80::125d:b4e2:1980:4d01%tun0". Port: "UTP/6881"
+(N) 2024-04-29T10:44:29 - WebAPI login success. IP: ::ffff:172.28.0.1
+(I) 2024-04-29T10:44:29 - Detected external IP. IP: "146.70.10.58"
+(N) 2024-04-29T10:44:31 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T10:45:30 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T11:15:18 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
+(N) 2024-04-29T11:15:20 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-04-29T11:15:22 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-04-29T11:15:24 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-04-29T11:18:34 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-04-29T11:19:50 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-04-29T11:19:59 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-04-29T11:20:53 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
+(N) 2024-04-29T11:52:23 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T12:53:21 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T12:53:52 - Added new torrent. Torrent: "Project.Runway.S02E13.Finale.1.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx] ⭐"
+(N) 2024-04-29T12:54:14 - Removed torrent. Torrent: "Project.Runway.S02E13.Finale.1.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx] ⭐"
+(N) 2024-04-29T12:55:23 - Added new torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T12:56:10 - Added new torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T12:56:56 - Added new torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T12:57:42 - Added new torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T12:58:29 - Added new torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T12:59:40 - Added new torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T13:00:27 - Added new torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T13:01:14 - Added new torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T13:02:01 - Added new torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T13:02:47 - Added new torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T13:03:48 - Added new torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T13:04:34 - Added new torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T13:05:21 - Added new torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T13:06:07 - Added new torrent. Torrent: "Project.Runway.S20E14.The.Finale.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(I) 2024-04-29T13:52:48 - Python detected, executable name: 'python3', version: 3.12.3
+(N) 2024-04-29T14:03:10 - Torrent download finished. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T14:06:40 - Torrent download finished. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T14:42:58 - Torrent download finished. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T14:45:16 - Torrent download finished. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T14:48:20 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T15:23:20 - Torrent download finished. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:50:31 - Torrent download finished. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:53:18 - Torrent paused. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:53:23 - Torrent paused. Torrent: "Project.Runway.S20E14.The.Finale.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:53:30 - Torrent resumed. Torrent: "Project.Runway.S20E14.The.Finale.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:53:30 - Torrent resumed. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv".
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv".
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv".
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv".
+(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T16:04:26 - Torrent download finished. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T16:20:36 - Torrent paused. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T16:20:36 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T16:23:36 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T16:28:58 - Torrent download finished. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T16:34:26 - Torrent paused. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T16:34:26 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T16:59:06 - Torrent paused. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T16:59:06 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T17:16:30 - Added new torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-04-29T17:17:07 - Torrent download finished. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-04-29T17:20:29 - Torrent download finished. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T17:47:31 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-04-29T17:50:13 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-04-29T17:50:36 - Torrent paused. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T17:50:36 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
+(N) 2024-04-29T17:55:48 - Torrent paused. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T17:55:49 - Torrent resumed. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T18:11:26 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T18:13:34 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:13:36 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:13:38 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:13:40 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:13:42 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:13:44 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:13:46 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:13:48 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:17:01 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:19:12 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:19:31 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:19:37 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:19:42 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:19:48 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:19:57 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:20:34 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:23:57 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:24:05 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:24:11 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:24:22 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:26:41 - Added new torrent. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:27:03 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:27:12 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:27:16 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:28:24 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:40:41 - Torrent download finished. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-04-29T19:12:35 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T19:49:22 - Torrent download finished. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T20:32:46 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-29T21:51:45 - Torrent download finished. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-29T22:56:26 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-30T04:22:12 - Torrent download finished. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-04-30T13:37:27 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-30T16:17:44 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-04-30T21:36:47 - Torrent download finished. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-01T01:16:31 - Torrent paused. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-01T01:16:31 - Torrent paused. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-01T01:16:31 - Torrent paused. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-01T01:16:31 - Torrent paused. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-01T01:37:43 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-01T16:30:59 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-01T18:59:48 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-01T22:01:48 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-01T23:59:37 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-02T17:11:23 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-02T17:12:16 - Added new torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-02T17:12:32 - Removed torrent. Torrent: "Project.Runway.S20E14.The.Finale.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-02T18:46:27 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-02T20:13:05 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-03T00:34:55 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-03T02:36:58 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-03T11:59:24 - Torrent download finished. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-03T12:29:29 - Torrent paused. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-03T12:29:29 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]".
+(N) 2024-05-03T13:27:08 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-03T16:58:58 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-03T18:12:11 - qBittorrent termination initiated
+(N) 2024-05-03T18:12:11 - qBittorrent is now ready to exit
+(N) 2024-05-03T18:12:28 - qBittorrent v4.6.4 started
+(N) 2024-05-03T18:12:28 - Using config directory: /config/qBittorrent
+(N) 2024-05-03T18:12:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-03T18:12:28 - Peer ID: "-qB4640-"
+(I) 2024-05-03T18:12:28 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-03T18:12:28 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-03T18:12:28 - Local Peer Discovery support: ON
+(I) 2024-05-03T18:12:28 - Peer Exchange (PeX) support: ON
+(I) 2024-05-03T18:12:28 - Anonymous mode: OFF
+(I) 2024-05-03T18:12:28 - Encryption support: ON
+(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "10.5.110.55". Port: "TCP/6881"
+(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "10.5.110.55". Port: "UTP/6881"
+(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "fe80::125d:b4e2:1980:4d01%tun0". Port: "TCP/6881"
+(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "fe80::125d:b4e2:1980:4d01%tun0". Port: "UTP/6881"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
+(W) 2024-05-03T18:12:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto". Reason: "[MTBB] The Apothecary Diaries (BD 1080p) fast resume rejected. file_stat(/data/torrents/anime/[MTBB] The Apothecary Diaries (BD 1080p)/[MTBB] The Apothecary Diaries - 01 (BD 1080p) [A9C005A6].mkv): mismatching file size"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(I) 2024-05-03T18:12:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
+(N) 2024-05-03T18:12:29 - Using built-in WebUI.
+(N) 2024-05-03T18:12:29 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-03T18:12:29 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-03T18:12:31 - WebAPI login success. IP: ::ffff:172.28.0.1
+(I) 2024-05-03T18:12:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 07:39:38 2024.
+(I) 2024-05-03T18:12:32 - Successfully updated IP geolocation database.
+(I) 2024-05-03T18:12:33 - Detected external IP. IP: "146.70.10.58"
+(N) 2024-05-03T18:13:01 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-03T18:13:01 - WebAPI login success. IP: ::ffff:172.28.0.1
+(N) 2024-05-03T18:41:02 - qBittorrent termination initiated
+(N) 2024-05-03T18:41:02 - qBittorrent is now ready to exit
+(N) 2024-05-03T18:41:08 - qBittorrent v4.6.4 started
+(N) 2024-05-03T18:41:08 - Using config directory: /config/qBittorrent
+(N) 2024-05-03T18:41:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-03T18:41:08 - Peer ID: "-qB4640-"
+(I) 2024-05-03T18:41:08 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-03T18:41:08 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-03T18:41:08 - Local Peer Discovery support: ON
+(I) 2024-05-03T18:41:08 - Peer Exchange (PeX) support: ON
+(I) 2024-05-03T18:41:08 - Anonymous mode: OFF
+(I) 2024-05-03T18:41:08 - Encryption support: ON
+(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "172.28.0.7". Port: "TCP/6881"
+(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "172.28.0.7". Port: "UTP/6881"
+(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(W) 2024-05-03T18:41:08 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto". Reason: "[MTBB] The Apothecary Diaries (BD 1080p) fast resume rejected. file_stat(/data/torrents/anime/[MTBB] The Apothecary Diaries (BD 1080p)/[MTBB] The Apothecary Diaries - 01 (BD 1080p) [A9C005A6].mkv): mismatching file size"
+(I) 2024-05-03T18:41:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 07:39:38 2024.
+(N) 2024-05-03T18:41:08 - Using built-in WebUI.
+(N) 2024-05-03T18:41:08 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-05-03T18:41:09 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-03T18:42:46 - qBittorrent termination initiated
+(N) 2024-05-03T18:42:46 - qBittorrent is now ready to exit
+(N) 2024-05-03T18:42:53 - qBittorrent v4.6.4 started
+(N) 2024-05-03T18:42:53 - Using config directory: /config/qBittorrent
+(N) 2024-05-03T18:42:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-05-03T18:42:53 - Peer ID: "-qB4640-"
+(I) 2024-05-03T18:42:53 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-03T18:42:53 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-03T18:42:53 - Local Peer Discovery support: ON
+(I) 2024-05-03T18:42:53 - Peer Exchange (PeX) support: ON
+(I) 2024-05-03T18:42:53 - Anonymous mode: OFF
+(I) 2024-05-03T18:42:53 - Encryption support: ON
+(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "172.28.0.7". Port: "TCP/6881"
+(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "172.28.0.7". Port: "UTP/6881"
+(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"

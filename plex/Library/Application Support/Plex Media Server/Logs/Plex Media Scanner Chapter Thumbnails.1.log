@@ -1,0 +1,10 @@
+May 01, 2024 02:07:01.876 [140735486733816] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 01, 2024 02:07:01.877 [140735486733816] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 01, 2024 02:07:01.877 [140735486733816] INFO - Processor: 4-core AArch64
+May 01, 2024 02:07:01.877 [140735486733816] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 45 --log-file-suffix  Chapter Thumbnails
+May 01, 2024 02:07:01.877 [140735567012024] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 01, 2024 02:07:01.958 [140735567012024] DEBUG - Created chapter thumbnail for metadata item 45, media item 39 for chapter number 1:0 at "/config/Library/Application Support/Plex Media Server/Media/localhost/7/df645bc560df3c40c7aa0ac58e7abf8b875be27.bundle/Contents/Chapters/chapter1.jpg"
+May 01, 2024 02:07:01.958 [140735567012024] DEBUG - Created chapter thumbnail for metadata item 45, media item 39 for chapter number 2:90000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/7/df645bc560df3c40c7aa0ac58e7abf8b875be27.bundle/Contents/Chapters/chapter2.jpg"
+May 01, 2024 02:07:01.958 [140735567012024] DEBUG - Created chapter thumbnail for metadata item 45, media item 39 for chapter number 3:1265000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/7/df645bc560df3c40c7aa0ac58e7abf8b875be27.bundle/Contents/Chapters/chapter3.jpg"
+May 01, 2024 02:07:01.958 [140735567012024] DEBUG - Created chapter thumbnail for metadata item 45, media item 39 for chapter number 4:1355000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/7/df645bc560df3c40c7aa0ac58e7abf8b875be27.bundle/Contents/Chapters/chapter4.jpg"
+May 01, 2024 02:07:01.959 [140735567012024] DEBUG - Generated new chapter thumbnails for Balsam and Woodsorrel.

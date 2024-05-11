@@ -1,0 +1,1436 @@
+May 10, 2024 01:29:08.189 [140735919943904] INFO - Plex Media Server v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 debian - GMT 02:00
+May 10, 2024 01:29:08.189 [140735919943904] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 10, 2024 01:29:08.189 [140735919943904] INFO - Processor: 4-core AArch64
+May 10, 2024 01:29:08.189 [140735919943904] INFO - Compiler is - Clang 11.0.1 (https://plex.tv 9b997da8e5b47bdb4a9425b3a3b290be393b4b1f)
+May 10, 2024 01:29:08.189 [140735919943904] INFO - /usr/lib/plexmediaserver/Plex Media Server
+May 10, 2024 01:29:08.200 [140735999305200] DEBUG - BPQ: [Idle] -> [Starting]
+May 10, 2024 01:29:08.215 [140735999305200] DEBUG - FeatureManager: Using cached data for features list
+May 10, 2024 01:29:08.274 [140735999305200] DEBUG - [CERT] Subject name is /CN=*.8c84b72a44594945bc83879e5e6d4a5c.plex.direct
+May 10, 2024 01:29:08.274 [140735999305200] DEBUG - [CERT] Installed certificate with fingerprint 41:39:2b:fa:cf:f9:76:e4:c9:f8:f7:34:50:2f:b9:89:84:54:38:ab.
+May 10, 2024 01:29:08.274 [140735999305200] DEBUG - [CERT/OCSP] Stapling requests will be made to 'http://r3.o.lencr.org/'.
+May 10, 2024 01:29:08.279 [140735999305200] INFO - [CERT/OCSP] Successfully retrieved response from cache.
+May 10, 2024 01:29:08.279 [140735999305200] DEBUG - HttpServer: Listening on IPv6 as well as IPv4.
+May 10, 2024 01:29:08.279 [140735999305200] DEBUG - HttpServer: Listening on port 32400.
+May 10, 2024 01:29:08.293 [140735999305200] DEBUG - HttpServer: Listening on port 32401.
+May 10, 2024 01:29:08.294 [140735999305200] DEBUG - Running server...
+May 10, 2024 01:29:08.294 [140735908294880] DEBUG - HttpServer: Set up a thread pool with 2 threads.
+May 10, 2024 01:29:08.294 [140735999305200] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 10, 2024 01:29:08.420 [140735999305200] INFO - Running migrations. (EPG 0)
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 0.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 1.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 2.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 3.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 4.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 5.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 6.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 7.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 8.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 9.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 10.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 11.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 12.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 13.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 14.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 15.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 16.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 17.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 18.
+May 10, 2024 01:29:08.421 [140735999305200] DEBUG - Captured session 19.
+May 10, 2024 01:29:08.428 [140735999305200] DEBUG - ChangestampAllocator: initialized to 7596562620373522115
+May 10, 2024 01:29:08.432 [140735999305200] DEBUG - Opening 2 database sessions to library (com.plexapp.plugins.library.blobs), SQLite 3.39.4, threadsafe=1
+May 10, 2024 01:29:08.441 [140735999305200] INFO - Running migrations. (EPG 0)
+May 10, 2024 01:29:08.442 [140735999305200] DEBUG - Captured session 0.
+May 10, 2024 01:29:08.442 [140735999305200] DEBUG - Captured session 1.
+May 10, 2024 01:29:08.625 [140735910899936] DEBUG - Request: didn't get any data from [::1]:48914: End of file
+May 10, 2024 01:29:08.662 [140735915290848] DEBUG - Grabber: Cleaning up orphaned grabs.
+May 10, 2024 01:29:08.663 [140735891845344] DEBUG - MyPlex: mapping state set to 'Unknown'.
+May 10, 2024 01:29:08.663 [140735999305200] DEBUG - Media Provider: Registering provider com.plexapp.plugins.library
+May 10, 2024 01:29:08.663 [140735999305200] DEBUG - Auth: Refreshing tokens inside the token-based authentication filter.
+May 10, 2024 01:29:08.664 [140735915290848] DEBUG - Grabber: Cleaned up 0 decrepit directories in 0.0 sec.
+May 10, 2024 01:29:08.665 [140735891845344] DEBUG - Relay: read 2 cached entries from hosts file
+May 10, 2024 01:29:08.666 [140735891845344] DEBUG - [MediaProviderManager/HCl#1] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:08.666 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:08.670 [140735999305200] DEBUG - MyPlex: updating with 7 access tokens
+May 10, 2024 01:29:08.670 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:08.672 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:08.674 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:08.675 [140735885390048] DEBUG - Auth: Refreshing tokens inside the token-based authentication filter.
+May 10, 2024 01:29:08.676 [140735885390048] DEBUG - [HCl#2] HTTP requesting GET https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:08.677 [140735999305200] DEBUG - Opening 1 database sessions to library (), SQLite 3.39.4, threadsafe=1
+May 10, 2024 01:29:08.683 [140735880851680] DEBUG - File "/usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e" changed: -1 => 2024-04-18 23:26:20 (1713475580).
+May 10, 2024 01:29:08.684 [140735880851680] DEBUG - File "/config/Library/Application Support/Plex Media Server/Plug-ins" changed: -1 => 2024-04-29 11:24:05 (1714382645).
+May 10, 2024 01:29:08.684 [140735880851680] DEBUG - Scanning for plug-ins in "/usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e"
+May 10, 2024 01:29:08.736 [140735880851680] DEBUG - Scanning for plug-ins in "/config/Library/Application Support/Plex Media Server/Plug-ins"
+May 10, 2024 01:29:08.736 [140735880851680] DEBUG - PluginRepository::setStartState: 1, startingSystem
+May 10, 2024 01:29:08.736 [140735880851680] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/System.bundle.
+May 10, 2024 01:29:08.737 [140735880851680] DEBUG - [com.plexapp.system] Setting plug-in to always running (daemon mode).
+May 10, 2024 01:29:08.740 [140735880851680] DEBUG - Starting file watcher for com.plexapp.system
+May 10, 2024 01:29:08.740 [140735880851680] DEBUG - Plugin: setting environment variable: 'PYTHONHOME=/usr/lib/plexmediaserver/Resources/Python'
+May 10, 2024 01:29:08.740 [140735880851680] DEBUG - Plugin: setting environment variable: 'PYTHONPATH=/usr/lib/plexmediaserver/Resources/Python/python27.zip:/usr/lib/plexmediaserver/Resources/Python/lib/python2.7/site-packages'
+May 10, 2024 01:29:08.741 [140735880851680] DEBUG - Spawned plug-in com.plexapp.system with PID 210
+May 10, 2024 01:29:08.741 [140735880851680] DEBUG - [com.plexapp.system] Sending command: GET /:/prefixes
+May 10, 2024 01:29:10.147 [140735915290848] DEBUG - [JobRunner] Job running: /usr/lib/plexmediaserver/CrashUploader "--directory=/config/Library/Application Support/Plex Media Server/Crash Reports/1.40.2.8395-c67dce28e" --version=1.40.2.8395-c67dce28e --platform=Linux --platformVersion=6.6.28+rpt-rpi-2712 --serverUuid=d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52 --userId=rheligon@gmail.com --sentryUrl=https://o17675.ingest.sentry.io/api/1233455/ --sentryKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --vendor=Docker --model=aarch64 "--device=Docker Container (LinuxServer.io)"
+May 10, 2024 01:29:10.148 [140735915290848] DEBUG - [JobRunner] Jobs: Starting child process with pid 213
+May 10, 2024 01:29:10.212 [140735917715680] DEBUG - Jobs: '/usr/lib/plexmediaserver/CrashUploader' exit code for process 213 is 0 (success)
+May 10, 2024 01:29:10.481 [140735876591840] DEBUG - Request: [127.0.0.1:59004 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (3 live) #3 GZIP Token ()
+May 10, 2024 01:29:10.482 [140735910899936] DEBUG - Completed: [127.0.0.1:59004] 503 GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (3 live) #3 GZIP 1ms 436 bytes
+May 10, 2024 01:29:10.499 [140735876591840] DEBUG - Request: [127.0.0.1:59016 (Loopback)] GET / (3 live) #4 GZIP Token ()
+May 10, 2024 01:29:10.499 [140735910899936] DEBUG - Completed: [127.0.0.1:59016] 503 GET / (3 live) #4 GZIP 0ms 436 bytes
+May 10, 2024 01:29:11.260 [140735876591840] DEBUG - Request: [127.0.0.1:59024 (Loopback)] GET /servers (3 live) #7 GZIP Token ()
+May 10, 2024 01:29:11.260 [140735913029856] DEBUG - Completed: [127.0.0.1:59024] 503 GET /servers (3 live) #7 GZIP 0ms 436 bytes
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG - Reading 486 bytes in the body, code is 200
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG - [com.plexapp.system] Plug-in running on port 44059.
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG -  * Plug-in handles prefix: /system
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG -  * Plug-in handles prefix: /player
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG - Read configuration for [com.plexapp.system], had 2 prefixes
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG - Done with 1 synchronous plug-in starts, starting the rest in parallel.
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG - PluginRepository::setStartState: 2, startingPlugins
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG - Updating the list of agents known by the system.
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /system/agents
+May 10, 2024 01:29:11.268 [140735880851680] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:44059/system/agents
+May 10, 2024 01:29:11.268 [140735999305200] DEBUG - Image transcode cache directory: "/config/Library/Application Support/Plex Media Server/Cache/PhotoTranscoder"
+May 10, 2024 01:29:11.271 [140735999305200] DEBUG - Transcoder: Cleaning old transcode directories.
+May 10, 2024 01:29:11.273 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:11.273 [140735999305200] DEBUG - MyPlex: updating with 7 access tokens
+May 10, 2024 01:29:11.273 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:11.273 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:11.274 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:11.274 [140735999305200] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/user?includeSubscriptions=1&includeProviders=1
+May 10, 2024 01:29:11.276 [140735999305200] DEBUG - MyPlex: username is rhel625, login is rheligon@gmail.com, home is 0, no pin
+May 10, 2024 01:29:11.279 [140735999305200] DEBUG - MyPlex: stop public ip check and mapping - current mapped state: 'Unknown'.
+May 10, 2024 01:29:11.279 [140735869923552] DEBUG - [HCl#4] HTTP requesting GET https://plex.tv/api/v2/user?includeSubscriptions=1&includeProviders=1
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG - NetworkInterface: Starting watch thread.
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG - Network change.
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:11.283 [140735865663712] DEBUG - NetworkInterface: Watching for changes on the interfaces.
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG - Detected primary interface: 0.0.0.0
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG - Network interfaces:
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG -  * 1 lo (127.0.0.1) (00-00-00-00-00-00) (loopback: 1)
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG -  * 4 br-39024773eff8 (172.28.0.1) (02-42-11-1F-0E-DB) (loopback: 0)
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG -  * 5 br-9704d859d9c6 (172.21.0.1) (02-42-C5-32-3F-EB) (loopback: 0)
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG -  * 6 br-d7bf52ad2c40 (172.18.0.1) (02-42-EA-D2-4E-99) (loopback: 0)
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG -  * 1 lo (::1) (00-00-00-00-00-00) (loopback: 1)
+May 10, 2024 01:29:11.283 [140735999305200] DEBUG - Creating NetworkServices singleton.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkServices: Initializing...
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Creating new service.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Quick dispatch of network change.
+May 10, 2024 01:29:11.284 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Creating new service.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Quick dispatch of network change.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Creating new service.
+May 10, 2024 01:29:11.284 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32414
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Quick dispatch of network change.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Creating new service.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Quick dispatch of network change.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Creating new service.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Quick dispatch of network change.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Creating new service.
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+May 10, 2024 01:29:11.284 [140735999305200] DEBUG - NetworkService: Quick dispatch of network change.
+May 10, 2024 01:29:11.287 [140735861321952] DEBUG - [ChildProcessMonitor] Plex Tuner Service starting.
+May 10, 2024 01:29:11.287 [140735861321952] DEBUG - [ChildProcessMonitor/JobRunner] Job running: "/usr/lib/plexmediaserver/Plex Tuner Service" /usr/lib/plexmediaserver/Resources/Tuner/Private /usr/lib/plexmediaserver/Resources/Tuner/Shared 1.40.2.8395-c67dce28e 32600
+May 10, 2024 01:29:11.288 [140735861321952] DEBUG - [ChildProcessMonitor/JobRunner] Jobs: Starting child process with pid 248
+May 10, 2024 01:29:11.303 [140735863533792] ERROR - NetworkService: Couldn't join multicast group: set_option: No such device [system:19 at /home/runner/actions-runner/_work/plex-media-server/plex-media-server/build/dependencies/plex-media-server/standard-aarch64-linux-musl/boost/include/boost/asio/detail/reactive_socket_service.hpp:174:33 in function 'set_option']
+May 10, 2024 01:29:11.303 [140735863533792] ERROR - Error broadcasting message: send_to: Network unreachable [system:101 at /home/runner/actions-runner/_work/plex-media-server/plex-media-server/build/dependencies/plex-media-server/standard-aarch64-linux-musl/boost/include/boost/asio/detail/reactive_socket_service.hpp:261:33 in function 'send_to']
+May 10, 2024 01:29:11.303 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 01:29:11.303 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32410
+May 10, 2024 01:29:11.303 [140735863533792] ERROR - NetworkService: Couldn't join multicast group: set_option: No such device [system:19 at /home/runner/actions-runner/_work/plex-media-server/plex-media-server/build/dependencies/plex-media-server/standard-aarch64-linux-musl/boost/include/boost/asio/detail/reactive_socket_service.hpp:174:33 in function 'set_option']
+May 10, 2024 01:29:11.303 [140735863533792] ERROR - Error broadcasting message: send_to: Network unreachable [system:101 at /home/runner/actions-runner/_work/plex-media-server/plex-media-server/build/dependencies/plex-media-server/standard-aarch64-linux-musl/boost/include/boost/asio/detail/reactive_socket_service.hpp:261:33 in function 'send_to']
+May 10, 2024 01:29:11.303 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 01:29:11.303 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32412
+May 10, 2024 01:29:11.303 [140735863533792] ERROR - NetworkService: Couldn't join multicast group: set_option: No such device [system:19 at /home/runner/actions-runner/_work/plex-media-server/plex-media-server/build/dependencies/plex-media-server/standard-aarch64-linux-musl/boost/include/boost/asio/detail/reactive_socket_service.hpp:174:33 in function 'set_option']
+May 10, 2024 01:29:11.303 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=0), closing 0 browse sockets.
+May 10, 2024 01:29:11.303 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32413
+May 10, 2024 01:29:11.304 [140735863533792] ERROR - NetworkService: Couldn't join multicast group: set_option: No such device [system:19 at /home/runner/actions-runner/_work/plex-media-server/plex-media-server/build/dependencies/plex-media-server/standard-aarch64-linux-musl/boost/include/boost/asio/detail/reactive_socket_service.hpp:174:33 in function 'set_option']
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 172.28.255.255 (index: 1)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 172.21.255.255 (index: 2)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 3)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=1), closing 0 browse sockets.
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 172.28.255.255 (index: 1)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 172.21.255.255 (index: 2)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 3)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=0), closing 0 browse sockets.
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:1901
+May 10, 2024 01:29:11.304 [140735863533792] ERROR - NetworkService: Couldn't join multicast group: set_option: No such device [system:19 at /home/runner/actions-runner/_work/plex-media-server/plex-media-server/build/dependencies/plex-media-server/standard-aarch64-linux-musl/boost/include/boost/asio/detail/reactive_socket_service.hpp:174:33 in function 'set_option']
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 239.255.255.250 (index: 0)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 239.255.255.250 (index: 1)
+May 10, 2024 01:29:11.304 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 239.255.255.250 (index: 2)
+May 10, 2024 01:29:11.357 [140735889682656] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.1s) 200 response from GET http://127.0.0.1:44059/system/agents
+May 10, 2024 01:29:11.357 [140735880851680] DEBUG - [com.plexapp.system] HTTP reply status 200, with 8986 bytes of content.
+May 10, 2024 01:29:11.359 [140735880851680] DEBUG - The system knows about 12 agents.
+May 10, 2024 01:29:11.359 [140735856996576] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/WebClient.bundle.
+May 10, 2024 01:29:11.359 [140735854866656] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/LyricFind.bundle.
+May 10, 2024 01:29:11.359 [140735852736736] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Musicbrainz.bundle.
+May 10, 2024 01:29:11.360 [140735880851680] DEBUG - Waiting for 16 plug-ins to finish starting.
+May 10, 2024 01:29:11.360 [140735856996576] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/TheTVDBv4.bundle.
+May 10, 2024 01:29:11.362 [140735852736736] DEBUG - Perfect cache hit, we don't need to start [org.musicbrainz.agents.music] yet.
+May 10, 2024 01:29:11.362 [140735852736736] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Media-Flags.bundle.
+May 10, 2024 01:29:11.363 [140735856996576] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.thetvdb] yet.
+May 10, 2024 01:29:11.363 [140735856996576] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/MoviePosterDB.bundle.
+May 10, 2024 01:29:11.363 [140735852736736] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Framework.bundle.
+May 10, 2024 01:29:11.363 [140735854866656] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.lyricfind] yet.
+May 10, 2024 01:29:11.363 [140735854866656] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Fanart-TV.bundle.
+May 10, 2024 01:29:11.364 [140735852736736] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Scanners.bundle.
+May 10, 2024 01:29:11.364 [140735852736736] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/LastFM.bundle.
+May 10, 2024 01:29:11.366 [140735856996576] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.movieposterdb] yet.
+May 10, 2024 01:29:11.366 [140735856996576] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/HTbackdrops.bundle.
+May 10, 2024 01:29:11.366 [140735854866656] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.fanarttv] yet.
+May 10, 2024 01:29:11.367 [140735854866656] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/PlexMovie.bundle.
+May 10, 2024 01:29:11.367 [140735852736736] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.lastfm] yet.
+May 10, 2024 01:29:11.367 [140735852736736] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/PlexThemeMusic.bundle.
+May 10, 2024 01:29:11.370 [140735856996576] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.htbackdrops] yet.
+May 10, 2024 01:29:11.370 [140735856996576] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/PersonalMedia.bundle.
+May 10, 2024 01:29:11.371 [140735854866656] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.imdb] yet.
+May 10, 2024 01:29:11.371 [140735854866656] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/TheMovieDB.bundle.
+May 10, 2024 01:29:11.371 [140735852736736] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.plexthememusic] yet.
+May 10, 2024 01:29:11.371 [140735852736736] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/LocalMedia.bundle.
+May 10, 2024 01:29:11.374 [140735856996576] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.none] yet.
+May 10, 2024 01:29:11.374 [140735854866656] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.themoviedb] yet.
+May 10, 2024 01:29:11.377 [140735852736736] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.localmedia] yet.
+May 10, 2024 01:29:11.377 [140735880851680] DEBUG - Starting scheduled updates, every 3600 seconds
+May 10, 2024 01:29:11.377 [140735880851680] INFO - LibraryUpdateManager path watching is disabled
+May 10, 2024 01:29:11.377 [140735880851680] DEBUG - Done waiting for all plug-ins to start.
+May 10, 2024 01:29:11.378 [140735880851680] ERROR - Error broadcasting message: send_to: Network unreachable [system:101 at /home/runner/actions-runner/_work/plex-media-server/plex-media-server/build/dependencies/plex-media-server/standard-aarch64-linux-musl/boost/include/boost/asio/detail/reactive_socket_service.hpp:261:33 in function 'send_to']
+May 10, 2024 01:29:11.378 [140735880851680] DEBUG - PluginRepository::setStartState: 3, complete
+May 10, 2024 01:29:11.378 [140735915290848] DEBUG - Downloading document http://127.0.0.1:32400/:/plugins/com.plexapp.agents.imdb/prefs
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale sk
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale hu
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale es
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale it
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale nl
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale pt
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale ro
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale cs_CZ
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale sv
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale da
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale uk
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale fi
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale af
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale pt_BR
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale ar
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale nl_BE
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale pl
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale zh_CN
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale no
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale hr_HR
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale de
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale sl
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale et_EE
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale ru
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale lt
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale fr
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale hu_HU
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale en
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale ko
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale he
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale sr
+May 10, 2024 01:29:11.380 [140735915290848] DEBUG - Translator: Found locale ja_JP
+May 10, 2024 01:29:11.402 [140735915290848] DEBUG - [Req#b] Starting file watcher for com.plexapp.agents.imdb
+May 10, 2024 01:29:11.402 [140735915290848] DEBUG - [Req#b] Plugin: setting environment variable: 'PYTHONHOME=/usr/lib/plexmediaserver/Resources/Python'
+May 10, 2024 01:29:11.402 [140735915290848] DEBUG - [Req#b] Plugin: setting environment variable: 'PYTHONPATH=/usr/lib/plexmediaserver/Resources/Python/python27.zip:/usr/lib/plexmediaserver/Resources/Python/lib/python2.7/site-packages'
+May 10, 2024 01:29:11.403 [140735915290848] DEBUG - [Req#b] Spawned plug-in com.plexapp.agents.imdb with PID 271
+May 10, 2024 01:29:11.403 [140735915290848] DEBUG - [Req#b] [com.plexapp.agents.imdb] Sending command: GET /:/prefixes
+May 10, 2024 01:29:12.353 [140735876591840] DEBUG - Request: [127.0.0.1:59032 (Loopback)] GET /system/messaging/clear_events/com.plexapp.agents.imdb (3 live) #9 GZIP Signed-in Token (rhel625)
+May 10, 2024 01:29:12.353 [140735876591840] DEBUG - [Req#9] [com.plexapp.system] Sending command over HTTP (GET): /system/messaging/clear_events/com.plexapp.agents.imdb
+May 10, 2024 01:29:12.353 [140735876591840] DEBUG - [Req#9/HCl#5] HTTP requesting GET http://127.0.0.1:44059/system/messaging/clear_events/com.plexapp.agents.imdb
+May 10, 2024 01:29:12.391 [140735889682656] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:44059/system/messaging/clear_events/com.plexapp.agents.imdb (reused)
+May 10, 2024 01:29:12.391 [140735876591840] DEBUG - [Req#9] [com.plexapp.system] HTTP reply status 200, with 0 bytes of content.
+May 10, 2024 01:29:12.391 [140735913029856] DEBUG - Completed: [127.0.0.1:59032] 200 GET /system/messaging/clear_events/com.plexapp.agents.imdb (3 live) #9 GZIP 38ms 280 bytes
+May 10, 2024 01:29:12.505 [140735876591840] DEBUG - Request: [127.0.0.1:59034 (Loopback)] GET /:/plugins/com.plexapp.system/resourceHashes (3 live) #c GZIP Signed-in Token (rhel625)
+May 10, 2024 01:29:12.505 [140735876591840] DEBUG - [Req#c] [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/resourceHashes
+May 10, 2024 01:29:12.505 [140735876591840] DEBUG - [Req#c/HCl#6] HTTP requesting GET http://127.0.0.1:44059/:/plugins/com.plexapp.system/resourceHashes
+May 10, 2024 01:29:13.673 [140735889682656] WARN - [HttpClient/HCl#1] HTTP error requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:13.673 [140735891845344] ERROR - [MediaProviderManager] Error parsing content.
+May 10, 2024 01:29:13.681 [140735889682656] WARN - [HttpClient/HCl#2] HTTP error requesting GET https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:13.681 [140735859192032] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:13.682 [140735885390048] DEBUG - MyPlex: updating with 7 access tokens
+May 10, 2024 01:29:13.683 [140735885390048] DEBUG - [HCl#7] HTTP requesting GET https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:13.685 [140735891845344] ERROR - [MediaProviderManager] Error parsing XML: Error parsing file.
+May 10, 2024 01:29:13.685 [140735891845344] DEBUG - [MediaProviderManager/HCl#8] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:16.284 [140735889682656] WARN - [HttpClient/HCl#4] HTTP error requesting GET https://plex.tv/api/v2/user?includeSubscriptions=1&includeProviders=1 (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:16.284 [140735863533792] DEBUG - [NSB] NetworkServiceBrowser: SERVER arrived: 127.0.0.1 (chadberry)
+May 10, 2024 01:29:16.284 [140735863533792] DEBUG - [NSB] Notifying the system bundle an update to server /system/notify/serverUpdated?host=127.0.0.1
+May 10, 2024 01:29:16.284 [140735863533792] DEBUG - [NSB] [com.plexapp.system] Sending command over HTTP (GET): /system/notify/serverUpdated?host=127.0.0.1
+May 10, 2024 01:29:16.284 [140735859192032] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/user?includeSubscriptions=1&includeProviders=1
+May 10, 2024 01:29:16.284 [140735863533792] DEBUG - [NSB/HCl#9] HTTP requesting GET http://127.0.0.1:44059/system/notify/serverUpdated?host=127.0.0.1
+May 10, 2024 01:29:16.285 [140735859192032] DEBUG - MyPlex: username is rhel625, login is rheligon@gmail.com, home is 0, no pin
+May 10, 2024 01:29:16.288 [140735854424288] DEBUG - Request: [127.0.0.1:36002 (Loopback)] GET /servers (4 live) #e GZIP Signed-in Token (rhel625)
+May 10, 2024 01:29:16.288 [140735910899936] DEBUG - Completed: [127.0.0.1:36002] 200 GET /servers (4 live) #e GZIP 0ms 490 bytes
+May 10, 2024 01:29:16.292 [140735869923552] DEBUG - [HCl#a] HTTP requesting GET https://plex.tv/api/v2/geoip
+May 10, 2024 01:29:16.293 [140735999305200] DEBUG - Network: 172-17-0-1.abcdefghijklmnopqrstuvwxyz012345.plex.direct failed to resolve to 172.17.0.1 but instead yielded (null)
+May 10, 2024 01:29:16.293 [140735999305200] DEBUG - [HCl#b] HTTP requesting GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:16.293 [140735848296672] DEBUG - DVR: Starting up.
+May 10, 2024 01:29:16.293 [140735848296672] DEBUG - Activity: registered new activity 278b87b0-8401-4b22-9820-b3ed045d94cf - "Processing subscriptions"
+May 10, 2024 01:29:16.295 [140735889682656] DEBUG - [HttpClient/HCl#9] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:44059/system/notify/serverUpdated?host=127.0.0.1
+May 10, 2024 01:29:16.295 [140735863533792] DEBUG - [NSB] [com.plexapp.system] HTTP reply status 200, with 0 bytes of content.
+May 10, 2024 01:29:17.569 [140735889682656] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (5.1s) 404 response from GET http://127.0.0.1:44059/:/plugins/com.plexapp.system/resourceHashes
+May 10, 2024 01:29:17.569 [140735876591840] DEBUG - [Req#c] [com.plexapp.system] HTTP reply status 404, with 0 bytes of content.
+May 10, 2024 01:29:17.569 [140735910899936] DEBUG - Completed: [127.0.0.1:59034] 404 GET /:/plugins/com.plexapp.system/resourceHashes (3 live) #c GZIP 5064ms 261 bytes
+May 10, 2024 01:29:17.592 [140735854424288] DEBUG - Request: [127.0.0.1:36014 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (4 live) #f GZIP Signed-in Token (rhel625)
+May 10, 2024 01:29:17.592 [140735854424288] DEBUG - [Req#f] [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+May 10, 2024 01:29:17.592 [140735854424288] DEBUG - [Req#f/HCl#c] HTTP requesting GET http://127.0.0.1:44059/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+May 10, 2024 01:29:17.598 [140735889682656] DEBUG - [HttpClient/HCl#c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:44059/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (reused)
+May 10, 2024 01:29:17.598 [140735854424288] DEBUG - [Req#f] [com.plexapp.system] HTTP reply status 200, with 516 bytes of content.
+May 10, 2024 01:29:17.599 [140735913029856] DEBUG - Completed: [127.0.0.1:36014] 200 GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (4 live) #f GZIP 6ms 746 bytes
+May 10, 2024 01:29:17.799 [140735876591840] DEBUG - Request: [127.0.0.1:36028 (Loopback)] GET / (4 live) #11 GZIP Signed-in Token (rhel625)
+May 10, 2024 01:29:17.801 [140735913029856] DEBUG - Completed: [127.0.0.1:36028] 200 GET / (4 live) #11 GZIP 1ms 3665 bytes
+May 10, 2024 01:29:18.298 [140735854424288] DEBUG - Request: [127.0.0.1:36036 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_ (4 live) #13 GZIP Signed-in Token (rhel625)
+May 10, 2024 01:29:18.298 [140735854424288] DEBUG - [Req#13] [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+May 10, 2024 01:29:18.299 [140735854424288] DEBUG - [Req#13/HCl#d] HTTP requesting GET http://127.0.0.1:44059/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+May 10, 2024 01:29:18.303 [140735889682656] DEBUG - [HttpClient/HCl#d] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:44059/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+May 10, 2024 01:29:18.303 [140735854424288] DEBUG - [Req#13] [com.plexapp.system] HTTP reply status 200, with 16 bytes of content.
+May 10, 2024 01:29:18.303 [140735913029856] DEBUG - Completed: [127.0.0.1:36036] 200 GET /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE5ClBsZXggTW92aWUgKExlZ2FjeSlzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_ (4 live) #13 GZIP 5ms 415 bytes
+May 10, 2024 01:29:18.308 [140735915290848] DEBUG - [Req#b] Reading 148 bytes in the body, code is 200
+May 10, 2024 01:29:18.308 [140735915290848] DEBUG - [Req#b] [com.plexapp.agents.imdb] Plug-in running on port 43995.
+May 10, 2024 01:29:18.308 [140735915290848] DEBUG - [Req#b] Read configuration for [com.plexapp.agents.imdb], had 0 prefixes
+May 10, 2024 01:29:18.308 [140735915290848] DEBUG - [Req#b] [com.plexapp.agents.imdb] Sending command over HTTP (GET): /:/plugins/com.plexapp.agents.imdb/prefs
+May 10, 2024 01:29:18.308 [140735915290848] DEBUG - [Req#b/HCl#e] HTTP requesting GET http://127.0.0.1:43995/:/plugins/com.plexapp.agents.imdb/prefs
+May 10, 2024 01:29:18.332 [140735889682656] DEBUG - [HttpClient/HCl#e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:43995/:/plugins/com.plexapp.agents.imdb/prefs
+May 10, 2024 01:29:18.332 [140735915290848] DEBUG - [Req#b] [com.plexapp.agents.imdb] HTTP reply status 200, with 2224 bytes of content.
+May 10, 2024 01:29:18.333 [140735915290848] DEBUG - Caching document http://127.0.0.1:32400/:/plugins/com.plexapp.agents.imdb/prefs as 4daa104d6be120b1b175c784c0fb86cd3a3b95e7
+May 10, 2024 01:29:18.333 [140735915290848] DEBUG - IVA: Downloading trailer lists.
+May 10, 2024 01:29:18.663 [140735872200928] DEBUG - DVR:Device: Discovering and refreshing all devices.
+May 10, 2024 01:29:18.663 [140735872200928] DEBUG - Grabber: HDHomerun discovered 0 compatible devices.
+May 10, 2024 01:29:18.663 [140735872200928] DEBUG - [HCl#10] HTTP requesting POST http://127.0.0.1:32600/devices/discover
+May 10, 2024 01:29:18.689 [140735889682656] WARN - [HttpClient/HCl#7] HTTP error requesting GET https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:18.689 [140735859192032] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:18.689 [140735859192032] DEBUG - [HCl#11] HTTP requesting GET https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:18.690 [140735889682656] WARN - [HttpClient/HCl#8] HTTP error requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:18.690 [140735891845344] ERROR - [MediaProviderManager] Error parsing content.
+May 10, 2024 01:29:18.691 [140735891845344] ERROR - [MediaProviderManager] Error parsing XML: Error parsing file.
+May 10, 2024 01:29:18.691 [140735891845344] DEBUG - [MediaProviderManager/HCl#12] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:19.354 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:19.354 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=19, flags=0x11043, change=0x0
+May 10, 2024 01:29:19.354 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:19.354 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:19.354 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:19.610 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:19.610 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=15, flags=0x11043, change=0x0
+May 10, 2024 01:29:19.610 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:19.610 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:19.610 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=17, flags=0x11043, change=0x0
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=9, flags=0x11043, change=0x0
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:19.866 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=21, flags=0x11043, change=0x0
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=13, flags=0x11043, change=0x0
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=11, flags=0x11043, change=0x0
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:19.867 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:21.086 [140735889682656] DEBUG - [HttpClient/HCl#10] HTTP/1.1 (2.4s) 200 response from POST http://127.0.0.1:32600/devices/discover
+May 10, 2024 01:29:21.297 [140735889682656] WARN - [HttpClient/HCl#a] HTTP error requesting GET https://plex.tv/api/v2/geoip (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:21.297 [140735869923552] WARN - MyPlex: failed to update country code, response returned code -6
+May 10, 2024 01:29:21.298 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Resolving pubsub.plex.tv port 443
+May 10, 2024 01:29:21.298 [140735843971296] DEBUG - [HCl#13] HTTP requesting GET https://plex.tv/api/v2/server/webhooks?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:21.298 [140735889682656] WARN - [HttpClient/HCl#b] HTTP error requesting GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:21.298 [140735999305200] DEBUG - [Analytics] Using cached data for privacy preferences
+May 10, 2024 01:29:21.304 [140735869923552] DEBUG - [HCl#14] HTTP requesting GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:21.306 [140735999305200] DEBUG - [DatabaseFixups] Running fix-ups.
+May 10, 2024 01:29:21.307 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 58.
+May 10, 2024 01:29:21.310 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 66, count is now 0.
+May 10, 2024 01:29:21.312 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 66 (tv.plex.agents)
+May 10, 2024 01:29:21.315 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 59.
+May 10, 2024 01:29:21.315 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 67, count is now 0.
+May 10, 2024 01:29:21.316 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 67 (tv.plex.agents)
+May 10, 2024 01:29:21.317 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 93.
+May 10, 2024 01:29:21.317 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 103, count is now 0.
+May 10, 2024 01:29:21.318 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 103 (tv.plex.agents)
+May 10, 2024 01:29:21.319 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 94.
+May 10, 2024 01:29:21.319 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 104, count is now 0.
+May 10, 2024 01:29:21.320 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 104 (tv.plex.agents)
+May 10, 2024 01:29:21.321 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 95.
+May 10, 2024 01:29:21.321 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 105, count is now 0.
+May 10, 2024 01:29:21.321 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 105 (tv.plex.agents)
+May 10, 2024 01:29:21.322 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 96.
+May 10, 2024 01:29:21.322 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 106, count is now 0.
+May 10, 2024 01:29:21.323 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 106 (tv.plex.agents)
+May 10, 2024 01:29:21.323 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 97.
+May 10, 2024 01:29:21.324 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 107, count is now 0.
+May 10, 2024 01:29:21.324 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 107 (tv.plex.agents)
+May 10, 2024 01:29:21.325 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 98.
+May 10, 2024 01:29:21.325 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 108, count is now 0.
+May 10, 2024 01:29:21.326 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 108 (tv.plex.agents)
+May 10, 2024 01:29:21.326 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 99.
+May 10, 2024 01:29:21.327 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 109, count is now 0.
+May 10, 2024 01:29:21.327 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 109 (tv.plex.agents)
+May 10, 2024 01:29:21.328 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 111.
+May 10, 2024 01:29:21.328 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 123, count is now 0.
+May 10, 2024 01:29:21.329 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 123 (tv.plex.agents)
+May 10, 2024 01:29:21.335 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 112.
+May 10, 2024 01:29:21.336 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 124, count is now 0.
+May 10, 2024 01:29:21.336 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 124 (tv.plex.agents)
+May 10, 2024 01:29:21.337 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 118.
+May 10, 2024 01:29:21.337 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 130, count is now 0.
+May 10, 2024 01:29:21.337 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 130 (tv.plex.agents)
+May 10, 2024 01:29:21.338 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 119.
+May 10, 2024 01:29:21.339 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 131, count is now 0.
+May 10, 2024 01:29:21.339 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 131 (tv.plex.agents)
+May 10, 2024 01:29:21.340 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 120.
+May 10, 2024 01:29:21.340 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 132, count is now 0.
+May 10, 2024 01:29:21.341 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 132 (tv.plex.agents)
+May 10, 2024 01:29:21.341 [140735999305200] DEBUG - [DatabaseFixups] Deleting media item 121.
+May 10, 2024 01:29:21.342 [140735999305200] DEBUG - [DatabaseFixups] Was connected to metadata item 133, count is now 0.
+May 10, 2024 01:29:21.342 [140735999305200] DEBUG - [DatabaseFixups] Destroying metadata item 133 (tv.plex.agents)
+May 10, 2024 01:29:21.343 [140735999305200] DEBUG - [DatabaseFixups] Destroyed 15 transient items.
+May 10, 2024 01:29:21.347 [140735999305200] DEBUG - [DatabaseFixups] Collections: Found 0 collections tags in section 1.
+May 10, 2024 01:29:21.347 [140735999305200] DEBUG - [DatabaseFixups] Collections: We had 0 collections in the library already.
+May 10, 2024 01:29:21.347 [140735999305200] DEBUG - [DatabaseFixups] Collections: Synced tags in section 1 in 0ms.
+May 10, 2024 01:29:21.348 [140735999305200] DEBUG - [DatabaseFixups] Collections: Refreshed attributes for 0 collections in section 1 in 0ms.
+May 10, 2024 01:29:21.348 [140735999305200] DEBUG - [DatabaseFixups] Collection: Refreshed visibility in section 1 in 0ms.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: Found 0 collections tags in section 2.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: We had 0 collections in the library already.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: Synced tags in section 2 in 0ms.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: Found 0 collections tags in section 2.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: We had 0 collections in the library already.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: Synced tags in section 2 in 0ms.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: Found 0 collections tags in section 2.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: We had 0 collections in the library already.
+May 10, 2024 01:29:21.349 [140735999305200] DEBUG - [DatabaseFixups] Collections: Synced tags in section 2 in 0ms.
+May 10, 2024 01:29:21.350 [140735999305200] DEBUG - [DatabaseFixups] Collections: Refreshed attributes for 0 collections in section 2 in 1ms.
+May 10, 2024 01:29:21.350 [140735999305200] DEBUG - [DatabaseFixups] Collection: Refreshed visibility in section 2 in 0ms.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: Found 0 collections tags in section 4.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: We had 0 collections in the library already.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: Synced tags in section 4 in 0ms.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: Found 0 collections tags in section 4.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: We had 0 collections in the library already.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: Synced tags in section 4 in 0ms.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: Found 0 collections tags in section 4.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: We had 0 collections in the library already.
+May 10, 2024 01:29:21.351 [140735999305200] DEBUG - [DatabaseFixups] Collections: Synced tags in section 4 in 0ms.
+May 10, 2024 01:29:21.352 [140735999305200] DEBUG - [DatabaseFixups] Collections: Refreshed attributes for 0 collections in section 4 in 0ms.
+May 10, 2024 01:29:21.352 [140735999305200] DEBUG - [DatabaseFixups] Collection: Refreshed visibility in section 4 in 0ms.
+May 10, 2024 01:29:21.353 [140735999305200] DEBUG - [DatabaseFixups] Running database fix-ups completed in 0.0 seconds.
+May 10, 2024 01:29:21.353 [140735999305200] DEBUG - [HCl#15] HTTP requesting GET https://plex.tv/api/v2/features?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:21.998 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=88, type=RTM_DELADDR, flags=0x0
+May 10, 2024 01:29:21.998 [140735865663712] DEBUG - NetworkInterface: Netlink address message family=2, index=2, flags=0x0
+May 10, 2024 01:29:21.998 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:21.998 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - Detected primary interface: 192.168.1.219
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - Network interfaces:
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG -  * 1 lo (127.0.0.1) (00-00-00-00-00-00) (loopback: 1)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG -  * 2 eth0 (192.168.1.219) (2C-CF-67-25-EF-8F) (loopback: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG -  * 4 br-39024773eff8 (172.28.0.1) (02-42-11-1F-0E-DB) (loopback: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG -  * 5 br-9704d859d9c6 (172.21.0.1) (02-42-C5-32-3F-EB) (loopback: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG -  * 6 br-d7bf52ad2c40 (172.18.0.1) (02-42-EA-D2-4E-99) (loopback: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG -  * 1 lo (::1) (00-00-00-00-00-00) (loopback: 1)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 01:29:21.999 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 01:29:23.338 [140735859192032] ERROR - HTTP -6 downloading url https://meta.plex.tv/t/theater?language=en&redband=0&subtitleLanguage=en
+May 10, 2024 01:29:23.338 [140735915290848] ERROR - IVA: Error downloading trailers for source 1.
+May 10, 2024 01:29:23.694 [140735889682656] WARN - [HttpClient/HCl#11] HTTP error requesting GET https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:23.694 [140735859192032] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:23.694 [140735889682656] WARN - [HttpClient/HCl#12] HTTP error requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:23.694 [140735859192032] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:23.694 [140735891845344] ERROR - [MediaProviderManager] Error parsing content.
+May 10, 2024 01:29:23.694 [140735891845344] ERROR - [MediaProviderManager] Error parsing XML: Error parsing file.
+May 10, 2024 01:29:23.694 [140735891845344] DEBUG - [MediaProviderManager/HCl#17] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=0), closing 4 browse sockets.
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32413
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.219 on broadcast address 192.168.1.255 (index: 1)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 172.28.255.255 (index: 2)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 172.21.255.255 (index: 3)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 4)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=1), closing 4 browse sockets.
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.219 on broadcast address 192.168.1.255 (index: 1)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 172.28.255.255 (index: 2)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 172.21.255.255 (index: 3)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 4)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=0), closing 3 browse sockets.
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:1901
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.219 on broadcast address 239.255.255.250 (index: 0)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 239.255.255.250 (index: 1)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 239.255.255.250 (index: 2)
+May 10, 2024 01:29:24.000 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 239.255.255.250 (index: 3)
+May 10, 2024 01:29:24.000 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.100 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.100 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.200 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.200 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.300 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.300 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.400 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.400 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.501 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.501 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.601 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.601 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.701 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.701 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.801 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.801 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:24.901 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:24.901 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:25.001 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:25.001 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:25.101 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:25.101 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:25.201 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:25.201 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 01:29:25.301 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 01:29:26.294 [140735846166752] DEBUG - Grabber: Cleaning up orphaned grabs.
+May 10, 2024 01:29:26.295 [140735846166752] DEBUG - Grabber: Cleaned up 0 decrepit directories in 0.0 sec.
+May 10, 2024 01:29:26.295 [140735846166752] DEBUG - Activity: registered new activity 6d90657b-d6a2-4cea-bb65-87db79fc2632 - "Processing subscriptions"
+May 10, 2024 01:29:26.295 [140735846166752] DEBUG - Subscription: Scheduling subscriptions.
+May 10, 2024 01:29:26.295 [140735846166752] DEBUG - Subscription: Initialized 0 schedulers.
+May 10, 2024 01:29:26.295 [140735846166752] DEBUG - Subscription: Starting with 0 grabs, scheduled 0 active ones preemptively.
+May 10, 2024 01:29:26.295 [140735846166752] DEBUG - Subscription: Scheduled all subscriptions in 0 ms.
+May 10, 2024 01:29:26.295 [140735846166752] DEBUG - Activity: Ended activity 6d90657b-d6a2-4cea-bb65-87db79fc2632.
+May 10, 2024 01:29:26.296 [140735846166752] DEBUG - Subscription: There are 0 active grabs at the end.
+May 10, 2024 01:29:26.296 [140735846166752] DEBUG - Activity: Ended activity 278b87b0-8401-4b22-9820-b3ed045d94cf.
+May 10, 2024 01:29:26.296 [140735846166752] DEBUG - Subscription: Refreshed all content in 2 ms.
+May 10, 2024 01:29:26.299 [140735872200928] DEBUG - [PubsubServerManager/process/HCl#1a] HTTP requesting GET https://plex.tv/services/pubsub/servers
+May 10, 2024 01:29:26.302 [140735889682656] WARN - [HttpClient/HCl#13] HTTP error requesting GET https://plex.tv/api/v2/server/webhooks?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:26.303 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Failure: 2 - Host not found (non-authoritative), try again later.
+May 10, 2024 01:29:26.303 [140735910899936] ERROR - [EventSourceClient/pubsub/pubsub.plex.tv:443] Retrying in 15 seconds.
+May 10, 2024 01:29:26.310 [140735889682656] WARN - [HttpClient/HCl#14] HTTP error requesting GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:26.310 [140735869923552] DEBUG - [Analytics] Using cached data for privacy preferences
+May 10, 2024 01:29:26.310 [140735869923552] DEBUG - [HCl#1b] HTTP requesting GET https://plex.tv/api/v2/features?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:26.359 [140735889682656] WARN - [HttpClient/HCl#15] HTTP error requesting GET https://plex.tv/api/v2/features?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:26.360 [140735999305200] DEBUG - FeatureManager: Using cached data for features list
+May 10, 2024 01:29:26.360 [140735999305200] DEBUG - [HCl#1c] HTTP requesting GET https://plex.tv/api/v2/release_channels?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:27.002 [140735865663712] DEBUG - Network: 172-17-0-1.abcdefghijklmnopqrstuvwxyz012345.plex.direct failed to resolve to 172.17.0.1 but instead yielded (null)
+May 10, 2024 01:29:27.002 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=64, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:27.002 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x1003, change=0x0
+May 10, 2024 01:29:27.002 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:27.002 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:27.003 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:28.344 [140735887552736] ERROR - HTTP -6 downloading url https://meta.plex.tv/t/video?language=en&redband=0&subtitleLanguage=en
+May 10, 2024 01:29:28.344 [140735915290848] ERROR - IVA: Error downloading trailers for source 2.
+May 10, 2024 01:29:28.698 [140735889682656] WARN - [HttpClient/HCl#17] HTTP error requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:28.702 [140735891845344] ERROR - [MediaProviderManager] Error parsing content.
+May 10, 2024 01:29:28.702 [140735891845344] ERROR - [MediaProviderManager] Error parsing XML: Error parsing file.
+May 10, 2024 01:29:28.702 [140735891845344] DEBUG - [MediaProviderManager/HCl#1d] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:31.306 [140735846166752] DEBUG - [HCl#1e] HTTP requesting GET https://plex.tv/api/resources.xml?includeHttps=1&includeRelay=1&auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:31.307 [140735889682656] WARN - [HttpClient/HCl#1a] HTTP error requesting GET https://plex.tv/services/pubsub/servers (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:31.314 [140735889682656] WARN - [HttpClient/HCl#1b] HTTP error requesting GET https://plex.tv/api/v2/features?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:31.314 [140735869923552] DEBUG - FeatureManager: Using cached data for features list
+May 10, 2024 01:29:31.315 [140735869923552] DEBUG - [HCl#1f] HTTP requesting GET https://plex.tv/api/v2/release_channels?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:31.365 [140735889682656] WARN - [HttpClient/HCl#1c] HTTP error requesting GET https://plex.tv/api/v2/release_channels?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:31.365 [140735999305200] DEBUG - [AutoUpdateRequestHandler] Using cached data for update channels
+May 10, 2024 01:29:31.373 [140735999305200] DEBUG - Waiting for server condition to be signaled.
+May 10, 2024 01:29:31.843 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.1:38400/description.xml
+May 10, 2024 01:29:31.855 [140735889682656] DEBUG - [HttpClient/HCl#20] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.1:38400/description.xml
+May 10, 2024 01:29:31.855 [140735863533792] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.1:38400/description.xml
+May 10, 2024 01:29:31.855 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.1 (EX3301-T0)
+May 10, 2024 01:29:33.708 [140735889682656] WARN - [HttpClient/HCl#1d] HTTP error requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:33.708 [140735891845344] ERROR - [MediaProviderManager] Error parsing content.
+May 10, 2024 01:29:33.708 [140735891845344] ERROR - [MediaProviderManager] Error parsing XML: Error parsing file.
+May 10, 2024 01:29:33.708 [140735891845344] DEBUG - [MediaProviderManager/HCl#21] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:36.310 [140735889682656] WARN - [HttpClient/HCl#1e] HTTP error requesting GET https://plex.tv/api/resources.xml?includeHttps=1&includeRelay=1&auth_token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:36.310 [140735846166752] ERROR - Error parsing content.
+May 10, 2024 01:29:36.311 [140735846166752] ERROR - Error parsing XML: Error parsing file.
+May 10, 2024 01:29:36.311 [140735846166752] DEBUG - Media Server: Tested all servers in 0.0 seconds.
+May 10, 2024 01:29:36.322 [140735889682656] WARN - [HttpClient/HCl#1f] HTTP error requesting GET https://plex.tv/api/v2/release_channels?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:36.322 [140735869923552] DEBUG - [AutoUpdateRequestHandler] Using cached data for update channels
+May 10, 2024 01:29:36.328 [140735869923552] DEBUG - CERT: Certificate will not expire soon; we'll check again in a week.
+May 10, 2024 01:29:36.328 [140735876591840] DEBUG - MyPlex: sendMapping resetting state - previous mapping state: 'Unknown'.
+May 10, 2024 01:29:36.328 [140735876591840] DEBUG - MyPlex: mapping state set to 'Unknown'.
+May 10, 2024 01:29:36.329 [140735869923552] DEBUG - MyPlex: Updating device connections (from timer: 0)
+May 10, 2024 01:29:36.329 [140735869923552] DEBUG - [HCl#22] HTTP requesting PUT https://plex.tv/devices/d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52?Connection[][uri]=http://192.168.1.219:32400&Connection[][uri]=http://172.28.0.1:32400&Connection[][uri]=http://172.21.0.1:32400&Connection[][uri]=http://172.18.0.1:32400&httpsEnabled=1&httpsRequired=0&dnsRebindingProtection=1&X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:36.330 [140735876591840] DEBUG - MyPlex: Sending Server Info to myPlex (user=rheligon@gmail.com, ip=, port=0)
+May 10, 2024 01:29:36.330 [140735876591840] DEBUG - [HCl#23] HTTP requesting POST https://plex.tv/servers.xml?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:38.500 [140735848296672] DEBUG - [HCl#24] HTTP requesting GET https://plex.tv/api/v2/shared_sources/owned?machineIdentifier=d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52
+May 10, 2024 01:29:38.711 [140735889682656] WARN - [HttpClient/HCl#21] HTTP error requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:38.711 [140735891845344] ERROR - [MediaProviderManager] Error parsing content.
+May 10, 2024 01:29:38.711 [140735891845344] ERROR - [MediaProviderManager] Error parsing XML: Error parsing file.
+May 10, 2024 01:29:41.315 [140735913029856] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Resolving pubsub.plex.tv port 443
+May 10, 2024 01:29:41.333 [140735889682656] WARN - [HttpClient/HCl#23] HTTP error requesting POST https://plex.tv/servers.xml?auth_token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:41.333 [140735876591840] DEBUG - MyPlex: Published Mapping State response was -6
+May 10, 2024 01:29:41.333 [140735876591840] WARN - MyPlex: Invalid response when mapping state (code=-6): 
+May 10, 2024 01:29:41.333 [140735876591840] DEBUG - MyPlex: updating mapped state - current state: 'Unknown'
+May 10, 2024 01:29:41.333 [140735876591840] DEBUG - MyPlex: mapping state set to 'Mapped - Not Published (No server)'.
+May 10, 2024 01:29:41.334 [140735889682656] WARN - [HttpClient/HCl#22] HTTP error requesting PUT https://plex.tv/devices/d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52?Connection[][uri]=http://192.168.1.219:32400&Connection[][uri]=http://172.28.0.1:32400&Connection[][uri]=http://172.21.0.1:32400&Connection[][uri]=http://172.18.0.1:32400&httpsEnabled=1&httpsRequired=0&dnsRebindingProtection=1&X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:41.334 [140735869923552] WARN - MyPlex: Updating device connections failed, retrying in 10 seconds.
+May 10, 2024 01:29:43.506 [140735889682656] WARN - [HttpClient/HCl#24] HTTP error requesting GET https://plex.tv/api/v2/shared_sources/owned?machineIdentifier=d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52 (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:43.506 [140735848296672] DEBUG - [HCl#25] HTTP requesting GET https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:46.320 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Failure: 2 - Host not found (non-authoritative), try again later.
+May 10, 2024 01:29:46.320 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443/PubsubServerManager/getNextWorkingHost] No working hosts in region, refreshing full host list
+May 10, 2024 01:29:46.320 [140735910899936] ERROR - [EventSourceClient/pubsub/pubsub.plex.tv:443] Retrying in 30 seconds.
+May 10, 2024 01:29:48.509 [140735889682656] WARN - [HttpClient/HCl#25] HTTP error requesting GET https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:48.509 [140735887552736] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:48.509 [140735848296672] DEBUG - MyPlex: updating with 7 access tokens
+May 10, 2024 01:29:48.509 [140735848296672] DEBUG - [HCl#26] HTTP requesting GET https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:48.509 [140735891845344] DEBUG - [MediaProviderManager/HCl#27] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:51.335 [140735872200928] DEBUG - MyPlex: Updating device connections (from timer: 1)
+May 10, 2024 01:29:51.335 [140735872200928] DEBUG - [HCl#28] HTTP requesting PUT https://plex.tv/devices/d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52?Connection[][uri]=http://192.168.1.219:32400&Connection[][uri]=http://172.28.0.1:32400&Connection[][uri]=http://172.21.0.1:32400&Connection[][uri]=http://172.18.0.1:32400&httpsEnabled=1&httpsRequired=0&dnsRebindingProtection=1&X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:53.286 [140735885390048] DEBUG - SSDP departed after not being seen for 21.353092 seconds: 192.168.1.1 (EX3301-T0)
+May 10, 2024 01:29:53.514 [140735889682656] WARN - [HttpClient/HCl#26] HTTP error requesting GET https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:53.514 [140735889682656] WARN - [HttpClient/HCl#27] HTTP error requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:53.514 [140735887552736] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:53.514 [140735891845344] ERROR - [MediaProviderManager] Error parsing content.
+May 10, 2024 01:29:53.514 [140735891845344] ERROR - [MediaProviderManager] Error parsing XML: Error parsing file.
+May 10, 2024 01:29:53.514 [140735887552736] DEBUG - [HCl#29] HTTP requesting GET https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:54.328 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=64, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 01:29:54.328 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x1003, change=0x0
+May 10, 2024 01:29:54.328 [140735865663712] DEBUG - Network change.
+May 10, 2024 01:29:54.328 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 01:29:54.329 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 01:29:55.243 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.1:38400/description.xml
+May 10, 2024 01:29:55.246 [140735889682656] DEBUG - [HttpClient/HCl#2a] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.1:38400/description.xml (reused)
+May 10, 2024 01:29:55.246 [140735863533792] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.1:38400/description.xml
+May 10, 2024 01:29:55.246 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.1 (EX3301-T0)
+May 10, 2024 01:29:56.340 [140735889682656] WARN - [HttpClient/HCl#28] HTTP error requesting PUT https://plex.tv/devices/d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52?Connection[][uri]=http://192.168.1.219:32400&Connection[][uri]=http://172.28.0.1:32400&Connection[][uri]=http://172.21.0.1:32400&Connection[][uri]=http://172.18.0.1:32400&httpsEnabled=1&httpsRequired=0&dnsRebindingProtection=1&X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:56.340 [140735872200928] WARN - MyPlex: Updating device connections failed, retrying in 20 seconds.
+May 10, 2024 01:29:58.520 [140735889682656] WARN - [HttpClient/HCl#29] HTTP error requesting GET https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+May 10, 2024 01:29:58.520 [140735883161824] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 01:29:58.520 [140735883161824] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 02:32:47.411 [140735854424288] DEBUG - Request: [127.0.0.1:44234 (Loopback)] GET /servers (2 live) #15 GZIP Signed-in Token (rhel625)
+May 10, 2024 02:32:47.411 [140735910899936] DEBUG - Completed: [127.0.0.1:44234] 200 GET /servers (2 live) #15 GZIP 0ms 492 bytes
+May 10, 2024 02:32:47.413 [140735854424288] DEBUG - Request: [127.0.0.1:44244 (Loopback)] GET / (2 live) #58 GZIP Signed-in Token (rhel625)
+May 10, 2024 02:32:47.415 [140735910899936] DEBUG - Completed: [127.0.0.1:44244] 200 GET / (2 live) #58 GZIP 1ms 3662 bytes
+May 10, 2024 02:32:47.447 [140735854424288] DEBUG - Request: [127.0.0.1:44248 (Loopback)] GET /library/sections (2 live) #5a GZIP Signed-in Token (rhel625)
+May 10, 2024 02:32:47.452 [140735913029856] DEBUG - Completed: [127.0.0.1:44248] 200 GET /library/sections (2 live) #5a GZIP 5ms 967 bytes
+May 10, 2024 02:32:47.469 [140735854424288] DEBUG - Request: [127.0.0.1:44250 (Loopback)] GET /channels/all (2 live) #5c GZIP Signed-in Token (rhel625)
+May 10, 2024 02:32:47.469 [140735910899936] DEBUG - Completed: [127.0.0.1:44250] 200 GET /channels/all (2 live) #5c GZIP 0ms 387 bytes
+May 10, 2024 02:32:47.473 [140735854424288] DEBUG - Request: [127.0.0.1:44258 (Loopback)] GET /library/sections (2 live) #5e GZIP Signed-in Token (rhel625)
+May 10, 2024 02:32:47.474 [140735913029856] DEBUG - Completed: [127.0.0.1:44258] 200 GET /library/sections (2 live) #5e GZIP 1ms 967 bytes
+May 10, 2024 02:32:47.487 [140735854424288] DEBUG - Request: [127.0.0.1:44270 (Loopback)] GET /channels/all (2 live) #60 GZIP Signed-in Token (rhel625)
+May 10, 2024 02:32:47.488 [140735913029856] DEBUG - Completed: [127.0.0.1:44270] 200 GET /channels/all (2 live) #60 GZIP 0ms 387 bytes
+May 10, 2024 02:32:49.641 [140735915290848] DEBUG - SSDP departed after not being seen for 3774.318512 seconds: 192.168.1.1 (EX3301-T0)
+May 10, 2024 02:32:56.762 [140735856652512] DEBUG - Putting plug-in com.plexapp.agents.imdb to sleep.
+May 10, 2024 02:32:56.762 [140735856652512] DEBUG - Stopping [com.plexapp.agents.imdb].
+May 10, 2024 02:32:56.762 [140735856652512] DEBUG - [com.plexapp.agents.imdb] Killing.
+May 10, 2024 02:32:56.763 [140735917715680] WARN - JobManager: Could not find job for handle 271
+May 10, 2024 02:32:57.884 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.1:38400/description.xml
+May 10, 2024 02:32:57.984 [140735889682656] DEBUG - [HttpClient/HCl#2b] HTTP/1.1 (0.1s) 200 response from GET http://192.168.1.1:38400/description.xml
+May 10, 2024 02:32:57.984 [140735863533792] DEBUG - [NSB/SSDP] found 3 SSDP devices via http://192.168.1.1:38400/description.xml
+May 10, 2024 02:32:57.984 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.1 (EX3301-T0)
+May 10, 2024 02:32:57.984 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.1 (WANDevice.1)
+May 10, 2024 02:32:57.984 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.1 (WANConnectionDevice.1)
+May 10, 2024 02:33:02.688 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Resolving pubsub.plex.tv port 443
+May 10, 2024 02:33:02.695 [140735915290848] DEBUG - MyPlex: Updating device connections (from timer: 1)
+May 10, 2024 02:33:02.696 [140735915290848] DEBUG - [HCl#2c] HTTP requesting PUT https://plex.tv/devices/d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52?Connection[][uri]=http://192.168.1.219:32400&Connection[][uri]=http://172.28.0.1:32400&Connection[][uri]=http://172.21.0.1:32400&Connection[][uri]=http://172.18.0.1:32400&httpsEnabled=1&httpsRequired=0&dnsRebindingProtection=1&X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 02:33:02.729 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Resolved pubsub.plex.tv to 172.104.245.130:443
+May 10, 2024 02:33:02.847 [140735913029856] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Connected in 118 ms.
+May 10, 2024 02:33:02.847 [140735913029856] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Wrote data, reading reply.
+May 10, 2024 02:33:02.992 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Read HTTP reply header.
+May 10, 2024 02:33:02.992 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] MyPlex: We appear to have regained Internet connectivity.
+May 10, 2024 02:33:03.114 [140735889682656] DEBUG - [HttpClient/HCl#2c] HTTP/2.0 (0.4s) 200 response from PUT https://plex.tv/devices/d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52?Connection[][uri]=http://192.168.1.219:32400&Connection[][uri]=http://172.28.0.1:32400&Connection[][uri]=http://172.21.0.1:32400&Connection[][uri]=http://172.18.0.1:32400&httpsEnabled=1&httpsRequired=0&dnsRebindingProtection=1&X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 02:33:03.400 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] MyPlex: async reachability check - current mapped state: 'Mapped - Not Published (No server)'.
+May 10, 2024 02:33:03.400 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] MyPlex: Requesting reachability check.
+May 10, 2024 02:33:03.400 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443/HCl#2d] HTTP requesting PUT https://plex.tv/api/servers/d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52/connectivity?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx&asyncIdentifier=7d4c80ab-36d5-4d36-a41a-a5d1ab609c96
+May 10, 2024 02:33:03.462 [140735889682656] DEBUG - [HttpClient/HCl#2d] HTTP/2.0 (0.1s) 200 response from PUT https://plex.tv/api/servers/d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52/connectivity?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx&asyncIdentifier=7d4c80ab-36d5-4d36-a41a-a5d1ab609c96 (reused)
+May 10, 2024 02:33:03.462 [140735910899936] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] Successfully connected to pubsub.plex.tv.
+May 10, 2024 02:33:03.512 [140735913029856] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] EventSource: Got event [data] '<Message address="" port="0" asyncIdentifier="7d4c80ab-36d5-4d36-a41a-a5d1ab609c96" connectivity="0" command="notifyConnectivity"/>'
+May 10, 2024 02:33:03.512 [140735913029856] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] PubSub: Got notified of reachability for async identifier 7d4c80ab-36d5-4d36-a41a-a5d1ab609c96: 0 for :0 (responded in 50 ms)
+May 10, 2024 02:33:03.512 [140735913029856] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] MyPlex: reachability check - current mapping state: 'Mapped - Not Published (No server)'.
+May 10, 2024 02:33:03.512 [140735913029856] DEBUG - [EventSourceClient/pubsub/pubsub.plex.tv:443] MyPlex: mapping state set to 'Mapped - Not Published (Not Reachable)'.
+May 10, 2024 02:33:06.763 [140735856652512] DEBUG - Stopping file watcher for com.plexapp.agents.imdb
+May 10, 2024 02:33:23.589 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=64, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:33:23.589 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x1003, change=0x0
+May 10, 2024 02:33:23.589 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:33:23.589 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:33:23.589 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:33:54.555 [140735887552736] DEBUG - BPQ: [Starting] -> [Processing]
+May 10, 2024 02:33:54.556 [140735887552736] DEBUG - BPQ: generating queue items from 0 generator(s)
+May 10, 2024 02:33:54.556 [140735887552736] DEBUG - BPQ: generated 0 item(s) for queue
+May 10, 2024 02:33:54.556 [140735887552736] DEBUG - PlayQueue: 0 generated IDs compressed down to a 20 byte blob.
+May 10, 2024 02:33:54.556 [140735887552736] DEBUG - PlayQueue: 0 generated IDs compressed down to a 20 byte blob.
+May 10, 2024 02:33:54.556 [140735887552736] DEBUG - BPQ: [Processing] -> [Idle]
+May 10, 2024 02:34:27.591 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=64, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:34:27.591 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x1003, change=0x0
+May 10, 2024 02:34:27.591 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:34:27.591 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:34:27.592 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:34:31.045 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=64, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:34:31.045 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x1003, change=0x0
+May 10, 2024 02:34:31.045 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:34:31.045 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:34:31.045 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:34:34.646 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=208, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:34:34.646 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x1003, change=0x0
+May 10, 2024 02:34:34.646 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:34:34.646 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:34:34.664 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:34:34.664 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=304, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:34:34.664 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x1003, change=0x0
+May 10, 2024 02:34:34.664 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:34:34.664 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=72, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x1003, change=0x0
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1476, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x11003, change=0x0
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:34:34.665 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:34:34.666 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:34:34.666 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1476, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:34:34.666 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=3, flags=0x11043, change=0x0
+May 10, 2024 02:34:34.666 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:34:34.666 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:34:34.666 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:34:34.703 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=88, type=RTM_DELADDR, flags=0x0
+May 10, 2024 02:34:34.703 [140735865663712] DEBUG - NetworkInterface: Netlink address message family=2, index=3, flags=0x0
+May 10, 2024 02:34:34.703 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:34:34.703 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - Detected primary interface: 192.168.1.219
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - Network interfaces:
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG -  * 1 lo (127.0.0.1) (00-00-00-00-00-00) (loopback: 1)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG -  * 2 eth0 (192.168.1.219) (2C-CF-67-25-EF-8F) (loopback: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG -  * 3 wlan0 (192.168.1.220) (2C-CF-67-25-EF-90) (loopback: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG -  * 4 br-39024773eff8 (172.28.0.1) (02-42-11-1F-0E-DB) (loopback: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG -  * 5 br-9704d859d9c6 (172.21.0.1) (02-42-C5-32-3F-EB) (loopback: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG -  * 6 br-d7bf52ad2c40 (172.18.0.1) (02-42-EA-D2-4E-99) (loopback: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG -  * 1 lo (::1) (00-00-00-00-00-00) (loopback: 1)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Got notification of changed network (first change: 0)
+May 10, 2024 02:34:34.705 [140735865663712] DEBUG - NetworkService: Dispatch network change after two second delay.
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - Network change for advertiser.
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=0), closing 5 browse sockets.
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32413
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.219 on broadcast address 192.168.1.255 (index: 1)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.220 on broadcast address 192.168.1.255 (index: 2)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 172.28.255.255 (index: 3)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 172.21.255.255 (index: 4)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 5)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=1), closing 5 browse sockets.
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.219 on broadcast address 192.168.1.255 (index: 1)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.220 on broadcast address 192.168.1.255 (index: 2)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 172.28.255.255 (index: 3)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 172.21.255.255 (index: 4)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 5)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Network change for browser (polled=0), closing 4 browse sockets.
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:1901
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.219 on broadcast address 239.255.255.250 (index: 0)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 192.168.1.220 on broadcast address 239.255.255.250 (index: 1)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.28.0.1 on broadcast address 239.255.255.250 (index: 2)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.21.0.1 on broadcast address 239.255.255.250 (index: 3)
+May 10, 2024 02:34:36.706 [140735863533792] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 239.255.255.250 (index: 4)
+May 10, 2024 02:34:36.706 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:36.807 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:36.807 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:36.907 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:36.907 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.007 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.007 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.107 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.107 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.207 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.207 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.307 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.307 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.407 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.407 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.507 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.507 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.607 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.607 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.707 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.707 [140735863533792] ERROR - [NSB] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.807 [140735863533792] INFO - [NSB] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.807 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:37.907 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:37.907 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:38.007 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:38.007 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:38.107 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:38.107 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:38.207 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 02:34:38.207 [140735863533792] ERROR - [NSB/SSDP] Error in browser handle read: 125 (Operation canceled) socket=-1
+May 10, 2024 02:34:38.308 [140735863533792] INFO - [NSB/SSDP] Abandoning browse socket, it was closed.
+May 10, 2024 02:36:57.638 [140735915290848] DEBUG - Butler: we're in the window, starting.
+May 10, 2024 02:36:57.638 [140735915290848] DEBUG - Butler: Waking up!
+May 10, 2024 02:36:57.638 [140735915290848] DEBUG - Butler: Scheduling randomized task 'RefreshEpgGuides' in 157 minutes.
+May 10, 2024 02:36:57.638 [140735915290848] DEBUG - Butler: Scheduling randomized task 'RefreshPeriodicMetadata' in 89 minutes.
+May 10, 2024 02:36:57.638 [140735915290848] DEBUG - Butler: Scheduling randomized task 'ButlerTaskGenerateCreditsMarkers' in 9 minutes.
+May 10, 2024 02:36:57.639 [140735915290848] DEBUG - Butler: Scheduling randomized task 'ButlerTaskGenerateVoiceActivity' in 83 minutes.
+May 10, 2024 02:36:57.639 [140735887552736] DEBUG - Activity: registered new activity df6df819-8bbf-4889-82a1-6558c5efcc3a - "Butler tasks"
+May 10, 2024 02:36:57.650 [140735887552736] DEBUG - It took 20.000000 ms to retrieve 113 items.
+May 10, 2024 02:36:57.660 [140735887552736] DEBUG - It took 0.000000 ms to retrieve 318 items.
+May 10, 2024 02:36:57.666 [140735887552736] DEBUG - It took 0.000000 ms to retrieve 215 items.
+May 10, 2024 02:36:57.796 [140735887552736] DEBUG - Butler: Computed a set of 0 albums to get loudness analysis in 0ms.
+May 10, 2024 02:36:57.814 [140735887552736] DEBUG - Activity: registered new sub-activity 00b67e72-ba32-499a-badc-2de34574f713 - "GarbageCollectLibraryMedia" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 0.0% (0/1)
+May 10, 2024 02:36:57.814 [140735887552736] DEBUG - Activity: ended sub-activity 00b67e72-ba32-499a-badc-2de34574f713 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (1/1)
+May 10, 2024 02:36:57.815 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.815 [140735887552736] DEBUG - Activity: registered new sub-activity 37b6829c-a64d-442e-aa89-222322be76b4 - "UpgradeMediaAnalysis" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 50.0% (1/2)
+May 10, 2024 02:36:57.815 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 50.0% - Butler tasks
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - Activity: ended sub-activity 37b6829c-a64d-442e-aa89-222322be76b4 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (2/2)
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - The butler analyzed 0 items.
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - Activity: registered new sub-activity 1e82fbc0-b7d1-4486-a0bf-9ca21b7f0132 - "LoudnessAnalysis" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 66.7% (2/3)
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 66.7% - Butler tasks
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - Activity: ended sub-activity 1e82fbc0-b7d1-4486-a0bf-9ca21b7f0132 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (3/3)
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - The butler performed loudness analysis on 0 albums.
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - Activity: registered new sub-activity 08a432a5-7619-432b-9fbf-08a7af3de692 - "GenerateBlurHashes" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 75.0% (3/4)
+May 10, 2024 02:36:57.993 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 75.0% - Butler tasks
+May 10, 2024 02:36:57.995 [140735887552736] DEBUG - Activity: ended sub-activity 08a432a5-7619-432b-9fbf-08a7af3de692 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (4/4)
+May 10, 2024 02:36:57.995 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.995 [140735887552736] DEBUG - Activity: registered new sub-activity fc316102-cc06-44d3-9c16-53711c4f187f - "GenerateBlurHashes" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 80.0% (4/5)
+May 10, 2024 02:36:57.995 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 80.0% - Butler tasks
+May 10, 2024 02:36:57.996 [140735887552736] DEBUG - Activity: ended sub-activity fc316102-cc06-44d3-9c16-53711c4f187f parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (5/5)
+May 10, 2024 02:36:57.996 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.996 [140735887552736] DEBUG - Activity: registered new sub-activity 800e42af-4033-42a5-a9b4-ce89a19c1fdf - "GenerateBlurHashes" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 83.3% (5/6)
+May 10, 2024 02:36:57.996 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 83.3% - Butler tasks
+May 10, 2024 02:36:57.996 [140735887552736] DEBUG - Activity: ended sub-activity 800e42af-4033-42a5-a9b4-ce89a19c1fdf parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (6/6)
+May 10, 2024 02:36:57.996 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.996 [140735887552736] DEBUG - Activity: registered new sub-activity b85385a2-61e4-48b5-9b37-38d59e97770e - "GenerateBlurHashes" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 85.7% (6/7)
+May 10, 2024 02:36:57.996 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 85.7% - Butler tasks
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: ended sub-activity b85385a2-61e4-48b5-9b37-38d59e97770e parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (7/7)
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - The butler generated 0 blur hashes.
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: registered new sub-activity 1fab5991-6b83-4a34-b758-532d92553155 - "ButlerTaskGenerateIntroMarkers" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 87.5% (7/8)
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 87.5% - Butler tasks
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: ended sub-activity 1fab5991-6b83-4a34-b758-532d92553155 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (8/8)
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: registered new sub-activity 5a1ac987-bdf8-4af5-b9bc-6009888d8916 - "GenerateChapterThumbs" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 88.9% (8/9)
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 88.9% - Butler tasks
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: ended sub-activity 5a1ac987-bdf8-4af5-b9bc-6009888d8916 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (9/9)
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.997 [140735887552736] DEBUG - The butler generated chapter thumbnails for 0 files
+May 10, 2024 02:36:57.998 [140735887552736] DEBUG - Activity: registered new sub-activity 27755340-a7f7-4957-8b7f-483535d527e3 - "DeepMediaAnalysis" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 90.0% (9/10)
+May 10, 2024 02:36:57.998 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 90.0% - Butler tasks
+May 10, 2024 02:36:57.998 [140735887552736] DEBUG - Activity: ended sub-activity 27755340-a7f7-4957-8b7f-483535d527e3 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (10/10)
+May 10, 2024 02:36:57.998 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 02:36:57.998 [140735887552736] DEBUG - The butler performed deep analysis on 0 files
+May 10, 2024 02:37:16.678 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 02:37:16.678 [140735915290848] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 02:37:16.678 [140735915290848] DEBUG - [ViewStateSync/HCl#2e] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 02:37:16.884 [140735889682656] DEBUG - [HttpClient/HCl#2e] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 02:37:16.885 [140735883260128] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 02:37:39.869 [140735885390048] DEBUG - [MediaProviderManager/HCl#2f] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 02:37:39.941 [140735889682656] DEBUG - [HttpClient/HCl#2f] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (reused)
+May 10, 2024 02:37:39.942 [140735885390048] DEBUG - [MediaProviderManager] discovered cloud provider (Movies & TV)
+May 10, 2024 02:37:39.942 [140735885390048] DEBUG - [MediaProviderManager] discovered cloud provider (Music)
+May 10, 2024 02:37:39.942 [140735885390048] DEBUG - [MediaProviderManager] discovered cloud provider (Metadata)
+May 10, 2024 02:37:39.942 [140735885390048] DEBUG - [MediaProviderManager] loading cloud provider details (Metadata) (alive: 0)
+May 10, 2024 02:37:39.942 [140735872200928] DEBUG - [MediaProviderManager/HCl#31] HTTP requesting GET https://vod.provider.plex.tv?includePreferences=1
+May 10, 2024 02:37:39.942 [140735848296672] DEBUG - [MediaProviderManager/HCl#32] HTTP requesting GET https://music.provider.plex.tv?includePreferences=1
+May 10, 2024 02:37:40.042 [140735889682656] DEBUG - [HttpClient/HCl#32] HTTP/2.0 (0.1s) 200 response from GET https://music.provider.plex.tv?includePreferences=1
+May 10, 2024 02:37:40.043 [140735889682656] DEBUG - [HttpClient/HCl#31] HTTP/2.0 (0.1s) 200 response from GET https://vod.provider.plex.tv?includePreferences=1
+May 10, 2024 02:37:40.051 [140735885390048] DEBUG - [MediaProviderManager] loading cloud provider details (Music) (alive: 1)
+May 10, 2024 02:37:40.051 [140735885390048] DEBUG - [MediaProviderManager] loading cloud provider details (Movies & TV) (alive: 1)
+May 10, 2024 02:37:40.051 [140735885390048] DEBUG - [MediaProviderManager] we had 0 cloud providers online, we now have 3
+May 10, 2024 02:37:40.051 [140735885390048] DEBUG - [MediaProviderManager] cloud provider (Metadata) is online and available
+May 10, 2024 02:37:40.051 [140735885390048] DEBUG - [MediaProviderManager] cloud provider (Music) is online and available
+May 10, 2024 02:37:40.051 [140735885390048] DEBUG - [MediaProviderManager] cloud provider (Movies & TV) is online and available
+May 10, 2024 02:37:40.052 [140735885390048] DEBUG - [MediaProviderManager/MetadataAgentManager] [tv.plex.agents.movie] provider added to map
+May 10, 2024 02:37:40.052 [140735885390048] DEBUG - [MediaProviderManager/MetadataAgentManager] [tv.plex.agents.series] provider added to map
+May 10, 2024 02:37:40.052 [140735885390048] DEBUG - [MediaProviderManager/MetadataAgentManager] [tv.plex.agents.music] provider added to map
+May 10, 2024 02:37:40.053 [140735885390048] DEBUG - [MediaProviderManager/MetadataAgentManager] [org.musicbrainz.agents.music] provider added to map
+May 10, 2024 02:43:40.983 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:40.983 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=22, flags=0x1002, change=0xffffffff
+May 10, 2024 02:43:40.983 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:40.983 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:40.984 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:40.984 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=23, flags=0x1002, change=0xffffffff
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=23, flags=0x1002, change=0x0
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=23, flags=0x1002, change=0x100
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:40.985 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=23, flags=0x1002, change=0x0
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=23, flags=0x1003, change=0x1
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=23, flags=0x1003, change=0x0
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:40.986 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:40.987 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.013 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.013 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=24, flags=0x1002, change=0xffffffff
+May 10, 2024 02:43:41.013 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.013 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.017 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.017 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.017 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=25, flags=0x1002, change=0xffffffff
+May 10, 2024 02:43:41.017 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.017 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.018 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.018 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.018 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=25, flags=0x1002, change=0x0
+May 10, 2024 02:43:41.018 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.018 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.022 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.022 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.022 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=25, flags=0x1002, change=0x100
+May 10, 2024 02:43:41.022 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.022 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.023 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.023 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.023 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=25, flags=0x1002, change=0x0
+May 10, 2024 02:43:41.023 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.023 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=25, flags=0x1043, change=0x1
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=25, flags=0x1043, change=0x0
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.024 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.025 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.025 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.025 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=25, flags=0x1043, change=0x0
+May 10, 2024 02:43:41.025 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.025 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.026 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.388 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=668, type=RTM_DELLINK, flags=0x0
+May 10, 2024 02:43:41.389 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=24, flags=0x1002, change=0xffffffff
+May 10, 2024 02:43:41.405 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.405 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=25, flags=0x11043, change=0x0
+May 10, 2024 02:43:41.405 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.405 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.406 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.406 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1824, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.406 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=25, flags=0x11043, change=0x0
+May 10, 2024 02:43:41.406 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.406 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.406 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.436 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=668, type=RTM_DELLINK, flags=0x0
+May 10, 2024 02:43:41.436 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=22, flags=0x1002, change=0xffffffff
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=23, flags=0x11043, change=0x0
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=23, flags=0x11043, change=0x0
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.473 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.474 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:41.474 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1824, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:41.474 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=23, flags=0x11043, change=0x0
+May 10, 2024 02:43:41.474 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:41.474 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:41.474 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:56.108 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:56.108 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=25, flags=0x11043, change=0x0
+May 10, 2024 02:43:56.108 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:56.108 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:56.109 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:43:56.620 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 02:43:56.620 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=23, flags=0x11043, change=0x0
+May 10, 2024 02:43:56.620 [140735865663712] DEBUG - Network change.
+May 10, 2024 02:43:56.620 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 02:43:56.621 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 02:45:57.639 [140735915290848] DEBUG - Butler: Starting delayed task ButlerTaskGenerateCreditsMarkers.
+May 10, 2024 02:45:57.999 [140735887552736] DEBUG - Activity: registered new sub-activity 70855499-fb76-43a2-b2ba-3e4501a54df2 - "ButlerTaskGenerateCreditsMarkers" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 90.9% (10/11)
+May 10, 2024 02:45:57.999 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 90.9% - Butler tasks
+May 10, 2024 02:45:57.999 [140735887552736] DEBUG - Activity: ended sub-activity 70855499-fb76-43a2-b2ba-3e4501a54df2 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (11/11)
+May 10, 2024 02:45:57.999 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 03:07:16.678 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 03:07:16.678 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 03:37:16.679 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 03:37:16.679 [140735915290848] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 03:37:16.679 [140735915290848] DEBUG - [ViewStateSync/HCl#34] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 03:37:16.864 [140735889682656] DEBUG - [HttpClient/HCl#34] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 03:37:16.865 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 03:59:57.640 [140735872200928] DEBUG - Butler: Starting delayed task ButlerTaskGenerateVoiceActivity.
+May 10, 2024 03:59:58.005 [140735887552736] DEBUG - Activity: registered new sub-activity 583ba987-f744-46f2-8ff4-5fc590d42af3 - "ButlerTaskGenerateVoiceActivity" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 91.7% (11/12)
+May 10, 2024 03:59:58.005 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 91.7% - Butler tasks
+May 10, 2024 03:59:58.005 [140735887552736] DEBUG - Activity: ended sub-activity 583ba987-f744-46f2-8ff4-5fc590d42af3 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (12/12)
+May 10, 2024 03:59:58.005 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 04:05:57.639 [140735915290848] DEBUG - Butler: Starting delayed task RefreshPeriodicMetadata.
+May 10, 2024 04:05:58.006 [140735887552736] DEBUG - Butler: Considering 0 artists for periodic refresh.
+May 10, 2024 04:05:58.006 [140735887552736] DEBUG - Butler: There are 0 old artists.
+May 10, 2024 04:05:58.006 [140735887552736] DEBUG - Butler: refreshing metadata for 0 seasons because they contain episodes released in the past week
+May 10, 2024 04:05:58.007 [140735887552736] DEBUG - Activity: registered new sub-activity d45d8de3-96b5-4a8d-8400-b83de639dbe1 - "RefreshPeriodicMetadata" parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 92.3% (12/13)
+May 10, 2024 04:05:58.007 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 92.3% - Butler tasks
+May 10, 2024 04:05:58.007 [140735887552736] DEBUG - Activity: ended sub-activity d45d8de3-96b5-4a8d-8400-b83de639dbe1 parent: df6df819-8bbf-4889-82a1-6558c5efcc3a overall progress: 100.0% (13/13)
+May 10, 2024 04:05:58.007 [140735887552736] DEBUG - Activity: updated activity df6df819-8bbf-4889-82a1-6558c5efcc3a - completed 100.0% - Butler tasks
+May 10, 2024 04:05:58.007 [140735887552736] DEBUG - Butler: Periodic metadata refresh complete (movies: 0, seasons: 0, artists: 0, shows: 0)
+May 10, 2024 04:07:16.680 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 04:07:16.680 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 04:37:16.680 [140735872200928] DEBUG - [ViewStateSync] Starting
+May 10, 2024 04:37:16.680 [140735872200928] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 04:37:16.681 [140735872200928] DEBUG - [ViewStateSync/HCl#35] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 04:37:16.866 [140735889682656] DEBUG - [HttpClient/HCl#35] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 04:37:16.867 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 05:01:57.657 [140735872200928] DEBUG - Butler: we're outside the window, stopping.
+May 10, 2024 05:01:58.011 [140735887552736] DEBUG - Butler: Canceling delayed task 'RefreshEpgGuides'.
+May 10, 2024 05:01:58.011 [140735887552736] DEBUG - Butler: Done doing work.
+May 10, 2024 05:01:58.011 [140735887552736] DEBUG - Activity: Ended activity df6df819-8bbf-4889-82a1-6558c5efcc3a.
+May 10, 2024 05:07:16.681 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 05:07:16.681 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 05:37:16.682 [140735872200928] DEBUG - [ViewStateSync] Starting
+May 10, 2024 05:37:16.682 [140735872200928] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 05:37:16.682 [140735872200928] DEBUG - [ViewStateSync/HCl#36] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 05:37:16.834 [140735889682656] DEBUG - [HttpClient/HCl#36] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 05:37:16.835 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 06:07:16.683 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 06:07:16.683 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 06:37:16.683 [140735872200928] DEBUG - [ViewStateSync] Starting
+May 10, 2024 06:37:16.683 [140735872200928] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 06:37:16.683 [140735872200928] DEBUG - [ViewStateSync/HCl#37] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 06:37:16.858 [140735889682656] DEBUG - [HttpClient/HCl#37] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 06:37:16.859 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 07:07:16.684 [140735872200928] DEBUG - [ViewStateSync] Starting
+May 10, 2024 07:07:16.684 [140735872200928] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 07:37:16.684 [140735887552736] DEBUG - [ViewStateSync] Starting
+May 10, 2024 07:37:16.684 [140735887552736] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 07:37:16.684 [140735887552736] DEBUG - [ViewStateSync/HCl#38] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 07:37:16.867 [140735889682656] DEBUG - [HttpClient/HCl#38] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 07:37:16.867 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 08:07:16.685 [140735887552736] DEBUG - [ViewStateSync] Starting
+May 10, 2024 08:07:16.685 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 08:37:16.685 [140735887552736] DEBUG - [ViewStateSync] Starting
+May 10, 2024 08:37:16.685 [140735887552736] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 08:37:16.685 [140735887552736] DEBUG - [ViewStateSync/HCl#39] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 08:37:16.841 [140735889682656] DEBUG - [HttpClient/HCl#39] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 08:37:16.842 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 09:07:16.686 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 09:07:16.686 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 09:37:16.686 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 09:37:16.686 [140735885390048] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 09:37:16.686 [140735885390048] DEBUG - [ViewStateSync/HCl#3a] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 09:37:16.864 [140735889682656] DEBUG - [HttpClient/HCl#3a] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 09:37:16.865 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 10:07:16.687 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 10:07:16.687 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 10:37:16.687 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 10:37:16.688 [140735885390048] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 10:37:16.688 [140735885390048] DEBUG - [ViewStateSync/HCl#3b] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 10:37:16.843 [140735889682656] DEBUG - [HttpClient/HCl#3b] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 10:37:16.844 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 11:07:16.688 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 11:07:16.689 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 11:37:16.689 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 11:37:16.689 [140735885390048] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 11:37:16.689 [140735885390048] DEBUG - [ViewStateSync/HCl#3c] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 11:37:16.843 [140735889682656] DEBUG - [HttpClient/HCl#3c] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 11:37:16.844 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 12:07:16.690 [140735887552736] DEBUG - [ViewStateSync] Starting
+May 10, 2024 12:07:16.690 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 12:37:16.690 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 12:37:16.690 [140735885390048] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 12:37:16.690 [140735885390048] DEBUG - [ViewStateSync/HCl#3d] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 12:37:16.862 [140735889682656] DEBUG - [HttpClient/HCl#3d] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 12:37:16.863 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 13:07:16.691 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 13:07:16.691 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 13:37:16.691 [140735887552736] DEBUG - [ViewStateSync] Starting
+May 10, 2024 13:37:16.691 [140735887552736] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 13:37:16.691 [140735887552736] DEBUG - [ViewStateSync/HCl#3e] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 13:37:16.845 [140735889682656] DEBUG - [HttpClient/HCl#3e] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 13:37:16.846 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 14:07:16.691 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 14:07:16.691 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 14:31:54.556 [140735885390048] DEBUG - BPQ: garbageCollect - version - not forced - -1
+May 10, 2024 14:31:54.556 [140735885390048] DEBUG - Versions: garbage collecting
+May 10, 2024 14:31:54.557 [140735885390048] DEBUG - Versions: garbage collected in 0.0 seconds
+May 10, 2024 14:32:07.628 [140735915290848] DEBUG - [HCl#3f] HTTP requesting GET https://plex.tv/api/resources.xml?includeHttps=1&includeRelay=1&auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:32:07.820 [140735889682656] DEBUG - [HttpClient/HCl#3f] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/resources.xml?includeHttps=1&includeRelay=1&auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:32:07.820 [140735915290848] DEBUG - Media Server: Tested all servers in 0.0 seconds.
+May 10, 2024 14:32:08.370 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=88, type=RTM_DELADDR, flags=0x0
+May 10, 2024 14:32:08.370 [140735865663712] DEBUG - NetworkInterface: Netlink address message family=2, index=2, flags=0x0
+May 10, 2024 14:32:08.370 [140735865663712] DEBUG - Network change.
+May 10, 2024 14:32:08.370 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 14:32:08.371 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 14:32:29.861 [140735915290848] DEBUG - [HCl#40] HTTP requesting GET https://plex.tv/api/v2/shared_sources/owned?machineIdentifier=d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52
+May 10, 2024 14:32:29.924 [140735889682656] DEBUG - [HttpClient/HCl#40] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/api/v2/shared_sources/owned?machineIdentifier=d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52 (reused)
+May 10, 2024 14:32:29.925 [140735915290848] DEBUG - [HCl#41] HTTP requesting GET https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:32:29.983 [140735889682656] DEBUG - [HttpClient/HCl#41] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/api/v2/server/access_tokens?auth_token=xxxxxxxxxxxxxxxxxxxx (reused)
+May 10, 2024 14:32:29.983 [140735915290848] DEBUG - MyPlex: updating with 7 access tokens
+May 10, 2024 14:32:29.984 [140735915290848] DEBUG - [HCl#42] HTTP requesting GET https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:32:29.984 [140735883260128] DEBUG - [MediaProviderManager/HCl#43] HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:32:30.039 [140735889682656] DEBUG - [HttpClient/HCl#43] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx (reused)
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] discovered cloud provider (Movies & TV)
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] discovered cloud provider (Music)
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] discovered cloud provider (Metadata)
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] loading cloud provider details (Metadata) (alive: 1)
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] loading cloud provider details (Music) (alive: 1)
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] loading cloud provider details (Movies & TV) (alive: 1)
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] we had 3 cloud providers online, we now have 3
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] cloud provider (Metadata) is online and available
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] cloud provider (Music) is online and available
+May 10, 2024 14:32:30.039 [140735883260128] DEBUG - [MediaProviderManager] cloud provider (Movies & TV) is online and available
+May 10, 2024 14:32:30.119 [140735889682656] DEBUG - [HttpClient/HCl#42] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/api/v2/server/users?auth_token=xxxxxxxxxxxxxxxxxxxx (reused)
+May 10, 2024 14:32:30.120 [140735885390048] DEBUG - [HCl#44] HTTP requesting GET https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:32:30.173 [140735889682656] DEBUG - [HttpClient/HCl#44] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/api/v2/server/users/subscriptions?auth_token=xxxxxxxxxxxxxxxxxxxx (reused)
+May 10, 2024 14:32:30.174 [140735885390048] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:35:34.862 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=88, type=RTM_DELADDR, flags=0x0
+May 10, 2024 14:35:34.862 [140735865663712] DEBUG - NetworkInterface: Netlink address message family=2, index=3, flags=0x0
+May 10, 2024 14:35:34.862 [140735865663712] DEBUG - Network change.
+May 10, 2024 14:35:34.862 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 14:35:34.863 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 14:37:16.692 [140735887552736] DEBUG - [ViewStateSync] Starting
+May 10, 2024 14:37:16.692 [140735887552736] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 14:37:16.692 [140735887552736] DEBUG - [ViewStateSync/HCl#45] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:37:16.838 [140735889682656] DEBUG - [HttpClient/HCl#45] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 14:37:16.839 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 15:07:16.693 [140735883260128] DEBUG - [ViewStateSync] Starting
+May 10, 2024 15:07:16.693 [140735883260128] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 15:11:11.054 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:9080
+May 10, 2024 15:11:11.073 [140735889682656] DEBUG - [HttpClient/HCl#46] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.228:9080
+May 10, 2024 15:11:41.056 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:9080
+May 10, 2024 15:11:41.064 [140735889682656] DEBUG - [HttpClient/HCl#47] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.228:9080 (reused)
+May 10, 2024 15:12:11.056 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:1765/
+May 10, 2024 15:12:11.068 [140735889682656] DEBUG - [HttpClient/HCl#48] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.228:1765/
+May 10, 2024 15:12:11.069 [140735863533792] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.228:1765/
+May 10, 2024 15:12:11.069 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 10, 2024 15:19:33.080 [140735915290848] DEBUG - SSDP departed after not being seen for 27.714409 seconds: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 10, 2024 15:20:11.094 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:1949/
+May 10, 2024 15:20:11.219 [140735889682656] DEBUG - [HttpClient/HCl#49] HTTP/1.1 (0.1s) 200 response from GET http://192.168.1.228:1949/
+May 10, 2024 15:20:11.219 [140735863533792] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.228:1949/
+May 10, 2024 15:20:11.219 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 10, 2024 15:30:23.132 [140735883260128] DEBUG - SSDP departed after not being seen for 28.707817 seconds: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 10, 2024 15:30:41.138 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:9080
+May 10, 2024 15:30:41.337 [140735889682656] DEBUG - [HttpClient/HCl#4a] HTTP/1.1 (0.2s) 200 response from GET http://192.168.1.228:9080
+May 10, 2024 15:31:11.141 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:1765/
+May 10, 2024 15:31:11.282 [140735889682656] DEBUG - [HttpClient/HCl#4b] HTTP/1.1 (0.1s) 200 response from GET http://192.168.1.228:1765/
+May 10, 2024 15:31:11.282 [140735863533792] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.228:1765/
+May 10, 2024 15:31:11.282 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 10, 2024 15:37:16.693 [140735883260128] DEBUG - [ViewStateSync] Starting
+May 10, 2024 15:37:16.693 [140735883260128] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 15:37:16.693 [140735883260128] DEBUG - [ViewStateSync/HCl#4c] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 15:37:16.879 [140735889682656] DEBUG - [HttpClient/HCl#4c] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 15:37:16.880 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 15:40:13.177 [140735883260128] DEBUG - SSDP departed after not being seen for 27.724994 seconds: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 10, 2024 15:40:52.300 [140735863533792] DEBUG - [NSB/SSDP] Parsing SSDP schema for http://192.168.1.228:1740/
+May 10, 2024 15:40:52.326 [140735889682656] DEBUG - [HttpClient/HCl#4d] HTTP/1.1 (0.0s) 200 response from GET http://192.168.1.228:1740/
+May 10, 2024 15:40:52.326 [140735863533792] DEBUG - [NSB/SSDP] found 1 SSDP devices via http://192.168.1.228:1740/
+May 10, 2024 15:40:52.326 [140735863533792] DEBUG - [NSB/SSDP] SSDP arrived: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 10, 2024 15:50:13.221 [140735883260128] DEBUG - SSDP departed after not being seen for 21.996915 seconds: 192.168.1.228 ([LG] webOS TV UQ80006LB)
+May 10, 2024 16:07:16.694 [140735883260128] DEBUG - [ViewStateSync] Starting
+May 10, 2024 16:07:16.694 [140735883260128] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 16:37:16.695 [140735887552736] DEBUG - [ViewStateSync] Starting
+May 10, 2024 16:37:16.695 [140735887552736] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 16:37:16.695 [140735887552736] DEBUG - [ViewStateSync/HCl#4e] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 16:37:16.875 [140735889682656] DEBUG - [HttpClient/HCl#4e] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 16:37:16.876 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 17:07:16.695 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 17:07:16.695 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 17:37:16.696 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 17:37:16.696 [140735915290848] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 17:37:16.696 [140735915290848] DEBUG - [ViewStateSync/HCl#4f] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 17:37:16.886 [140735889682656] DEBUG - [HttpClient/HCl#4f] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 17:37:16.886 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 18:07:16.696 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 18:07:16.696 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 18:37:16.696 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 18:37:16.696 [140735915290848] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 18:37:16.697 [140735915290848] DEBUG - [ViewStateSync/HCl#50] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 18:37:16.848 [140735889682656] DEBUG - [HttpClient/HCl#50] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 18:37:16.849 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 19:07:16.697 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 19:07:16.697 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 19:37:16.698 [140735885390048] DEBUG - [ViewStateSync] Starting
+May 10, 2024 19:37:16.698 [140735885390048] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 19:37:16.698 [140735885390048] DEBUG - [ViewStateSync/HCl#51] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 19:37:16.853 [140735889682656] DEBUG - [HttpClient/HCl#51] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 19:37:16.854 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 20:07:16.699 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 20:07:16.699 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 20:37:16.699 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 20:37:16.699 [140735915290848] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 20:37:16.699 [140735915290848] DEBUG - [ViewStateSync/HCl#52] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 20:37:16.858 [140735889682656] DEBUG - [HttpClient/HCl#52] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 20:37:16.859 [140735887552736] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 21:07:16.700 [140735915290848] DEBUG - [ViewStateSync] Starting
+May 10, 2024 21:07:16.700 [140735915290848] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 21:37:16.700 [140735887552736] DEBUG - [ViewStateSync] Starting
+May 10, 2024 21:37:16.700 [140735887552736] DEBUG - [ViewStateSync] Fetching user tokens
+May 10, 2024 21:37:16.700 [140735887552736] DEBUG - [ViewStateSync/HCl#53] HTTP requesting GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 21:37:16.848 [140735889682656] DEBUG - [HttpClient/HCl#53] HTTP/2.0 (0.1s) 200 response from GET https://plex.tv/api/v2/server/users/services?auth_token=xxxxxxxxxxxxxxxxxxxx
+May 10, 2024 21:37:16.849 [140735885390048] DEBUG - [ViewStateSync] No user tokens found; stopping
+May 10, 2024 21:52:15.717 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:15.717 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=17, flags=0x1003, change=0x0
+May 10, 2024 21:52:15.717 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:15.717 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:15.737 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1824, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=17, flags=0x1003, change=0x0
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=16, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:15.738 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:15.760 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:15.760 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=17, flags=0x1002, change=0x41
+May 10, 2024 21:52:15.760 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:15.760 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:15.763 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:15.763 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:15.763 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=17, flags=0x1002, change=0x0
+May 10, 2024 21:52:15.763 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:15.763 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=652, type=RTM_DELLINK, flags=0x0
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=16, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=17, flags=0x1002, change=0x0
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=92, type=RTM_DELLINK, flags=0x0
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=17, flags=0x1002, change=0x0
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1844, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=5, flags=0x1043, change=0x0
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=652, type=RTM_DELLINK, flags=0x0
+May 10, 2024 21:52:15.764 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=17, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:16.004 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.004 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=26, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:16.004 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.004 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.007 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.007 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.007 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=27, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:16.007 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.007 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=27, flags=0x1002, change=0x0
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=27, flags=0x1002, change=0x100
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.008 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.010 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.010 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1844, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.011 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=5, flags=0x1043, change=0x0
+May 10, 2024 21:52:16.011 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.012 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.013 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.014 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.014 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x1002, change=0x0
+May 10, 2024 21:52:16.015 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.015 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.016 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.016 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.016 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=27, flags=0x1043, change=0x1
+May 10, 2024 21:52:16.016 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.016 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.018 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.018 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.018 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x1043, change=0x0
+May 10, 2024 21:52:16.018 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.018 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.019 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.019 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.019 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x1043, change=0x0
+May 10, 2024 21:52:16.019 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.019 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.020 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.296 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=668, type=RTM_DELLINK, flags=0x0
+May 10, 2024 21:52:16.296 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=26, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:16.313 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.313 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x11043, change=0x0
+May 10, 2024 21:52:16.313 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.313 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.314 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.314 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1824, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.314 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=27, flags=0x11043, change=0x0
+May 10, 2024 21:52:16.314 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.314 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.314 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:16.752 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1836, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:16.752 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=5, flags=0x11043, change=0x0
+May 10, 2024 21:52:16.752 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:16.752 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:16.753 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:31.052 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:31.052 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x11043, change=0x0
+May 10, 2024 21:52:31.052 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:31.052 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:31.053 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.208 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.208 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=26, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:35.208 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.208 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x1003, change=0x0
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=27, flags=0x1003, change=0x0
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.210 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.211 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.231 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.231 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=27, flags=0x1002, change=0x41
+May 10, 2024 21:52:35.231 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.231 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x1002, change=0x0
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=652, type=RTM_DELLINK, flags=0x0
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=26, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x1002, change=0x0
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.234 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=92, type=RTM_DELLINK, flags=0x0
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=27, flags=0x1002, change=0x0
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1844, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=5, flags=0x1043, change=0x0
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=652, type=RTM_DELLINK, flags=0x0
+May 10, 2024 21:52:35.235 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=27, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:35.472 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.472 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=28, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:35.472 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.472 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.473 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.473 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1460, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.473 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=29, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:35.473 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.473 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.474 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.475 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.475 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=29, flags=0x1002, change=0x0
+May 10, 2024 21:52:35.475 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.475 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.476 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.476 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.476 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=29, flags=0x1002, change=0x100
+May 10, 2024 21:52:35.476 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.476 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1844, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=5, flags=0x1043, change=0x0
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=29, flags=0x1002, change=0x0
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.477 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1816, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=29, flags=0x1043, change=0x1
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=29, flags=0x1043, change=0x0
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.478 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.479 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.479 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.479 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=29, flags=0x1043, change=0x0
+May 10, 2024 21:52:35.479 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.479 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.481 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.825 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=668, type=RTM_DELLINK, flags=0x0
+May 10, 2024 21:52:35.825 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=28, flags=0x1002, change=0xffffffff
+May 10, 2024 21:52:35.849 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.849 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=29, flags=0x11043, change=0x0
+May 10, 2024 21:52:35.849 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.849 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.850 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:35.850 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1824, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:35.850 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=29, flags=0x11043, change=0x0
+May 10, 2024 21:52:35.850 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:35.850 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:35.851 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:36.236 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=1836, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:36.236 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=0, type=1, index=5, flags=0x11043, change=0x0
+May 10, 2024 21:52:36.236 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:36.236 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:36.237 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:52:50.508 [140735865663712] DEBUG - NetworkInterface: received Netlink message len=428, type=RTM_NEWLINK, flags=0x0
+May 10, 2024 21:52:50.508 [140735865663712] DEBUG - NetworkInterface: Netlink information message family=7, type=1, index=29, flags=0x11043, change=0x0
+May 10, 2024 21:52:50.508 [140735865663712] DEBUG - Network change.
+May 10, 2024 21:52:50.508 [140735865663712] DEBUG - NetworkInterface: Notified of network changed (force=0)
+May 10, 2024 21:52:50.509 [140735865663712] DEBUG - Network change notification but nothing changed.
+May 10, 2024 21:54:29.842 [140735917715680] DEBUG - Shutting down with signal 15 (Terminated)
+May 10, 2024 21:54:29.842 [140735917715680] DEBUG - Ordered to stop server.
+May 10, 2024 21:54:29.843 [140735917715680] DEBUG - [JobRunner] Job running: /usr/lib/plexmediaserver/CrashUploader --sessionStatus=exited --sessionStart=1715297348 --sessionDuration=73521 --version=1.40.2.8395-c67dce28e --userId=rheligon@gmail.com --sentryUrl=https://o17675.ingest.sentry.io/api/1233455/ --sentryKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+May 10, 2024 21:54:29.844 [140735917715680] DEBUG - [JobRunner] Jobs: Starting child process with pid 432
+May 10, 2024 21:54:29.849 [140735999305200] DEBUG - Stopping server...
+May 10, 2024 21:54:29.849 [140735999305200] DEBUG - HttpServer: Stopping server.
+May 10, 2024 21:54:29.854 [140735908294880] DEBUG - MetadataItemClusterRequestHandler: a shutdown event has been received
+May 10, 2024 21:54:29.855 [140735908294880] DEBUG - TranscodeJobManager: [Running] onServerShutdown
+May 10, 2024 21:54:29.855 [140735908294880] DEBUG - TranscodeJobManager: [Running] -> [Shutdown]
+May 10, 2024 21:54:29.857 [140735999305200] DEBUG - Server stopped.
+May 10, 2024 21:54:29.857 [140735999305200] DEBUG - NetworkService: Stopping advertisement.
+May 10, 2024 21:54:29.857 [140735999305200] DEBUG - Killing plug-ins.
+May 10, 2024 21:54:29.926 [140735999305200] DEBUG - [com.plexapp.system] Killing.
+May 10, 2024 21:54:29.950 [140735999305200] DEBUG - ChildProcessMonitor: Waiting for Plex Tuner Service to exit.
+May 10, 2024 21:54:29.950 [140735999305200] DEBUG - [JobRunner] Signalling job ID 248 with 2
+May 10, 2024 21:54:29.952 [140735917715680] WARN - JobManager: Could not find job for handle 210
+May 10, 2024 21:54:30.001 [140735917715680] DEBUG - Jobs: '/usr/lib/plexmediaserver/Plex Tuner Service' exit code for process 248 is 0 (success)
+May 10, 2024 21:54:30.001 [140735861321952] DEBUG - [ChildProcessMonitor] Plex Tuner Service exited.
+May 10, 2024 21:54:30.002 [140735999305200] DEBUG - Database: Shutting down.
+May 10, 2024 21:54:30.038 [140735917715680] DEBUG - Jobs: '/usr/lib/plexmediaserver/CrashUploader' exit code for process 432 is 0 (success)
+May 10, 2024 21:54:30.084 [140735999305200] DEBUG - Database: Shutting down.

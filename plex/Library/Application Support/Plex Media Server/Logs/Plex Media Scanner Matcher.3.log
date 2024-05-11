@@ -1,0 +1,11 @@
+May 10, 2024 23:27:25.189 [140735991295480] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 10, 2024 23:27:25.190 [140735991295480] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 10, 2024 23:27:25.190 [140735991295480] INFO - Processor: 4-core AArch64
+May 10, 2024 23:27:25.190 [140735991295480] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 2 --log-file-suffix  Matcher --item 155
+May 10, 2024 23:27:25.192 [140736071573688] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 10, 2024 23:27:25.340 [140736071573688] DEBUG - Matcher: found 0 auxiliary files for Season 17
+May 10, 2024 23:27:25.342 [140736071573688] DEBUG - Matcher: no sidecar subtitle files found for /tv/Project Runway (2004) {imdb-tt0437741}/Season 17/Project Runway (2004) - S17E01 - First Impressions [WEBDL-720p][EAC3 2.0][h264]-TBS.mkv
+May 10, 2024 23:27:25.342 [140736071573688] DEBUG - Matcher: no sidecar subtitle files found for /tv/Project Runway (2004) {imdb-tt0437741}/Season 17/Project Runway (2004) - S17E02 - The Future is Here [WEBDL-720p][EAC3 2.0][h264]-tbs.mkv
+May 10, 2024 23:27:25.342 [140736071573688] DEBUG - Matcher: no sidecar subtitle files found for /tv/Project Runway (2004) {imdb-tt0437741}/Season 17/Project Runway (2004) - S17E04 - Survive in Style [WEBDL-720p][AAC 2.0][x264]-300MB.mkv
+May 10, 2024 23:27:25.342 [140736071573688] DEBUG - Matcher: no sidecar subtitle files found for /tv/Project Runway (2004) {imdb-tt0437741}/Season 17/Project Runway (2004) - S17E05 - High Fashion to High Street [WEBDL-1080p][AAC 2.0][x264]-300MB.mkv
+May 10, 2024 23:27:25.342 [140736071573688] DEBUG - Matcher: no sidecar subtitle files found for /tv/Project Runway (2004) {imdb-tt0437741}/Season 17/Project Runway (2004) - S17E10 - What Do You Care About [WEBDL-720p][EAC3 2.0][h264]-tbs.mkv

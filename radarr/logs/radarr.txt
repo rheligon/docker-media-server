@@ -1,0 +1,1583 @@
+2024-05-03 18:22:53.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:53.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:22:58.9|Info|MovieSearchService|Performing search for 1 movies
+2024-05-03 18:22:58.9|Info|ReleaseSearchService|Searching indexers for [Challengers]. 4 active indexers
+2024-05-03 18:23:01.7|Info|DownloadDecisionMaker|Processing 2 releases
+2024-05-03 18:23:01.7|Info|MovieSearchService|Completed search for 1 movies. 0 reports downloaded.
+2024-05-03 18:30:02.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:02.2|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:02.2|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:02.2|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:02.2|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:02.2|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:48.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:48.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:55.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:30:55.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:00.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:00.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:02.0|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:02.0|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:02.0|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:02.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:02.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:02.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:02.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:02.1|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:06.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:06.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:15.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:15.6|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:16.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:16.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:16.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:16.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:16.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:16.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:16.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:16.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:21.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:31:21.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:32:01.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:32:01.7|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:32:03.4|Info|MovieSearchService|Performing search for 1 movies
+2024-05-03 18:32:03.4|Info|ReleaseSearchService|Searching indexers for [Challengers]. 4 active indexers
+2024-05-03 18:32:06.2|Info|DownloadDecisionMaker|Processing 2 releases
+2024-05-03 18:32:06.2|Info|MovieSearchService|Completed search for 1 movies. 0 reports downloaded.
+2024-05-03 18:33:54.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:33:54.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-03 18:33:57.8|Info|RefreshMovieService|Updating info for Challengers
+2024-05-03 18:33:58.4|Warn|DiskScanService|Movie's root folder (/data/media/movies/) is empty. Rescan will not update movies as a failsafe.
+2024-05-03 18:34:00.8|Info|MovieSearchService|Performing search for 1 movies
+2024-05-03 18:34:00.8|Info|ReleaseSearchService|Searching indexers for [Challengers]. 4 active indexers
+2024-05-03 18:34:03.5|Info|DownloadDecisionMaker|Processing 2 releases
+2024-05-03 18:34:03.6|Info|MovieSearchService|Completed search for 1 movies. 0 reports downloaded.
+2024-05-03 18:45:20.4|Info|RssSyncService|Starting RSS Sync
+2024-05-03 18:45:22.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/3/2024 1:58:48PM and 5/3/2024 4:01:15PM UTC. Search may be required.
+2024-05-03 18:45:26.8|Info|DownloadDecisionMaker|Processing 238 releases
+2024-05-03 18:45:27.2|Info|RssSyncService|RSS Sync Completed. Reports found: 238, Reports grabbed: 0
+2024-05-03 19:15:51.1|Info|RssSyncService|Starting RSS Sync
+2024-05-03 19:15:53.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/3/2024 4:01:15PM and 5/3/2024 4:48:13PM UTC. Search may be required.
+2024-05-03 19:15:57.6|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-03 19:15:58.5|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-03 19:46:21.9|Info|RssSyncService|Starting RSS Sync
+2024-05-03 19:46:23.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/3/2024 4:48:13PM and 5/3/2024 4:48:13PM UTC. Search may be required.
+2024-05-03 19:46:28.6|Info|DownloadDecisionMaker|Processing 242 releases
+2024-05-03 19:46:29.1|Info|RssSyncService|RSS Sync Completed. Reports found: 242, Reports grabbed: 0
+2024-05-03 20:16:53.7|Info|RssSyncService|Starting RSS Sync
+2024-05-03 20:16:56.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/3/2024 4:48:13PM and 5/3/2024 5:51:20PM UTC. Search may be required.
+2024-05-03 20:17:00.5|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-03 20:17:01.1|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-03 20:47:24.7|Info|RssSyncService|Starting RSS Sync
+2024-05-03 20:47:31.1|Info|DownloadDecisionMaker|Processing 254 releases
+2024-05-03 20:47:31.7|Info|RssSyncService|RSS Sync Completed. Reports found: 254, Reports grabbed: 0
+2024-05-03 21:17:56.2|Info|RssSyncService|Starting RSS Sync
+2024-05-03 21:17:58.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/3/2024 6:27:32PM and 5/3/2024 6:27:32PM UTC. Search may be required.
+2024-05-03 21:18:05.0|Info|DownloadDecisionMaker|Processing 182 releases
+2024-05-03 21:18:05.5|Info|RssSyncService|RSS Sync Completed. Reports found: 182, Reports grabbed: 0
+2024-05-03 21:48:27.4|Info|RssSyncService|Starting RSS Sync
+2024-05-03 21:48:34.4|Info|DownloadDecisionMaker|Processing 176 releases
+2024-05-03 21:48:35.0|Info|RssSyncService|RSS Sync Completed. Reports found: 176, Reports grabbed: 0
+2024-05-03 22:18:58.4|Info|RssSyncService|Starting RSS Sync
+2024-05-03 22:19:05.4|Info|DownloadDecisionMaker|Processing 177 releases
+2024-05-03 22:19:05.9|Info|RssSyncService|RSS Sync Completed. Reports found: 177, Reports grabbed: 0
+2024-05-03 22:49:30.3|Info|RssSyncService|Starting RSS Sync
+2024-05-03 22:49:36.6|Info|DownloadDecisionMaker|Processing 168 releases
+2024-05-03 22:49:37.1|Info|RssSyncService|RSS Sync Completed. Reports found: 168, Reports grabbed: 0
+2024-05-03 23:20:01.3|Info|RssSyncService|Starting RSS Sync
+2024-05-03 23:20:07.8|Info|DownloadDecisionMaker|Processing 162 releases
+2024-05-03 23:20:08.2|Info|RssSyncService|RSS Sync Completed. Reports found: 162, Reports grabbed: 0
+2024-05-03 23:50:32.1|Info|RssSyncService|Starting RSS Sync
+2024-05-03 23:50:38.4|Info|DownloadDecisionMaker|Processing 159 releases
+2024-05-03 23:50:38.7|Info|RssSyncService|RSS Sync Completed. Reports found: 159, Reports grabbed: 0
+2024-05-04 00:21:03.5|Info|RssSyncService|Starting RSS Sync
+2024-05-04 00:21:09.9|Info|DownloadDecisionMaker|Processing 164 releases
+2024-05-04 00:21:10.3|Info|RssSyncService|RSS Sync Completed. Reports found: 164, Reports grabbed: 0
+2024-05-04 00:51:34.3|Info|RssSyncService|Starting RSS Sync
+2024-05-04 00:51:40.9|Info|DownloadDecisionMaker|Processing 164 releases
+2024-05-04 00:51:41.3|Info|RssSyncService|RSS Sync Completed. Reports found: 164, Reports grabbed: 0
+2024-05-04 01:22:05.3|Info|RssSyncService|Starting RSS Sync
+2024-05-04 01:22:11.7|Info|DownloadDecisionMaker|Processing 168 releases
+2024-05-04 01:22:12.1|Info|RssSyncService|RSS Sync Completed. Reports found: 168, Reports grabbed: 0
+2024-05-04 01:52:35.9|Info|RssSyncService|Starting RSS Sync
+2024-05-04 01:52:42.3|Info|DownloadDecisionMaker|Processing 167 releases
+2024-05-04 01:52:42.7|Info|RssSyncService|RSS Sync Completed. Reports found: 167, Reports grabbed: 0
+2024-05-04 02:23:06.9|Info|RssSyncService|Starting RSS Sync
+2024-05-04 02:23:13.3|Info|DownloadDecisionMaker|Processing 168 releases
+2024-05-04 02:23:13.7|Info|RssSyncService|RSS Sync Completed. Reports found: 168, Reports grabbed: 0
+2024-05-04 02:53:37.8|Info|RssSyncService|Starting RSS Sync
+2024-05-04 02:53:44.2|Info|DownloadDecisionMaker|Processing 169 releases
+2024-05-04 02:53:44.7|Info|RssSyncService|RSS Sync Completed. Reports found: 169, Reports grabbed: 0
+2024-05-04 03:24:08.3|Info|RssSyncService|Starting RSS Sync
+2024-05-04 03:24:14.6|Info|DownloadDecisionMaker|Processing 171 releases
+2024-05-04 03:24:15.0|Info|RssSyncService|RSS Sync Completed. Reports found: 171, Reports grabbed: 0
+2024-05-04 03:54:39.1|Info|RssSyncService|Starting RSS Sync
+2024-05-04 03:54:45.5|Info|DownloadDecisionMaker|Processing 183 releases
+2024-05-04 03:54:45.9|Info|RssSyncService|RSS Sync Completed. Reports found: 183, Reports grabbed: 0
+2024-05-04 04:25:09.7|Info|RssSyncService|Starting RSS Sync
+2024-05-04 04:25:16.1|Info|DownloadDecisionMaker|Processing 183 releases
+2024-05-04 04:25:16.5|Info|RssSyncService|RSS Sync Completed. Reports found: 183, Reports grabbed: 0
+2024-05-04 04:55:40.2|Info|RssSyncService|Starting RSS Sync
+2024-05-04 04:55:46.9|Info|DownloadDecisionMaker|Processing 194 releases
+2024-05-04 04:55:47.3|Info|RssSyncService|RSS Sync Completed. Reports found: 194, Reports grabbed: 0
+2024-05-04 05:26:10.6|Info|RssSyncService|Starting RSS Sync
+2024-05-04 05:26:17.0|Info|DownloadDecisionMaker|Processing 198 releases
+2024-05-04 05:26:17.4|Info|RssSyncService|RSS Sync Completed. Reports found: 198, Reports grabbed: 0
+2024-05-04 05:56:41.7|Info|RssSyncService|Starting RSS Sync
+2024-05-04 05:56:48.5|Info|DownloadDecisionMaker|Processing 205 releases
+2024-05-04 05:56:48.9|Info|RssSyncService|RSS Sync Completed. Reports found: 205, Reports grabbed: 0
+2024-05-04 06:27:12.6|Info|RssSyncService|Starting RSS Sync
+2024-05-04 06:27:18.8|Info|DownloadDecisionMaker|Processing 207 releases
+2024-05-04 06:27:19.2|Info|RssSyncService|RSS Sync Completed. Reports found: 207, Reports grabbed: 0
+2024-05-04 06:57:43.4|Info|RssSyncService|Starting RSS Sync
+2024-05-04 06:57:50.0|Info|DownloadDecisionMaker|Processing 209 releases
+2024-05-04 06:57:50.5|Info|RssSyncService|RSS Sync Completed. Reports found: 209, Reports grabbed: 0
+2024-05-04 07:28:14.3|Info|RssSyncService|Starting RSS Sync
+2024-05-04 07:28:20.6|Info|DownloadDecisionMaker|Processing 208 releases
+2024-05-04 07:28:21.0|Info|RssSyncService|RSS Sync Completed. Reports found: 208, Reports grabbed: 0
+2024-05-04 07:52:15.1|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-04 07:52:15.2|Info|HousekeepingService|Running housecleaning tasks
+2024-05-04 07:52:15.4|Info|RefreshMovieService|Updating info for Challengers
+2024-05-04 07:52:17.2|Warn|DiskScanService|Movie's root folder (/data/media/movies/) is empty. Rescan will not update movies as a failsafe.
+2024-05-04 07:52:17.3|Info|Database|Vacuuming Log database
+2024-05-04 07:52:17.3|Info|Database|Log database compressed
+2024-05-04 07:52:17.3|Info|Database|Vacuuming Main database
+2024-05-04 07:52:17.6|Info|Database|Main database compressed
+2024-05-04 07:58:45.2|Info|RssSyncService|Starting RSS Sync
+2024-05-04 07:58:51.5|Info|DownloadDecisionMaker|Processing 204 releases
+2024-05-04 07:58:51.9|Info|RssSyncService|RSS Sync Completed. Reports found: 204, Reports grabbed: 0
+2024-05-04 08:29:15.8|Info|RssSyncService|Starting RSS Sync
+2024-05-04 08:29:22.4|Info|DownloadDecisionMaker|Processing 205 releases
+2024-05-04 08:29:22.8|Info|RssSyncService|RSS Sync Completed. Reports found: 205, Reports grabbed: 0
+2024-05-04 08:59:46.7|Info|RssSyncService|Starting RSS Sync
+2024-05-04 08:59:48.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 5:49:14AM and 5/4/2024 5:49:14AM UTC. Search may be required.
+2024-05-04 08:59:53.2|Info|DownloadDecisionMaker|Processing 203 releases
+2024-05-04 08:59:53.6|Info|RssSyncService|RSS Sync Completed. Reports found: 203, Reports grabbed: 0
+2024-05-04 09:30:17.9|Info|RssSyncService|Starting RSS Sync
+2024-05-04 09:30:20.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 6:21:27AM and 5/4/2024 6:21:27AM UTC. Search may be required.
+2024-05-04 09:30:24.1|Info|DownloadDecisionMaker|Processing 204 releases
+2024-05-04 09:30:24.5|Info|RssSyncService|RSS Sync Completed. Reports found: 204, Reports grabbed: 0
+2024-05-04 10:00:48.8|Info|RssSyncService|Starting RSS Sync
+2024-05-04 10:00:55.7|Info|DownloadDecisionMaker|Processing 205 releases
+2024-05-04 10:00:56.1|Info|RssSyncService|RSS Sync Completed. Reports found: 205, Reports grabbed: 0
+2024-05-04 10:31:20.0|Info|RssSyncService|Starting RSS Sync
+2024-05-04 10:31:26.2|Info|DownloadDecisionMaker|Processing 208 releases
+2024-05-04 10:31:26.6|Info|RssSyncService|RSS Sync Completed. Reports found: 208, Reports grabbed: 0
+2024-05-04 11:01:50.8|Info|RssSyncService|Starting RSS Sync
+2024-05-04 11:01:53.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 7:48:53AM and 5/4/2024 7:48:53AM UTC. Search may be required.
+2024-05-04 11:01:57.0|Info|DownloadDecisionMaker|Processing 208 releases
+2024-05-04 11:01:57.4|Info|RssSyncService|RSS Sync Completed. Reports found: 208, Reports grabbed: 0
+2024-05-04 11:32:21.3|Info|RssSyncService|Starting RSS Sync
+2024-05-04 11:32:24.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 8:57:55AM and 5/4/2024 8:57:55AM UTC. Search may be required.
+2024-05-04 11:32:27.5|Info|DownloadDecisionMaker|Processing 212 releases
+2024-05-04 11:32:27.9|Info|RssSyncService|RSS Sync Completed. Reports found: 212, Reports grabbed: 0
+2024-05-04 12:02:52.3|Info|RssSyncService|Starting RSS Sync
+2024-05-04 12:02:54.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 8:57:55AM and 5/4/2024 9:54:11AM UTC. Search may be required.
+2024-05-04 12:02:58.7|Info|DownloadDecisionMaker|Processing 216 releases
+2024-05-04 12:02:59.1|Info|RssSyncService|RSS Sync Completed. Reports found: 216, Reports grabbed: 0
+2024-05-04 12:33:22.8|Info|RssSyncService|Starting RSS Sync
+2024-05-04 12:33:25.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 9:54:11AM and 5/4/2024 9:54:11AM UTC. Search may be required.
+2024-05-04 12:33:29.2|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-04 12:33:29.6|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-04 13:03:53.2|Info|RssSyncService|Starting RSS Sync
+2024-05-04 13:03:55.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 10:18:38AM and 5/4/2024 10:18:38AM UTC. Search may be required.
+2024-05-04 13:03:59.8|Info|DownloadDecisionMaker|Processing 224 releases
+2024-05-04 13:04:00.3|Info|RssSyncService|RSS Sync Completed. Reports found: 224, Reports grabbed: 0
+2024-05-04 13:34:23.7|Info|RssSyncService|Starting RSS Sync
+2024-05-04 13:34:31.4|Info|DownloadDecisionMaker|Processing 230 releases
+2024-05-04 13:34:31.9|Info|RssSyncService|RSS Sync Completed. Reports found: 230, Reports grabbed: 0
+2024-05-04 14:04:54.5|Info|RssSyncService|Starting RSS Sync
+2024-05-04 14:05:01.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 10:52:52AM and 5/4/2024 10:52:52AM UTC. Search may be required.
+2024-05-04 14:05:01.6|Info|DownloadDecisionMaker|Processing 237 releases
+2024-05-04 14:05:02.0|Info|RssSyncService|RSS Sync Completed. Reports found: 237, Reports grabbed: 0
+2024-05-04 14:35:25.4|Info|RssSyncService|Starting RSS Sync
+2024-05-04 14:35:31.6|Info|DownloadDecisionMaker|Processing 215 releases
+2024-05-04 14:35:32.0|Info|RssSyncService|RSS Sync Completed. Reports found: 215, Reports grabbed: 0
+2024-05-04 15:05:56.4|Info|RssSyncService|Starting RSS Sync
+2024-05-04 15:05:59.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 10:52:52AM and 5/4/2024 12:44:42PM UTC. Search may be required.
+2024-05-04 15:06:02.7|Info|DownloadDecisionMaker|Processing 217 releases
+2024-05-04 15:06:03.1|Info|RssSyncService|RSS Sync Completed. Reports found: 217, Reports grabbed: 0
+2024-05-04 15:36:27.6|Info|RssSyncService|Starting RSS Sync
+2024-05-04 15:36:30.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 12:44:42PM and 5/4/2024 12:44:42PM UTC. Search may be required.
+2024-05-04 15:36:33.9|Info|DownloadDecisionMaker|Processing 219 releases
+2024-05-04 15:36:34.3|Info|RssSyncService|RSS Sync Completed. Reports found: 219, Reports grabbed: 0
+2024-05-04 16:06:58.5|Info|RssSyncService|Starting RSS Sync
+2024-05-04 16:07:07.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 12:44:42PM and 5/4/2024 12:44:42PM UTC. Search may be required.
+2024-05-04 16:07:07.7|Info|DownloadDecisionMaker|Processing 223 releases
+2024-05-04 16:07:08.0|Info|RssSyncService|RSS Sync Completed. Reports found: 223, Reports grabbed: 0
+2024-05-04 16:37:29.0|Info|RssSyncService|Starting RSS Sync
+2024-05-04 16:37:33.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 12:44:42PM and 5/4/2024 12:44:42PM UTC. Search may be required.
+2024-05-04 16:37:36.0|Info|DownloadDecisionMaker|Processing 229 releases
+2024-05-04 16:37:36.4|Info|RssSyncService|RSS Sync Completed. Reports found: 229, Reports grabbed: 0
+2024-05-04 17:08:00.2|Info|RssSyncService|Starting RSS Sync
+2024-05-04 17:08:06.4|Info|DownloadDecisionMaker|Processing 232 releases
+2024-05-04 17:08:06.8|Info|RssSyncService|RSS Sync Completed. Reports found: 232, Reports grabbed: 0
+2024-05-04 17:38:31.2|Info|RssSyncService|Starting RSS Sync
+2024-05-04 17:38:37.5|Info|DownloadDecisionMaker|Processing 230 releases
+2024-05-04 17:38:37.9|Info|RssSyncService|RSS Sync Completed. Reports found: 230, Reports grabbed: 0
+2024-05-04 18:09:01.9|Info|RssSyncService|Starting RSS Sync
+2024-05-04 18:09:08.1|Info|DownloadDecisionMaker|Processing 229 releases
+2024-05-04 18:09:08.5|Info|RssSyncService|RSS Sync Completed. Reports found: 229, Reports grabbed: 0
+2024-05-04 18:39:32.7|Info|RssSyncService|Starting RSS Sync
+2024-05-04 18:39:35.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 3:07:41PM and 5/4/2024 3:07:41PM UTC. Search may be required.
+2024-05-04 18:39:39.1|Info|DownloadDecisionMaker|Processing 242 releases
+2024-05-04 18:39:39.5|Info|RssSyncService|RSS Sync Completed. Reports found: 242, Reports grabbed: 0
+2024-05-04 19:10:03.5|Info|RssSyncService|Starting RSS Sync
+2024-05-04 19:10:09.8|Info|DownloadDecisionMaker|Processing 245 releases
+2024-05-04 19:10:10.2|Info|RssSyncService|RSS Sync Completed. Reports found: 245, Reports grabbed: 0
+2024-05-04 19:40:34.6|Info|RssSyncService|Starting RSS Sync
+2024-05-04 19:40:41.3|Info|DownloadDecisionMaker|Processing 259 releases
+2024-05-04 19:40:41.8|Info|RssSyncService|RSS Sync Completed. Reports found: 259, Reports grabbed: 0
+2024-05-04 20:11:06.1|Info|RssSyncService|Starting RSS Sync
+2024-05-04 20:11:12.5|Info|DownloadDecisionMaker|Processing 256 releases
+2024-05-04 20:11:12.9|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2024-05-04 20:41:37.4|Info|RssSyncService|Starting RSS Sync
+2024-05-04 20:41:43.6|Info|DownloadDecisionMaker|Processing 258 releases
+2024-05-04 20:41:44.0|Info|RssSyncService|RSS Sync Completed. Reports found: 258, Reports grabbed: 0
+2024-05-04 21:12:08.1|Info|RssSyncService|Starting RSS Sync
+2024-05-04 21:12:09.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 6:14:57PM and 5/4/2024 6:14:57PM UTC. Search may be required.
+2024-05-04 21:12:14.4|Info|DownloadDecisionMaker|Processing 256 releases
+2024-05-04 21:12:14.8|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2024-05-04 21:42:38.9|Info|RssSyncService|Starting RSS Sync
+2024-05-04 21:42:40.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 6:43:36PM and 5/4/2024 6:43:36PM UTC. Search may be required.
+2024-05-04 21:42:45.2|Info|DownloadDecisionMaker|Processing 255 releases
+2024-05-04 21:42:45.6|Info|RssSyncService|RSS Sync Completed. Reports found: 255, Reports grabbed: 0
+2024-05-04 22:13:10.0|Info|RssSyncService|Starting RSS Sync
+2024-05-04 22:13:11.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 6:43:36PM and 5/4/2024 7:34:10PM UTC. Search may be required.
+2024-05-04 22:13:16.7|Info|DownloadDecisionMaker|Processing 258 releases
+2024-05-04 22:13:17.1|Info|RssSyncService|RSS Sync Completed. Reports found: 258, Reports grabbed: 0
+2024-05-04 22:43:40.5|Info|RssSyncService|Starting RSS Sync
+2024-05-04 22:43:47.1|Info|DownloadDecisionMaker|Processing 254 releases
+2024-05-04 22:43:47.5|Info|RssSyncService|RSS Sync Completed. Reports found: 254, Reports grabbed: 0
+2024-05-04 23:14:11.0|Info|RssSyncService|Starting RSS Sync
+2024-05-04 23:14:12.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 7:58:14PM and 5/4/2024 7:58:14PM UTC. Search may be required.
+2024-05-04 23:14:17.2|Info|DownloadDecisionMaker|Processing 251 releases
+2024-05-04 23:14:17.7|Info|RssSyncService|RSS Sync Completed. Reports found: 251, Reports grabbed: 0
+2024-05-04 23:44:42.1|Info|RssSyncService|Starting RSS Sync
+2024-05-04 23:44:43.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 8:55:58PM and 5/4/2024 8:55:58PM UTC. Search may be required.
+2024-05-04 23:44:48.4|Info|DownloadDecisionMaker|Processing 248 releases
+2024-05-04 23:44:48.8|Info|RssSyncService|RSS Sync Completed. Reports found: 248, Reports grabbed: 0
+2024-05-05 00:15:12.9|Info|RssSyncService|Starting RSS Sync
+2024-05-05 00:15:14.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 8:55:58PM and 5/4/2024 8:55:58PM UTC. Search may be required.
+2024-05-05 00:15:19.5|Info|DownloadDecisionMaker|Processing 251 releases
+2024-05-05 00:15:20.0|Info|RssSyncService|RSS Sync Completed. Reports found: 251, Reports grabbed: 0
+2024-05-05 00:45:43.7|Info|RssSyncService|Starting RSS Sync
+2024-05-05 00:45:50.1|Info|DownloadDecisionMaker|Processing 251 releases
+2024-05-05 00:45:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 251, Reports grabbed: 0
+2024-05-05 01:16:15.0|Info|RssSyncService|Starting RSS Sync
+2024-05-05 01:16:21.7|Info|DownloadDecisionMaker|Processing 248 releases
+2024-05-05 01:16:22.2|Info|RssSyncService|RSS Sync Completed. Reports found: 248, Reports grabbed: 0
+2024-05-05 01:46:45.9|Info|RssSyncService|Starting RSS Sync
+2024-05-05 01:46:47.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 9:48:52PM and 5/4/2024 9:48:52PM UTC. Search may be required.
+2024-05-05 01:46:52.6|Info|DownloadDecisionMaker|Processing 262 releases
+2024-05-05 01:46:53.1|Info|RssSyncService|RSS Sync Completed. Reports found: 262, Reports grabbed: 0
+2024-05-05 02:17:16.8|Info|RssSyncService|Starting RSS Sync
+2024-05-05 02:17:18.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 11:21:39PM and 5/4/2024 11:52:59PM UTC. Search may be required.
+2024-05-05 02:17:23.0|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-05 02:17:23.6|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-05 02:47:47.3|Info|RssSyncService|Starting RSS Sync
+2024-05-05 02:47:53.6|Info|DownloadDecisionMaker|Processing 271 releases
+2024-05-05 02:47:54.0|Info|RssSyncService|RSS Sync Completed. Reports found: 271, Reports grabbed: 0
+2024-05-05 03:18:18.2|Info|RssSyncService|Starting RSS Sync
+2024-05-05 03:18:24.5|Info|DownloadDecisionMaker|Processing 264 releases
+2024-05-05 03:18:24.9|Info|RssSyncService|RSS Sync Completed. Reports found: 264, Reports grabbed: 0
+2024-05-05 03:48:48.9|Info|RssSyncService|Starting RSS Sync
+2024-05-05 03:48:55.7|Info|DownloadDecisionMaker|Processing 266 releases
+2024-05-05 03:48:56.2|Info|RssSyncService|RSS Sync Completed. Reports found: 266, Reports grabbed: 0
+2024-05-05 04:19:19.8|Info|RssSyncService|Starting RSS Sync
+2024-05-05 04:19:26.3|Info|DownloadDecisionMaker|Processing 267 releases
+2024-05-05 04:19:26.8|Info|RssSyncService|RSS Sync Completed. Reports found: 267, Reports grabbed: 0
+2024-05-05 04:49:50.5|Info|RssSyncService|Starting RSS Sync
+2024-05-05 04:49:52.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/4/2024 11:52:59PM and 5/5/2024 2:23:52AM UTC. Search may be required.
+2024-05-05 04:49:57.2|Info|DownloadDecisionMaker|Processing 269 releases
+2024-05-05 04:49:57.6|Info|RssSyncService|RSS Sync Completed. Reports found: 269, Reports grabbed: 0
+2024-05-05 05:20:21.8|Info|RssSyncService|Starting RSS Sync
+2024-05-05 05:20:28.1|Info|DownloadDecisionMaker|Processing 260 releases
+2024-05-05 05:20:28.6|Info|RssSyncService|RSS Sync Completed. Reports found: 260, Reports grabbed: 0
+2024-05-05 05:50:52.4|Info|RssSyncService|Starting RSS Sync
+2024-05-05 05:50:58.7|Info|DownloadDecisionMaker|Processing 259 releases
+2024-05-05 05:50:59.1|Info|RssSyncService|RSS Sync Completed. Reports found: 259, Reports grabbed: 0
+2024-05-05 06:21:24.1|Info|RssSyncService|Starting RSS Sync
+2024-05-05 06:21:30.4|Info|DownloadDecisionMaker|Processing 253 releases
+2024-05-05 06:21:30.9|Info|RssSyncService|RSS Sync Completed. Reports found: 253, Reports grabbed: 0
+2024-05-05 06:51:58.0|Info|RssSyncService|Starting RSS Sync
+2024-05-05 06:52:04.6|Info|DownloadDecisionMaker|Processing 252 releases
+2024-05-05 06:52:05.1|Info|RssSyncService|RSS Sync Completed. Reports found: 252, Reports grabbed: 0
+2024-05-05 07:22:28.7|Info|RssSyncService|Starting RSS Sync
+2024-05-05 07:22:30.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 3:48:54AM and 5/5/2024 4:55:12AM UTC. Search may be required.
+2024-05-05 07:22:34.9|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-05 07:22:35.3|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-05 07:51:29.8|Info|BackupService|Starting Backup
+2024-05-05 07:52:29.8|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-05 07:52:29.9|Info|HousekeepingService|Running housecleaning tasks
+2024-05-05 07:52:30.0|Info|Database|Vacuuming Log database
+2024-05-05 07:52:30.1|Info|Database|Log database compressed
+2024-05-05 07:52:30.1|Info|Database|Vacuuming Main database
+2024-05-05 07:52:30.2|Info|Database|Main database compressed
+2024-05-05 07:52:30.5|Info|RefreshMovieService|Updating info for Challengers
+2024-05-05 07:52:31.1|Warn|DiskScanService|Movie's root folder (/data/media/movies/) is empty. Rescan will not update movies as a failsafe.
+2024-05-05 07:53:00.0|Info|RssSyncService|Starting RSS Sync
+2024-05-05 07:53:06.2|Info|DownloadDecisionMaker|Processing 241 releases
+2024-05-05 07:53:06.6|Info|RssSyncService|RSS Sync Completed. Reports found: 241, Reports grabbed: 0
+2024-05-05 08:23:30.6|Info|RssSyncService|Starting RSS Sync
+2024-05-05 08:23:37.0|Info|DownloadDecisionMaker|Processing 235 releases
+2024-05-05 08:23:37.5|Info|RssSyncService|RSS Sync Completed. Reports found: 235, Reports grabbed: 0
+2024-05-05 08:54:01.7|Info|RssSyncService|Starting RSS Sync
+2024-05-05 08:54:08.1|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-05 08:54:08.5|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-05 09:24:32.8|Info|RssSyncService|Starting RSS Sync
+2024-05-05 09:24:45.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 5:09:33AM and 5/5/2024 5:09:33AM UTC. Search may be required.
+2024-05-05 09:24:45.2|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-05 09:24:45.6|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-05 09:55:03.5|Info|RssSyncService|Starting RSS Sync
+2024-05-05 09:55:06.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 5:09:33AM and 5/5/2024 7:28:35AM UTC. Search may be required.
+2024-05-05 09:55:09.8|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-05 09:55:10.2|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-05 10:25:34.3|Info|RssSyncService|Starting RSS Sync
+2024-05-05 10:25:40.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 7:28:35AM and 5/5/2024 7:28:35AM UTC. Search may be required.
+2024-05-05 10:25:41.0|Info|DownloadDecisionMaker|Processing 227 releases
+2024-05-05 10:25:41.4|Info|RssSyncService|RSS Sync Completed. Reports found: 227, Reports grabbed: 0
+2024-05-05 10:56:05.2|Info|RssSyncService|Starting RSS Sync
+2024-05-05 10:56:11.5|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-05 10:56:11.9|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-05 11:26:36.9|Info|RssSyncService|Starting RSS Sync
+2024-05-05 11:26:43.2|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-05 11:26:43.6|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-05 11:57:07.8|Info|RssSyncService|Starting RSS Sync
+2024-05-05 11:57:14.0|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-05 11:57:14.5|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-05 12:27:39.6|Info|RssSyncService|Starting RSS Sync
+2024-05-05 12:27:46.0|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-05 12:27:46.5|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-05 12:58:11.0|Info|RssSyncService|Starting RSS Sync
+2024-05-05 12:58:12.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 9:44:21AM and 5/5/2024 9:44:21AM UTC. Search may be required.
+2024-05-05 12:58:17.2|Info|DownloadDecisionMaker|Processing 234 releases
+2024-05-05 12:58:17.7|Info|RssSyncService|RSS Sync Completed. Reports found: 234, Reports grabbed: 0
+2024-05-05 13:28:42.8|Info|RssSyncService|Starting RSS Sync
+2024-05-05 13:28:49.1|Info|DownloadDecisionMaker|Processing 239 releases
+2024-05-05 13:28:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 239, Reports grabbed: 0
+2024-05-05 13:59:16.5|Info|RssSyncService|Starting RSS Sync
+2024-05-05 13:59:19.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 9:44:21AM and 5/5/2024 11:15:57AM UTC. Search may be required.
+2024-05-05 13:59:22.8|Info|DownloadDecisionMaker|Processing 249 releases
+2024-05-05 13:59:23.3|Info|RssSyncService|RSS Sync Completed. Reports found: 249, Reports grabbed: 0
+2024-05-05 14:29:47.7|Info|RssSyncService|Starting RSS Sync
+2024-05-05 14:29:49.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 11:15:57AM and 5/5/2024 11:15:57AM UTC. Search may be required.
+2024-05-05 14:29:54.5|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-05 14:29:55.0|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-05 15:00:18.3|Info|RssSyncService|Starting RSS Sync
+2024-05-05 15:00:20.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 11:55:56AM and 5/5/2024 11:55:56AM UTC. Search may be required.
+2024-05-05 15:00:24.8|Info|DownloadDecisionMaker|Processing 249 releases
+2024-05-05 15:00:25.2|Info|RssSyncService|RSS Sync Completed. Reports found: 249, Reports grabbed: 0
+2024-05-05 15:30:48.9|Info|RssSyncService|Starting RSS Sync
+2024-05-05 15:30:55.3|Info|DownloadDecisionMaker|Processing 253 releases
+2024-05-05 15:30:55.8|Info|RssSyncService|RSS Sync Completed. Reports found: 253, Reports grabbed: 0
+2024-05-05 16:01:19.4|Info|RssSyncService|Starting RSS Sync
+2024-05-05 16:01:20.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 12:38:14PM and 5/5/2024 12:38:14PM UTC. Search may be required.
+2024-05-05 16:01:25.6|Info|DownloadDecisionMaker|Processing 255 releases
+2024-05-05 16:01:26.1|Info|RssSyncService|RSS Sync Completed. Reports found: 255, Reports grabbed: 0
+2024-05-05 16:31:50.0|Info|RssSyncService|Starting RSS Sync
+2024-05-05 16:31:56.3|Info|DownloadDecisionMaker|Processing 256 releases
+2024-05-05 16:31:56.7|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2024-05-05 17:02:21.1|Info|RssSyncService|Starting RSS Sync
+2024-05-05 17:02:28.1|Info|DownloadDecisionMaker|Processing 269 releases
+2024-05-05 17:02:28.5|Info|RssSyncService|RSS Sync Completed. Reports found: 269, Reports grabbed: 0
+2024-05-05 17:32:52.0|Info|RssSyncService|Starting RSS Sync
+2024-05-05 17:32:53.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 2:34:28PM and 5/5/2024 2:34:28PM UTC. Search may be required.
+2024-05-05 17:32:58.3|Info|DownloadDecisionMaker|Processing 265 releases
+2024-05-05 17:32:58.7|Info|RssSyncService|RSS Sync Completed. Reports found: 265, Reports grabbed: 0
+2024-05-05 18:03:22.7|Info|RssSyncService|Starting RSS Sync
+2024-05-05 18:03:29.0|Info|DownloadDecisionMaker|Processing 265 releases
+2024-05-05 18:03:29.5|Info|RssSyncService|RSS Sync Completed. Reports found: 265, Reports grabbed: 0
+2024-05-05 18:33:53.6|Info|RssSyncService|Starting RSS Sync
+2024-05-05 18:33:55.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 2:34:28PM and 5/5/2024 4:07:36PM UTC. Search may be required.
+2024-05-05 18:34:00.1|Info|DownloadDecisionMaker|Processing 267 releases
+2024-05-05 18:34:00.6|Info|RssSyncService|RSS Sync Completed. Reports found: 267, Reports grabbed: 0
+2024-05-05 19:04:25.0|Info|RssSyncService|Starting RSS Sync
+2024-05-05 19:04:31.4|Info|DownloadDecisionMaker|Processing 265 releases
+2024-05-05 19:04:31.8|Info|RssSyncService|RSS Sync Completed. Reports found: 265, Reports grabbed: 0
+2024-05-05 19:34:55.5|Info|RssSyncService|Starting RSS Sync
+2024-05-05 19:35:01.8|Info|DownloadDecisionMaker|Processing 265 releases
+2024-05-05 19:35:02.2|Info|RssSyncService|RSS Sync Completed. Reports found: 265, Reports grabbed: 0
+2024-05-05 20:05:27.0|Info|RssSyncService|Starting RSS Sync
+2024-05-05 20:05:28.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 4:19:22PM and 5/5/2024 5:37:43PM UTC. Search may be required.
+2024-05-05 20:05:33.3|Info|DownloadDecisionMaker|Processing 266 releases
+2024-05-05 20:05:33.8|Info|RssSyncService|RSS Sync Completed. Reports found: 266, Reports grabbed: 0
+2024-05-05 20:35:58.2|Info|RssSyncService|Starting RSS Sync
+2024-05-05 20:35:59.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 5:37:43PM and 5/5/2024 6:13:21PM UTC. Search may be required.
+2024-05-05 20:36:04.9|Info|DownloadDecisionMaker|Processing 268 releases
+2024-05-05 20:36:05.3|Info|RssSyncService|RSS Sync Completed. Reports found: 268, Reports grabbed: 0
+2024-05-05 21:06:29.3|Info|RssSyncService|Starting RSS Sync
+2024-05-05 21:06:35.6|Info|DownloadDecisionMaker|Processing 267 releases
+2024-05-05 21:06:36.0|Info|RssSyncService|RSS Sync Completed. Reports found: 267, Reports grabbed: 0
+2024-05-05 21:37:00.2|Info|RssSyncService|Starting RSS Sync
+2024-05-05 21:37:01.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 6:14:14PM and 5/5/2024 7:27:18PM UTC. Search may be required.
+2024-05-05 21:37:06.7|Info|DownloadDecisionMaker|Processing 254 releases
+2024-05-05 21:37:07.1|Info|RssSyncService|RSS Sync Completed. Reports found: 254, Reports grabbed: 0
+2024-05-05 22:07:31.1|Info|RssSyncService|Starting RSS Sync
+2024-05-05 22:07:32.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 7:27:18PM and 5/5/2024 7:27:18PM UTC. Search may be required.
+2024-05-05 22:07:37.9|Info|DownloadDecisionMaker|Processing 250 releases
+2024-05-05 22:07:38.4|Info|RssSyncService|RSS Sync Completed. Reports found: 250, Reports grabbed: 0
+2024-05-05 22:38:02.8|Info|RssSyncService|Starting RSS Sync
+2024-05-05 22:38:04.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 7:56:41PM and 5/5/2024 7:56:41PM UTC. Search may be required.
+2024-05-05 22:38:09.0|Info|DownloadDecisionMaker|Processing 250 releases
+2024-05-05 22:38:09.4|Info|RssSyncService|RSS Sync Completed. Reports found: 250, Reports grabbed: 0
+2024-05-05 23:08:33.4|Info|RssSyncService|Starting RSS Sync
+2024-05-05 23:08:39.7|Info|DownloadDecisionMaker|Processing 244 releases
+2024-05-05 23:08:40.2|Info|RssSyncService|RSS Sync Completed. Reports found: 244, Reports grabbed: 0
+2024-05-05 23:39:04.5|Info|RssSyncService|Starting RSS Sync
+2024-05-05 23:39:10.7|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-05 23:39:11.2|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-06 00:09:36.2|Info|RssSyncService|Starting RSS Sync
+2024-05-06 00:09:42.5|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-06 00:09:42.9|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-06 00:40:06.9|Info|RssSyncService|Starting RSS Sync
+2024-05-06 00:40:08.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 8:23:05PM and 5/5/2024 10:13:56PM UTC. Search may be required.
+2024-05-06 00:40:13.2|Info|DownloadDecisionMaker|Processing 244 releases
+2024-05-06 00:40:13.7|Info|RssSyncService|RSS Sync Completed. Reports found: 244, Reports grabbed: 0
+2024-05-06 01:10:38.0|Info|RssSyncService|Starting RSS Sync
+2024-05-06 01:10:39.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 10:13:56PM and 5/5/2024 10:13:56PM UTC. Search may be required.
+2024-05-06 01:10:44.6|Info|DownloadDecisionMaker|Processing 244 releases
+2024-05-06 01:10:45.1|Info|RssSyncService|RSS Sync Completed. Reports found: 244, Reports grabbed: 0
+2024-05-06 01:41:09.3|Info|RssSyncService|Starting RSS Sync
+2024-05-06 01:41:15.6|Info|DownloadDecisionMaker|Processing 242 releases
+2024-05-06 01:41:16.0|Info|RssSyncService|RSS Sync Completed. Reports found: 242, Reports grabbed: 0
+2024-05-06 02:11:40.1|Info|RssSyncService|Starting RSS Sync
+2024-05-06 02:11:46.6|Info|DownloadDecisionMaker|Processing 238 releases
+2024-05-06 02:11:47.0|Info|RssSyncService|RSS Sync Completed. Reports found: 238, Reports grabbed: 0
+2024-05-06 02:42:10.6|Info|RssSyncService|Starting RSS Sync
+2024-05-06 02:42:16.9|Info|DownloadDecisionMaker|Processing 238 releases
+2024-05-06 02:42:17.3|Info|RssSyncService|RSS Sync Completed. Reports found: 238, Reports grabbed: 0
+2024-05-06 03:12:41.1|Info|RssSyncService|Starting RSS Sync
+2024-05-06 03:12:47.3|Info|DownloadDecisionMaker|Processing 235 releases
+2024-05-06 03:12:47.7|Info|RssSyncService|RSS Sync Completed. Reports found: 235, Reports grabbed: 0
+2024-05-06 03:43:11.5|Info|RssSyncService|Starting RSS Sync
+2024-05-06 03:43:17.8|Info|DownloadDecisionMaker|Processing 231 releases
+2024-05-06 03:43:18.2|Info|RssSyncService|RSS Sync Completed. Reports found: 231, Reports grabbed: 0
+2024-05-06 04:13:42.0|Info|RssSyncService|Starting RSS Sync
+2024-05-06 04:13:48.2|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-06 04:13:48.6|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-06 04:44:12.4|Info|RssSyncService|Starting RSS Sync
+2024-05-06 04:44:14.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/5/2024 10:13:56PM and 5/6/2024 2:09:37AM UTC. Search may be required.
+2024-05-06 04:44:18.7|Info|DownloadDecisionMaker|Processing 231 releases
+2024-05-06 04:44:19.1|Info|RssSyncService|RSS Sync Completed. Reports found: 231, Reports grabbed: 0
+2024-05-06 05:14:42.9|Info|RssSyncService|Starting RSS Sync
+2024-05-06 05:14:49.1|Info|DownloadDecisionMaker|Processing 233 releases
+2024-05-06 05:14:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 233, Reports grabbed: 0
+2024-05-06 05:45:13.4|Info|RssSyncService|Starting RSS Sync
+2024-05-06 05:45:15.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 2:29:52AM and 5/6/2024 2:29:52AM UTC. Search may be required.
+2024-05-06 05:45:19.7|Info|DownloadDecisionMaker|Processing 232 releases
+2024-05-06 05:45:20.1|Info|RssSyncService|RSS Sync Completed. Reports found: 232, Reports grabbed: 0
+2024-05-06 06:15:43.8|Info|RssSyncService|Starting RSS Sync
+2024-05-06 06:15:45.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 2:29:52AM and 5/6/2024 4:05:03AM UTC. Search may be required.
+2024-05-06 06:15:50.0|Info|DownloadDecisionMaker|Processing 231 releases
+2024-05-06 06:15:50.4|Info|RssSyncService|RSS Sync Completed. Reports found: 231, Reports grabbed: 0
+2024-05-06 06:46:14.3|Info|RssSyncService|Starting RSS Sync
+2024-05-06 06:46:15.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 4:05:03AM and 5/6/2024 4:05:03AM UTC. Search may be required.
+2024-05-06 06:46:20.5|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-06 06:46:20.9|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-06 07:16:44.8|Info|RssSyncService|Starting RSS Sync
+2024-05-06 07:16:51.1|Info|DownloadDecisionMaker|Processing 229 releases
+2024-05-06 07:16:51.5|Info|RssSyncService|RSS Sync Completed. Reports found: 229, Reports grabbed: 0
+2024-05-06 07:47:15.4|Info|RssSyncService|Starting RSS Sync
+2024-05-06 07:47:16.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 4:05:03AM and 5/6/2024 5:29:03AM UTC. Search may be required.
+2024-05-06 07:47:21.6|Info|DownloadDecisionMaker|Processing 231 releases
+2024-05-06 07:47:22.0|Info|RssSyncService|RSS Sync Completed. Reports found: 231, Reports grabbed: 0
+2024-05-06 07:52:45.4|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-06 07:52:45.5|Info|HousekeepingService|Running housecleaning tasks
+2024-05-06 07:52:45.6|Info|Database|Vacuuming Log database
+2024-05-06 07:52:45.7|Info|Database|Log database compressed
+2024-05-06 07:52:45.7|Info|Database|Vacuuming Main database
+2024-05-06 07:52:45.7|Info|Database|Main database compressed
+2024-05-06 07:52:45.8|Info|RefreshMovieService|Updating info for Challengers
+2024-05-06 07:52:46.3|Warn|DiskScanService|Movie's root folder (/data/media/movies/) is empty. Rescan will not update movies as a failsafe.
+2024-05-06 08:17:45.9|Info|RssSyncService|Starting RSS Sync
+2024-05-06 08:17:52.1|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-06 08:17:52.5|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-06 08:48:16.2|Info|RssSyncService|Starting RSS Sync
+2024-05-06 08:48:22.5|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-06 08:48:22.9|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-06 09:18:46.7|Info|RssSyncService|Starting RSS Sync
+2024-05-06 09:18:53.1|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-06 09:18:53.6|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-06 09:49:17.2|Info|RssSyncService|Starting RSS Sync
+2024-05-06 09:49:23.5|Info|DownloadDecisionMaker|Processing 210 releases
+2024-05-06 09:49:23.9|Info|RssSyncService|RSS Sync Completed. Reports found: 210, Reports grabbed: 0
+2024-05-06 10:19:47.7|Info|RssSyncService|Starting RSS Sync
+2024-05-06 10:19:54.2|Info|DownloadDecisionMaker|Processing 209 releases
+2024-05-06 10:19:54.6|Info|RssSyncService|RSS Sync Completed. Reports found: 209, Reports grabbed: 0
+2024-05-06 10:50:18.2|Info|RssSyncService|Starting RSS Sync
+2024-05-06 10:50:19.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 7:42:09AM and 5/6/2024 7:42:09AM UTC. Search may be required.
+2024-05-06 10:50:24.5|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-06 10:50:24.9|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-06 11:20:48.7|Info|RssSyncService|Starting RSS Sync
+2024-05-06 11:20:54.9|Info|DownloadDecisionMaker|Processing 227 releases
+2024-05-06 11:20:55.4|Info|RssSyncService|RSS Sync Completed. Reports found: 227, Reports grabbed: 0
+2024-05-06 11:51:19.1|Info|RssSyncService|Starting RSS Sync
+2024-05-06 11:51:25.4|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-06 11:51:25.9|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-06 12:21:49.6|Info|RssSyncService|Starting RSS Sync
+2024-05-06 12:21:55.8|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-06 12:21:56.2|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-06 12:52:19.9|Info|RssSyncService|Starting RSS Sync
+2024-05-06 12:52:26.1|Info|DownloadDecisionMaker|Processing 224 releases
+2024-05-06 12:52:26.6|Info|RssSyncService|RSS Sync Completed. Reports found: 224, Reports grabbed: 0
+2024-05-06 13:22:50.1|Info|RssSyncService|Starting RSS Sync
+2024-05-06 13:22:51.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 10:13:34AM and 5/6/2024 10:13:34AM UTC. Search may be required.
+2024-05-06 13:22:56.4|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-06 13:22:56.8|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-06 13:53:20.5|Info|RssSyncService|Starting RSS Sync
+2024-05-06 13:53:21.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 11:04:15AM and 5/6/2024 11:04:15AM UTC. Search may be required.
+2024-05-06 13:53:26.7|Info|DownloadDecisionMaker|Processing 212 releases
+2024-05-06 13:53:27.1|Info|RssSyncService|RSS Sync Completed. Reports found: 212, Reports grabbed: 0
+2024-05-06 14:23:50.8|Info|RssSyncService|Starting RSS Sync
+2024-05-06 14:23:52.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 11:04:15AM and 5/6/2024 11:04:15AM UTC. Search may be required.
+2024-05-06 14:23:57.1|Info|DownloadDecisionMaker|Processing 208 releases
+2024-05-06 14:23:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 208, Reports grabbed: 0
+2024-05-06 14:54:21.1|Info|RssSyncService|Starting RSS Sync
+2024-05-06 14:54:27.5|Info|DownloadDecisionMaker|Processing 220 releases
+2024-05-06 14:54:27.9|Info|RssSyncService|RSS Sync Completed. Reports found: 220, Reports grabbed: 0
+2024-05-06 15:24:51.4|Info|RssSyncService|Starting RSS Sync
+2024-05-06 15:24:57.7|Info|DownloadDecisionMaker|Processing 207 releases
+2024-05-06 15:24:58.1|Info|RssSyncService|RSS Sync Completed. Reports found: 207, Reports grabbed: 0
+2024-05-06 15:55:21.7|Info|RssSyncService|Starting RSS Sync
+2024-05-06 15:55:28.2|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-06 15:55:28.6|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-06 16:25:52.0|Info|RssSyncService|Starting RSS Sync
+2024-05-06 16:25:56.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 11:04:15AM and 5/6/2024 2:03:36PM UTC. Search may be required.
+2024-05-06 16:25:58.3|Info|DownloadDecisionMaker|Processing 190 releases
+2024-05-06 16:25:58.6|Info|RssSyncService|RSS Sync Completed. Reports found: 190, Reports grabbed: 0
+2024-05-06 16:56:22.3|Info|RssSyncService|Starting RSS Sync
+2024-05-06 16:56:24.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 2:03:36PM and 5/6/2024 2:03:36PM UTC. Search may be required.
+2024-05-06 16:56:28.5|Info|DownloadDecisionMaker|Processing 192 releases
+2024-05-06 16:56:28.9|Info|RssSyncService|RSS Sync Completed. Reports found: 192, Reports grabbed: 0
+2024-05-06 17:26:52.7|Info|RssSyncService|Starting RSS Sync
+2024-05-06 17:26:54.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 2:03:36PM and 5/6/2024 2:03:36PM UTC. Search may be required.
+2024-05-06 17:26:58.9|Info|DownloadDecisionMaker|Processing 212 releases
+2024-05-06 17:26:59.3|Info|RssSyncService|RSS Sync Completed. Reports found: 212, Reports grabbed: 0
+2024-05-06 17:57:22.9|Info|RssSyncService|Starting RSS Sync
+2024-05-06 17:57:29.6|Info|DownloadDecisionMaker|Processing 212 releases
+2024-05-06 17:57:30.0|Info|RssSyncService|RSS Sync Completed. Reports found: 212, Reports grabbed: 0
+2024-05-06 18:27:53.3|Info|RssSyncService|Starting RSS Sync
+2024-05-06 18:27:59.5|Info|DownloadDecisionMaker|Processing 230 releases
+2024-05-06 18:27:59.9|Info|RssSyncService|RSS Sync Completed. Reports found: 230, Reports grabbed: 0
+2024-05-06 18:58:24.6|Info|RssSyncService|Starting RSS Sync
+2024-05-06 18:58:30.8|Info|DownloadDecisionMaker|Processing 263 releases
+2024-05-06 18:58:31.3|Info|RssSyncService|RSS Sync Completed. Reports found: 263, Reports grabbed: 0
+2024-05-06 19:28:55.0|Info|RssSyncService|Starting RSS Sync
+2024-05-06 19:28:56.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 3:05:49PM and 5/6/2024 4:48:47PM UTC. Search may be required.
+2024-05-06 19:29:01.3|Info|DownloadDecisionMaker|Processing 270 releases
+2024-05-06 19:29:01.7|Info|RssSyncService|RSS Sync Completed. Reports found: 270, Reports grabbed: 0
+2024-05-06 19:59:25.4|Info|RssSyncService|Starting RSS Sync
+2024-05-06 19:59:31.8|Info|DownloadDecisionMaker|Processing 274 releases
+2024-05-06 19:59:32.2|Info|RssSyncService|RSS Sync Completed. Reports found: 274, Reports grabbed: 0
+2024-05-06 20:29:55.8|Info|RssSyncService|Starting RSS Sync
+2024-05-06 20:30:02.0|Info|DownloadDecisionMaker|Processing 272 releases
+2024-05-06 20:30:02.5|Info|RssSyncService|RSS Sync Completed. Reports found: 272, Reports grabbed: 0
+2024-05-06 21:00:26.0|Info|RssSyncService|Starting RSS Sync
+2024-05-06 21:00:27.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 5:08:58PM and 5/6/2024 6:37:12PM UTC. Search may be required.
+2024-05-06 21:00:32.7|Info|DownloadDecisionMaker|Processing 265 releases
+2024-05-06 21:00:33.1|Info|RssSyncService|RSS Sync Completed. Reports found: 265, Reports grabbed: 0
+2024-05-06 21:30:56.3|Info|RssSyncService|Starting RSS Sync
+2024-05-06 21:31:02.6|Info|DownloadDecisionMaker|Processing 253 releases
+2024-05-06 21:31:03.1|Info|RssSyncService|RSS Sync Completed. Reports found: 253, Reports grabbed: 0
+2024-05-06 22:01:26.7|Info|RssSyncService|Starting RSS Sync
+2024-05-06 22:01:33.0|Info|DownloadDecisionMaker|Processing 256 releases
+2024-05-06 22:01:33.4|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2024-05-06 22:31:57.0|Info|RssSyncService|Starting RSS Sync
+2024-05-06 22:32:03.3|Info|DownloadDecisionMaker|Processing 257 releases
+2024-05-06 22:32:03.7|Info|RssSyncService|RSS Sync Completed. Reports found: 257, Reports grabbed: 0
+2024-05-06 23:02:27.5|Info|RssSyncService|Starting RSS Sync
+2024-05-06 23:02:33.8|Info|DownloadDecisionMaker|Processing 256 releases
+2024-05-06 23:02:34.2|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2024-05-06 23:32:58.1|Info|RssSyncService|Starting RSS Sync
+2024-05-06 23:33:05.4|Info|DownloadDecisionMaker|Processing 254 releases
+2024-05-06 23:33:05.8|Info|RssSyncService|RSS Sync Completed. Reports found: 254, Reports grabbed: 0
+2024-05-07 00:03:28.6|Info|RssSyncService|Starting RSS Sync
+2024-05-07 00:03:34.8|Warn|Torznab|Indexer 1337x (Prowlarr) rss sync didn't cover the period between 5/6/2024 7:44:00PM and 5/7/2024 11:05:00AM UTC. Search may be required.
+2024-05-07 00:03:34.8|Info|DownloadDecisionMaker|Processing 253 releases
+2024-05-07 00:03:35.3|Info|RssSyncService|RSS Sync Completed. Reports found: 253, Reports grabbed: 0
+2024-05-07 00:33:59.0|Info|RssSyncService|Starting RSS Sync
+2024-05-07 00:34:05.5|Info|DownloadDecisionMaker|Processing 252 releases
+2024-05-07 00:34:06.0|Info|RssSyncService|RSS Sync Completed. Reports found: 252, Reports grabbed: 0
+2024-05-07 01:04:29.4|Info|RssSyncService|Starting RSS Sync
+2024-05-07 01:04:31.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/6/2024 6:48:57PM and 5/6/2024 10:54:03PM UTC. Search may be required.
+2024-05-07 01:04:35.7|Info|DownloadDecisionMaker|Processing 254 releases
+2024-05-07 01:04:36.1|Info|RssSyncService|RSS Sync Completed. Reports found: 254, Reports grabbed: 0
+2024-05-07 01:35:00.0|Info|RssSyncService|Starting RSS Sync
+2024-05-07 01:35:06.2|Info|DownloadDecisionMaker|Processing 256 releases
+2024-05-07 01:35:06.7|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2024-05-07 02:05:30.5|Info|RssSyncService|Starting RSS Sync
+2024-05-07 02:05:36.7|Info|DownloadDecisionMaker|Processing 258 releases
+2024-05-07 02:05:37.2|Info|RssSyncService|RSS Sync Completed. Reports found: 258, Reports grabbed: 0
+2024-05-07 02:36:01.0|Info|RssSyncService|Starting RSS Sync
+2024-05-07 02:36:07.2|Info|DownloadDecisionMaker|Processing 261 releases
+2024-05-07 02:36:07.7|Info|RssSyncService|RSS Sync Completed. Reports found: 261, Reports grabbed: 0
+2024-05-07 03:06:31.3|Info|RssSyncService|Starting RSS Sync
+2024-05-07 03:06:37.6|Info|DownloadDecisionMaker|Processing 258 releases
+2024-05-07 03:06:38.0|Info|RssSyncService|RSS Sync Completed. Reports found: 258, Reports grabbed: 0
+2024-05-07 03:37:01.7|Info|RssSyncService|Starting RSS Sync
+2024-05-07 03:37:03.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 12:20:23AM and 5/7/2024 12:20:23AM UTC. Search may be required.
+2024-05-07 03:37:07.9|Info|DownloadDecisionMaker|Processing 247 releases
+2024-05-07 03:37:08.4|Info|RssSyncService|RSS Sync Completed. Reports found: 247, Reports grabbed: 0
+2024-05-07 04:07:32.0|Info|RssSyncService|Starting RSS Sync
+2024-05-07 04:07:38.2|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-07 04:07:38.6|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-07 04:38:02.4|Info|RssSyncService|Starting RSS Sync
+2024-05-07 04:38:08.6|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-07 04:38:09.1|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-07 05:08:32.7|Info|RssSyncService|Starting RSS Sync
+2024-05-07 05:08:34.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 12:20:23AM and 5/7/2024 2:55:22AM UTC. Search may be required.
+2024-05-07 05:08:39.0|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-07 05:08:39.4|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-07 05:39:03.1|Info|RssSyncService|Starting RSS Sync
+2024-05-07 05:39:04.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 2:55:22AM and 5/7/2024 2:55:22AM UTC. Search may be required.
+2024-05-07 05:39:09.3|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-07 05:39:09.8|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-07 06:09:33.5|Info|RssSyncService|Starting RSS Sync
+2024-05-07 06:09:35.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 2:55:22AM and 5/7/2024 2:55:22AM UTC. Search may be required.
+2024-05-07 06:09:39.7|Info|DownloadDecisionMaker|Processing 244 releases
+2024-05-07 06:09:40.1|Info|RssSyncService|RSS Sync Completed. Reports found: 244, Reports grabbed: 0
+2024-05-07 06:40:03.9|Info|RssSyncService|Starting RSS Sync
+2024-05-07 06:40:05.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 3:43:23AM and 5/7/2024 3:43:23AM UTC. Search may be required.
+2024-05-07 06:40:10.1|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-07 06:40:10.5|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-07 07:10:34.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 07:10:36.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 3:43:23AM and 5/7/2024 4:32:34AM UTC. Search may be required.
+2024-05-07 07:10:40.5|Info|DownloadDecisionMaker|Processing 251 releases
+2024-05-07 07:10:41.0|Info|RssSyncService|RSS Sync Completed. Reports found: 251, Reports grabbed: 0
+2024-05-07 07:41:04.7|Info|RssSyncService|Starting RSS Sync
+2024-05-07 07:41:10.9|Info|DownloadDecisionMaker|Processing 251 releases
+2024-05-07 07:41:11.4|Info|RssSyncService|RSS Sync Completed. Reports found: 251, Reports grabbed: 0
+2024-05-07 07:53:04.9|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-07 07:53:05.0|Info|HousekeepingService|Running housecleaning tasks
+2024-05-07 07:53:05.1|Info|Database|Vacuuming Log database
+2024-05-07 07:53:05.1|Info|Database|Log database compressed
+2024-05-07 07:53:05.1|Info|Database|Vacuuming Main database
+2024-05-07 07:53:05.2|Info|Database|Main database compressed
+2024-05-07 07:53:05.2|Info|RefreshMovieService|Updating info for Challengers
+2024-05-07 07:53:05.6|Warn|DiskScanService|Movie's root folder (/data/media/movies/) is empty. Rescan will not update movies as a failsafe.
+2024-05-07 08:11:35.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 08:11:41.4|Info|DownloadDecisionMaker|Processing 248 releases
+2024-05-07 08:11:41.9|Info|RssSyncService|RSS Sync Completed. Reports found: 248, Reports grabbed: 0
+2024-05-07 08:42:05.7|Info|RssSyncService|Starting RSS Sync
+2024-05-07 08:42:12.0|Info|DownloadDecisionMaker|Processing 248 releases
+2024-05-07 08:42:12.4|Info|RssSyncService|RSS Sync Completed. Reports found: 248, Reports grabbed: 0
+2024-05-07 09:12:36.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 09:12:42.4|Info|DownloadDecisionMaker|Processing 245 releases
+2024-05-07 09:12:42.9|Info|RssSyncService|RSS Sync Completed. Reports found: 245, Reports grabbed: 0
+2024-05-07 09:43:06.8|Info|RssSyncService|Starting RSS Sync
+2024-05-07 09:43:08.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 6:43:21AM and 5/7/2024 6:43:21AM UTC. Search may be required.
+2024-05-07 09:43:13.0|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-07 09:43:13.4|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-07 10:13:37.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 10:13:39.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 7:06:08AM and 5/7/2024 7:06:08AM UTC. Search may be required.
+2024-05-07 10:13:43.4|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-07 10:13:43.9|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-07 10:44:07.7|Info|RssSyncService|Starting RSS Sync
+2024-05-07 10:44:14.0|Info|DownloadDecisionMaker|Processing 244 releases
+2024-05-07 10:44:14.4|Info|RssSyncService|RSS Sync Completed. Reports found: 244, Reports grabbed: 0
+2024-05-07 11:14:38.1|Info|RssSyncService|Starting RSS Sync
+2024-05-07 11:14:39.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 7:57:12AM and 5/7/2024 7:57:12AM UTC. Search may be required.
+2024-05-07 11:14:44.4|Info|DownloadDecisionMaker|Processing 245 releases
+2024-05-07 11:14:44.8|Info|RssSyncService|RSS Sync Completed. Reports found: 245, Reports grabbed: 0
+2024-05-07 11:45:08.5|Info|RssSyncService|Starting RSS Sync
+2024-05-07 11:45:09.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 8:58:32AM and 5/7/2024 8:58:32AM UTC. Search may be required.
+2024-05-07 11:45:14.8|Info|DownloadDecisionMaker|Processing 237 releases
+2024-05-07 11:45:15.2|Info|RssSyncService|RSS Sync Completed. Reports found: 237, Reports grabbed: 0
+2024-05-07 12:15:38.9|Info|RssSyncService|Starting RSS Sync
+2024-05-07 12:15:40.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 8:58:32AM and 5/7/2024 9:53:18AM UTC. Search may be required.
+2024-05-07 12:15:45.1|Info|DownloadDecisionMaker|Processing 237 releases
+2024-05-07 12:15:45.6|Info|RssSyncService|RSS Sync Completed. Reports found: 237, Reports grabbed: 0
+2024-05-07 12:46:09.3|Info|RssSyncService|Starting RSS Sync
+2024-05-07 12:46:10.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 10:13:59AM and 5/7/2024 10:13:59AM UTC. Search may be required.
+2024-05-07 12:46:15.6|Info|DownloadDecisionMaker|Processing 236 releases
+2024-05-07 12:46:16.0|Info|RssSyncService|RSS Sync Completed. Reports found: 236, Reports grabbed: 0
+2024-05-07 13:16:39.9|Info|RssSyncService|Starting RSS Sync
+2024-05-07 13:16:41.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 10:13:59AM and 5/7/2024 11:11:59AM UTC. Search may be required.
+2024-05-07 13:16:46.1|Info|DownloadDecisionMaker|Processing 236 releases
+2024-05-07 13:16:46.5|Info|RssSyncService|RSS Sync Completed. Reports found: 236, Reports grabbed: 0
+2024-05-07 13:47:10.3|Info|RssSyncService|Starting RSS Sync
+2024-05-07 13:47:13.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 11:11:59AM and 5/7/2024 11:11:59AM UTC. Search may be required.
+2024-05-07 13:47:16.5|Info|DownloadDecisionMaker|Processing 237 releases
+2024-05-07 13:47:17.0|Info|RssSyncService|RSS Sync Completed. Reports found: 237, Reports grabbed: 0
+2024-05-07 14:17:40.9|Info|RssSyncService|Starting RSS Sync
+2024-05-07 14:17:47.4|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-07 14:17:47.8|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-07 14:48:11.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 14:48:12.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 11:19:11AM and 5/7/2024 12:23:59PM UTC. Search may be required.
+2024-05-07 14:48:17.5|Info|DownloadDecisionMaker|Processing 192 releases
+2024-05-07 14:48:17.8|Info|RssSyncService|RSS Sync Completed. Reports found: 192, Reports grabbed: 0
+2024-05-07 15:18:41.6|Info|RssSyncService|Starting RSS Sync
+2024-05-07 15:18:52.4|Info|DownloadDecisionMaker|Processing 193 releases
+2024-05-07 15:18:52.8|Info|RssSyncService|RSS Sync Completed. Reports found: 193, Reports grabbed: 0
+2024-05-07 15:49:12.0|Info|RssSyncService|Starting RSS Sync
+2024-05-07 15:49:13.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 1:06:04PM and 5/7/2024 1:28:03PM UTC. Search may be required.
+2024-05-07 15:49:18.3|Info|DownloadDecisionMaker|Processing 198 releases
+2024-05-07 15:49:18.7|Info|RssSyncService|RSS Sync Completed. Reports found: 198, Reports grabbed: 0
+2024-05-07 16:19:42.5|Info|RssSyncService|Starting RSS Sync
+2024-05-07 16:19:43.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 1:43:39PM and 5/7/2024 1:49:20PM UTC. Search may be required.
+2024-05-07 16:19:48.8|Info|DownloadDecisionMaker|Processing 195 releases
+2024-05-07 16:19:49.2|Info|RssSyncService|RSS Sync Completed. Reports found: 195, Reports grabbed: 0
+2024-05-07 16:50:12.9|Info|RssSyncService|Starting RSS Sync
+2024-05-07 16:50:14.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 2:09:00PM and 5/7/2024 2:27:21PM UTC. Search may be required.
+2024-05-07 16:50:19.5|Info|DownloadDecisionMaker|Processing 170 releases
+2024-05-07 16:50:19.9|Info|RssSyncService|RSS Sync Completed. Reports found: 170, Reports grabbed: 0
+2024-05-07 17:20:43.4|Info|RssSyncService|Starting RSS Sync
+2024-05-07 17:20:45.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 2:41:58PM and 5/7/2024 2:54:38PM UTC. Search may be required.
+2024-05-07 17:20:49.6|Info|DownloadDecisionMaker|Processing 179 releases
+2024-05-07 17:20:50.0|Info|RssSyncService|RSS Sync Completed. Reports found: 179, Reports grabbed: 0
+2024-05-07 17:51:14.0|Info|RssSyncService|Starting RSS Sync
+2024-05-07 17:51:20.4|Info|DownloadDecisionMaker|Processing 191 releases
+2024-05-07 17:51:20.7|Info|RssSyncService|RSS Sync Completed. Reports found: 191, Reports grabbed: 0
+2024-05-07 18:21:44.7|Info|RssSyncService|Starting RSS Sync
+2024-05-07 18:21:50.9|Info|DownloadDecisionMaker|Processing 206 releases
+2024-05-07 18:21:51.3|Info|RssSyncService|RSS Sync Completed. Reports found: 206, Reports grabbed: 0
+2024-05-07 18:52:15.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 18:52:21.6|Info|DownloadDecisionMaker|Processing 210 releases
+2024-05-07 18:52:22.0|Info|RssSyncService|RSS Sync Completed. Reports found: 210, Reports grabbed: 0
+2024-05-07 19:22:45.5|Info|RssSyncService|Starting RSS Sync
+2024-05-07 19:22:47.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 4:38:17PM and 5/7/2024 4:38:17PM UTC. Search may be required.
+2024-05-07 19:22:51.8|Info|DownloadDecisionMaker|Processing 219 releases
+2024-05-07 19:22:52.1|Info|RssSyncService|RSS Sync Completed. Reports found: 219, Reports grabbed: 0
+2024-05-07 19:53:16.0|Info|RssSyncService|Starting RSS Sync
+2024-05-07 19:53:22.4|Info|DownloadDecisionMaker|Processing 224 releases
+2024-05-07 19:53:22.8|Info|RssSyncService|RSS Sync Completed. Reports found: 224, Reports grabbed: 0
+2024-05-07 20:23:46.3|Info|RssSyncService|Starting RSS Sync
+2024-05-07 20:23:47.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 5:38:29PM and 5/7/2024 5:38:29PM UTC. Search may be required.
+2024-05-07 20:23:52.5|Info|DownloadDecisionMaker|Processing 220 releases
+2024-05-07 20:23:52.9|Info|RssSyncService|RSS Sync Completed. Reports found: 220, Reports grabbed: 0
+2024-05-07 20:54:17.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 20:54:18.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 5:38:29PM and 5/7/2024 6:15:34PM UTC. Search may be required.
+2024-05-07 20:54:23.9|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-07 20:54:24.3|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-07 21:24:47.6|Info|RssSyncService|Starting RSS Sync
+2024-05-07 21:24:53.8|Info|DownloadDecisionMaker|Processing 233 releases
+2024-05-07 21:24:54.2|Info|RssSyncService|RSS Sync Completed. Reports found: 233, Reports grabbed: 0
+2024-05-07 21:55:18.1|Info|RssSyncService|Starting RSS Sync
+2024-05-07 21:55:24.4|Info|DownloadDecisionMaker|Processing 232 releases
+2024-05-07 21:55:24.8|Info|RssSyncService|RSS Sync Completed. Reports found: 232, Reports grabbed: 0
+2024-05-07 22:25:48.7|Info|RssSyncService|Starting RSS Sync
+2024-05-07 22:25:50.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 7:13:48PM and 5/7/2024 7:48:21PM UTC. Search may be required.
+2024-05-07 22:25:55.0|Info|DownloadDecisionMaker|Processing 229 releases
+2024-05-07 22:25:55.4|Info|RssSyncService|RSS Sync Completed. Reports found: 229, Reports grabbed: 0
+2024-05-07 22:56:19.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 22:56:20.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 8:13:44PM and 5/7/2024 8:13:44PM UTC. Search may be required.
+2024-05-07 22:56:25.5|Info|DownloadDecisionMaker|Processing 232 releases
+2024-05-07 22:56:26.0|Info|RssSyncService|RSS Sync Completed. Reports found: 232, Reports grabbed: 0
+2024-05-07 23:26:50.2|Info|RssSyncService|Starting RSS Sync
+2024-05-07 23:26:51.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 8:33:10PM and 5/7/2024 8:58:19PM UTC. Search may be required.
+2024-05-07 23:26:56.5|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-07 23:26:56.9|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-07 23:57:21.1|Info|RssSyncService|Starting RSS Sync
+2024-05-07 23:57:23.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 8:58:19PM and 5/7/2024 9:16:43PM UTC. Search may be required.
+2024-05-07 23:57:27.4|Info|DownloadDecisionMaker|Processing 224 releases
+2024-05-07 23:57:27.7|Info|RssSyncService|RSS Sync Completed. Reports found: 224, Reports grabbed: 0
+2024-05-08 00:27:52.1|Info|RssSyncService|Starting RSS Sync
+2024-05-08 00:27:54.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/7/2024 9:16:43PM and 5/7/2024 9:16:43PM UTC. Search may be required.
+2024-05-08 00:27:58.4|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-08 00:27:58.8|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-08 00:58:22.5|Info|RssSyncService|Starting RSS Sync
+2024-05-08 00:58:28.8|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-08 00:58:29.2|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-08 01:28:52.9|Info|RssSyncService|Starting RSS Sync
+2024-05-08 01:28:59.2|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-08 01:28:59.6|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-08 01:59:23.8|Info|RssSyncService|Starting RSS Sync
+2024-05-08 01:59:30.1|Info|DownloadDecisionMaker|Processing 223 releases
+2024-05-08 01:59:30.4|Info|RssSyncService|RSS Sync Completed. Reports found: 223, Reports grabbed: 0
+2024-05-08 02:29:55.0|Info|RssSyncService|Starting RSS Sync
+2024-05-08 02:30:01.3|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-08 02:30:01.7|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-08 03:00:26.0|Info|RssSyncService|Starting RSS Sync
+2024-05-08 03:00:32.4|Info|DownloadDecisionMaker|Processing 223 releases
+2024-05-08 03:00:32.8|Info|RssSyncService|RSS Sync Completed. Reports found: 223, Reports grabbed: 0
+2024-05-08 03:30:56.6|Info|RssSyncService|Starting RSS Sync
+2024-05-08 03:31:03.1|Info|DownloadDecisionMaker|Processing 223 releases
+2024-05-08 03:31:03.5|Info|RssSyncService|RSS Sync Completed. Reports found: 223, Reports grabbed: 0
+2024-05-08 04:01:27.1|Info|RssSyncService|Starting RSS Sync
+2024-05-08 04:01:35.8|Info|DownloadDecisionMaker|Processing 211 releases
+2024-05-08 04:01:36.1|Info|RssSyncService|RSS Sync Completed. Reports found: 211, Reports grabbed: 0
+2024-05-08 04:31:57.9|Info|RssSyncService|Starting RSS Sync
+2024-05-08 04:32:04.1|Info|DownloadDecisionMaker|Processing 207 releases
+2024-05-08 04:32:04.5|Info|RssSyncService|RSS Sync Completed. Reports found: 207, Reports grabbed: 0
+2024-05-08 05:02:28.6|Info|RssSyncService|Starting RSS Sync
+2024-05-08 05:02:34.8|Info|DownloadDecisionMaker|Processing 206 releases
+2024-05-08 05:02:35.1|Info|RssSyncService|RSS Sync Completed. Reports found: 206, Reports grabbed: 0
+2024-05-08 05:32:59.0|Info|RssSyncService|Starting RSS Sync
+2024-05-08 05:33:05.2|Info|DownloadDecisionMaker|Processing 206 releases
+2024-05-08 05:33:05.6|Info|RssSyncService|RSS Sync Completed. Reports found: 206, Reports grabbed: 0
+2024-05-08 06:03:29.3|Info|RssSyncService|Starting RSS Sync
+2024-05-08 06:03:31.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 1:48:20AM and 5/8/2024 3:38:40AM UTC. Search may be required.
+2024-05-08 06:03:35.6|Info|DownloadDecisionMaker|Processing 208 releases
+2024-05-08 06:03:36.0|Info|RssSyncService|RSS Sync Completed. Reports found: 208, Reports grabbed: 0
+2024-05-08 06:34:00.0|Info|RssSyncService|Starting RSS Sync
+2024-05-08 06:34:06.2|Info|DownloadDecisionMaker|Processing 207 releases
+2024-05-08 06:34:06.7|Info|RssSyncService|RSS Sync Completed. Reports found: 207, Reports grabbed: 0
+2024-05-08 07:04:31.2|Info|RssSyncService|Starting RSS Sync
+2024-05-08 07:04:41.4|Info|DownloadDecisionMaker|Processing 204 releases
+2024-05-08 07:04:41.7|Info|RssSyncService|RSS Sync Completed. Reports found: 204, Reports grabbed: 0
+2024-05-08 07:35:01.9|Info|RssSyncService|Starting RSS Sync
+2024-05-08 07:35:08.2|Info|DownloadDecisionMaker|Processing 203 releases
+2024-05-08 07:35:08.5|Info|RssSyncService|RSS Sync Completed. Reports found: 203, Reports grabbed: 0
+2024-05-08 07:53:32.1|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-08 07:53:32.1|Info|HousekeepingService|Running housecleaning tasks
+2024-05-08 07:53:32.3|Info|Database|Vacuuming Log database
+2024-05-08 07:53:32.3|Info|Database|Log database compressed
+2024-05-08 07:53:32.3|Info|Database|Vacuuming Main database
+2024-05-08 07:53:32.4|Info|Database|Main database compressed
+2024-05-08 07:53:32.4|Info|RefreshMovieService|Updating info for Challengers
+2024-05-08 07:53:33.3|Warn|DiskScanService|Movie's root folder (/data/media/movies/) is empty. Rescan will not update movies as a failsafe.
+2024-05-08 07:53:33.5|Info|MediaCoverService|Downloading Fanart for [Challengers (2024)][tt16426418, 937287] https://image.tmdb.org/t/p/original/72clA3Tlo9hGY815pubweHOxVAR.jpg
+2024-05-08 07:53:34.3|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2024-05-08 08:05:32.5|Info|RssSyncService|Starting RSS Sync
+2024-05-08 08:05:38.8|Info|DownloadDecisionMaker|Processing 203 releases
+2024-05-08 08:05:39.2|Info|RssSyncService|RSS Sync Completed. Reports found: 203, Reports grabbed: 0
+2024-05-08 08:36:03.4|Info|RssSyncService|Starting RSS Sync
+2024-05-08 08:36:05.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 3:38:40AM and 5/8/2024 6:19:39AM UTC. Search may be required.
+2024-05-08 08:36:09.8|Info|DownloadDecisionMaker|Processing 204 releases
+2024-05-08 08:36:10.1|Info|RssSyncService|RSS Sync Completed. Reports found: 204, Reports grabbed: 0
+2024-05-08 09:06:34.1|Info|RssSyncService|Starting RSS Sync
+2024-05-08 09:06:35.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 6:19:39AM and 5/8/2024 6:19:39AM UTC. Search may be required.
+2024-05-08 09:06:40.5|Info|DownloadDecisionMaker|Processing 204 releases
+2024-05-08 09:06:40.9|Info|RssSyncService|RSS Sync Completed. Reports found: 204, Reports grabbed: 0
+2024-05-08 09:37:05.2|Info|RssSyncService|Starting RSS Sync
+2024-05-08 09:37:06.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 6:49:08AM and 5/8/2024 7:28:41AM UTC. Search may be required.
+2024-05-08 09:37:11.9|Info|DownloadDecisionMaker|Processing 197 releases
+2024-05-08 09:37:12.3|Info|RssSyncService|RSS Sync Completed. Reports found: 197, Reports grabbed: 0
+2024-05-08 10:07:36.1|Info|RssSyncService|Starting RSS Sync
+2024-05-08 10:07:37.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 7:28:41AM and 5/8/2024 7:28:41AM UTC. Search may be required.
+2024-05-08 10:07:42.3|Info|DownloadDecisionMaker|Processing 196 releases
+2024-05-08 10:07:42.7|Info|RssSyncService|RSS Sync Completed. Reports found: 196, Reports grabbed: 0
+2024-05-08 10:38:06.8|Info|RssSyncService|Starting RSS Sync
+2024-05-08 10:38:08.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 7:54:59AM and 5/8/2024 7:54:59AM UTC. Search may be required.
+2024-05-08 10:38:13.2|Info|DownloadDecisionMaker|Processing 197 releases
+2024-05-08 10:38:13.6|Info|RssSyncService|RSS Sync Completed. Reports found: 197, Reports grabbed: 0
+2024-05-08 11:08:37.7|Info|RssSyncService|Starting RSS Sync
+2024-05-08 11:08:44.1|Info|DownloadDecisionMaker|Processing 196 releases
+2024-05-08 11:08:44.5|Info|RssSyncService|RSS Sync Completed. Reports found: 196, Reports grabbed: 0
+2024-05-08 11:39:08.7|Info|RssSyncService|Starting RSS Sync
+2024-05-08 11:39:10.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 8:36:30AM and 5/8/2024 8:36:30AM UTC. Search may be required.
+2024-05-08 11:39:15.2|Info|DownloadDecisionMaker|Processing 192 releases
+2024-05-08 11:39:15.6|Info|RssSyncService|RSS Sync Completed. Reports found: 192, Reports grabbed: 0
+2024-05-08 12:09:39.5|Info|RssSyncService|Starting RSS Sync
+2024-05-08 12:09:45.7|Info|DownloadDecisionMaker|Processing 191 releases
+2024-05-08 12:09:46.1|Info|RssSyncService|RSS Sync Completed. Reports found: 191, Reports grabbed: 0
+2024-05-08 12:40:10.5|Info|RssSyncService|Starting RSS Sync
+2024-05-08 12:40:16.7|Info|DownloadDecisionMaker|Processing 191 releases
+2024-05-08 12:40:17.1|Info|RssSyncService|RSS Sync Completed. Reports found: 191, Reports grabbed: 0
+2024-05-08 13:10:42.0|Info|RssSyncService|Starting RSS Sync
+2024-05-08 13:10:48.5|Info|DownloadDecisionMaker|Processing 190 releases
+2024-05-08 13:10:49.0|Info|RssSyncService|RSS Sync Completed. Reports found: 190, Reports grabbed: 0
+2024-05-08 13:41:12.9|Info|RssSyncService|Starting RSS Sync
+2024-05-08 13:41:19.2|Info|DownloadDecisionMaker|Processing 188 releases
+2024-05-08 13:41:19.5|Info|RssSyncService|RSS Sync Completed. Reports found: 188, Reports grabbed: 0
+2024-05-08 14:11:43.7|Info|RssSyncService|Starting RSS Sync
+2024-05-08 14:11:45.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 8:36:30AM and 5/8/2024 11:42:36AM UTC. Search may be required.
+2024-05-08 14:11:49.9|Info|DownloadDecisionMaker|Processing 189 releases
+2024-05-08 14:11:50.3|Info|RssSyncService|RSS Sync Completed. Reports found: 189, Reports grabbed: 0
+2024-05-08 14:42:14.4|Info|RssSyncService|Starting RSS Sync
+2024-05-08 14:42:16.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 11:42:36AM and 5/8/2024 11:42:36AM UTC. Search may be required.
+2024-05-08 14:42:20.7|Info|DownloadDecisionMaker|Processing 197 releases
+2024-05-08 14:42:21.1|Info|RssSyncService|RSS Sync Completed. Reports found: 197, Reports grabbed: 0
+2024-05-08 15:12:46.1|Info|RssSyncService|Starting RSS Sync
+2024-05-08 15:12:52.3|Info|DownloadDecisionMaker|Processing 200 releases
+2024-05-08 15:12:52.7|Info|RssSyncService|RSS Sync Completed. Reports found: 200, Reports grabbed: 0
+2024-05-08 15:43:17.1|Info|RssSyncService|Starting RSS Sync
+2024-05-08 15:43:23.6|Info|DownloadDecisionMaker|Processing 201 releases
+2024-05-08 15:43:24.0|Info|RssSyncService|RSS Sync Completed. Reports found: 201, Reports grabbed: 0
+2024-05-08 16:13:47.8|Info|RssSyncService|Starting RSS Sync
+2024-05-08 16:13:54.3|Info|DownloadDecisionMaker|Processing 203 releases
+2024-05-08 16:13:54.6|Info|RssSyncService|RSS Sync Completed. Reports found: 203, Reports grabbed: 0
+2024-05-08 16:44:18.8|Info|RssSyncService|Starting RSS Sync
+2024-05-08 16:44:20.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 11:42:36AM and 5/8/2024 2:18:21PM UTC. Search may be required.
+2024-05-08 16:44:25.5|Info|DownloadDecisionMaker|Processing 210 releases
+2024-05-08 16:44:25.9|Info|RssSyncService|RSS Sync Completed. Reports found: 210, Reports grabbed: 0
+2024-05-08 17:14:49.7|Info|RssSyncService|Starting RSS Sync
+2024-05-08 17:14:51.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 2:18:21PM and 5/8/2024 2:18:21PM UTC. Search may be required.
+2024-05-08 17:14:55.9|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-08 17:14:56.3|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-08 17:45:20.3|Info|RssSyncService|Starting RSS Sync
+2024-05-08 17:45:23.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 2:18:21PM and 5/8/2024 2:18:21PM UTC. Search may be required.
+2024-05-08 17:45:26.5|Info|DownloadDecisionMaker|Processing 232 releases
+2024-05-08 17:45:26.9|Info|RssSyncService|RSS Sync Completed. Reports found: 232, Reports grabbed: 0
+2024-05-08 18:15:50.8|Info|RssSyncService|Starting RSS Sync
+2024-05-08 18:15:57.1|Info|DownloadDecisionMaker|Processing 239 releases
+2024-05-08 18:15:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 239, Reports grabbed: 0
+2024-05-08 18:46:21.6|Info|RssSyncService|Starting RSS Sync
+2024-05-08 18:46:24.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 3:19:23PM and 5/8/2024 4:18:19PM UTC. Search may be required.
+2024-05-08 18:46:27.8|Info|DownloadDecisionMaker|Processing 260 releases
+2024-05-08 18:46:28.2|Info|RssSyncService|RSS Sync Completed. Reports found: 260, Reports grabbed: 0
+2024-05-08 19:16:52.4|Info|RssSyncService|Starting RSS Sync
+2024-05-08 19:16:53.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 4:28:38PM and 5/8/2024 4:58:21PM UTC. Search may be required.
+2024-05-08 19:16:58.9|Info|DownloadDecisionMaker|Processing 264 releases
+2024-05-08 19:16:59.3|Info|RssSyncService|RSS Sync Completed. Reports found: 264, Reports grabbed: 0
+2024-05-08 19:47:23.3|Info|RssSyncService|Starting RSS Sync
+2024-05-08 19:47:25.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 4:58:21PM and 5/8/2024 4:58:21PM UTC. Search may be required.
+2024-05-08 19:47:36.1|Info|DownloadDecisionMaker|Processing 266 releases
+2024-05-08 19:47:36.5|Info|RssSyncService|RSS Sync Completed. Reports found: 266, Reports grabbed: 0
+2024-05-08 20:17:53.8|Info|RssSyncService|Starting RSS Sync
+2024-05-08 20:17:55.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 5:37:12PM and 5/8/2024 5:37:12PM UTC. Search may be required.
+2024-05-08 20:18:00.7|Info|DownloadDecisionMaker|Processing 267 releases
+2024-05-08 20:18:01.1|Info|RssSyncService|RSS Sync Completed. Reports found: 267, Reports grabbed: 0
+2024-05-08 20:48:24.4|Info|RssSyncService|Starting RSS Sync
+2024-05-08 20:48:30.7|Info|DownloadDecisionMaker|Processing 267 releases
+2024-05-08 20:48:31.1|Info|RssSyncService|RSS Sync Completed. Reports found: 267, Reports grabbed: 0
+2024-05-08 21:18:55.0|Info|RssSyncService|Starting RSS Sync
+2024-05-08 21:18:56.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 6:13:07PM and 5/8/2024 6:13:07PM UTC. Search may be required.
+2024-05-08 21:19:01.3|Info|DownloadDecisionMaker|Processing 267 releases
+2024-05-08 21:19:01.7|Info|RssSyncService|RSS Sync Completed. Reports found: 267, Reports grabbed: 0
+2024-05-08 21:49:27.0|Info|RssSyncService|Starting RSS Sync
+2024-05-08 21:49:33.3|Info|DownloadDecisionMaker|Processing 259 releases
+2024-05-08 21:49:33.7|Info|RssSyncService|RSS Sync Completed. Reports found: 259, Reports grabbed: 0
+2024-05-08 22:19:57.7|Info|RssSyncService|Starting RSS Sync
+2024-05-08 22:19:59.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 6:13:07PM and 5/8/2024 7:53:25PM UTC. Search may be required.
+2024-05-08 22:20:04.0|Info|DownloadDecisionMaker|Processing 250 releases
+2024-05-08 22:20:04.5|Info|RssSyncService|RSS Sync Completed. Reports found: 250, Reports grabbed: 0
+2024-05-08 22:50:28.6|Info|RssSyncService|Starting RSS Sync
+2024-05-08 22:50:30.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 7:53:25PM and 5/8/2024 8:32:43PM UTC. Search may be required.
+2024-05-08 22:50:34.9|Info|DownloadDecisionMaker|Processing 250 releases
+2024-05-08 22:50:35.3|Info|RssSyncService|RSS Sync Completed. Reports found: 250, Reports grabbed: 0
+2024-05-08 23:20:59.7|Info|RssSyncService|Starting RSS Sync
+2024-05-08 23:21:01.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 8:32:43PM and 5/8/2024 8:32:43PM UTC. Search may be required.
+2024-05-08 23:21:06.5|Info|DownloadDecisionMaker|Processing 249 releases
+2024-05-08 23:21:06.8|Info|RssSyncService|RSS Sync Completed. Reports found: 249, Reports grabbed: 0
+2024-05-08 23:51:31.0|Info|RssSyncService|Starting RSS Sync
+2024-05-08 23:51:33.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 8:32:43PM and 5/8/2024 9:39:07PM UTC. Search may be required.
+2024-05-08 23:51:37.3|Info|DownloadDecisionMaker|Processing 251 releases
+2024-05-08 23:51:37.7|Info|RssSyncService|RSS Sync Completed. Reports found: 251, Reports grabbed: 0
+2024-05-09 00:22:02.0|Info|RssSyncService|Starting RSS Sync
+2024-05-09 00:22:08.3|Info|DownloadDecisionMaker|Processing 250 releases
+2024-05-09 00:22:08.7|Info|RssSyncService|RSS Sync Completed. Reports found: 250, Reports grabbed: 0
+2024-05-09 00:52:33.0|Info|RssSyncService|Starting RSS Sync
+2024-05-09 00:52:39.2|Info|DownloadDecisionMaker|Processing 249 releases
+2024-05-09 00:52:39.6|Info|RssSyncService|RSS Sync Completed. Reports found: 249, Reports grabbed: 0
+2024-05-09 01:23:04.1|Info|RssSyncService|Starting RSS Sync
+2024-05-09 01:23:10.4|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-09 01:23:10.8|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-09 01:53:35.1|Info|RssSyncService|Starting RSS Sync
+2024-05-09 01:53:41.6|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-09 01:53:42.0|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-09 02:24:05.7|Info|RssSyncService|Starting RSS Sync
+2024-05-09 02:24:07.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/8/2024 9:43:19PM and 5/8/2024 11:53:43PM UTC. Search may be required.
+2024-05-09 02:24:12.0|Info|DownloadDecisionMaker|Processing 250 releases
+2024-05-09 02:24:12.4|Info|RssSyncService|RSS Sync Completed. Reports found: 250, Reports grabbed: 0
+2024-05-09 02:54:36.5|Info|RssSyncService|Starting RSS Sync
+2024-05-09 02:54:42.7|Warn|Torznab|Indexer 1337x (Prowlarr) rss sync didn't cover the period between 5/8/2024 8:00:00PM and 5/8/2024 11:21:00PM UTC. Search may be required.
+2024-05-09 02:54:42.7|Info|DownloadDecisionMaker|Processing 250 releases
+2024-05-09 02:54:43.2|Info|RssSyncService|RSS Sync Completed. Reports found: 250, Reports grabbed: 0
+2024-05-09 03:25:06.9|Info|RssSyncService|Starting RSS Sync
+2024-05-09 03:25:08.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 12:23:43AM and 5/9/2024 12:23:43AM UTC. Search may be required.
+2024-05-09 03:25:13.3|Info|DownloadDecisionMaker|Processing 247 releases
+2024-05-09 03:25:13.8|Info|RssSyncService|RSS Sync Completed. Reports found: 247, Reports grabbed: 0
+2024-05-09 03:55:37.6|Info|RssSyncService|Starting RSS Sync
+2024-05-09 03:55:39.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 12:58:01AM and 5/9/2024 12:58:01AM UTC. Search may be required.
+2024-05-09 03:55:43.8|Info|DownloadDecisionMaker|Processing 246 releases
+2024-05-09 03:55:44.3|Info|RssSyncService|RSS Sync Completed. Reports found: 246, Reports grabbed: 0
+2024-05-09 04:26:08.8|Info|RssSyncService|Starting RSS Sync
+2024-05-09 04:26:10.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 12:58:01AM and 5/9/2024 1:59:08AM UTC. Search may be required.
+2024-05-09 04:26:15.0|Info|DownloadDecisionMaker|Processing 241 releases
+2024-05-09 04:26:15.4|Info|RssSyncService|RSS Sync Completed. Reports found: 241, Reports grabbed: 0
+2024-05-09 04:56:39.9|Info|RssSyncService|Starting RSS Sync
+2024-05-09 04:56:41.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 1:59:08AM and 5/9/2024 1:59:08AM UTC. Search may be required.
+2024-05-09 04:56:46.1|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-09 04:56:46.5|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-09 05:27:10.8|Info|RssSyncService|Starting RSS Sync
+2024-05-09 05:27:17.1|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-09 05:27:17.5|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-09 05:57:41.4|Info|RssSyncService|Starting RSS Sync
+2024-05-09 05:57:43.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 2:19:06AM and 5/9/2024 2:19:06AM UTC. Search may be required.
+2024-05-09 05:57:47.6|Info|DownloadDecisionMaker|Processing 238 releases
+2024-05-09 05:57:48.0|Info|RssSyncService|RSS Sync Completed. Reports found: 238, Reports grabbed: 0
+2024-05-09 06:28:11.8|Info|RssSyncService|Starting RSS Sync
+2024-05-09 06:28:13.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 3:33:24AM and 5/9/2024 3:33:24AM UTC. Search may be required.
+2024-05-09 06:28:18.1|Info|DownloadDecisionMaker|Processing 237 releases
+2024-05-09 06:28:18.5|Info|RssSyncService|RSS Sync Completed. Reports found: 237, Reports grabbed: 0
+2024-05-09 06:58:42.3|Info|RssSyncService|Starting RSS Sync
+2024-05-09 06:58:44.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 3:48:23AM and 5/9/2024 4:20:05AM UTC. Search may be required.
+2024-05-09 06:58:48.5|Info|DownloadDecisionMaker|Processing 236 releases
+2024-05-09 06:58:49.0|Info|RssSyncService|RSS Sync Completed. Reports found: 236, Reports grabbed: 0
+2024-05-09 07:29:12.6|Info|RssSyncService|Starting RSS Sync
+2024-05-09 07:29:14.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 4:20:05AM and 5/9/2024 5:09:08AM UTC. Search may be required.
+2024-05-09 07:29:18.9|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-09 07:29:19.3|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-09 07:53:43.0|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-09 07:53:43.0|Info|HousekeepingService|Running housecleaning tasks
+2024-05-09 07:53:43.2|Info|Database|Vacuuming Log database
+2024-05-09 07:53:43.2|Info|Database|Log database compressed
+2024-05-09 07:53:43.2|Info|Database|Vacuuming Main database
+2024-05-09 07:53:43.4|Info|Database|Main database compressed
+2024-05-09 07:53:43.5|Info|RefreshMovieService|Updating info for Challengers
+2024-05-09 07:53:43.6|Warn|DiskScanService|Movie's root folder (/data/media/movies/) is empty. Rescan will not update movies as a failsafe.
+2024-05-09 07:59:43.1|Info|RssSyncService|Starting RSS Sync
+2024-05-09 07:59:44.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 5:09:08AM and 5/9/2024 5:09:08AM UTC. Search may be required.
+2024-05-09 07:59:49.7|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-09 07:59:50.1|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-09 08:30:14.0|Info|RssSyncService|Starting RSS Sync
+2024-05-09 08:30:20.2|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-09 08:30:20.6|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-09 09:00:45.7|Info|RssSyncService|Starting RSS Sync
+2024-05-09 09:00:47.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 5:09:08AM and 5/9/2024 6:44:33AM UTC. Search may be required.
+2024-05-09 09:00:52.2|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-09 09:00:52.6|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-09 09:31:16.7|Info|RssSyncService|Starting RSS Sync
+2024-05-09 09:31:23.1|Info|DownloadDecisionMaker|Processing 224 releases
+2024-05-09 09:31:23.5|Info|RssSyncService|RSS Sync Completed. Reports found: 224, Reports grabbed: 0
+2024-05-09 10:01:47.8|Info|RssSyncService|Starting RSS Sync
+2024-05-09 10:01:54.2|Info|DownloadDecisionMaker|Processing 223 releases
+2024-05-09 10:01:54.6|Info|RssSyncService|RSS Sync Completed. Reports found: 223, Reports grabbed: 0
+2024-05-09 10:32:18.2|Info|RssSyncService|Starting RSS Sync
+2024-05-09 10:32:19.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 6:44:33AM and 5/9/2024 8:29:03AM UTC. Search may be required.
+2024-05-09 10:32:24.5|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-09 10:32:24.9|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-09 11:02:48.7|Info|RssSyncService|Starting RSS Sync
+2024-05-09 11:02:50.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 8:29:03AM and 5/9/2024 8:29:03AM UTC. Search may be required.
+2024-05-09 11:02:54.9|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-09 11:02:55.3|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-09 11:33:19.1|Info|RssSyncService|Starting RSS Sync
+2024-05-09 11:33:21.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 8:29:03AM and 5/9/2024 9:18:43AM UTC. Search may be required.
+2024-05-09 11:33:27.4|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-09 11:33:27.8|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-09 12:03:50.6|Info|RssSyncService|Starting RSS Sync
+2024-05-09 12:03:52.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 9:29:14AM and 5/9/2024 9:29:14AM UTC. Search may be required.
+2024-05-09 12:03:57.1|Info|DownloadDecisionMaker|Processing 218 releases
+2024-05-09 12:03:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 218, Reports grabbed: 0
+2024-05-09 12:34:20.9|Info|RssSyncService|Starting RSS Sync
+2024-05-09 12:34:22.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 9:29:14AM and 5/9/2024 10:01:51AM UTC. Search may be required.
+2024-05-09 12:34:27.4|Info|DownloadDecisionMaker|Processing 220 releases
+2024-05-09 12:34:27.8|Info|RssSyncService|RSS Sync Completed. Reports found: 220, Reports grabbed: 0
+2024-05-09 13:04:51.2|Info|RssSyncService|Starting RSS Sync
+2024-05-09 13:04:52.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 10:28:44AM and 5/9/2024 10:28:44AM UTC. Search may be required.
+2024-05-09 13:04:57.9|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-09 13:04:58.3|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-09 13:35:21.8|Info|RssSyncService|Starting RSS Sync
+2024-05-09 13:35:23.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 10:58:46AM and 5/9/2024 10:58:46AM UTC. Search may be required.
+2024-05-09 13:35:28.1|Info|DownloadDecisionMaker|Processing 217 releases
+2024-05-09 13:35:28.5|Info|RssSyncService|RSS Sync Completed. Reports found: 217, Reports grabbed: 0
+2024-05-09 14:05:52.3|Info|RssSyncService|Starting RSS Sync
+2024-05-09 14:05:53.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 10:58:46AM and 5/9/2024 11:34:24AM UTC. Search may be required.
+2024-05-09 14:05:58.6|Info|DownloadDecisionMaker|Processing 217 releases
+2024-05-09 14:05:59.0|Info|RssSyncService|RSS Sync Completed. Reports found: 217, Reports grabbed: 0
+2024-05-09 14:36:22.7|Info|RssSyncService|Starting RSS Sync
+2024-05-09 14:36:29.0|Info|DownloadDecisionMaker|Processing 216 releases
+2024-05-09 14:36:29.4|Info|RssSyncService|RSS Sync Completed. Reports found: 216, Reports grabbed: 0
+2024-05-09 15:06:53.2|Info|RssSyncService|Starting RSS Sync
+2024-05-09 15:06:55.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 11:34:24AM and 5/9/2024 12:30:45PM UTC. Search may be required.
+2024-05-09 15:06:59.4|Info|DownloadDecisionMaker|Processing 218 releases
+2024-05-09 15:06:59.8|Info|RssSyncService|RSS Sync Completed. Reports found: 218, Reports grabbed: 0
+2024-05-09 15:37:23.6|Info|RssSyncService|Starting RSS Sync
+2024-05-09 15:37:29.9|Info|DownloadDecisionMaker|Processing 220 releases
+2024-05-09 15:37:30.3|Info|RssSyncService|RSS Sync Completed. Reports found: 220, Reports grabbed: 0
+2024-05-09 16:07:54.2|Info|RssSyncService|Starting RSS Sync
+2024-05-09 16:08:00.7|Info|DownloadDecisionMaker|Processing 218 releases
+2024-05-09 16:08:01.1|Info|RssSyncService|RSS Sync Completed. Reports found: 218, Reports grabbed: 0
+2024-05-09 16:38:25.1|Info|RssSyncService|Starting RSS Sync
+2024-05-09 16:38:31.4|Info|DownloadDecisionMaker|Processing 213 releases
+2024-05-09 16:38:31.8|Info|RssSyncService|RSS Sync Completed. Reports found: 213, Reports grabbed: 0
+2024-05-09 17:08:56.1|Info|RssSyncService|Starting RSS Sync
+2024-05-09 17:08:58.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 1:39:07PM and 5/9/2024 2:44:25PM UTC. Search may be required.
+2024-05-09 17:09:02.4|Info|DownloadDecisionMaker|Processing 230 releases
+2024-05-09 17:09:02.9|Info|RssSyncService|RSS Sync Completed. Reports found: 230, Reports grabbed: 0
+2024-05-09 17:39:27.1|Info|RssSyncService|Starting RSS Sync
+2024-05-09 17:39:29.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 2:44:25PM and 5/9/2024 2:44:25PM UTC. Search may be required.
+2024-05-09 17:39:33.6|Info|DownloadDecisionMaker|Processing 221 releases
+2024-05-09 17:39:33.9|Info|RssSyncService|RSS Sync Completed. Reports found: 221, Reports grabbed: 0
+2024-05-09 18:09:58.0|Info|RssSyncService|Starting RSS Sync
+2024-05-09 18:10:00.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 3:07:50PM and 5/9/2024 3:07:50PM UTC. Search may be required.
+2024-05-09 18:10:04.3|Info|DownloadDecisionMaker|Processing 233 releases
+2024-05-09 18:10:04.7|Info|RssSyncService|RSS Sync Completed. Reports found: 233, Reports grabbed: 0
+2024-05-09 18:40:28.8|Info|RssSyncService|Starting RSS Sync
+2024-05-09 18:40:30.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 3:44:06PM and 5/9/2024 3:44:06PM UTC. Search may be required.
+2024-05-09 18:40:35.1|Info|DownloadDecisionMaker|Processing 236 releases
+2024-05-09 18:40:35.6|Info|RssSyncService|RSS Sync Completed. Reports found: 236, Reports grabbed: 0
+2024-05-09 19:10:59.6|Info|RssSyncService|Starting RSS Sync
+2024-05-09 19:11:01.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 4:18:15PM and 5/9/2024 4:18:15PM UTC. Search may be required.
+2024-05-09 19:11:05.9|Info|DownloadDecisionMaker|Processing 248 releases
+2024-05-09 19:11:06.3|Info|RssSyncService|RSS Sync Completed. Reports found: 248, Reports grabbed: 0
+2024-05-09 19:41:29.9|Info|RssSyncService|Starting RSS Sync
+2024-05-09 19:41:32.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 4:33:44PM and 5/9/2024 4:33:44PM UTC. Search may be required.
+2024-05-09 19:41:36.2|Info|DownloadDecisionMaker|Processing 253 releases
+2024-05-09 19:41:36.7|Info|RssSyncService|RSS Sync Completed. Reports found: 253, Reports grabbed: 0
+2024-05-09 20:12:00.4|Info|RssSyncService|Starting RSS Sync
+2024-05-09 20:12:02.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 4:33:44PM and 5/9/2024 5:33:28PM UTC. Search may be required.
+2024-05-09 20:12:06.7|Info|DownloadDecisionMaker|Processing 253 releases
+2024-05-09 20:12:07.1|Info|RssSyncService|RSS Sync Completed. Reports found: 253, Reports grabbed: 0
+2024-05-09 20:42:31.0|Info|RssSyncService|Starting RSS Sync
+2024-05-09 20:42:34.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 5:33:28PM and 5/9/2024 5:33:28PM UTC. Search may be required.
+2024-05-09 20:42:37.3|Info|DownloadDecisionMaker|Processing 257 releases
+2024-05-09 20:42:37.8|Info|RssSyncService|RSS Sync Completed. Reports found: 257, Reports grabbed: 0
+2024-05-09 21:13:01.4|Info|RssSyncService|Starting RSS Sync
+2024-05-09 21:13:07.6|Info|DownloadDecisionMaker|Processing 258 releases
+2024-05-09 21:13:08.1|Info|RssSyncService|RSS Sync Completed. Reports found: 258, Reports grabbed: 0
+2024-05-09 21:43:31.8|Info|RssSyncService|Starting RSS Sync
+2024-05-09 21:43:33.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 6:15:00PM and 5/9/2024 6:15:00PM UTC. Search may be required.
+2024-05-09 21:43:38.4|Info|DownloadDecisionMaker|Processing 256 releases
+2024-05-09 21:43:38.9|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2024-05-09 22:14:02.3|Info|RssSyncService|Starting RSS Sync
+2024-05-09 22:14:08.6|Info|DownloadDecisionMaker|Processing 257 releases
+2024-05-09 22:14:09.0|Info|RssSyncService|RSS Sync Completed. Reports found: 257, Reports grabbed: 0
+2024-05-09 22:44:33.1|Info|RssSyncService|Starting RSS Sync
+2024-05-09 22:44:39.4|Info|DownloadDecisionMaker|Processing 258 releases
+2024-05-09 22:44:40.0|Info|RssSyncService|RSS Sync Completed. Reports found: 258, Reports grabbed: 0
+2024-05-09 23:15:03.6|Info|RssSyncService|Starting RSS Sync
+2024-05-09 23:15:06.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 6:15:00PM and 5/9/2024 8:41:23PM UTC. Search may be required.
+2024-05-09 23:15:10.1|Info|DownloadDecisionMaker|Processing 259 releases
+2024-05-09 23:15:10.5|Info|RssSyncService|RSS Sync Completed. Reports found: 259, Reports grabbed: 0
+2024-05-09 23:45:34.8|Info|RssSyncService|Starting RSS Sync
+2024-05-09 23:45:37.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 8:41:23PM and 5/9/2024 8:41:23PM UTC. Search may be required.
+2024-05-09 23:45:41.5|Info|DownloadDecisionMaker|Processing 260 releases
+2024-05-09 23:45:42.2|Info|RssSyncService|RSS Sync Completed. Reports found: 260, Reports grabbed: 0
+2024-05-10 00:16:05.6|Info|RssSyncService|Starting RSS Sync
+2024-05-10 00:16:11.8|Info|DownloadDecisionMaker|Processing 260 releases
+2024-05-10 00:16:12.3|Info|RssSyncService|RSS Sync Completed. Reports found: 260, Reports grabbed: 0
+2024-05-10 00:46:35.9|Info|RssSyncService|Starting RSS Sync
+2024-05-10 00:46:42.1|Info|DownloadDecisionMaker|Processing 259 releases
+2024-05-10 00:46:42.6|Info|RssSyncService|RSS Sync Completed. Reports found: 259, Reports grabbed: 0
+2024-05-10 01:17:06.6|Info|RssSyncService|Starting RSS Sync
+2024-05-10 01:17:08.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 9:38:39PM and 5/9/2024 9:38:39PM UTC. Search may be required.
+2024-05-10 01:17:12.8|Info|DownloadDecisionMaker|Processing 255 releases
+2024-05-10 01:17:13.3|Info|RssSyncService|RSS Sync Completed. Reports found: 255, Reports grabbed: 0
+2024-05-10 01:28:02.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2024-05-10 01:28:04.6|Info|ConsoleApp|Exiting main.
+2024-05-10 01:29:26.9|Info|Bootstrap|Starting Radarr - /app/bin/Radarr - Version 5.4.6.8723
+2024-05-10 01:29:27.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2024-05-10 01:29:27.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2024-05-10 01:29:28.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2024-05-10 01:29:28.5|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2024-05-10 01:29:28.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2024-05-10 01:29:28.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2024-05-10 01:29:28.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2024-05-10 01:29:28.9|Info|DatabaseEngineVersionCheck|SQLite 3.44.2
+2024-05-10 01:29:28.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1420384s
+2024-05-10 01:29:28.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2024-05-10 01:29:28.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1468945s
+2024-05-10 01:29:29.3|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2024-05-10 01:29:29.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2024-05-10 01:29:29.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2024-05-10 01:29:29.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2024-05-10 01:29:29.4|Info|DatabaseEngineVersionCheck|SQLite 3.44.2
+2024-05-10 01:29:29.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0091023s
+2024-05-10 01:29:29.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2024-05-10 01:29:29.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0095407s
+2024-05-10 01:29:30.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2024-05-10 01:29:31.2|Info|CommandExecutor|Starting 2 threads for tasks.
+2024-05-10 01:29:31.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-05-10 01:29:31.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2024-05-10 01:29:31.5|Info|Microsoft.Hosting.Lifetime|Content root path: /run/s6-rc:s6-rc-init:dfDHDa/servicedirs/service-radarr
+2024-05-10 01:29:36.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2024-05-10 01:29:41.7|Error|ServerSideNotificationService|Failed to retrieve notifications
+
+[v5.4.6.8723] System.Net.Http.HttpRequestException: Resource temporarily unavailable (radarr.servarr.com:443)
+ ---> System.Net.Sockets.SocketException (11): Resource temporarily unavailable
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 326
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 312
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp2ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp2ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Radarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Core.HealthCheck.ServerSideNotificationService.RetrieveServerChecks() in ./Radarr.Core/HealthCheck/ServerSideNotificationService.cs:line 61
+
+
+2024-05-10 01:29:47.2|Error|TaskExtensions|Task Error
+
+[v5.4.6.8723] System.Net.Http.HttpRequestException: Resource temporarily unavailable (radarr.servarr.com:443)
+ ---> System.Net.Sockets.SocketException (11): Resource temporarily unavailable
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 326
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 312
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp2ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp2ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Radarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Core.HealthCheck.Checks.SystemTimeCheck.Check() in ./Radarr.Core/HealthCheck/Checks/SystemTimeCheck.cs:line 30
+   at NzbDrone.Core.HealthCheck.HealthCheckService.<ProcessHealthChecks>b__15_0(IProvideHealthCheck c) in ./Radarr.Core/HealthCheck/HealthCheckService.cs:line 98
+   at System.Linq.Enumerable.SelectListIterator`2.ToList()
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at NzbDrone.Core.HealthCheck.HealthCheckService.ProcessHealthChecks() in ./Radarr.Core/HealthCheck/HealthCheckService.cs:line 85
+   at NzbDrone.Core.HealthCheck.HealthCheckService.HandleAsync(ApplicationStartedEvent message) in ./Radarr.Core/HealthCheck/HealthCheckService.cs:line 162
+   at NzbDrone.Core.Messaging.Events.EventAggregator.<>c__DisplayClass6_2`1.<PublishEvent>b__2() in ./Radarr.Core/Messaging/Events/EventAggregator.cs:line 120
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+
+
+2024-05-10 02:32:47.9|Info|RssSyncService|Starting RSS Sync
+2024-05-10 02:32:56.5|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v5.4.6.8723] System.Net.Http.HttpRequestException: Host is unreachable (192.168.1.220:9696)
+ ---> System.Net.Sockets.SocketException (113): Host is unreachable
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 326
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 312
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Radarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Radarr.Common/Cache/Cached.cs:line 98
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Radarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 92
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<FetchRecent>b__15_0(IIndexerRequestGenerator g) in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 50
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 110
+
+
+2024-05-10 02:33:05.7|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v5.4.6.8723] System.Net.Http.HttpRequestException: Host is unreachable (192.168.1.220:9696)
+ ---> System.Net.Sockets.SocketException (113): Host is unreachable
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 326
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 312
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Radarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Radarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Radarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 92
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<FetchRecent>b__15_0(IIndexerRequestGenerator g) in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 50
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 110
+
+
+2024-05-10 02:33:11.8|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v5.4.6.8723] System.Net.Http.HttpRequestException: Host is unreachable (192.168.1.220:9696)
+ ---> System.Net.Sockets.SocketException (113): Host is unreachable
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 326
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 312
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Radarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Radarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Radarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 92
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<FetchRecent>b__15_0(IIndexerRequestGenerator g) in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 50
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 110
+
+
+2024-05-10 02:33:21.1|Error|Torznab|An error occurred while processing indexer feed. 
+
+[v5.4.6.8723] System.Net.Http.HttpRequestException: Host is unreachable (192.168.1.220:9696)
+ ---> System.Net.Sockets.SocketException (113): Host is unreachable
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 326
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 312
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Radarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Radarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Radarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Radarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Radarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Radarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 92
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<FetchRecent>b__15_0(IIndexerRequestGenerator g) in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 50
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, Boolean isRecent) in ./Radarr.Core/Indexers/HttpIndexerBase.cs:line 110
+
+
+2024-05-10 02:33:21.1|Info|DownloadDecisionMaker|No results found
+2024-05-10 02:33:21.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2024-05-10 03:03:49.0|Info|RssSyncService|Starting RSS Sync
+2024-05-10 03:04:06.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/9/2024 9:38:39PM and 5/10/2024 12:31:10AM UTC. Search may be required.
+2024-05-10 03:04:14.1|Info|DownloadDecisionMaker|Processing 257 releases
+2024-05-10 03:04:15.5|Info|RssSyncService|RSS Sync Completed. Reports found: 257, Reports grabbed: 0
+2024-05-10 03:34:19.6|Info|RssSyncService|Starting RSS Sync
+2024-05-10 03:34:32.2|Info|DownloadDecisionMaker|Processing 258 releases
+2024-05-10 03:34:32.7|Info|RssSyncService|RSS Sync Completed. Reports found: 258, Reports grabbed: 0
+2024-05-10 04:04:50.7|Info|RssSyncService|Starting RSS Sync
+2024-05-10 04:05:03.4|Info|DownloadDecisionMaker|Processing 257 releases
+2024-05-10 04:05:03.9|Info|RssSyncService|RSS Sync Completed. Reports found: 257, Reports grabbed: 0
+2024-05-10 04:35:21.5|Info|RssSyncService|Starting RSS Sync
+2024-05-10 04:35:34.2|Info|DownloadDecisionMaker|Processing 252 releases
+2024-05-10 04:35:34.6|Info|RssSyncService|RSS Sync Completed. Reports found: 252, Reports grabbed: 0
+2024-05-10 05:05:52.8|Info|RssSyncService|Starting RSS Sync
+2024-05-10 05:06:05.6|Info|DownloadDecisionMaker|Processing 245 releases
+2024-05-10 05:06:06.1|Info|RssSyncService|RSS Sync Completed. Reports found: 245, Reports grabbed: 0
+2024-05-10 05:36:23.8|Info|RssSyncService|Starting RSS Sync
+2024-05-10 05:36:33.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 1:24:06AM and 5/10/2024 3:04:05AM UTC. Search may be required.
+2024-05-10 05:36:36.9|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-10 05:36:37.4|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-10 06:06:54.6|Info|RssSyncService|Starting RSS Sync
+2024-05-10 06:07:04.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 3:23:45AM and 5/10/2024 3:23:45AM UTC. Search may be required.
+2024-05-10 06:07:07.8|Info|DownloadDecisionMaker|Processing 241 releases
+2024-05-10 06:07:08.2|Info|RssSyncService|RSS Sync Completed. Reports found: 241, Reports grabbed: 0
+2024-05-10 06:37:25.4|Info|RssSyncService|Starting RSS Sync
+2024-05-10 06:37:35.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 3:59:26AM and 5/10/2024 4:24:29AM UTC. Search may be required.
+2024-05-10 06:37:38.0|Info|DownloadDecisionMaker|Processing 237 releases
+2024-05-10 06:37:38.5|Info|RssSyncService|RSS Sync Completed. Reports found: 237, Reports grabbed: 0
+2024-05-10 07:07:56.0|Info|RssSyncService|Starting RSS Sync
+2024-05-10 07:08:06.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 4:24:29AM and 5/10/2024 4:40:05AM UTC. Search may be required.
+2024-05-10 07:08:08.6|Info|DownloadDecisionMaker|Processing 243 releases
+2024-05-10 07:08:09.0|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2024-05-10 07:38:26.5|Info|RssSyncService|Starting RSS Sync
+2024-05-10 07:38:36.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 4:55:25AM and 5/10/2024 5:09:25AM UTC. Search may be required.
+2024-05-10 07:38:39.3|Info|DownloadDecisionMaker|Processing 232 releases
+2024-05-10 07:38:39.7|Info|RssSyncService|RSS Sync Completed. Reports found: 232, Reports grabbed: 0
+2024-05-10 07:53:57.0|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2024-05-10 07:53:57.0|Info|HousekeepingService|Running housecleaning tasks
+2024-05-10 07:53:57.1|Info|Database|Vacuuming Log database
+2024-05-10 07:53:57.2|Info|Database|Log database compressed
+2024-05-10 07:53:57.2|Info|Database|Vacuuming Main database
+2024-05-10 07:53:57.4|Info|Database|Main database compressed
+2024-05-10 07:54:01.3|Info|RefreshMovieService|Updating info for Challengers
+2024-05-10 07:54:01.8|Warn|DiskScanService|Movie's root folder (/data/media/movies/) is empty. Rescan will not update movies as a failsafe.
+2024-05-10 08:08:57.2|Info|RssSyncService|Starting RSS Sync
+2024-05-10 08:09:07.3|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 5:13:42AM and 5/10/2024 5:42:59AM UTC. Search may be required.
+2024-05-10 08:09:09.9|Info|DownloadDecisionMaker|Processing 230 releases
+2024-05-10 08:09:10.3|Info|RssSyncService|RSS Sync Completed. Reports found: 230, Reports grabbed: 0
+2024-05-10 08:39:27.8|Info|RssSyncService|Starting RSS Sync
+2024-05-10 08:39:37.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 5:42:59AM and 5/10/2024 6:27:39AM UTC. Search may be required.
+2024-05-10 08:39:40.5|Info|DownloadDecisionMaker|Processing 231 releases
+2024-05-10 08:39:40.9|Info|RssSyncService|RSS Sync Completed. Reports found: 231, Reports grabbed: 0
+2024-05-10 09:09:58.2|Info|RssSyncService|Starting RSS Sync
+2024-05-10 09:10:08.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 6:27:39AM and 5/10/2024 6:43:46AM UTC. Search may be required.
+2024-05-10 09:10:10.9|Info|DownloadDecisionMaker|Processing 224 releases
+2024-05-10 09:10:11.3|Info|RssSyncService|RSS Sync Completed. Reports found: 224, Reports grabbed: 0
+2024-05-10 09:40:28.7|Info|RssSyncService|Starting RSS Sync
+2024-05-10 09:40:41.3|Info|DownloadDecisionMaker|Processing 223 releases
+2024-05-10 09:40:41.7|Info|RssSyncService|RSS Sync Completed. Reports found: 223, Reports grabbed: 0
+2024-05-10 10:10:59.1|Info|RssSyncService|Starting RSS Sync
+2024-05-10 10:11:11.8|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-10 10:11:12.3|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-10 10:41:29.4|Info|RssSyncService|Starting RSS Sync
+2024-05-10 10:41:40.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 6:48:26AM and 5/10/2024 8:19:33AM UTC. Search may be required.
+2024-05-10 10:41:42.4|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-10 10:41:42.9|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-10 11:12:00.9|Info|RssSyncService|Starting RSS Sync
+2024-05-10 11:12:10.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 8:21:59AM and 5/10/2024 8:21:59AM UTC. Search may be required.
+2024-05-10 11:12:13.5|Info|DownloadDecisionMaker|Processing 225 releases
+2024-05-10 11:12:14.0|Info|RssSyncService|RSS Sync Completed. Reports found: 225, Reports grabbed: 0
+2024-05-10 11:42:31.9|Info|RssSyncService|Starting RSS Sync
+2024-05-10 11:44:11.9|Warn|Torznab|The Pirate Bay (Prowlarr) server is currently unavailable. http://192.168.1.220:9696/3/api?t=movie&cat=2000,2020,2040,2060,2030,2045&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2024-05-10 11:44:11.9|Info|DownloadDecisionMaker|Processing 219 releases
+2024-05-10 11:44:12.4|Info|RssSyncService|RSS Sync Completed. Reports found: 219, Reports grabbed: 0
+2024-05-10 12:14:32.9|Info|RssSyncService|Starting RSS Sync
+2024-05-10 12:14:43.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 8:58:49AM and 5/10/2024 9:01:55AM UTC. Search may be required.
+2024-05-10 12:14:45.6|Info|DownloadDecisionMaker|Processing 227 releases
+2024-05-10 12:14:46.0|Info|RssSyncService|RSS Sync Completed. Reports found: 227, Reports grabbed: 0
+2024-05-10 12:45:03.8|Info|RssSyncService|Starting RSS Sync
+2024-05-10 12:45:13.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 9:19:33AM and 5/10/2024 10:13:51AM UTC. Search may be required.
+2024-05-10 12:45:17.1|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-10 12:45:17.6|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-10 13:15:35.0|Info|RssSyncService|Starting RSS Sync
+2024-05-10 13:15:48.4|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-10 13:15:48.9|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-10 13:46:06.1|Info|RssSyncService|Starting RSS Sync
+2024-05-10 13:46:16.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 10:53:27AM and 5/10/2024 11:18:47AM UTC. Search may be required.
+2024-05-10 13:46:18.7|Info|DownloadDecisionMaker|Processing 224 releases
+2024-05-10 13:46:19.1|Info|RssSyncService|RSS Sync Completed. Reports found: 224, Reports grabbed: 0
+2024-05-10 14:16:36.6|Info|RssSyncService|Starting RSS Sync
+2024-05-10 14:16:49.1|Info|DownloadDecisionMaker|Processing 222 releases
+2024-05-10 14:16:49.5|Info|RssSyncService|RSS Sync Completed. Reports found: 222, Reports grabbed: 0
+2024-05-10 14:47:07.1|Info|RssSyncService|Starting RSS Sync
+2024-05-10 14:47:19.6|Info|DownloadDecisionMaker|Processing 228 releases
+2024-05-10 14:47:20.1|Info|RssSyncService|RSS Sync Completed. Reports found: 228, Reports grabbed: 0
+2024-05-10 15:17:37.7|Info|RssSyncService|Starting RSS Sync
+2024-05-10 15:17:49.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 12:44:06PM and 5/10/2024 12:54:37PM UTC. Search may be required.
+2024-05-10 15:17:50.8|Info|DownloadDecisionMaker|Processing 202 releases
+2024-05-10 15:17:51.3|Info|RssSyncService|RSS Sync Completed. Reports found: 202, Reports grabbed: 0
+2024-05-10 15:48:08.3|Info|RssSyncService|Starting RSS Sync
+2024-05-10 15:48:18.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 1:03:29PM and 5/10/2024 1:03:29PM UTC. Search may be required.
+2024-05-10 15:48:20.8|Info|DownloadDecisionMaker|Processing 202 releases
+2024-05-10 15:48:21.2|Info|RssSyncService|RSS Sync Completed. Reports found: 202, Reports grabbed: 0
+2024-05-10 16:18:38.9|Info|RssSyncService|Starting RSS Sync
+2024-05-10 16:18:53.5|Info|DownloadDecisionMaker|Processing 204 releases
+2024-05-10 16:18:53.9|Info|RssSyncService|RSS Sync Completed. Reports found: 204, Reports grabbed: 0
+2024-05-10 16:49:09.5|Info|RssSyncService|Starting RSS Sync
+2024-05-10 16:49:22.8|Info|DownloadDecisionMaker|Processing 198 releases
+2024-05-10 16:49:23.2|Info|RssSyncService|RSS Sync Completed. Reports found: 198, Reports grabbed: 0
+2024-05-10 17:19:40.0|Info|RssSyncService|Starting RSS Sync
+2024-05-10 17:19:50.5|Info|DownloadDecisionMaker|Processing 207 releases
+2024-05-10 17:19:50.9|Info|RssSyncService|RSS Sync Completed. Reports found: 207, Reports grabbed: 0
+2024-05-10 17:50:10.5|Info|RssSyncService|Starting RSS Sync
+2024-05-10 17:50:20.8|Info|DownloadDecisionMaker|Processing 213 releases
+2024-05-10 17:50:21.2|Info|RssSyncService|RSS Sync Completed. Reports found: 213, Reports grabbed: 0
+2024-05-10 18:20:41.0|Info|RssSyncService|Starting RSS Sync
+2024-05-10 18:20:49.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 1:59:08PM and 5/10/2024 3:45:52PM UTC. Search may be required.
+2024-05-10 18:20:51.3|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-10 18:20:51.7|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-10 18:51:11.4|Info|RssSyncService|Starting RSS Sync
+2024-05-10 18:51:24.4|Info|DownloadDecisionMaker|Processing 251 releases
+2024-05-10 18:51:24.8|Info|RssSyncService|RSS Sync Completed. Reports found: 251, Reports grabbed: 0
+2024-05-10 19:21:42.4|Info|RssSyncService|Starting RSS Sync
+2024-05-10 19:21:55.1|Info|DownloadDecisionMaker|Processing 249 releases
+2024-05-10 19:21:55.5|Info|RssSyncService|RSS Sync Completed. Reports found: 249, Reports grabbed: 0
+2024-05-10 19:52:13.7|Info|RssSyncService|Starting RSS Sync
+2024-05-10 19:52:26.6|Info|DownloadDecisionMaker|Processing 252 releases
+2024-05-10 19:52:27.0|Info|RssSyncService|RSS Sync Completed. Reports found: 252, Reports grabbed: 0
+2024-05-10 20:22:44.4|Info|RssSyncService|Starting RSS Sync
+2024-05-10 20:22:54.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 4:33:30PM and 5/10/2024 6:03:55PM UTC. Search may be required.
+2024-05-10 20:22:57.1|Info|DownloadDecisionMaker|Processing 257 releases
+2024-05-10 20:22:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 257, Reports grabbed: 0
+2024-05-10 20:53:15.0|Info|RssSyncService|Starting RSS Sync
+2024-05-10 20:53:24.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 6:03:55PM and 5/10/2024 6:03:55PM UTC. Search may be required.
+2024-05-10 20:53:27.7|Info|DownloadDecisionMaker|Processing 256 releases
+2024-05-10 20:53:28.1|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2024-05-10 21:23:45.6|Info|RssSyncService|Starting RSS Sync
+2024-05-10 21:23:58.4|Info|DownloadDecisionMaker|Processing 235 releases
+2024-05-10 21:23:58.8|Info|RssSyncService|RSS Sync Completed. Reports found: 235, Reports grabbed: 0
+2024-05-10 21:54:16.1|Info|RssSyncService|Starting RSS Sync
+2024-05-10 21:54:21.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 6:03:55PM and 5/10/2024 7:27:43PM UTC. Search may be required.
+2024-05-10 21:54:29.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2024-05-10 21:54:30.5|Info|ConsoleApp|Exiting main.
+2024-05-10 21:54:55.6|Info|Bootstrap|Starting Radarr - /app/bin/Radarr - Version 5.4.6.8723
+2024-05-10 21:54:55.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2024-05-10 21:54:55.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2024-05-10 21:54:56.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2024-05-10 21:54:56.9|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2024-05-10 21:54:57.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2024-05-10 21:54:57.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2024-05-10 21:54:57.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2024-05-10 21:54:57.5|Info|DatabaseEngineVersionCheck|SQLite 3.44.2
+2024-05-10 21:54:57.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1193735s
+2024-05-10 21:54:57.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2024-05-10 21:54:57.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1245051s
+2024-05-10 21:54:58.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2024-05-10 21:54:58.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2024-05-10 21:54:58.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2024-05-10 21:54:58.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2024-05-10 21:54:58.2|Info|DatabaseEngineVersionCheck|SQLite 3.44.2
+2024-05-10 21:54:58.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0136395s
+2024-05-10 21:54:58.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2024-05-10 21:54:58.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0140401s
+2024-05-10 21:54:59.7|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2024-05-10 21:55:00.6|Info|CommandExecutor|Starting 2 threads for tasks.
+2024-05-10 21:55:00.9|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-05-10 21:55:00.9|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2024-05-10 21:55:00.9|Info|Microsoft.Hosting.Lifetime|Content root path: /run/s6-rc:s6-rc-init:okJobp/servicedirs/service-radarr
+2024-05-10 21:55:05.2|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2024-05-10 21:55:31.1|Info|RssSyncService|Starting RSS Sync
+2024-05-10 21:55:52.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 7:27:43PM and 5/10/2024 7:27:43PM UTC. Search may be required.
+2024-05-10 21:55:56.3|Info|DownloadDecisionMaker|Processing 234 releases
+2024-05-10 21:55:58.1|Info|RssSyncService|RSS Sync Completed. Reports found: 234, Reports grabbed: 0
+2024-05-10 22:26:01.5|Info|RssSyncService|Starting RSS Sync
+2024-05-10 22:26:03.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 7:27:43PM and 5/10/2024 7:27:43PM UTC. Search may be required.
+2024-05-10 22:26:07.8|Info|DownloadDecisionMaker|Processing 233 releases
+2024-05-10 22:26:08.3|Info|RssSyncService|RSS Sync Completed. Reports found: 233, Reports grabbed: 0
+2024-05-10 22:56:32.1|Info|RssSyncService|Starting RSS Sync
+2024-05-10 22:56:38.4|Info|DownloadDecisionMaker|Processing 232 releases
+2024-05-10 22:56:38.8|Info|RssSyncService|RSS Sync Completed. Reports found: 232, Reports grabbed: 0
+2024-05-10 23:27:02.7|Info|RssSyncService|Starting RSS Sync
+2024-05-10 23:27:04.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 7:27:43PM and 5/10/2024 9:03:20PM UTC. Search may be required.
+2024-05-10 23:27:09.0|Info|DownloadDecisionMaker|Processing 234 releases
+2024-05-10 23:27:09.4|Info|RssSyncService|RSS Sync Completed. Reports found: 234, Reports grabbed: 0
+2024-05-10 23:57:33.5|Info|RssSyncService|Starting RSS Sync
+2024-05-10 23:57:40.0|Info|DownloadDecisionMaker|Processing 231 releases
+2024-05-10 23:57:40.3|Info|RssSyncService|RSS Sync Completed. Reports found: 231, Reports grabbed: 0
+2024-05-11 00:28:04.6|Info|RssSyncService|Starting RSS Sync
+2024-05-11 00:28:06.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 9:27:33PM and 5/10/2024 9:27:33PM UTC. Search may be required.
+2024-05-11 00:28:11.0|Info|DownloadDecisionMaker|Processing 230 releases
+2024-05-11 00:28:11.5|Info|RssSyncService|RSS Sync Completed. Reports found: 230, Reports grabbed: 0
+2024-05-11 00:58:35.4|Info|RssSyncService|Starting RSS Sync
+2024-05-11 00:58:42.5|Info|DownloadDecisionMaker|Processing 229 releases
+2024-05-11 00:58:42.9|Info|RssSyncService|RSS Sync Completed. Reports found: 229, Reports grabbed: 0
+2024-05-11 01:26:12.8|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-11 01:26:12.9|Info|Radarr.Http.Authentication.BasicAuthenticationHandler|Basic was not authenticated. Failure message: Authorization header missing.
+2024-05-11 01:29:06.6|Info|RssSyncService|Starting RSS Sync
+2024-05-11 01:29:08.4|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 10:32:17PM and 5/10/2024 10:32:17PM UTC. Search may be required.
+2024-05-11 01:29:12.8|Info|DownloadDecisionMaker|Processing 226 releases
+2024-05-11 01:29:13.2|Info|RssSyncService|RSS Sync Completed. Reports found: 226, Reports grabbed: 0
+2024-05-11 01:59:37.5|Info|RssSyncService|Starting RSS Sync
+2024-05-11 01:59:39.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 5/10/2024 10:32:17PM and 5/10/2024 11:30:26PM UTC. Search may be required.
+2024-05-11 01:59:43.8|Info|DownloadDecisionMaker|Processing 227 releases
+2024-05-11 01:59:44.2|Info|RssSyncService|RSS Sync Completed. Reports found: 227, Reports grabbed: 0

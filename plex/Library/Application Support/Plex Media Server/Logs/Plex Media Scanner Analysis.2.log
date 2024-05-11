@@ -1,0 +1,965 @@
+May 10, 2024 23:27:22.749 [140734283345400] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 10, 2024 23:27:22.749 [140734283345400] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 10, 2024 23:27:22.749 [140734283345400] INFO - Processor: 4-core AArch64
+May 10, 2024 23:27:22.749 [140734283345400] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 136,137,138,139,140,141,142,143,144,145,146,147
+May 10, 2024 23:27:22.779 [140734363623608] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 10, 2024 23:27:22.910 [140734363623608] DEBUG - Analyzing media parts for item 136 (The Signal): 122
+May 10, 2024 23:27:22.911 [140734363623608] DEBUG - [ID 122] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E01 - The Signal [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:22.913 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E01 - The Signal [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:22.924 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E01 - The Signal [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:22.926 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4438
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4577
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4667
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4734
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4796
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351341
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351382
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351416
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351450
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351531
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351593
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351669
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351712
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351753
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351789
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351828
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351909
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329351971
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352047
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352107
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352138
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352213
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352305
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352343
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352384
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352418
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352452
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352533
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352595
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352671
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352709
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352750
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352784
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352818
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352899
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329352961
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353037
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353079
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353120
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353156
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353194
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353275
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353337
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353413
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353504
+May 10, 2024 23:27:22.942 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 329353547
+May 10, 2024 23:27:22.947 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:22.947 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:22.947 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:22.947 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:22.947 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:22.947 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6081 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:22.954 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:22.954 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:22.962 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:22.962 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:22.962 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:22.963 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 11124 bytes read:67786 seeks:2 frames:9
+May 10, 2024 23:27:23.316 [140734363623608] DEBUG - [MI]  * d1d8ae286fe892d9e0f366ce3267a7128d539fe7 [mkv av1/opus] Duration: 1442183ms, 1920x1080 (1.777778) 23.976fps, bitrate=1826kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E01 - The Signal [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.316 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.317 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E01 - The Signal [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.348 [140734363623608] DEBUG - Committing media stream changes for part 122
+May 10, 2024 23:27:23.349 [140734363623608] DEBUG - Updating media item 122, size=329353553, metadata_item_id=136
+May 10, 2024 23:27:23.349 [140734363623608] DEBUG - Updating part with ID=122 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E01 - The Signal [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.350 [140734268534264] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=136&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.352 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.352 [140734266732024] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=136&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.352 [140734363623608] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.353 [140734268534264] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=136&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.354 [140734266732024] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=136&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.355 [140734266732024] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.355 [140734363623608] DEBUG - Updating metadata item (save) (The Signal) with ID 136
+May 10, 2024 23:27:23.357 [140734268534264] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.357 [140734266732024] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.359 [140734363623608] DEBUG - Analyzing media parts for item 137 (The Storm): 123
+May 10, 2024 23:27:23.359 [140734363623608] DEBUG - [ID 123] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E02 - The Storm [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E02 - The Storm [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E02 - The Storm [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4437
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4575
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4665
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4732
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4794
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318120606
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318120647
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318120681
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318120715
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318120796
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318120858
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318120934
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318120977
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121018
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121054
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121093
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121174
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121236
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121312
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121372
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121403
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121478
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121570
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121608
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121649
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121683
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121717
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121798
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121860
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121936
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318121974
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122015
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122049
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122083
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122164
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122226
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122302
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122344
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122385
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122421
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122459
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122540
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122602
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122678
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122769
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 318122812
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6079 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.360 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.360 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.361 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.362 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.362 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.362 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 324915 bytes read:353854 seeks:2 frames:9
+May 10, 2024 23:27:23.362 [140734363623608] DEBUG - [MI]  * 59becd61f86963e2f2387291277e12b3c75c74d9 [mkv av1/opus] Duration: 1563591ms, 1920x1080 (1.777778) 23.976fps, bitrate=1627kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E02 - The Storm [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.362 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.363 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E02 - The Storm [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.363 [140734363623608] DEBUG - Committing media stream changes for part 123
+May 10, 2024 23:27:23.364 [140734363623608] DEBUG - Updating media item 123, size=318122818, metadata_item_id=137
+May 10, 2024 23:27:23.364 [140734363623608] DEBUG - Updating part with ID=123 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E02 - The Storm [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.364 [140734268534264] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=137&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.365 [140734266732024] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=137&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.365 [140734268534264] DEBUG - [HCl#6] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=137&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.366 [140734266732024] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=137&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.367 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.367 [140734363623608] DEBUG - [HCl#7] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.368 [140734266732024] DEBUG - [HttpClient/HCl#7] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.368 [140734363623608] DEBUG - Updating metadata item (save) (The Storm) with ID 137
+May 10, 2024 23:27:23.369 [140734268534264] DEBUG - [HCl#8] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.370 [140734266732024] DEBUG - [HttpClient/HCl#8] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.371 [140734363623608] DEBUG - Analyzing media parts for item 138 (The Wall): 124
+May 10, 2024 23:27:23.371 [140734363623608] DEBUG - [ID 124] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E03 - The Wall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.378 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E03 - The Wall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.378 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E03 - The Wall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4436
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4573
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4663
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4730
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4792
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627422
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627463
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627497
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627531
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627612
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627674
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627750
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627793
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627834
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627870
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627909
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302627990
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628052
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628128
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628188
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628219
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628294
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628386
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628424
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628465
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628499
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628533
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628614
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628676
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628752
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628790
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628831
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628865
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628899
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302628980
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629042
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629118
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629160
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629201
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629237
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629275
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629356
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629418
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629494
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629585
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 302629628
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6077 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.379 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.379 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.380 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.380 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.380 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.380 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 10716 bytes read:67786 seeks:2 frames:9
+May 10, 2024 23:27:23.380 [140734363623608] DEBUG - [MI]  * cf44ecc31b40a993f727c6bf9e931ef857205888 [mkv av1/opus] Duration: 1448519ms, 1920x1080 (1.777778) 23.976fps, bitrate=1671kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E03 - The Wall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.380 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.381 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E03 - The Wall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.381 [140734363623608] DEBUG - Committing media stream changes for part 124
+May 10, 2024 23:27:23.382 [140734363623608] DEBUG - Updating media item 124, size=302629634, metadata_item_id=138
+May 10, 2024 23:27:23.382 [140734363623608] DEBUG - Updating part with ID=124 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E03 - The Wall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.382 [140734268534264] DEBUG - [HCl#9] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=138&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.383 [140734266732024] DEBUG - [HttpClient/HCl#9] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=138&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.383 [140734268534264] DEBUG - [HCl#a] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=138&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.384 [140734266732024] DEBUG - [HttpClient/HCl#a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=138&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.386 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.386 [140734363623608] DEBUG - [HCl#b] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.388 [140734266732024] DEBUG - [HttpClient/HCl#b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.388 [140734363623608] DEBUG - Updating metadata item (save) (The Wall) with ID 138
+May 10, 2024 23:27:23.389 [140734268534264] DEBUG - [HCl#c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.390 [140734266732024] DEBUG - [HttpClient/HCl#c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.390 [140734363623608] DEBUG - Analyzing media parts for item 139 (The Dream): 125
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [ID 125] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E04 - The Dream [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E04 - The Dream [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E04 - The Dream [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4437
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4575
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4665
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4732
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4794
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694206
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694247
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694281
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694315
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694396
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694458
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694534
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694577
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694618
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694654
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694693
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694774
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694836
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694912
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320694972
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695003
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695078
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695170
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695208
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695249
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695283
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695317
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695398
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695460
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695536
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695574
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695615
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695649
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695683
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695764
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695826
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695902
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695944
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320695985
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320696021
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320696059
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320696140
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320696202
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320696278
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320696369
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 320696412
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6079 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.391 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.391 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.392 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.392 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.392 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.393 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 66617 bytes read:100554 seeks:2 frames:9
+May 10, 2024 23:27:23.393 [140734363623608] DEBUG - [MI]  * ccbd8f75fb462b1d871d92474a34c0ba6d744479 [mkv av1/opus] Duration: 1494631ms, 1920x1080 (1.777778) 23.976fps, bitrate=1716kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E04 - The Dream [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.393 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.393 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E04 - The Dream [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.394 [140734363623608] DEBUG - Committing media stream changes for part 125
+May 10, 2024 23:27:23.395 [140734363623608] DEBUG - Updating media item 125, size=320696418, metadata_item_id=139
+May 10, 2024 23:27:23.395 [140734363623608] DEBUG - Updating part with ID=125 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E04 - The Dream [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.396 [140734268534264] DEBUG - [HCl#d] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=139&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.396 [140734266732024] DEBUG - [HttpClient/HCl#d] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=139&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.397 [140734268534264] DEBUG - [HCl#e] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=139&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.398 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.398 [140734363623608] DEBUG - [HCl#f] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.398 [140734266732024] DEBUG - [HttpClient/HCl#f] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.398 [140734363623608] DEBUG - Updating metadata item (save) (The Dream) with ID 139
+May 10, 2024 23:27:23.399 [140734266732024] DEBUG - [HttpClient/HCl#e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=139&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.400 [140734268534264] DEBUG - [HCl#10] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.400 [140734266732024] DEBUG - [HttpClient/HCl#10] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.401 [140734363623608] DEBUG - Analyzing media parts for item 140 (The Demeter): 126
+May 10, 2024 23:27:23.401 [140734363623608] DEBUG - [ID 126] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E05 - The Demeter [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.401 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E05 - The Demeter [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.401 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E05 - The Demeter [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.401 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4439
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4579
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4669
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4736
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4798
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267176803
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267176844
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267176878
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267176912
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267176993
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177055
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177131
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177174
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177215
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177251
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177290
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177371
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177433
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177509
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177569
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177600
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177675
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177767
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177805
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177846
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177880
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177914
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267177995
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178057
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178133
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178171
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178212
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178246
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178280
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178361
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178423
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178499
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178541
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178582
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178618
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178656
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178737
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178799
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178875
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267178966
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 267179009
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6083 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.402 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.402 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.403 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.403 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.403 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.403 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 10699 bytes read:67786 seeks:2 frames:9
+May 10, 2024 23:27:23.403 [140734363623608] DEBUG - [MI]  * d43a3d7f9f62a562b21e3826635d8cf78d9fde55 [mkv av1/opus] Duration: 1416007ms, 1920x1080 (1.777778) 23.976fps, bitrate=1509kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E05 - The Demeter [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.403 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.404 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E05 - The Demeter [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.404 [140734363623608] DEBUG - Committing media stream changes for part 126
+May 10, 2024 23:27:23.405 [140734363623608] DEBUG - Updating media item 126, size=267179015, metadata_item_id=140
+May 10, 2024 23:27:23.405 [140734363623608] DEBUG - Updating part with ID=126 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E05 - The Demeter [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.405 [140734268534264] DEBUG - [HCl#11] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=140&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.406 [140734266732024] DEBUG - [HttpClient/HCl#11] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=140&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.407 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.407 [140734363623608] DEBUG - [HCl#12] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.408 [140734268534264] DEBUG - [HCl#13] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=140&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.409 [140734266732024] DEBUG - [HttpClient/HCl#13] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=140&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.410 [140734266732024] DEBUG - [HttpClient/HCl#12] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.410 [140734363623608] DEBUG - Updating metadata item (save) (The Demeter) with ID 140
+May 10, 2024 23:27:23.411 [140734268534264] DEBUG - [HCl#14] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.411 [140734266732024] DEBUG - [HttpClient/HCl#14] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.413 [140734363623608] DEBUG - Analyzing media parts for item 141 (The Fall): 127
+May 10, 2024 23:27:23.414 [140734363623608] DEBUG - [ID 127] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E06 - The Fall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.421 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E06 - The Fall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.421 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E06 - The Fall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.421 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.421 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.421 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4436
+May 10, 2024 23:27:23.421 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4573
+May 10, 2024 23:27:23.421 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4663
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4730
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4792
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264671741
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264671782
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264671816
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264671850
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264671931
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264671993
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672069
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672112
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672153
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672189
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672228
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672309
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672371
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672447
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672507
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672538
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672613
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672705
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672743
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672784
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672818
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672852
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672933
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264672995
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673071
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673109
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673150
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673184
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673218
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673299
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673361
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673437
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673479
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673520
+May 10, 2024 23:27:23.422 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673556
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673594
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673675
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673737
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673813
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673904
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 264673947
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.423 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.424 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6077 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.424 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.424 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.425 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.425 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.425 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.426 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 160233 bytes read:189174 seeks:2 frames:9
+May 10, 2024 23:27:23.426 [140734363623608] DEBUG - [MI]  * 6bb4bc5b2f3a58f5e797aa2272b01019b1f2842d [mkv av1/opus] Duration: 1483495ms, 1920x1080 (1.777778) 23.976fps, bitrate=1427kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E06 - The Fall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.426 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.427 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E06 - The Fall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.427 [140734363623608] DEBUG - Committing media stream changes for part 127
+May 10, 2024 23:27:23.431 [140734363623608] DEBUG - Updating media item 127, size=264673953, metadata_item_id=141
+May 10, 2024 23:27:23.432 [140734363623608] DEBUG - Updating part with ID=127 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E06 - The Fall [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.435 [140734268534264] DEBUG - [HCl#15] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=141&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.435 [140734266732024] DEBUG - [HttpClient/HCl#15] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=141&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.435 [140734268534264] DEBUG - [HCl#16] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=141&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.436 [140734266732024] DEBUG - [HttpClient/HCl#16] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=141&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.437 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.437 [140734363623608] DEBUG - [HCl#17] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.438 [140734266732024] DEBUG - [HttpClient/HCl#17] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.438 [140734363623608] DEBUG - Updating metadata item (save) (The Fall) with ID 141
+May 10, 2024 23:27:23.439 [140734268534264] DEBUG - [HCl#18] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.440 [140734266732024] DEBUG - [HttpClient/HCl#18] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.441 [140734363623608] DEBUG - Analyzing media parts for item 142 (The Cure): 128
+May 10, 2024 23:27:23.441 [140734363623608] DEBUG - [ID 128] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E07 - The Cure [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.441 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E07 - The Cure [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.441 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E07 - The Cure [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.441 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4436
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4573
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4663
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4730
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4792
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269975947
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269975988
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976022
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976056
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976137
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976199
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976275
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976318
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976359
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976395
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976434
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976515
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976577
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976653
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976713
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976744
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976819
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976911
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976949
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269976990
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977024
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977058
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977139
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977201
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977277
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977315
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977356
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977390
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977424
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977505
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977567
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977643
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977685
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977726
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977762
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977800
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977881
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269977943
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269978019
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269978110
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 269978153
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6077 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.442 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.442 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.443 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.443 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.443 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.443 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 15849 bytes read:67786 seeks:2 frames:9
+May 10, 2024 23:27:23.443 [140734363623608] DEBUG - [MI]  * 61610c5937426b5b7b8928320ec89d5d52df8878 [mkv av1/opus] Duration: 1457031ms, 1920x1080 (1.777778) 23.976fps, bitrate=1482kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E07 - The Cure [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.443 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.444 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E07 - The Cure [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.444 [140734363623608] DEBUG - Committing media stream changes for part 128
+May 10, 2024 23:27:23.445 [140734363623608] DEBUG - Updating media item 128, size=269978159, metadata_item_id=142
+May 10, 2024 23:27:23.445 [140734363623608] DEBUG - Updating part with ID=128 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E07 - The Cure [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.445 [140734268534264] DEBUG - [HCl#19] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=142&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.446 [140734266732024] DEBUG - [HttpClient/HCl#19] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=142&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.446 [140734268534264] DEBUG - [HCl#1a] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=142&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.447 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.447 [140734363623608] DEBUG - [HCl#1b] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.448 [140734266732024] DEBUG - [HttpClient/HCl#1a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=142&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.449 [140734266732024] DEBUG - [HttpClient/HCl#1b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.449 [140734363623608] DEBUG - Updating metadata item (save) (The Cure) with ID 142
+May 10, 2024 23:27:23.450 [140734268534264] DEBUG - [HCl#1c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.451 [140734266732024] DEBUG - [HttpClient/HCl#1c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.452 [140734363623608] DEBUG - Analyzing media parts for item 143 (The Nest): 129
+May 10, 2024 23:27:23.452 [140734363623608] DEBUG - [ID 129] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E08 - The Nest [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.452 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E08 - The Nest [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.452 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E08 - The Nest [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.452 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4436
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4573
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4663
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4730
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4792
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130159
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130200
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130234
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130268
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130349
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130411
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130487
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130530
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130571
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130607
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130646
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130727
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130789
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130865
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130925
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422130956
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131031
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131123
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131161
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131202
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131236
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131270
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131351
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131413
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131489
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131527
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131568
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131602
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131636
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131717
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131779
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131855
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131897
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131938
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422131974
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422132012
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422132093
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422132155
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422132231
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422132322
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 422132365
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6077 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.453 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.453 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.454 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.454 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.454 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.454 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 10747 bytes read:67786 seeks:2 frames:9
+May 10, 2024 23:27:23.454 [140734363623608] DEBUG - [MI]  * 5cacddd8169e39f00b3cc48ee50f4d509cc13afc [mkv av1/opus] Duration: 1370151ms, 1920x1080 (1.777778) 24.000fps, bitrate=2464kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E08 - The Nest [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.454 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.455 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E08 - The Nest [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.455 [140734363623608] DEBUG - Committing media stream changes for part 129
+May 10, 2024 23:27:23.456 [140734363623608] DEBUG - Updating media item 129, size=422132371, metadata_item_id=143
+May 10, 2024 23:27:23.456 [140734363623608] DEBUG - Updating part with ID=129 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E08 - The Nest [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.456 [140734268534264] DEBUG - [HCl#1d] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=143&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.457 [140734266732024] DEBUG - [HttpClient/HCl#1d] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=143&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.457 [140734268534264] DEBUG - [HCl#1e] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=143&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.458 [140734266732024] DEBUG - [HttpClient/HCl#1e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=143&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.459 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.459 [140734363623608] DEBUG - [HCl#1f] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.460 [140734266732024] DEBUG - [HttpClient/HCl#1f] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.460 [140734363623608] DEBUG - Updating metadata item (save) (The Nest) with ID 143
+May 10, 2024 23:27:23.461 [140734268534264] DEBUG - [HCl#20] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.462 [140734266732024] DEBUG - [HttpClient/HCl#20] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.463 [140734363623608] DEBUG - Analyzing media parts for item 144 (The Mountain): 130
+May 10, 2024 23:27:23.463 [140734363623608] DEBUG - [ID 130] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E09 - The Mountain [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E09 - The Mountain [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E09 - The Mountain [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4440
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4581
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4671
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4738
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4800
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879115
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879156
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879190
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879224
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879305
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879367
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879443
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879486
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879527
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879563
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879602
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879683
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879745
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879821
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879881
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879912
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301879987
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880079
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880117
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880158
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880192
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880226
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880307
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880369
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880445
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880483
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880524
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880558
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880592
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880673
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880735
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880811
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880853
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880894
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880930
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301880968
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301881049
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301881111
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301881187
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301881278
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 301881321
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.469 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6085 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.470 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.470 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.470 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.470 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.471 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.471 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 101779 bytes read:130712 seeks:2 frames:9
+May 10, 2024 23:27:23.471 [140734363623608] DEBUG - [MI]  * f1b63af7ce2b04e3d56762ac622d431fefe9785c [mkv av1/opus] Duration: 1523879ms, 1920x1080 (1.777778) 23.976fps, bitrate=1584kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E09 - The Mountain [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.471 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.471 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E09 - The Mountain [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.472 [140734363623608] DEBUG - Committing media stream changes for part 130
+May 10, 2024 23:27:23.472 [140734363623608] DEBUG - Updating media item 130, size=301881327, metadata_item_id=144
+May 10, 2024 23:27:23.473 [140734363623608] DEBUG - Updating part with ID=130 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E09 - The Mountain [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.473 [140734268534264] DEBUG - [HCl#21] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=144&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.474 [140734266732024] DEBUG - [HttpClient/HCl#21] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=144&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.475 [140734268534264] DEBUG - [HCl#22] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=144&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.475 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.475 [140734363623608] DEBUG - [HCl#23] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.476 [140734266732024] DEBUG - [HttpClient/HCl#22] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=144&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.476 [140734266732024] DEBUG - [HttpClient/HCl#23] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.476 [140734363623608] DEBUG - Updating metadata item (save) (The Mountain) with ID 144
+May 10, 2024 23:27:23.477 [140734268534264] DEBUG - [HCl#24] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.478 [140734266732024] DEBUG - [HttpClient/HCl#24] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.479 [140734363623608] DEBUG - Analyzing media parts for item 145 (The Decision): 131
+May 10, 2024 23:27:23.479 [140734363623608] DEBUG - [ID 131] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E10 - The Decision [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.479 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E10 - The Decision [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E10 - The Decision [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4440
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4581
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4671
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4738
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4800
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058164
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058205
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058239
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058273
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058354
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058416
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058492
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058535
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058576
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058612
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058651
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058732
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058794
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058870
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058930
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321058961
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059036
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059128
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059166
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059207
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059241
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059275
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059356
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059418
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059494
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059532
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059573
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059607
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059641
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059722
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059784
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059860
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059902
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059943
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321059979
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321060017
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321060098
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321060160
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321060236
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321060327
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 321060370
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6085 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.480 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.480 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.481 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.481 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.481 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.482 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 152164 bytes read:181097 seeks:2 frames:9
+May 10, 2024 23:27:23.482 [140734363623608] DEBUG - [MI]  * a98d97a44e639dfdf221c97b1a6850a1ae16296c [mkv av1/opus] Duration: 1465287ms, 1920x1080 (1.777778) 23.976fps, bitrate=1752kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E10 - The Decision [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.482 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.482 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E10 - The Decision [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.483 [140734363623608] DEBUG - Committing media stream changes for part 131
+May 10, 2024 23:27:23.484 [140734363623608] DEBUG - Updating media item 131, size=321060376, metadata_item_id=145
+May 10, 2024 23:27:23.484 [140734363623608] DEBUG - Updating part with ID=131 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E10 - The Decision [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.484 [140734268534264] DEBUG - [HCl#25] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=145&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.485 [140734266732024] DEBUG - [HttpClient/HCl#25] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=145&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.486 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.486 [140734363623608] DEBUG - [HCl#27] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.486 [140734268534264] DEBUG - [HCl#26] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=145&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.487 [140734266732024] DEBUG - [HttpClient/HCl#26] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=145&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.487 [140734266732024] DEBUG - [HttpClient/HCl#27] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.487 [140734363623608] DEBUG - Updating metadata item (save) (The Decision) with ID 145
+May 10, 2024 23:27:23.488 [140734268534264] DEBUG - [HCl#28] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.489 [140734266732024] DEBUG - [HttpClient/HCl#28] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.490 [140734363623608] DEBUG - Analyzing media parts for item 146 (The Return): 132
+May 10, 2024 23:27:23.491 [140734363623608] DEBUG - [ID 132] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E11 - The Return [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E11 - The Return [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E11 - The Return [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4438
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4577
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4667
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4734
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4796
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918533
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918574
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918610
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918648
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918729
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918791
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918867
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918910
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918951
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322918987
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919026
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919107
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919169
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919245
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919305
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919336
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919411
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919503
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919541
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919582
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919616
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919650
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919731
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919793
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919869
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919907
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919948
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322919982
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920016
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920097
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920159
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920235
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920273
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920314
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920348
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920382
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920463
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920525
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920601
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920692
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 322920735
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.492 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6081 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.493 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.493 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.493 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.494 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.494 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.494 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 75911 bytes read:104848 seeks:2 frames:9
+May 10, 2024 23:27:23.494 [140734363623608] DEBUG - [MI]  * 18129f8d8aa9ad0e903b3a80771da0b6db5089e7 [mkv av1/opus] Duration: 1607783ms, 1920x1080 (1.777778) 23.976fps, bitrate=1606kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E11 - The Return [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.494 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.494 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E11 - The Return [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.495 [140734363623608] DEBUG - Committing media stream changes for part 132
+May 10, 2024 23:27:23.496 [140734363623608] DEBUG - Updating media item 132, size=322920741, metadata_item_id=146
+May 10, 2024 23:27:23.496 [140734363623608] DEBUG - Updating part with ID=132 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E11 - The Return [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.496 [140734268534264] DEBUG - [HCl#29] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=146&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.497 [140734266732024] DEBUG - [HttpClient/HCl#29] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=146&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.497 [140734268534264] DEBUG - [HCl#2a] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=146&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.498 [140734266732024] DEBUG - [HttpClient/HCl#2a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=146&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.499 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.499 [140734363623608] DEBUG - [HCl#2b] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.500 [140734266732024] DEBUG - [HttpClient/HCl#2b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.500 [140734363623608] DEBUG - Updating metadata item (save) (The Return) with ID 146
+May 10, 2024 23:27:23.501 [140734268534264] DEBUG - [HCl#2c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.502 [140734266732024] DEBUG - [HttpClient/HCl#2c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)
+May 10, 2024 23:27:23.503 [140734363623608] DEBUG - Analyzing media parts for item 147 (The Reunion): 133
+May 10, 2024 23:27:23.503 [140734363623608] DEBUG - [ID 133] Media part analysis: /tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E12 - The Reunion [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [MI] Opening input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E12 - The Reunion [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Opening '/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E12 - The Reunion [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv' for reading
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4439
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4579
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4669
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4736
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4798
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180452
+May 10, 2024 23:27:23.509 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180493
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180527
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180561
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180642
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180704
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180780
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180823
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180864
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180900
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308180939
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181020
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181082
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181158
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181218
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181249
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181324
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181416
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181454
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181495
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181529
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181563
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181644
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181706
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181782
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181820
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181861
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181895
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308181929
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182010
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182072
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182148
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182190
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182231
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182267
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182305
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182386
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182448
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182524
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182615
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 308182658
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6083 bytes read:35018 seeks:2 nb_streams:5
+May 10, 2024 23:27:23.510 [140734363623608] INFO - [FFMPEG] - libdav1d 1.0.0
+May 10, 2024 23:27:23.510 [140734363623608] DEBUG - [FFMPEG] - Using 1 threads, 0 max_frame_delay
+May 10, 2024 23:27:23.511 [140734363623608] DEBUG - [FFMPEG] - skip 312/960 samples
+May 10, 2024 23:27:23.511 [140734363623608] DEBUG - [FFMPEG] - Frame 0:  size 1920x1080  upscaled 1920  render 1920x1080  subsample 2x2  bitdepth 10  tiles 1x1.
+May 10, 2024 23:27:23.511 [140734363623608] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.511 [140734363623608] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 119118 bytes read:148053 seeks:2 frames:9
+May 10, 2024 23:27:23.511 [140734363623608] DEBUG - [MI]  * 48dc9831273750a11b6fedd221e1d8bd622abc3d [mkv av1/opus] Duration: 1464199ms, 1920x1080 (1.777778) 23.976fps, bitrate=1683kbps, audio channels=6, optimizedForStreaming=0 ("/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E12 - The Reunion [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv")
+May 10, 2024 23:27:23.511 [140734363623608] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.512 [140734363623608] DEBUG - [MI] Closing input file: "/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E12 - The Reunion [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv"
+May 10, 2024 23:27:23.512 [140734363623608] DEBUG - Committing media stream changes for part 133
+May 10, 2024 23:27:23.513 [140734363623608] DEBUG - Updating media item 133, size=308182664, metadata_item_id=147
+May 10, 2024 23:27:23.513 [140734363623608] DEBUG - Updating part with ID=133 [/tv/Scavengers Reign (2023) {imdb-tt21056886}/Season 01/Scavengers Reign (2023) - S01E12 - The Reunion [AMZN WEBRip-1080p][Opus 5.1][AV1]-RAV1NE.mkv]
+May 10, 2024 23:27:23.513 [140734268534264] DEBUG - [HCl#2d] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=147&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.514 [140734266732024] DEBUG - [HttpClient/HCl#2d] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=147&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.514 [140734268534264] DEBUG - [HCl#2e] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=147&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.515 [140734266732024] DEBUG - [HttpClient/HCl#2e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=147&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.516 [140734363623608] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.516 [140734363623608] DEBUG - [HCl#2f] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.516 [140734266732024] DEBUG - [HttpClient/HCl#2f] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.517 [140734363623608] DEBUG - Updating metadata item (save) (The Reunion) with ID 147
+May 10, 2024 23:27:23.518 [140734268534264] DEBUG - [HCl#30] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134
+May 10, 2024 23:27:23.518 [140734266732024] DEBUG - [HttpClient/HCl#30] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=134 (reused)

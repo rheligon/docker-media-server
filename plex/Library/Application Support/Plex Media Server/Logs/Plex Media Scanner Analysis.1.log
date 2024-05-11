@@ -1,0 +1,341 @@
+May 10, 2024 23:27:23.619 [140735790493176] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 10, 2024 23:27:23.620 [140735790493176] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 10, 2024 23:27:23.620 [140735790493176] INFO - Processor: 4-core AArch64
+May 10, 2024 23:27:23.620 [140735790493176] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 148,149,150,151,152,153,154
+May 10, 2024 23:27:23.620 [140735870771384] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 10, 2024 23:27:23.717 [140735870771384] DEBUG - Analyzing media parts for item 148 (A Colorful Return): 134
+May 10, 2024 23:27:23.718 [140735870771384] DEBUG - [ID 134] Media part analysis: /tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv
+May 10, 2024 23:27:23.718 [140735870771384] DEBUG - [MI] Opening input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv"
+May 10, 2024 23:27:23.718 [140735870771384] DEBUG - [FFMPEG] - Opening '/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv' for reading
+May 10, 2024 23:27:23.718 [140735870771384] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.719 [140735870771384] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.719 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4365
+May 10, 2024 23:27:23.719 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4434
+May 10, 2024 23:27:23.719 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4489
+May 10, 2024 23:27:23.719 [140735870771384] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.719 [140735870771384] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.719 [140735870771384] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.719 [140735870771384] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5653 bytes read:33738 seeks:2 nb_streams:3
+May 10, 2024 23:27:23.730 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.730 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.730 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.730 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.731 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 10, 2024 23:27:23.731 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 10, 2024 23:27:23.731 [140735870771384] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 10, 2024 23:27:23.736 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:23.740 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.743 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:23.747 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.755 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:23.765 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.773 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.779 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.784 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.790 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.795 [140735870771384] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.796 [140735870771384] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 67333 bytes read:99274 seeks:2 frames:34
+May 10, 2024 23:27:23.801 [140735870771384] DEBUG - [MI]  * a0b779b4c018b272346f533ca467466cd6580714 [mkv h264/aac] Duration: 3960085ms, 1920x1080 (1.777778) 23.976fps, bitrate=6884kbps, audio channels=2, optimizedForStreaming=0 ("/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv")
+May 10, 2024 23:27:23.801 [140735870771384] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.801 [140735870771384] DEBUG - [MI] Closing input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv"
+May 10, 2024 23:27:23.802 [140735870771384] DEBUG - Committing media stream changes for part 134
+May 10, 2024 23:27:23.802 [140735870771384] DEBUG - Updating media item 134, size=3408079491, metadata_item_id=148
+May 10, 2024 23:27:23.803 [140735870771384] DEBUG - Updating part with ID=134 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv]
+May 10, 2024 23:27:23.908 [140735775714808] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=148&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.909 [140735773912568] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=148&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.909 [140735775714808] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=148&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.910 [140735773912568] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=148&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.911 [140735870771384] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.912 [140735870771384] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.912 [140735773912568] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.912 [140735870771384] DEBUG - Updating metadata item (save) (A Colorful Return) with ID 148
+May 10, 2024 23:27:23.923 [140735775714808] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7
+May 10, 2024 23:27:23.924 [140735773912568] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7 (reused)
+May 10, 2024 23:27:23.925 [140735870771384] DEBUG - Analyzing media parts for item 149 (If You Got It, Haunt It): 135
+May 10, 2024 23:27:23.925 [140735870771384] DEBUG - [ID 135] Media part analysis: /tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E03 - If You Got It Haunt It [WEBRip-720p][AAC 2.0][x264]-KOMPOST.mkv
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [MI] Opening input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E03 - If You Got It Haunt It [WEBRip-720p][AAC 2.0][x264]-KOMPOST.mkv"
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - Opening '/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E03 - If You Got It Haunt It [WEBRip-720p][AAC 2.0][x264]-KOMPOST.mkv' for reading
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4365
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4434
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4489
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5653 bytes read:33738 seeks:2 nb_streams:3
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.926 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.927 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.927 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.927 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 10, 2024 23:27:23.927 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 10, 2024 23:27:23.927 [140735870771384] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 10, 2024 23:27:23.928 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:23.930 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.931 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:23.933 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.936 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:23.940 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.944 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.947 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.951 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.955 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:23.959 [140735870771384] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:23.960 [140735870771384] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 68999 bytes read:99274 seeks:2 frames:34
+May 10, 2024 23:27:23.960 [140735870771384] DEBUG - [MI]  * 7c530a367ce00c25d19dc3d8f48e22e19f2b0cc5 [mkv h264/aac] Duration: 3960085ms, 1280x720 (1.777778) 23.976fps, bitrate=4129kbps, audio channels=2, optimizedForStreaming=0 ("/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E03 - If You Got It Haunt It [WEBRip-720p][AAC 2.0][x264]-KOMPOST.mkv")
+May 10, 2024 23:27:23.961 [140735870771384] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:23.961 [140735870771384] DEBUG - [MI] Closing input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E03 - If You Got It Haunt It [WEBRip-720p][AAC 2.0][x264]-KOMPOST.mkv"
+May 10, 2024 23:27:23.961 [140735870771384] DEBUG - Committing media stream changes for part 135
+May 10, 2024 23:27:23.962 [140735870771384] DEBUG - Updating media item 135, size=2044261644, metadata_item_id=149
+May 10, 2024 23:27:23.962 [140735870771384] DEBUG - Updating part with ID=135 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E03 - If You Got It Haunt It [WEBRip-720p][AAC 2.0][x264]-KOMPOST.mkv]
+May 10, 2024 23:27:23.963 [140735775714808] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=149&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:23.964 [140735773912568] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=149&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:23.964 [140735775714808] DEBUG - [HCl#6] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=149&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:23.964 [140735870771384] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.964 [140735870771384] DEBUG - [HCl#7] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:23.965 [140735773912568] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=149&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:23.966 [140735773912568] DEBUG - [HttpClient/HCl#7] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:23.966 [140735870771384] DEBUG - Updating metadata item (save) (If You Got It, Haunt It) with ID 149
+May 10, 2024 23:27:23.967 [140735775714808] DEBUG - [HCl#8] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7
+May 10, 2024 23:27:23.968 [140735773912568] DEBUG - [HttpClient/HCl#8] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7 (reused)
+May 10, 2024 23:27:23.969 [140735870771384] DEBUG - Analyzing media parts for item 150 (Go For the Gold...Sequin): 136
+May 10, 2024 23:27:23.970 [140735870771384] DEBUG - [ID 136] Media part analysis: /tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E05 - Go for the Gold . Sequin [WEBRip-1080p][AAC 2.0][x264]-K.mkv
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [MI] Opening input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E05 - Go for the Gold . Sequin [WEBRip-1080p][AAC 2.0][x264]-K.mkv"
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - Opening '/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E05 - Go for the Gold . Sequin [WEBRip-1080p][AAC 2.0][x264]-K.mkv' for reading
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4365
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4434
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4489
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5653 bytes read:33738 seeks:2 nb_streams:3
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.976 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:23.977 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 10, 2024 23:27:23.977 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 10, 2024 23:27:23.977 [140735870771384] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 10, 2024 23:27:23.980 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:23.983 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.986 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:23.990 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:23.998 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:24.007 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.015 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.020 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.026 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.032 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.038 [140735870771384] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:24.039 [140735870771384] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 67402 bytes read:99274 seeks:2 frames:34
+May 10, 2024 23:27:24.039 [140735870771384] DEBUG - [MI]  * 02c31a7d7ebbf7b5e8154f20c4e8528574cb4ae9 [mkv h264/aac] Duration: 3960064ms, 1920x1080 (1.777778) 23.976fps, bitrate=6821kbps, audio channels=2, optimizedForStreaming=0 ("/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E05 - Go for the Gold . Sequin [WEBRip-1080p][AAC 2.0][x264]-K.mkv")
+May 10, 2024 23:27:24.039 [140735870771384] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:24.040 [140735870771384] DEBUG - [MI] Closing input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E05 - Go for the Gold . Sequin [WEBRip-1080p][AAC 2.0][x264]-K.mkv"
+May 10, 2024 23:27:24.040 [140735870771384] DEBUG - Committing media stream changes for part 136
+May 10, 2024 23:27:24.041 [140735870771384] DEBUG - Updating media item 136, size=3376575149, metadata_item_id=150
+May 10, 2024 23:27:24.041 [140735870771384] DEBUG - Updating part with ID=136 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E05 - Go for the Gold . Sequin [WEBRip-1080p][AAC 2.0][x264]-K.mkv]
+May 10, 2024 23:27:24.041 [140735775714808] DEBUG - [HCl#9] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=150&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:24.042 [140735773912568] DEBUG - [HttpClient/HCl#9] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=150&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:24.042 [140735775714808] DEBUG - [HCl#a] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=150&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:24.043 [140735773912568] DEBUG - [HttpClient/HCl#a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=150&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:24.043 [140735870771384] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.043 [140735870771384] DEBUG - [HCl#b] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.044 [140735773912568] DEBUG - [HttpClient/HCl#b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:24.044 [140735870771384] DEBUG - Updating metadata item (save) (Go For the Gold...Sequin) with ID 150
+May 10, 2024 23:27:24.045 [140735775714808] DEBUG - [HCl#c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7
+May 10, 2024 23:27:24.046 [140735773912568] DEBUG - [HttpClient/HCl#c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7 (reused)
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - Analyzing media parts for item 151 (Fashion Is Back, Baby!): 137
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [ID 137] Media part analysis: /tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E06 - Fashion Is Back Baby! [WEBRip-1080p][AAC 2.0][x264]-KOM.mkv
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [MI] Opening input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E06 - Fashion Is Back Baby! [WEBRip-1080p][AAC 2.0][x264]-KOM.mkv"
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - Opening '/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E06 - Fashion Is Back Baby! [WEBRip-1080p][AAC 2.0][x264]-KOM.mkv' for reading
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4365
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4434
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4489
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.047 [140735870771384] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.048 [140735870771384] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5653 bytes read:33738 seeks:2 nb_streams:3
+May 10, 2024 23:27:24.048 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.048 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.048 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.048 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.048 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 10, 2024 23:27:24.048 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 10, 2024 23:27:24.048 [140735870771384] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 10, 2024 23:27:24.052 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:24.055 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.058 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:24.062 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.068 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:24.077 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.084 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.090 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.095 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.101 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:24.108 [140735870771384] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:24.109 [140735870771384] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 77100 bytes read:132042 seeks:2 frames:34
+May 10, 2024 23:27:24.109 [140735870771384] DEBUG - [MI]  * f2c5bb0f30a63bdc19611410c8ee260b89538025 [mkv h264/aac] Duration: 3960064ms, 1920x1080 (1.777778) 23.976fps, bitrate=7106kbps, audio channels=2, optimizedForStreaming=0 ("/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E06 - Fashion Is Back Baby! [WEBRip-1080p][AAC 2.0][x264]-KOM.mkv")
+May 10, 2024 23:27:24.109 [140735870771384] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:24.109 [140735870771384] DEBUG - [MI] Closing input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E06 - Fashion Is Back Baby! [WEBRip-1080p][AAC 2.0][x264]-KOM.mkv"
+May 10, 2024 23:27:24.110 [140735870771384] DEBUG - Committing media stream changes for part 137
+May 10, 2024 23:27:24.110 [140735870771384] DEBUG - Updating media item 137, size=3517897578, metadata_item_id=151
+May 10, 2024 23:27:24.110 [140735870771384] DEBUG - Updating part with ID=137 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E06 - Fashion Is Back Baby! [WEBRip-1080p][AAC 2.0][x264]-KOM.mkv]
+May 10, 2024 23:27:24.110 [140735775714808] DEBUG - [HCl#d] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=151&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:24.111 [140735773912568] DEBUG - [HttpClient/HCl#d] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=151&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:24.111 [140735775714808] DEBUG - [HCl#e] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=151&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:24.112 [140735870771384] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.112 [140735870771384] DEBUG - [HCl#f] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.113 [140735773912568] DEBUG - [HttpClient/HCl#e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=151&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:24.114 [140735773912568] DEBUG - [HttpClient/HCl#f] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.114 [140735870771384] DEBUG - Updating metadata item (save) (Fashion Is Back, Baby!) with ID 151
+May 10, 2024 23:27:24.115 [140735775714808] DEBUG - [HCl#10] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7
+May 10, 2024 23:27:24.115 [140735773912568] DEBUG - [HttpClient/HCl#10] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7 (reused)
+May 10, 2024 23:27:24.117 [140735870771384] DEBUG - Analyzing media parts for item 152 (Are You Fur Real?): 138
+May 10, 2024 23:27:24.117 [140735870771384] DEBUG - [ID 138] Media part analysis: /tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E07 - Are You Fur Real [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [MI] Opening input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E07 - Are You Fur Real [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv"
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - Opening '/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E07 - Are You Fur Real [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv' for reading
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4365
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4434
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4489
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.123 [140735870771384] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5653 bytes read:33738 seeks:2 nb_streams:3
+May 10, 2024 23:27:24.124 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.124 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.124 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.124 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.124 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 10, 2024 23:27:24.124 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 10, 2024 23:27:24.124 [140735870771384] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 10, 2024 23:27:24.127 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:24.131 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.134 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:24.138 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.144 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:24.153 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.161 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.166 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.171 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.177 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:24.184 [140735870771384] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:24.185 [140735870771384] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 76355 bytes read:132042 seeks:2 frames:34
+May 10, 2024 23:27:24.185 [140735870771384] DEBUG - [MI]  * b3318b289cf12b4b7dfade25f31c0e8c46e73a06 [mkv h264/aac] Duration: 3960064ms, 1920x1080 (1.777778) 23.976fps, bitrate=6650kbps, audio channels=2, optimizedForStreaming=0 ("/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E07 - Are You Fur Real [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv")
+May 10, 2024 23:27:24.185 [140735870771384] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:24.186 [140735870771384] DEBUG - [MI] Closing input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E07 - Are You Fur Real [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv"
+May 10, 2024 23:27:24.186 [140735870771384] DEBUG - Committing media stream changes for part 138
+May 10, 2024 23:27:24.187 [140735870771384] DEBUG - Updating media item 138, size=3291835140, metadata_item_id=152
+May 10, 2024 23:27:24.187 [140735870771384] DEBUG - Updating part with ID=138 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E07 - Are You Fur Real [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv]
+May 10, 2024 23:27:24.187 [140735775714808] DEBUG - [HCl#11] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=152&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:24.188 [140735773912568] DEBUG - [HttpClient/HCl#11] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=152&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:24.188 [140735775714808] DEBUG - [HCl#12] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=152&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:24.189 [140735773912568] DEBUG - [HttpClient/HCl#12] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=152&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:24.190 [140735870771384] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.190 [140735870771384] DEBUG - [HCl#13] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.190 [140735773912568] DEBUG - [HttpClient/HCl#13] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:24.191 [140735870771384] DEBUG - Updating metadata item (save) (Are You Fur Real?) with ID 152
+May 10, 2024 23:27:24.192 [140735775714808] DEBUG - [HCl#14] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7
+May 10, 2024 23:27:24.193 [140735773912568] DEBUG - [HttpClient/HCl#14] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7 (reused)
+May 10, 2024 23:27:24.193 [140735870771384] DEBUG - Analyzing media parts for item 153 (Couch Couture): 139
+May 10, 2024 23:27:24.194 [140735870771384] DEBUG - [ID 139] Media part analysis: /tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E08 - Couch Couture [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [MI] Opening input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E08 - Couch Couture [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv"
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - Opening '/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E08 - Couch Couture [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv' for reading
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4365
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4434
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4489
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5653 bytes read:33738 seeks:2 nb_streams:3
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.200 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.201 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.201 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.201 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 10, 2024 23:27:24.201 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 10, 2024 23:27:24.201 [140735870771384] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 10, 2024 23:27:24.204 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:24.207 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.210 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:24.214 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.221 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:24.229 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.237 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.242 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.248 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.253 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.259 [140735870771384] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:24.260 [140735870771384] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 75631 bytes read:132042 seeks:2 frames:34
+May 10, 2024 23:27:24.260 [140735870771384] DEBUG - [MI]  * 2a51f32ecf6bfa8f3063847558ab3a8fca8ae241 [mkv h264/aac] Duration: 3960064ms, 1920x1080 (1.777778) 23.976fps, bitrate=7085kbps, audio channels=2, optimizedForStreaming=0 ("/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E08 - Couch Couture [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv")
+May 10, 2024 23:27:24.260 [140735870771384] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:24.261 [140735870771384] DEBUG - [MI] Closing input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E08 - Couch Couture [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv"
+May 10, 2024 23:27:24.268 [140735870771384] DEBUG - Committing media stream changes for part 139
+May 10, 2024 23:27:24.268 [140735870771384] DEBUG - Updating media item 139, size=3507277289, metadata_item_id=153
+May 10, 2024 23:27:24.269 [140735870771384] DEBUG - Updating part with ID=139 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E08 - Couch Couture [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv]
+May 10, 2024 23:27:24.269 [140735775714808] DEBUG - [HCl#15] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=153&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:24.271 [140735870771384] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.271 [140735870771384] DEBUG - [HCl#16] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.272 [140735773912568] DEBUG - [HttpClient/HCl#15] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=153&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:24.272 [140735773912568] DEBUG - [HttpClient/HCl#16] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:24.272 [140735870771384] DEBUG - Updating metadata item (save) (Couch Couture) with ID 153
+May 10, 2024 23:27:24.273 [140735775714808] DEBUG - [HCl#17] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=153&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:24.274 [140735773912568] DEBUG - [HttpClient/HCl#17] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=153&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:24.274 [140735775714808] DEBUG - [HCl#18] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7
+May 10, 2024 23:27:24.276 [140735870771384] DEBUG - Analyzing media parts for item 154 (Finale): 140
+May 10, 2024 23:27:24.276 [140735870771384] DEBUG - [ID 140] Media part analysis: /tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E14 - Finale [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv
+May 10, 2024 23:27:24.276 [140735870771384] DEBUG - [MI] Opening input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E14 - Finale [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv"
+May 10, 2024 23:27:24.276 [140735870771384] DEBUG - [FFMPEG] - Opening '/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E14 - Finale [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv' for reading
+May 10, 2024 23:27:24.276 [140735870771384] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 10, 2024 23:27:24.276 [140735870771384] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4365
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4434
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4489
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5653 bytes read:33739 seeks:2 nb_streams:3
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 10, 2024 23:27:24.277 [140735773912568] DEBUG - [HttpClient/HCl#18] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7 (reused)
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 10, 2024 23:27:24.277 [140735870771384] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 10, 2024 23:27:24.281 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:24.284 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.287 [140735870771384] DEBUG - [FFMPEG] - no picture 
+May 10, 2024 23:27:24.291 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.298 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:24.306 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.313 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.319 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.324 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 10, 2024 23:27:24.329 [140735870771384] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 10, 2024 23:27:24.336 [140735870771384] DEBUG - [FFMPEG] - All info found
+May 10, 2024 23:27:24.337 [140735870771384] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 80664 bytes read:132043 seeks:2 frames:34
+May 10, 2024 23:27:24.337 [140735870771384] DEBUG - [MI]  * 6ff5c590a5ed19b2686c19c50bffe110f48ec835 [mkv h264/aac] Duration: 5254015ms, 1920x1080 (1.777778) 23.976fps, bitrate=7441kbps, audio channels=2, optimizedForStreaming=0 ("/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E14 - Finale [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv")
+May 10, 2024 23:27:24.337 [140735870771384] DEBUG - [MI] Chapters had generic titles, clearing.
+May 10, 2024 23:27:24.338 [140735870771384] DEBUG - [MI] Closing input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E14 - Finale [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv"
+May 10, 2024 23:27:24.338 [140735870771384] DEBUG - Committing media stream changes for part 140
+May 10, 2024 23:27:24.339 [140735870771384] DEBUG - Updating media item 140, size=4886963124, metadata_item_id=154
+May 10, 2024 23:27:24.339 [140735870771384] DEBUG - Updating part with ID=140 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E14 - Finale [WEBRip-1080p][AAC 2.0][x264]-KOMPOST.mkv]
+May 10, 2024 23:27:24.340 [140735775714808] DEBUG - [HCl#19] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=154&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 10, 2024 23:27:24.342 [140735773912568] DEBUG - [HttpClient/HCl#19] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=154&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 10, 2024 23:27:24.342 [140735870771384] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.342 [140735870771384] DEBUG - [HCl#1a] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 10, 2024 23:27:24.342 [140735775714808] DEBUG - [HCl#1b] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=154&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 10, 2024 23:27:24.346 [140735773912568] DEBUG - [HttpClient/HCl#1a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 10, 2024 23:27:24.346 [140735870771384] DEBUG - Updating metadata item (save) (Finale) with ID 154
+May 10, 2024 23:27:24.347 [140735773912568] DEBUG - [HttpClient/HCl#1b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=154&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 10, 2024 23:27:24.353 [140735775714808] DEBUG - [HCl#1c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7
+May 10, 2024 23:27:24.354 [140735773912568] DEBUG - [HttpClient/HCl#1c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=7 (reused)

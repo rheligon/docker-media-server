@@ -116,7 +116,8 @@ services:
     restart: unless-stopped
     logging:
       driver: json-file
-    network_mode: "service:gluetun"
+    # network_mode: "service:gluetun"
+    network_mode: "service:vpn"
     environment:
       - PUID=${PGID}
       - PGID=${PGID}
@@ -127,26 +128,67 @@ services:
       - ${APP_PATH}/qbittorrent:/config
       - ${DATA_PATH}/torrents:/data/torrents
       - ${APP_PATH}/vuetorrent:/opt/vuetorrent
-  # GLUETUN
-  gluetun:
-    image: qmcgaw/gluetun
-    container_name: gluetun
-    cap_add:
-      - NET_ADMIN
-    devices:
-      - /dev/net/tun:/dev/net/tun
-    ports:
-      - ${QBITT_PORT}:6881 # qbittorrent
-      - ${QBITT_PORT}:6881/udp # qbittorrent
-      - ${QBITT_PORT_UI}:8080 # qbittorrent
-      # - ${SABNZDB_PORT}:8085 # sabnzdb
+    depends_on:
+        - vpn
+
+  # VPN PIA-WG
+  # https://github.com/thrnz/docker-wireguard-pia
+  vpn:
+    container_name: vpn
+    image: thrnz/docker-wireguard-pia
     volumes:
-      - ${APP_PATH}/gluetun:/gluetun
+        - ${APP_PATH}/pia:/pia
+        - ${APP_PATH}/pia-port-script.sh:/pia-shared/script.sh
+    ports:
+        - ${QBITT_PORT_UI}:8080 # qbittorrent
+    cap_add:
+        - NET_ADMIN
     environment:
-      - VPN_SERVICE_PROVIDER=${VPN_SERVICE_PROVIDER}
-      - VPN_TYPE=openvpn
-      - OPENVPN_USER=${VPN_USER}
-      - OPENVPN_PASSWORD=${VPN_PASSWORD}
-      - SERVER_REGIONS=${VPN_REGION}
-      - TZ=${TIMEZONE}
-      - UPDATER_PERIOD=24h
+        - LOCAL_NETWORK=192.168.1.0/24
+        - LOC=${VPN_LOC}
+        - USER=${VPN_USER}
+        - PASS=${VPN_PASSWORD}
+        - PORT_FORWARDING=1
+        - PORT_PERSIST=1
+        - PORT_SCRIPT=/pia-shared/script.sh
+        - QBITT_HOST=${QBITT_HOST}
+        - QBITT_USER=${QBITT_USER}
+        - QBITT_PASS=${QBITT_PASS}
+        - QBITT_PORT_UI=${QBITT_PORT_UI}
+    sysctls:
+        - net.ipv4.conf.all.src_valid_mark=1 
+        # May as well disable ipv6. Should be blocked anyway.
+        - net.ipv6.conf.default.disable_ipv6=1
+        - net.ipv6.conf.all.disable_ipv6=1
+        - net.ipv6.conf.lo.disable_ipv6=1
+    # The container has no recovery logic. Use a healthcheck to catch disconnects.
+    healthcheck:
+        test: ping -c 1 www.google.com || exit 1
+        interval: 30s
+        timeout: 10s
+        retries: 3
+
+  # GLUETUN
+  # https://github.com/qdm12/gluetun-wiki
+  # gluetun:
+  #   image: qmcgaw/gluetun
+  #   container_name: gluetun
+  #   cap_add:
+  #     - NET_ADMIN
+  #   devices:
+  #     - /dev/net/tun:/dev/net/tun
+  #   ports:
+  #     - ${QBITT_PORT}:6881 # qbittorrent
+  #     - ${QBITT_PORT}:6881/udp # qbittorrent
+  #     - ${QBITT_PORT_UI}:8080 # qbittorrent
+  #     # - ${SABNZDB_PORT}:8085 # sabnzdb
+  #   volumes:
+  #     - ${APP_PATH}/gluetun:/gluetun
+  #   environment:
+  #     - VPN_SERVICE_PROVIDER=${VPN_SERVICE_PROVIDER}
+  #     - VPN_TYPE=openvpn
+  #     - OPENVPN_USER=${VPN_USER}
+  #     - OPENVPN_PASSWORD=${VPN_PASSWORD}
+  #     - SERVER_REGIONS=${VPN_REGION}
+  #     - TZ=${TIMEZONE}
+  #     - UPDATER_PERIOD=24h

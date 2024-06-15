@@ -6,6 +6,8 @@ language: en-US
 type: private
 encoding: UTF-8
 links:
+  - https://h-p2p.xyz/
+legacylinks:
   - https://h-p2p.cam/
 
 caps:
@@ -21,11 +23,11 @@ caps:
     - {id: 9, cat: XXX/WEB-DL, desc: "Paid Site"}
     - {id: 10, cat: XXX/WEB-DL, desc: "HomeMade"}
     - {id: 11, cat: XXX/WEB-DL, desc: "Other"}
+    - {id: 27, cat: XXX/WEB-DL, desc: "Gay"}
+    - {id: 28, cat: XXX/WEB-DL, desc: "XXX Movie"}
 
   modes:
     search: [q]
-    tv-search: [q]
-    movie-search: [q]
 
 settings:
   - name: apikey
@@ -97,6 +99,8 @@ search:
     attribute: attributes
 
   fields:
+    _id:
+      selector: ..id
     category:
       selector: category_id
     title_optional:
@@ -115,10 +119,7 @@ search:
     infohash:
       selector: info_hash
     poster:
-      selector: meta.poster
-      filters:
-        - name: replace
-          args: ["https://via.placeholder.com/90x135", ""]
+      text: "{{ .Config.sitelink }}files/img/torrent-cover_{{ .Result._id }}.jpg"
     genre:
       selector: meta.genres
       filters:
@@ -160,8 +161,6 @@ search:
       case:
         False: 1 # normal
         True: 2 # double
-    minimumratio:
-      text: 1.0
     minimumseedtime:
       # 2 days (as seconds = 2 x 24 x 60 x 60)
       text: 172800

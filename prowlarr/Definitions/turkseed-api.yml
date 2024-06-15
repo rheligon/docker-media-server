@@ -16,12 +16,13 @@ caps:
     - {id: 5, cat: TV/Foreign, desc: "Yabanci Dizi"}
     - {id: 3, cat: Console, desc: "Oyunlar"}
     - {id: 13, cat: TV, desc: "AMAZON"}
-    - {id: 14, cat: TV, desc: "NETFLİX"}
-    - {id: 15, cat: TV, desc: "DİSNEY+"}
+    - {id: 14, cat: TV, desc: "NETFLİX DIZI"}
+    - {id: 15, cat: TV, desc: "DİSNEY+ MOVIE"}
     - {id: 16, cat: TV, desc: "TODD"}
     - {id: 17, cat: TV, desc: "TV+"}
     - {id: 18, cat: TV, desc: "BLUTV"}
     - {id: 19, cat: TV, desc: "EXXEN"}
+    - {id: 20, cat: TV, desc: "NETFLIX BELGESEL"}
 
   modes:
     search: [q]
@@ -140,7 +141,13 @@ search:
       selector: meta.genres
       filters:
         - name: re_replace
+          args: ["(?i)(Bilim Kurgu)", "Bilim_Kurgu"]
+        - name: re_replace
           args: ["(?i)(Pembe Dizi)", "Pembe_Dizi"]
+        - name: re_replace
+          args: ["(?i)(TV film)", "TV_film"]
+        - name: re_replace
+          args: ["(?i)(Vahşi Batı)", "Vahşi_Batı"]
         - name: replace
           args: [" & ", "_&_"]
     description:

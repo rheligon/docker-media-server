@@ -1,7 +1,7 @@
 services:
   # VIEWER
   plex:
-    image: lscr.io/linuxserver/plex:1.40.2
+    image: lscr.io/linuxserver/plex
     container_name: plex
     network_mode: host
     environment:
@@ -149,7 +149,7 @@ services:
         - USER=${VPN_USER}
         - PASS=${VPN_PASSWORD}
         - PORT_FORWARDING=1
-        - PORT_PERSIST=1
+        - PORT_PERSIST=1 # Persist port between restarts
         - PORT_SCRIPT=/pia-shared/script.sh
         - QBITT_HOST=${QBITT_HOST}
         - QBITT_USER=${QBITT_USER}

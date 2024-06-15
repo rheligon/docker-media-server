@@ -1,7 +1,10 @@
-May 11, 2024 02:04:49.264 [140735350451704] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
-May 11, 2024 02:04:49.264 [140735350451704] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
-May 11, 2024 02:04:49.264 [140735350451704] INFO - Processor: 4-core AArch64
-May 11, 2024 02:04:49.264 [140735350451704] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 2 --log-file-suffix  Matcher --item 113
-May 11, 2024 02:04:49.265 [140735430729912] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-May 11, 2024 02:04:49.347 [140735430729912] DEBUG - Matcher: found 4 auxiliary files for The Height Of Avant Garde Fashion
-May 11, 2024 02:04:49.347 [140735430729912] DEBUG - Matcher: no sidecar subtitle files found for /tv/Project Runway (2004) {imdb-tt0437741}/Season 18/Project Runway (2004) - S18E12 - The Height of Avant Garde Fashion [AMZN WEBDL-720p][EAC3 5.1][h264]-NTb.mkv
+Jun 15, 2024 22:16:33.183 [140733037587960] INFO - Plex Media Scanner v1.40.3.8555-fef15d30c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+Jun 15, 2024 22:16:33.184 [140733037587960] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+Jun 15, 2024 22:16:33.184 [140733037587960] INFO - Processor: 4-core AArch64
+Jun 15, 2024 22:16:33.184 [140733037587960] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 2 --log-file-suffix  Matcher --item 214
+Jun 15, 2024 22:16:33.185 [140733118079224] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Jun 15, 2024 22:16:33.341 [140733118079224] DEBUG - Matcher: found 0 auxiliary files for Season 9
+Jun 15, 2024 22:16:33.344 [140733118079224] DEBUG - Matcher: no sidecar subtitle files found for /tv/RuPaul's Drag Race All Stars (2012) {imdb-tt2301351}/Season 09/RuPaul's Drag Race All Stars (2012) - S09E03 - Snatch Game of Love [AMZN WEBDL-2160p][EAC3 2.0][h265]-FLUX.mkv
+Jun 15, 2024 22:16:33.344 [140733118079224] DEBUG - Matcher: no sidecar subtitle files found for /tv/RuPaul's Drag Race All Stars (2012) {imdb-tt2301351}/Season 09/RuPaul's Drag Race All Stars (2012) - S09E04 - Smokin Hot Firefighter Makeover [AMZN WEBDL-2160p][EAC3 2.0][h265]-FLUX.mkv
+Jun 15, 2024 22:16:33.344 [140733118079224] DEBUG - Matcher: no sidecar subtitle files found for /tv/RuPaul's Drag Race All Stars (2012) {imdb-tt2301351}/Season 09/RuPaul's Drag Race All Stars (2012) - S09E05 - Property Queens [AMZN WEBDL-2160p][EAC3 2.0][h265]-FLUX.mkv
+Jun 15, 2024 22:16:33.344 [140733118079224] DEBUG - Matcher: no sidecar subtitle files found for /tv/RuPaul's Drag Race All Stars (2012) {imdb-tt2301351}/Season 09/RuPaul's Drag Race All Stars (2012) - S09E06 - The National Drag Convention Roast [WEBDL-1080p][EAC3 2.0][h264]-EDITH.mkv

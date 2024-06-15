@@ -1,7 +1,6 @@
-May 10, 2024 23:27:24.489 [140732876598776] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
-May 10, 2024 23:27:24.489 [140732876598776] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
-May 10, 2024 23:27:24.489 [140732876598776] INFO - Processor: 4-core AArch64
-May 10, 2024 23:27:24.489 [140732876598776] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 2 --log-file-suffix  Matcher --item 114
-May 10, 2024 23:27:24.483 [140732956876984] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-May 10, 2024 23:27:24.676 [140732956876984] DEBUG - Matcher: found 0 auxiliary files for Season 19
-May 10, 2024 23:27:24.681 [140732956876984] DEBUG - Matcher: no sidecar subtitle files found for /tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv
+Jun 10, 2024 03:47:39.437 [140734129335800] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+Jun 10, 2024 03:47:39.437 [140734129335800] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+Jun 10, 2024 03:47:39.437 [140734129335800] INFO - Processor: 4-core AArch64
+Jun 10, 2024 03:47:39.437 [140734129335800] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 2 --log-file-suffix  Matcher --item 134
+Jun 10, 2024 03:47:39.438 [140734209614008] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Jun 10, 2024 03:47:39.525 [140734209614008] DEBUG - Matcher: found 0 auxiliary files for Scavengers Reign

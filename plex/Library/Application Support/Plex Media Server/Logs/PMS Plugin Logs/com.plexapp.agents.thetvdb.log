@@ -1,30 +1,31 @@
-2024-04-29 11:24:31,719 (7fff1d5f9890) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: c67dce2 (Thu Apr 18 13:16:57 UTC 2024)
-2024-04-29 11:24:31,719 (7fff1d5f9890) :  DEBUG (core:361) - Using the elevated policy
-2024-04-29 11:24:31,719 (7fff1d5f9890) :  DEBUG (core:450) - Starting runtime component.
-2024-04-29 11:24:31,720 (7fff1d5f9890) :  DEBUG (core:450) - Starting caching component.
-2024-04-29 11:24:31,721 (7fff1d5f9890) :  DEBUG (core:450) - Starting data component.
-2024-04-29 11:24:31,721 (7fff1d5f9890) :  DEBUG (core:450) - Starting networking component.
-2024-04-29 11:24:31,721 (7fff1d5f9890) :  DEBUG (networking:266) - No cookie jar found
-2024-04-29 11:24:31,721 (7fff1d5f9890) :  DEBUG (networking:434) - Setting the default network timeout to 20.0
-2024-04-29 11:24:31,722 (7fff1d5f9890) :  DEBUG (core:450) - Starting localization component.
-2024-04-29 11:24:31,722 (7fff1d5f9890) :  INFO (localization:409) - Setting the default locale to en-us
-2024-04-29 11:24:31,722 (7fff1d5f9890) :  DEBUG (core:450) - Starting messaging component.
-2024-04-29 11:24:31,722 (7fff1d5f9890) :  DEBUG (core:450) - Starting debugging component.
-2024-04-29 11:24:31,722 (7fff1d5f9890) :  DEBUG (core:450) - Starting services component.
-2024-04-29 11:24:31,723 (7fff1d5f9890) :  DEBUG (core:450) - Starting myplex component.
-2024-04-29 11:24:31,723 (7fff1a14fb08) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.agents.thetvdb'
-2024-04-29 11:24:31,723 (7fff1d5f9890) :  DEBUG (core:450) - Starting notifications component.
-2024-04-29 11:24:31,841 (7fff1d5f9890) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.agents.thetvdb in namespace 'metadata'
-2024-04-29 11:24:31,846 (7fff1d5f9890) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
-2024-04-29 11:24:31,851 (7fff1d5f9890) :  ERROR (networking:197) - Error opening URL 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
-2024-04-29 11:24:31,852 (7fff1d5f9890) :  CRITICAL (runtime:1299) - Exception getting hosted resource hashes (most recent call last):
-  File "/usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/runtime.py", line 1293, in get_resource_hashes
+2024-06-15 22:15:58,542 (7fff3a2dd890) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: fef15d3 (Thu Jun 06 16:31:51 UTC 2024)
+2024-06-15 22:15:58,542 (7fff3a2dd890) :  DEBUG (core:361) - Using the elevated policy
+2024-06-15 22:15:58,543 (7fff3a2dd890) :  DEBUG (core:450) - Starting runtime component.
+2024-06-15 22:15:58,546 (7fff3a2dd890) :  DEBUG (core:450) - Starting caching component.
+2024-06-15 22:15:58,546 (7fff3a2dd890) :  DEBUG (core:450) - Starting data component.
+2024-06-15 22:15:58,547 (7fff3a2dd890) :  DEBUG (core:450) - Starting networking component.
+2024-06-15 22:15:58,548 (7fff3a2dd890) :  DEBUG (networking:262) - Loaded HTTP cookies
+2024-06-15 22:15:58,549 (7fff3a2dd890) :  DEBUG (caching:108) - No info file found, trashing the cache folder
+2024-06-15 22:15:58,550 (7fff3a2dd890) :  DEBUG (networking:434) - Setting the default network timeout to 20.0
+2024-06-15 22:15:58,551 (7fff3a2dd890) :  DEBUG (core:450) - Starting localization component.
+2024-06-15 22:15:58,551 (7fff3a2dd890) :  INFO (localization:409) - Setting the default locale to en-us
+2024-06-15 22:15:58,551 (7fff3a2dd890) :  DEBUG (core:450) - Starting messaging component.
+2024-06-15 22:15:58,554 (7fff3a2dd890) :  DEBUG (core:450) - Starting debugging component.
+2024-06-15 22:15:58,556 (7fff3a2dd890) :  DEBUG (core:450) - Starting services component.
+2024-06-15 22:15:58,555 (7fff36e4bb08) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.agents.thetvdb'
+2024-06-15 22:15:58,556 (7fff3a2dd890) :  DEBUG (core:450) - Starting myplex component.
+2024-06-15 22:15:58,557 (7fff3a2dd890) :  DEBUG (core:450) - Starting notifications component.
+2024-06-15 22:15:58,741 (7fff3a2dd890) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.agents.thetvdb in namespace 'metadata'
+2024-06-15 22:15:58,747 (7fff3a2dd890) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2024-06-15 22:15:58,755 (7fff3a2dd890) :  ERROR (networking:197) - Error opening URL 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2024-06-15 22:15:58,757 (7fff3a2dd890) :  CRITICAL (runtime:1299) - Exception getting hosted resource hashes (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-fef15d30c/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/runtime.py", line 1293, in get_resource_hashes
     json = self._core.networking.http_request("http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes", timeout=10).content
-  File "/usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 243, in content
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-fef15d30c/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 243, in content
     return self.__str__()
-  File "/usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 221, in __str__
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-fef15d30c/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 221, in __str__
     self.load()
-  File "/usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 159, in load
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-fef15d30c/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 159, in load
     f = self._opener.open(req, timeout=self._timeout)
   File "/usr/lib/plexmediaserver/Resources/Python/python27.zip/urllib2.py", line 435, in open
     response = meth(req, response)
@@ -38,44 +39,26 @@
     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
 HTTPError: HTTP Error 404: Not Found
 
-2024-04-29 11:24:31,859 (7fff1d5f9890) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
-2024-04-29 11:24:31,859 (7fff19f07b08) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
-2024-04-29 11:24:31,860 (7fff1d5f9890) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
-2024-04-29 11:24:31,861 (7fff19f07b08) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
-2024-04-29 11:24:31,861 (7fff19eb7b08) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400'
-2024-04-29 11:24:31,862 (7fff1d5f9890) :  DEBUG (core:150) - Finished starting framework core
-2024-04-29 11:24:31,862 (7fff1d5f9890) :  DEBUG (core:560) - Loading plug-in code
-2024-04-29 11:24:32,197 (7fff19f07b08) :  DEBUG (services:362) - Loaded services
-2024-04-29 11:24:32,198 (7fff19eb7b08) :  DEBUG (core:538) - Machine identifier is d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52
-2024-04-29 11:24:32,206 (7fff19eb7b08) :  DEBUG (core:539) - Server version is 1.40.2.8395-c67dce28e
-2024-04-29 11:24:32,252 (7fff19edfb08) :  DEBUG (services:438) - No shared code to load
-2024-04-29 11:24:32,291 (7fff1d5f9890) :  DEBUG (core:566) - Finished loading plug-in code
-2024-04-29 11:24:32,292 (7fff1d5f9890) :  DEBUG (agentkit:1132) - Creating new agent class called TVDBAgent
-2024-04-29 11:24:32,293 (7fff1d5f9890) :  DEBUG (agentkit:937) - Updating agent information: [{'media_types': ['TV_Show'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': None, 'languages': ['en', 'fr', 'zh', 'sv', 'no', 'da', 'fi', 'nl', 'de', 'it', 'es', 'pl', 'hu', 'el', 'tr', 'ru', 'he', 'ja', 'pt', 'cs', 'ko', 'sl', 'hr'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'TheTVDB'}]
-2024-04-29 11:24:32,294 (7fff1d5f9890) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo1CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdAoyCnMyNgpjb20ucGxleGFwcC5hZ2VudHMudGhldHZkYnMxMAppZGVudGlmaWVycjEKczEwCmFnZW50X2luZm8xCnIyCjEwCnIzCnMxMQptZWRpYV90eXBlc25zMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudG5zMTQKY29udHJpYnV0ZXNfdG9yNApzOQpsYW5ndWFnZXNiMXMyMApwZXJzaXN0X3N0b3JlZF9maWxlc2kwCnM3CnZlcnNpb25iMXMxNgpwcmltYXJ5X3Byb3ZpZGVyYjFzNQpwcmVmc3M3ClRoZVRWREJzNApuYW1lMQpzNwpUVl9TaG93MjMKczIKZW5zMgpmcnMyCnpoczIKc3ZzMgpub3MyCmRhczIKZmlzMgpubHMyCmRlczIKaXRzMgplc3MyCnBsczIKaHVzMgplbHMyCnRyczIKcnVzMgpoZXMyCmphczIKcHRzMgpjc3MyCmtvczIKc2xzMgpocnIwCg__'
-2024-04-29 11:24:51,049 (7fff1d5f9890) :  INFO (core:611) - Started plug-in
-2024-04-29 11:24:51,049 (7fff1d5f9890) :  DEBUG (socketinterface:160) - Starting socket server
-2024-04-29 11:24:51,050 (7fff1d5f9890) :  DEBUG (runtime:1117) - Created a thread named 'start'
-2024-04-29 11:24:51,050 (7fff1d5f9890) :  INFO (socketinterface:184) - Socket server started on port 34557
-2024-04-29 11:24:51,051 (7fff1d5f9890) :  INFO (pipeinterface:25) - Entering run loop
-2024-04-29 11:24:51,051 (7fff1d5f9890) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
-2024-04-29 11:24:51,055 (7fff1d5f9890) :  DEBUG (runtime:814) - Found route matching /:/prefixes
-2024-04-29 11:24:51,056 (7fff1d5f9890) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 151 bytes
-2024-04-29 11:24:51,062 (7fff19e9fb08) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.thetvdb
-2024-04-29 11:24:51,067 (7fff1941fb08) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.thetvdb
-2024-04-29 11:24:51,079 (7fff19e9fb08) :  CRITICAL (runtime:493) - Exception matching route for path "/" (most recent call last):
-  File "/usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/runtime.py", line 464, in match_route
-    raise Framework.exceptions.FrameworkException("No route found matching '%s'" % path)
-FrameworkException: No route found matching '/'
-
-2024-04-29 11:24:51,079 (7fff1941fb08) :  CRITICAL (runtime:493) - Exception matching route for path "/" (most recent call last):
-  File "/usr/lib/plexmediaserver/Resources/Plug-ins-c67dce28e/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/runtime.py", line 464, in match_route
-    raise Framework.exceptions.FrameworkException("No route found matching '%s'" % path)
-FrameworkException: No route found matching '/'
-
-2024-04-29 11:24:51,079 (7fff1941fb08) :  ERROR (runtime:846) - Could not find route matching /:/plugins/com.plexapp.agents.thetvdb
-2024-04-29 11:24:51,080 (7fff1941fb08) :  DEBUG (runtime:88) - Sending packed state data (107 bytes)
-2024-04-29 11:24:51,080 (7fff1941fb08) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
-2024-04-29 11:24:51,080 (7fff19e9fb08) :  ERROR (runtime:846) - Could not find route matching /:/plugins/com.plexapp.agents.thetvdb
-2024-04-29 11:24:51,081 (7fff19e9fb08) :  DEBUG (runtime:88) - Sending packed state data (107 bytes)
-2024-04-29 11:24:51,081 (7fff19e9fb08) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2024-06-15 22:15:58,770 (7fff36c13b08) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2024-06-15 22:15:58,771 (7fff36c13b08) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2024-06-15 22:15:58,772 (7fff3a2dd890) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2024-06-15 22:15:58,773 (7fff36bc3b08) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400'
+2024-06-15 22:15:58,775 (7fff3a2dd890) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2024-06-15 22:15:58,775 (7fff3a2dd890) :  DEBUG (core:150) - Finished starting framework core
+2024-06-15 22:15:58,775 (7fff3a2dd890) :  DEBUG (core:560) - Loading plug-in code
+2024-06-15 22:15:58,844 (7fff36c13b08) :  DEBUG (services:362) - Loaded services
+2024-06-15 22:15:58,858 (7fff36bc3b08) :  DEBUG (core:538) - Machine identifier is d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52
+2024-06-15 22:15:58,861 (7fff36bebb08) :  DEBUG (services:438) - No shared code to load
+2024-06-15 22:15:58,861 (7fff36bc3b08) :  DEBUG (core:539) - Server version is 1.40.3.8555-fef15d30c
+2024-06-15 22:15:59,506 (7fff3a2dd890) :  DEBUG (core:566) - Finished loading plug-in code
+2024-06-15 22:15:59,507 (7fff3a2dd890) :  DEBUG (agentkit:1132) - Creating new agent class called TVDBAgent
+2024-06-15 22:15:59,509 (7fff3a2dd890) :  DEBUG (agentkit:937) - Updating agent information: [{'media_types': ['TV_Show'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': None, 'languages': ['en', 'fr', 'zh', 'sv', 'no', 'da', 'fi', 'nl', 'de', 'it', 'es', 'pl', 'hu', 'el', 'tr', 'ru', 'he', 'ja', 'pt', 'cs', 'ko', 'sl', 'hr'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'TheTVDB'}]
+2024-06-15 22:15:59,511 (7fff3a2dd890) :  DEBUG (networking:144) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo1CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdAoyCnMyNgpjb20ucGxleGFwcC5hZ2VudHMudGhldHZkYnMxMAppZGVudGlmaWVycjEKczEwCmFnZW50X2luZm8xCnIyCjEwCnIzCnMxMQptZWRpYV90eXBlc25zMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudG5zMTQKY29udHJpYnV0ZXNfdG9yNApzOQpsYW5ndWFnZXNiMXMyMApwZXJzaXN0X3N0b3JlZF9maWxlc2kwCnM3CnZlcnNpb25iMXMxNgpwcmltYXJ5X3Byb3ZpZGVyYjFzNQpwcmVmc3M3ClRoZVRWREJzNApuYW1lMQpzNwpUVl9TaG93MjMKczIKZW5zMgpmcnMyCnpoczIKc3ZzMgpub3MyCmRhczIKZmlzMgpubHMyCmRlczIKaXRzMgplc3MyCnBsczIKaHVzMgplbHMyCnRyczIKcnVzMgpoZXMyCmphczIKcHRzMgpjc3MyCmtvczIKc2xzMgpocnIwCg__'
+2024-06-15 22:15:59,530 (7fff3a2dd890) :  INFO (core:611) - Started plug-in
+2024-06-15 22:15:59,530 (7fff3a2dd890) :  DEBUG (socketinterface:160) - Starting socket server
+2024-06-15 22:15:59,531 (7fff3a2dd890) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2024-06-15 22:15:59,531 (7fff3a2dd890) :  INFO (socketinterface:184) - Socket server started on port 35385
+2024-06-15 22:15:59,532 (7fff3a2dd890) :  INFO (pipeinterface:25) - Entering run loop
+2024-06-15 22:15:59,532 (7fff3a2dd890) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2024-06-15 22:15:59,535 (7fff3a2dd890) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2024-06-15 22:15:59,536 (7fff3a2dd890) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 151 bytes

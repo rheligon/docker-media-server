@@ -1,10 +1,10 @@
-May 01, 2024 02:07:01.659 [140733164596728] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
-May 01, 2024 02:07:01.659 [140733164596728] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
-May 01, 2024 02:07:01.659 [140733164596728] INFO - Processor: 4-core AArch64
-May 01, 2024 02:07:01.659 [140733164596728] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 43 --log-file-suffix  Chapter Thumbnails
-May 01, 2024 02:07:01.659 [140733244874936] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-May 01, 2024 02:07:01.739 [140733244874936] DEBUG - Created chapter thumbnail for metadata item 43, media item 37 for chapter number 1:0 at "/config/Library/Application Support/Plex Media Server/Media/localhost/9/fc3567f2a37dd37a91f250028a55abea63b9c6e.bundle/Contents/Chapters/chapter1.jpg"
-May 01, 2024 02:07:01.739 [140733244874936] DEBUG - Created chapter thumbnail for metadata item 43, media item 37 for chapter number 2:90000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/9/fc3567f2a37dd37a91f250028a55abea63b9c6e.bundle/Contents/Chapters/chapter2.jpg"
-May 01, 2024 02:07:01.739 [140733244874936] DEBUG - Created chapter thumbnail for metadata item 43, media item 37 for chapter number 3:1265000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/9/fc3567f2a37dd37a91f250028a55abea63b9c6e.bundle/Contents/Chapters/chapter3.jpg"
-May 01, 2024 02:07:01.740 [140733244874936] DEBUG - Created chapter thumbnail for metadata item 43, media item 37 for chapter number 4:1355000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/9/fc3567f2a37dd37a91f250028a55abea63b9c6e.bundle/Contents/Chapters/chapter4.jpg"
-May 01, 2024 02:07:01.740 [140733244874936] DEBUG - Generated new chapter thumbnails for How to Buy Out a Contract.
+May 15, 2024 02:04:51.517 [140734737427960] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 15, 2024 02:04:51.517 [140734737427960] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 15, 2024 02:04:51.517 [140734737427960] INFO - Processor: 4-core AArch64
+May 15, 2024 02:04:51.517 [140734737427960] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 175 --log-file-suffix  Chapter Thumbnails
+May 15, 2024 02:04:51.518 [140734817706168] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 15, 2024 02:04:51.600 [140734817706168] DEBUG - Created chapter thumbnail for metadata item 175, media item 160 for chapter number 1:0 at "/config/Library/Application Support/Plex Media Server/Media/localhost/c/e1e52da9e274f47f90641d1efb7eac31901dc44.bundle/Contents/Chapters/chapter1.jpg"
+May 15, 2024 02:04:51.600 [140734817706168] DEBUG - Created chapter thumbnail for metadata item 175, media item 160 for chapter number 2:831971 at "/config/Library/Application Support/Plex Media Server/Media/localhost/c/e1e52da9e274f47f90641d1efb7eac31901dc44.bundle/Contents/Chapters/chapter2.jpg"
+May 15, 2024 02:04:51.600 [140734817706168] DEBUG - Created chapter thumbnail for metadata item 175, media item 160 for chapter number 3:2073920 at "/config/Library/Application Support/Plex Media Server/Media/localhost/c/e1e52da9e274f47f90641d1efb7eac31901dc44.bundle/Contents/Chapters/chapter3.jpg"
+May 15, 2024 02:04:51.600 [140734817706168] DEBUG - Created chapter thumbnail for metadata item 175, media item 160 for chapter number 4:2770950 at "/config/Library/Application Support/Plex Media Server/Media/localhost/c/e1e52da9e274f47f90641d1efb7eac31901dc44.bundle/Contents/Chapters/chapter4.jpg"
+May 15, 2024 02:04:51.601 [140734817706168] DEBUG - Generated new chapter thumbnails for Planet Camp.

@@ -37,10 +37,8 @@ settings:
     options:
       desc: desc
       asc: asc
-  - name: flaresolverr
-    type: info
-    label: FlareSolverr
-    default: This site may use Cloudflare DDoS Protection, therefore Prowlarr requires <a href="https://wiki.servarr.com/prowlarr/faq#can-i-use-flaresolverr-indexers" target="_blank" rel="noreferrer">FlareSolverr</a> to access it.
+  - name: info_flaresolverr
+    type: info_flaresolverr
 
 download:
   selectors:
@@ -48,9 +46,6 @@ download:
       attribute: href
 
 search:
-  headers:
-    User-Agent: ["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203"]
-
   paths:
     # https://xxxclub.to/torrents/browse/2,4/metartx?sort=size&order=asc
     - path: "torrents/browse/{{ if .Categories }}{{ join .Categories \",\" }}{{ else }}all{{ end }}/{{ .Keywords }}?sort={{ .Config.sort }}&order={{ .Config.type }}"

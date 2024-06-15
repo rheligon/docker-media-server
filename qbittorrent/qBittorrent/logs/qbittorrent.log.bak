@@ -1,667 +1,568 @@
-(N) 2024-04-28T06:43:41 - qBittorrent v4.6.4 started
-(N) 2024-04-28T06:43:41 - Using config directory: /config/qBittorrent
-(N) 2024-04-28T06:43:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-28T06:43:41 - Peer ID: "-qB4640-"
-(I) 2024-04-28T06:43:41 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-28T06:43:41 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-28T06:43:41 - Local Peer Discovery support: ON
-(I) 2024-04-28T06:43:41 - Peer Exchange (PeX) support: ON
-(I) 2024-04-28T06:43:41 - Anonymous mode: OFF
-(I) 2024-04-28T06:43:41 - Encryption support: ON
-(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "172.25.0.5". Port: "TCP/6881"
-(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "172.25.0.5". Port: "UTP/6881"
-(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-28T06:43:41 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(W) 2024-04-28T06:43:41 - Couldn't load IP geolocation database. Reason: No such file or directory
-(N) 2024-04-28T06:43:42 - Using built-in WebUI.
-(W) 2024-04-28T06:43:42 - Couldn't load WebUI translation for selected locale (C).
-(N) 2024-04-28T06:43:42 - WebUI: Now listening on IP: *, port: 8080
-(I) 2024-04-28T06:43:46 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(I) 2024-04-28T06:43:46 - Successfully updated IP geolocation database.
-(I) 2024-04-28T06:44:01 - Detected external IP. IP: "79.116.12.229"
-(N) 2024-04-28T06:45:30 - qBittorrent termination initiated
-(N) 2024-04-28T06:45:30 - qBittorrent is now ready to exit
-(N) 2024-04-28T06:45:34 - qBittorrent v4.6.4 started
-(N) 2024-04-28T06:45:34 - Using config directory: /config/qBittorrent
-(N) 2024-04-28T06:45:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-28T06:45:34 - Peer ID: "-qB4640-"
-(I) 2024-04-28T06:45:34 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-28T06:45:34 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-28T06:45:34 - Local Peer Discovery support: ON
-(I) 2024-04-28T06:45:34 - Peer Exchange (PeX) support: ON
-(I) 2024-04-28T06:45:34 - Anonymous mode: OFF
-(I) 2024-04-28T06:45:34 - Encryption support: ON
-(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "172.25.0.5". Port: "TCP/6881"
-(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "172.25.0.5". Port: "UTP/6881"
-(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-28T06:45:34 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-28T06:45:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-28T06:45:34 - Using built-in WebUI.
-(W) 2024-04-28T06:45:34 - Couldn't load WebUI translation for selected locale (C).
-(N) 2024-04-28T06:45:34 - WebUI: Now listening on IP: *, port: 8080
-(I) 2024-04-28T06:45:54 - Detected external IP. IP: "79.116.12.229"
-(N) 2024-04-28T06:47:04 - WebAPI login success. IP: ::ffff:192.168.1.210
-(N) 2024-04-28T06:50:24 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-28T06:53:54 - WebAPI login success. IP: ::ffff:172.25.0.1
-(N) 2024-04-28T06:54:19 - WebAPI login success. IP: ::ffff:172.25.0.1
-(N) 2024-04-28T16:53:37 - qBittorrent termination initiated
-(N) 2024-04-28T16:53:37 - qBittorrent is now ready to exit
-(N) 2024-04-28T16:54:00 - qBittorrent v4.6.4 started
-(N) 2024-04-28T16:54:00 - Using config directory: /config/qBittorrent
-(N) 2024-04-28T16:54:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-28T16:54:00 - Peer ID: "-qB4640-"
-(I) 2024-04-28T16:54:00 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-28T16:54:00 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-28T16:54:00 - Local Peer Discovery support: ON
-(I) 2024-04-28T16:54:00 - Peer Exchange (PeX) support: ON
-(I) 2024-04-28T16:54:00 - Anonymous mode: OFF
-(I) 2024-04-28T16:54:00 - Encryption support: ON
-(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "172.26.0.6". Port: "TCP/6881"
-(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "172.26.0.6". Port: "UTP/6881"
-(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-28T16:54:00 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-28T16:54:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-28T16:54:00 - Using built-in WebUI.
-(N) 2024-04-28T16:54:00 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-28T16:54:00 - WebUI: Now listening on IP: *, port: 8080
-(I) 2024-04-28T16:54:20 - Detected external IP. IP: "79.116.12.229"
-(N) 2024-04-28T16:54:23 - WebAPI login success. IP: ::ffff:172.26.0.1
-(N) 2024-04-28T16:54:23 - WebAPI login success. IP: ::ffff:172.26.0.1
-(N) 2024-04-28T17:10:09 - qBittorrent termination initiated
-(N) 2024-04-28T17:10:09 - qBittorrent is now ready to exit
-(N) 2024-04-28T17:10:18 - qBittorrent v4.6.4 started
-(N) 2024-04-28T17:10:18 - Using config directory: /config/qBittorrent
-(N) 2024-04-28T17:10:18 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-28T17:10:18 - Peer ID: "-qB4640-"
-(I) 2024-04-28T17:10:18 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-28T17:10:18 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-28T17:10:18 - Local Peer Discovery support: ON
-(I) 2024-04-28T17:10:18 - Peer Exchange (PeX) support: ON
-(I) 2024-04-28T17:10:18 - Anonymous mode: OFF
-(I) 2024-04-28T17:10:18 - Encryption support: ON
-(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "172.27.0.5". Port: "TCP/6881"
-(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "172.27.0.5". Port: "UTP/6881"
-(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-28T17:10:18 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-28T17:10:18 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-28T17:10:18 - Using built-in WebUI.
-(N) 2024-04-28T17:10:18 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-28T17:10:18 - WebUI: Now listening on IP: *, port: 8080
-(I) 2024-04-28T17:10:38 - Detected external IP. IP: "79.116.12.229"
-(N) 2024-04-28T17:10:42 - WebAPI login success. IP: ::ffff:172.27.0.1
-(N) 2024-04-28T17:10:43 - WebAPI login success. IP: ::ffff:172.27.0.1
-(N) 2024-04-28T20:54:50 - WebAPI login success. IP: ::ffff:192.168.1.210
-(N) 2024-04-28T21:19:42 - qBittorrent termination initiated
-(N) 2024-04-28T21:19:42 - qBittorrent is now ready to exit
-(N) 2024-04-28T21:28:34 - qBittorrent v4.6.4 started
-(N) 2024-04-28T21:28:34 - Using config directory: /config/qBittorrent
-(N) 2024-04-28T21:28:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-28T21:28:34 - Peer ID: "-qB4640-"
-(I) 2024-04-28T21:28:34 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-28T21:28:34 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-28T21:28:34 - Local Peer Discovery support: ON
-(I) 2024-04-28T21:28:34 - Peer Exchange (PeX) support: ON
-(I) 2024-04-28T21:28:34 - Anonymous mode: OFF
-(I) 2024-04-28T21:28:34 - Encryption support: ON
-(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "172.28.0.6". Port: "TCP/6881"
-(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "172.28.0.6". Port: "UTP/6881"
-(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-28T21:28:34 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-28T21:28:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-28T21:28:34 - Using built-in WebUI.
-(N) 2024-04-28T21:28:34 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-28T21:28:34 - WebUI: Now listening on IP: *, port: 8080
-(I) 2024-04-28T21:28:54 - Detected external IP. IP: "79.116.12.229"
-(N) 2024-04-28T21:28:59 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-28T21:28:59 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-28T22:10:28 - qBittorrent termination initiated
-(N) 2024-04-28T22:10:28 - qBittorrent is now ready to exit
-(N) 2024-04-28T22:11:29 - qBittorrent v4.6.4 started
-(N) 2024-04-28T22:11:29 - Using config directory: /config/qBittorrent
-(N) 2024-04-28T22:11:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-28T22:11:29 - Peer ID: "-qB4640-"
-(I) 2024-04-28T22:11:29 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-28T22:11:29 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-28T22:11:29 - Local Peer Discovery support: ON
-(I) 2024-04-28T22:11:29 - Peer Exchange (PeX) support: ON
-(I) 2024-04-28T22:11:29 - Anonymous mode: OFF
-(I) 2024-04-28T22:11:29 - Encryption support: ON
-(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
-(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
-(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-28T22:11:29 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-28T22:11:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-28T22:11:29 - Using built-in WebUI.
-(N) 2024-04-28T22:11:29 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-28T22:11:29 - WebUI: Now listening on IP: *, port: 8080
-(N) 2024-04-28T22:11:59 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-28T22:12:00 - WebAPI login success. IP: ::ffff:172.28.0.1
-(W) 2024-04-28T23:00:57 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:03 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:08 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:08 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:19 - WebAPI login failure. Reason: invalid credentials, attempt count: 5, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:50 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:51 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:53 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:56 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:01:59 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:02:01 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:02:03 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:02:04 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: rheligon
-(W) 2024-04-28T23:02:17 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:02:18 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:02:19 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:02:20 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:02:31 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:02:44 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:02:49 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(N) 2024-04-28T23:02:52 - WebAPI login success. IP: ::ffff:192.168.1.210
-(W) 2024-04-28T23:03:04 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:03:12 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:03:14 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:03:23 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:03:39 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:16:27 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:16:29 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:16:39 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:16:41 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:16:47 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:16:55 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:03 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:03 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:06 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:09 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:12 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:16 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:19 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:22 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:33 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:17:41 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:18:14 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:18:40 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:18:45 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:18:55 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:19:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:19:20 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:19:46 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:19:49 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:19:54 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:20:10 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:20:16 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:20:17 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:20:19 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:20:27 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(W) 2024-04-28T23:20:37 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.28.0.1, username: admin
-(N) 2024-04-28T23:20:46 - qBittorrent termination initiated
-(N) 2024-04-28T23:20:46 - qBittorrent is now ready to exit
-(N) 2024-04-28T23:20:50 - qBittorrent v4.6.4 started
-(N) 2024-04-28T23:20:50 - Using config directory: /config/qBittorrent
-(N) 2024-04-28T23:20:50 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-28T23:20:50 - Peer ID: "-qB4640-"
-(I) 2024-04-28T23:20:50 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-28T23:20:50 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-28T23:20:50 - Local Peer Discovery support: ON
-(I) 2024-04-28T23:20:50 - Peer Exchange (PeX) support: ON
-(I) 2024-04-28T23:20:50 - Anonymous mode: OFF
-(I) 2024-04-28T23:20:50 - Encryption support: ON
-(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
-(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
-(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-28T23:20:50 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-28T23:20:50 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-28T23:20:50 - Using built-in WebUI.
-(N) 2024-04-28T23:20:50 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-28T23:20:50 - WebUI: Now listening on IP: *, port: 8080
-(N) 2024-04-28T23:20:51 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-28T23:21:00 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-28T23:21:20 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T01:04:01 - qBittorrent termination initiated
-(N) 2024-04-29T01:04:01 - qBittorrent is now ready to exit
-(N) 2024-04-29T01:04:06 - qBittorrent v4.6.4 started
-(N) 2024-04-29T01:04:06 - Using config directory: /config/qBittorrent
-(N) 2024-04-29T01:04:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-29T01:04:06 - Peer ID: "-qB4640-"
-(I) 2024-04-29T01:04:06 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-29T01:04:06 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-29T01:04:06 - Local Peer Discovery support: ON
-(I) 2024-04-29T01:04:06 - Peer Exchange (PeX) support: ON
-(I) 2024-04-29T01:04:06 - Anonymous mode: OFF
-(I) 2024-04-29T01:04:06 - Encryption support: ON
-(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
-(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
-(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-29T01:04:06 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-29T01:04:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-29T01:04:06 - Using built-in WebUI.
-(N) 2024-04-29T01:04:06 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-29T01:04:06 - WebUI: Now listening on IP: *, port: 8080
-(N) 2024-04-29T01:04:15 - qBittorrent termination initiated
-(N) 2024-04-29T01:04:16 - qBittorrent is now ready to exit
-(N) 2024-04-29T01:04:20 - qBittorrent v4.6.4 started
-(N) 2024-04-29T01:04:20 - Using config directory: /config/qBittorrent
-(N) 2024-04-29T01:04:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-29T01:04:20 - Peer ID: "-qB4640-"
-(I) 2024-04-29T01:04:20 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-29T01:04:20 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-29T01:04:20 - Local Peer Discovery support: ON
-(I) 2024-04-29T01:04:20 - Peer Exchange (PeX) support: ON
-(I) 2024-04-29T01:04:20 - Anonymous mode: OFF
-(I) 2024-04-29T01:04:20 - Encryption support: ON
-(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
-(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
-(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-29T01:04:20 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-29T01:04:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-29T01:04:20 - Using built-in WebUI.
-(N) 2024-04-29T01:04:20 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-29T01:04:20 - WebUI: Now listening on IP: *, port: 8080
-(N) 2024-04-29T01:04:26 - qBittorrent termination initiated
-(N) 2024-04-29T01:04:30 - qBittorrent is now ready to exit
-(N) 2024-04-29T01:04:34 - qBittorrent v4.6.4 started
-(N) 2024-04-29T01:04:34 - Using config directory: /config/qBittorrent
-(N) 2024-04-29T01:04:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-29T01:04:34 - Peer ID: "-qB4640-"
-(I) 2024-04-29T01:04:34 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-29T01:04:34 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-29T01:04:34 - Local Peer Discovery support: ON
-(I) 2024-04-29T01:04:34 - Peer Exchange (PeX) support: ON
-(I) 2024-04-29T01:04:34 - Anonymous mode: OFF
-(I) 2024-04-29T01:04:34 - Encryption support: ON
-(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
-(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
-(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-29T01:04:34 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-29T01:04:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-29T01:04:34 - Using built-in WebUI.
-(N) 2024-04-29T01:04:34 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-29T01:04:34 - WebUI: Now listening on IP: *, port: 8080
-(N) 2024-04-29T01:12:41 - qBittorrent termination initiated
-(N) 2024-04-29T01:12:41 - qBittorrent is now ready to exit
-(N) 2024-04-29T01:12:45 - qBittorrent v4.6.4 started
-(N) 2024-04-29T01:12:45 - Using config directory: /config/qBittorrent
-(N) 2024-04-29T01:12:45 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-29T01:12:45 - Peer ID: "-qB4640-"
-(I) 2024-04-29T01:12:45 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-29T01:12:45 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-29T01:12:45 - Local Peer Discovery support: ON
-(I) 2024-04-29T01:12:45 - Peer Exchange (PeX) support: ON
-(I) 2024-04-29T01:12:45 - Anonymous mode: OFF
-(I) 2024-04-29T01:12:45 - Encryption support: ON
-(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "172.28.0.2". Port: "TCP/6881"
-(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "172.28.0.2". Port: "UTP/6881"
-(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-29T01:12:45 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-29T01:12:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-29T01:12:45 - Using built-in WebUI.
-(N) 2024-04-29T01:12:45 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-29T01:12:45 - WebUI: Now listening on IP: *, port: 8080
-(I) 2024-04-29T01:12:46 - Successfully listening on IP. IP: "10.10.110.61". Port: "TCP/6881"
-(I) 2024-04-29T01:12:46 - Successfully listening on IP. IP: "10.10.110.61". Port: "UTP/6881"
-(I) 2024-04-29T01:12:46 - Successfully listening on IP. IP: "fe80::4f2c:fe84:28b7:36f9%tun0". Port: "TCP/6881"
-(I) 2024-04-29T01:12:46 - Successfully listening on IP. IP: "fe80::4f2c:fe84:28b7:36f9%tun0". Port: "UTP/6881"
-(I) 2024-04-29T01:12:54 - Detected external IP. IP: "176.125.230.12"
-(N) 2024-04-29T01:13:31 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T01:16:22 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T01:16:22 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T09:51:09 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T10:37:03 - qBittorrent termination initiated
-(N) 2024-04-29T10:37:03 - qBittorrent is now ready to exit
-(N) 2024-04-29T10:44:23 - qBittorrent v4.6.4 started
-(N) 2024-04-29T10:44:23 - Using config directory: /config/qBittorrent
-(N) 2024-04-29T10:44:23 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-04-29T10:44:23 - Peer ID: "-qB4640-"
-(I) 2024-04-29T10:44:23 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-04-29T10:44:23 - Distributed Hash Table (DHT) support: ON
-(I) 2024-04-29T10:44:23 - Local Peer Discovery support: ON
-(I) 2024-04-29T10:44:23 - Peer Exchange (PeX) support: ON
-(I) 2024-04-29T10:44:23 - Anonymous mode: OFF
-(I) 2024-04-29T10:44:23 - Encryption support: ON
-(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "172.28.0.7". Port: "TCP/6881"
-(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "172.28.0.7". Port: "UTP/6881"
-(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-04-29T10:44:23 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-04-29T10:44:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-04-29T10:44:23 - Using built-in WebUI.
-(N) 2024-04-29T10:44:23 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-04-29T10:44:23 - WebUI: Now listening on IP: *, port: 8080
-(I) 2024-04-29T10:44:25 - Successfully listening on IP. IP: "10.5.110.55". Port: "TCP/6881"
-(I) 2024-04-29T10:44:25 - Successfully listening on IP. IP: "10.5.110.55". Port: "UTP/6881"
-(I) 2024-04-29T10:44:25 - Successfully listening on IP. IP: "fe80::125d:b4e2:1980:4d01%tun0". Port: "TCP/6881"
-(I) 2024-04-29T10:44:25 - Successfully listening on IP. IP: "fe80::125d:b4e2:1980:4d01%tun0". Port: "UTP/6881"
-(N) 2024-04-29T10:44:29 - WebAPI login success. IP: ::ffff:172.28.0.1
-(I) 2024-04-29T10:44:29 - Detected external IP. IP: "146.70.10.58"
-(N) 2024-04-29T10:44:31 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T10:45:30 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T11:15:18 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
-(N) 2024-04-29T11:15:20 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
-(N) 2024-04-29T11:15:22 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
-(N) 2024-04-29T11:15:24 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
-(N) 2024-04-29T11:18:34 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
-(N) 2024-04-29T11:19:50 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
-(N) 2024-04-29T11:19:59 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
-(N) 2024-04-29T11:20:53 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
-(N) 2024-04-29T11:52:23 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T12:53:21 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T12:53:52 - Added new torrent. Torrent: "Project.Runway.S02E13.Finale.1.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx] ⭐"
-(N) 2024-04-29T12:54:14 - Removed torrent. Torrent: "Project.Runway.S02E13.Finale.1.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx] ⭐"
-(N) 2024-04-29T12:55:23 - Added new torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T12:56:10 - Added new torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T12:56:56 - Added new torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T12:57:42 - Added new torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T12:58:29 - Added new torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T12:59:40 - Added new torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T13:00:27 - Added new torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T13:01:14 - Added new torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T13:02:01 - Added new torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T13:02:47 - Added new torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T13:03:48 - Added new torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T13:04:34 - Added new torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T13:05:21 - Added new torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T13:06:07 - Added new torrent. Torrent: "Project.Runway.S20E14.The.Finale.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(I) 2024-04-29T13:52:48 - Python detected, executable name: 'python3', version: 3.12.3
-(N) 2024-04-29T14:03:10 - Torrent download finished. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T14:06:40 - Torrent download finished. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T14:42:58 - Torrent download finished. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T14:45:16 - Torrent download finished. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T14:48:20 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T15:23:20 - Torrent download finished. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:50:31 - Torrent download finished. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:53:18 - Torrent paused. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:53:23 - Torrent paused. Torrent: "Project.Runway.S20E14.The.Finale.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:53:30 - Torrent resumed. Torrent: "Project.Runway.S20E14.The.Finale.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:53:30 - Torrent resumed. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv".
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv".
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv".
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv".
-(N) 2024-04-29T15:54:46 - Torrent paused. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T15:54:46 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T16:04:26 - Torrent download finished. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T16:20:36 - Torrent paused. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T16:20:36 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T16:23:36 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T16:28:58 - Torrent download finished. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T16:34:26 - Torrent paused. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T16:34:26 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T16:59:06 - Torrent paused. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T16:59:06 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T17:16:30 - Added new torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
-(N) 2024-04-29T17:17:07 - Torrent download finished. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
-(N) 2024-04-29T17:20:29 - Torrent download finished. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T17:47:31 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
-(N) 2024-04-29T17:50:13 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
-(N) 2024-04-29T17:50:36 - Torrent paused. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T17:50:36 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]".
-(N) 2024-04-29T17:55:48 - Torrent paused. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T17:55:49 - Torrent resumed. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T18:11:26 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T18:13:34 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:13:36 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:13:38 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:13:40 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:13:42 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:13:44 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:13:46 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:13:48 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:17:01 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:19:12 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:19:31 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:19:37 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:19:42 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:19:48 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:19:57 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:20:34 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:23:57 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:24:05 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:24:11 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:24:22 - Added new torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:26:41 - Added new torrent. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:27:03 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:27:12 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:27:16 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:28:24 - Torrent download finished. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:40:41 - Torrent download finished. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
-(N) 2024-04-29T18:46:03 - Torrent paused. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-04-29T19:12:35 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T19:49:22 - Torrent download finished. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T20:32:46 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-29T21:51:45 - Torrent download finished. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-29T22:56:26 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-30T04:22:12 - Torrent download finished. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-04-30T13:37:27 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-30T16:17:44 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-04-30T21:36:47 - Torrent download finished. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-01T01:16:31 - Torrent paused. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-01T01:16:31 - Torrent paused. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-01T01:16:31 - Torrent paused. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-01T01:16:31 - Torrent paused. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-01T01:37:43 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-01T16:30:59 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-01T18:59:48 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-01T22:01:48 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-01T23:59:37 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-02T17:11:23 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-02T17:12:16 - Added new torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
-(N) 2024-05-02T17:12:32 - Removed torrent. Torrent: "Project.Runway.S20E14.The.Finale.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-02T18:46:27 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-02T20:13:05 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-03T00:34:55 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-03T02:36:58 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-03T11:59:24 - Torrent download finished. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
-(N) 2024-05-03T12:29:29 - Torrent paused. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
-(N) 2024-05-03T12:29:29 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]".
-(N) 2024-05-03T13:27:08 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-03T16:58:58 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-03T18:12:11 - qBittorrent termination initiated
-(N) 2024-05-03T18:12:11 - qBittorrent is now ready to exit
-(N) 2024-05-03T18:12:28 - qBittorrent v4.6.4 started
-(N) 2024-05-03T18:12:28 - Using config directory: /config/qBittorrent
-(N) 2024-05-03T18:12:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-05-03T18:12:28 - Peer ID: "-qB4640-"
-(I) 2024-05-03T18:12:28 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-05-03T18:12:28 - Distributed Hash Table (DHT) support: ON
-(I) 2024-05-03T18:12:28 - Local Peer Discovery support: ON
-(I) 2024-05-03T18:12:28 - Peer Exchange (PeX) support: ON
-(I) 2024-05-03T18:12:28 - Anonymous mode: OFF
-(I) 2024-05-03T18:12:28 - Encryption support: ON
-(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "10.5.110.55". Port: "TCP/6881"
-(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "10.5.110.55". Port: "UTP/6881"
-(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "fe80::125d:b4e2:1980:4d01%tun0". Port: "TCP/6881"
-(I) 2024-05-03T18:12:28 - Successfully listening on IP. IP: "fe80::125d:b4e2:1980:4d01%tun0". Port: "UTP/6881"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
-(N) 2024-05-03T18:12:28 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
-(W) 2024-05-03T18:12:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto". Reason: "[MTBB] The Apothecary Diaries (BD 1080p) fast resume rejected. file_stat(/data/torrents/anime/[MTBB] The Apothecary Diaries (BD 1080p)/[MTBB] The Apothecary Diaries - 01 (BD 1080p) [A9C005A6].mkv): mismatching file size"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:12:29 - Restored torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(I) 2024-05-03T18:12:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Apr 1 02:25:20 2024.
-(N) 2024-05-03T18:12:29 - Using built-in WebUI.
-(N) 2024-05-03T18:12:29 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-05-03T18:12:29 - WebUI: Now listening on IP: *, port: 8080
-(N) 2024-05-03T18:12:31 - WebAPI login success. IP: ::ffff:172.28.0.1
-(I) 2024-05-03T18:12:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 07:39:38 2024.
-(I) 2024-05-03T18:12:32 - Successfully updated IP geolocation database.
-(I) 2024-05-03T18:12:33 - Detected external IP. IP: "146.70.10.58"
-(N) 2024-05-03T18:13:01 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-03T18:13:01 - WebAPI login success. IP: ::ffff:172.28.0.1
-(N) 2024-05-03T18:41:02 - qBittorrent termination initiated
-(N) 2024-05-03T18:41:02 - qBittorrent is now ready to exit
-(N) 2024-05-03T18:41:08 - qBittorrent v4.6.4 started
-(N) 2024-05-03T18:41:08 - Using config directory: /config/qBittorrent
-(N) 2024-05-03T18:41:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-05-03T18:41:08 - Peer ID: "-qB4640-"
-(I) 2024-05-03T18:41:08 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-05-03T18:41:08 - Distributed Hash Table (DHT) support: ON
-(I) 2024-05-03T18:41:08 - Local Peer Discovery support: ON
-(I) 2024-05-03T18:41:08 - Peer Exchange (PeX) support: ON
-(I) 2024-05-03T18:41:08 - Anonymous mode: OFF
-(I) 2024-05-03T18:41:08 - Encryption support: ON
-(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "172.28.0.7". Port: "TCP/6881"
-(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "172.28.0.7". Port: "UTP/6881"
-(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-05-03T18:41:08 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:41:08 - Restored torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(W) 2024-05-03T18:41:08 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[MTBB] The Apothecary Diaries 01-12 (BD 1080p) | Kusuriya no Hitorigoto". Reason: "[MTBB] The Apothecary Diaries (BD 1080p) fast resume rejected. file_stat(/data/torrents/anime/[MTBB] The Apothecary Diaries (BD 1080p)/[MTBB] The Apothecary Diaries - 01 (BD 1080p) [A9C005A6].mkv): mismatching file size"
-(I) 2024-05-03T18:41:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 07:39:38 2024.
-(N) 2024-05-03T18:41:08 - Using built-in WebUI.
-(N) 2024-05-03T18:41:08 - WebUI translation for selected locale (en) has been successfully loaded.
-(N) 2024-05-03T18:41:09 - WebUI: Now listening on IP: *, port: 8080
-(N) 2024-05-03T18:42:46 - qBittorrent termination initiated
-(N) 2024-05-03T18:42:46 - qBittorrent is now ready to exit
-(N) 2024-05-03T18:42:53 - qBittorrent v4.6.4 started
-(N) 2024-05-03T18:42:53 - Using config directory: /config/qBittorrent
-(N) 2024-05-03T18:42:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
-(I) 2024-05-03T18:42:53 - Peer ID: "-qB4640-"
-(I) 2024-05-03T18:42:53 - HTTP User-Agent: "qBittorrent/4.6.4"
-(I) 2024-05-03T18:42:53 - Distributed Hash Table (DHT) support: ON
-(I) 2024-05-03T18:42:53 - Local Peer Discovery support: ON
-(I) 2024-05-03T18:42:53 - Peer Exchange (PeX) support: ON
-(I) 2024-05-03T18:42:53 - Anonymous mode: OFF
-(I) 2024-05-03T18:42:53 - Encryption support: ON
-(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
-(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
-(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "172.28.0.7". Port: "TCP/6881"
-(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "172.28.0.7". Port: "UTP/6881"
-(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
-(I) 2024-05-03T18:42:53 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
-(N) 2024-05-03T18:42:53 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-05-12T05:43:37 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E02.Big.Opening.2.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:43:37 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-05-12T05:43:37 - Restored torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:43:37 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:43:37 - Restored torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:43:37 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E12.Moulin.Ru.The.Rusical.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:43:37 - Restored torrent. Torrent: "RuPauls Drag Race S16E05 1080p WEB H264-BUSSY"
+(N) 2024-05-12T05:43:37 - Restored torrent. Torrent: "RuPauls Drag Race S15E13 Teacher Makeovers 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(I) 2024-05-12T05:43:37 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 07:39:38 2024.
+(N) 2024-05-12T05:43:37 - Using custom WebUI. Location: "/opt/vuetorrent".
+(W) 2024-05-12T05:43:37 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-05-12T05:43:37 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-12T05:43:37 - Detected external IP. IP: "195.181.167.43"
+(N) 2024-05-12T05:43:37 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:43:58 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:44:13 - qBittorrent termination initiated
+(N) 2024-05-12T05:44:14 - qBittorrent is now ready to exit
+(N) 2024-05-12T05:44:21 - qBittorrent v4.6.4 started
+(N) 2024-05-12T05:44:21 - Using config directory: /config/qBittorrent
+(N) 2024-05-12T05:44:21 - Trying to listen on the following list of IP addresses: "0.0.0.0:48084,[::]:48084"
+(I) 2024-05-12T05:44:21 - Peer ID: "-qB4640-"
+(I) 2024-05-12T05:44:21 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-12T05:44:21 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-12T05:44:21 - Local Peer Discovery support: ON
+(I) 2024-05-12T05:44:21 - Peer Exchange (PeX) support: ON
+(I) 2024-05-12T05:44:21 - Anonymous mode: OFF
+(I) 2024-05-12T05:44:21 - Encryption support: ON
+(I) 2024-05-12T05:44:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/48084"
+(I) 2024-05-12T05:44:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/48084"
+(I) 2024-05-12T05:44:21 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/48084"
+(I) 2024-05-12T05:44:21 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/48084"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project Runway S19E09 The Last Straw 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E06.There.Is.Only.One.You.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E07.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E08.Sheer.Genius.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E09.Suit.Yourself.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E10.Live.and.Let.Tie.Dye.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E13.Finale.Part.1.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E14.Finale.2.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "project.runway.s17e11.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "project.runway.s17e14.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "project.runway.s17e12.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LYS1TH3A] Kanata no Astra Season 1 | Astra Lost in Space (BD 1080p x264 Hi10P Opus) [Dual-Audio]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[Erai-raws] Jujutsu Kaisen 2nd Season - 01 ~ 23 [1080p][HEVC][BATCH][Multiple Subtitle] [ENG][POR-BR][SPA-LA][SPA][ARA][FRE][GER][ITA][RUS]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E16 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E11 Two Queens One Joke 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 06 (1080p) [4AEDD11E].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E14 Blame It On The Edit 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E01 One Night Only Part 1 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E11.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S19E04.Flower.Power.RERIP.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E13 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E03 All Queens Go To Heaven 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E10 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E07 The Daytona Wind 2 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E06.Glamazon.Prime.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.s17e05.1080p.WEB.x264-300MB"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E12 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E07.The.Daytona.Wind.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E09.Menzeses.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E15.REPACK.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project Runway S19E08 Couch Couture 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S19E02.Streetwear.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project Runway S19E05 Go for the Gold Sequin 1080p WEBRip x264-K"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E12 Wigloose The Rusical 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E08 LipSync Lalaparuza Smackdown 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E06 Old Friends Gold 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project Runway S19E01 A Colorful Return 1080p WEBRip x264-KOMPOS"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E02 One Night Only Part 2 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E14 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E07 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E15 Reunited 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E05 House Of Fashion 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E12.The.Height.of.Avant.Garde.Fashion.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E04.The.Ultimate.Upcycle.720p.HDTV.x264-CRiMSON[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S19E03.If.You.Got.It.Haunt.It.720p.WEBRip.x264-KOMPOST[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E16 Grand Finale 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E09 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E02 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E14.Catwalk.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S19E11.Haute.Hair.Collab.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Re-Monster - S01E06 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.s17e04.720p.WEB.x264-300MB"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E09 The Crystal Ball Episode 200 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E05.Shes.Sew.Unusual.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S19E10.The.Housewives.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S19E12.The.Model.as.Muse.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "project.runway.s18e02.internal.720p.web.h264-hillary[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E06 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E10 1080p WEB H264-SPAMnEGGS"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E05.Save.A.Queen.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Scavengers Reign (2023) S01 1080p AMZN WEBRip AV1 Opus 5.1 [RAV1NE]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S19E13.The.Sky.Is.the.Limit.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E01 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E08.60s.Girl.Groups.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S16E15 720p CRAV WEB-DL DD5 1 H 264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project Runway S19E14 Finale 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S18E11.Olympic.Game.Plan.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project Runway S19E06 Fashion is Back Baby 1080p WEBRip x264-KOM"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E04 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "project.runway.s17e02.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E08 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E04 Supersized Snatch Game 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E16.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E10.Snatch.Game.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "project.runway.s17e10.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S17E01.720p.WEB.h264-TBS[eztv].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "project.runway.s17e13.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E03.A.Pair.Of.Balls.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E04.Shes.A.Super.Tease.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S16E11.2160p.WEB.H265-BUSSY[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E01.Big.Opening.1.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project Runway S19E07 Are You Fur Real 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Rupauls Drag Race S16E03 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "rupauls.drag.race.s14e13.1080p.web.h264-secretos[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E02.Big.Opening.2.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E12.Moulin.Ru.The.Rusical.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S16E05 1080p WEB H264-BUSSY"
+(N) 2024-05-12T05:44:21 - Restored torrent. Torrent: "RuPauls Drag Race S15E13 Teacher Makeovers 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(I) 2024-05-12T05:44:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 07:39:38 2024.
+(N) 2024-05-12T05:44:21 - Using custom WebUI. Location: "/opt/vuetorrent".
+(W) 2024-05-12T05:44:21 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-05-12T05:44:21 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-12T05:44:26 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:44:26 - Trying to listen on the following list of IP addresses: "0.0.0.0:44149,[::]:44149"
+(I) 2024-05-12T05:44:26 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/44149"
+(I) 2024-05-12T05:44:26 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/44149"
+(I) 2024-05-12T05:44:26 - Successfully listening on IP. IP: "10.21.250.254". Port: "TCP/44149"
+(I) 2024-05-12T05:44:26 - Successfully listening on IP. IP: "10.21.250.254". Port: "UTP/44149"
+(I) 2024-05-12T05:44:27 - Detected external IP. IP: "212.102.49.206"
+(N) 2024-05-12T05:44:37 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:44:56 - qBittorrent termination initiated
+(N) 2024-05-12T05:44:56 - qBittorrent is now ready to exit
+(N) 2024-05-12T05:45:00 - qBittorrent v4.6.4 started
+(N) 2024-05-12T05:45:00 - Using config directory: /config/qBittorrent
+(N) 2024-05-12T05:45:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:44149,[::]:44149"
+(I) 2024-05-12T05:45:00 - Peer ID: "-qB4640-"
+(I) 2024-05-12T05:45:00 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-12T05:45:00 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-12T05:45:00 - Local Peer Discovery support: ON
+(I) 2024-05-12T05:45:00 - Peer Exchange (PeX) support: ON
+(I) 2024-05-12T05:45:00 - Anonymous mode: OFF
+(I) 2024-05-12T05:45:00 - Encryption support: ON
+(I) 2024-05-12T05:45:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/44149"
+(I) 2024-05-12T05:45:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/44149"
+(I) 2024-05-12T05:45:00 - Successfully listening on IP. IP: "10.15.184.116". Port: "TCP/44149"
+(I) 2024-05-12T05:45:00 - Successfully listening on IP. IP: "10.15.184.116". Port: "UTP/44149"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project Runway S19E09 The Last Straw 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E06.There.Is.Only.One.You.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E07.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E08.Sheer.Genius.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E09.Suit.Yourself.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E10.Live.and.Let.Tie.Dye.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E13.Finale.Part.1.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E14.Finale.2.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "project.runway.s17e11.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "project.runway.s17e14.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "project.runway.s17e12.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LYS1TH3A] Kanata no Astra Season 1 | Astra Lost in Space (BD 1080p x264 Hi10P Opus) [Dual-Audio]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[Erai-raws] Jujutsu Kaisen 2nd Season - 01 ~ 23 [1080p][HEVC][BATCH][Multiple Subtitle] [ENG][POR-BR][SPA-LA][SPA][ARA][FRE][GER][ITA][RUS]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E16 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E11 Two Queens One Joke 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 06 (1080p) [4AEDD11E].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E14 Blame It On The Edit 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E01 One Night Only Part 1 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E11.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S19E04.Flower.Power.RERIP.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E13 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E03 All Queens Go To Heaven 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E10 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E07 The Daytona Wind 2 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E06.Glamazon.Prime.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.s17e05.1080p.WEB.x264-300MB"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E12 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E07.The.Daytona.Wind.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E09.Menzeses.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E15.REPACK.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project Runway S19E08 Couch Couture 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S19E02.Streetwear.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project Runway S19E05 Go for the Gold Sequin 1080p WEBRip x264-K"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E12 Wigloose The Rusical 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E08 LipSync Lalaparuza Smackdown 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E06 Old Friends Gold 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project Runway S19E01 A Colorful Return 1080p WEBRip x264-KOMPOS"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E02 One Night Only Part 2 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E14 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E07 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E15 Reunited 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E05 House Of Fashion 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E12.The.Height.of.Avant.Garde.Fashion.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E04.The.Ultimate.Upcycle.720p.HDTV.x264-CRiMSON[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S19E03.If.You.Got.It.Haunt.It.720p.WEBRip.x264-KOMPOST[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E16 Grand Finale 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E09 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E02 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E14.Catwalk.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S19E11.Haute.Hair.Collab.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Re-Monster - S01E06 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.s17e04.720p.WEB.x264-300MB"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E09 The Crystal Ball Episode 200 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E05.Shes.Sew.Unusual.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S19E10.The.Housewives.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S19E12.The.Model.as.Muse.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "project.runway.s18e02.internal.720p.web.h264-hillary[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E06 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E10 1080p WEB H264-SPAMnEGGS"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E05.Save.A.Queen.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Scavengers Reign (2023) S01 1080p AMZN WEBRip AV1 Opus 5.1 [RAV1NE]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S19E13.The.Sky.Is.the.Limit.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E01 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E08.60s.Girl.Groups.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S16E15 720p CRAV WEB-DL DD5 1 H 264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project Runway S19E14 Finale 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S18E11.Olympic.Game.Plan.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project Runway S19E06 Fashion is Back Baby 1080p WEBRip x264-KOM"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E04 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "project.runway.s17e02.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E08 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E04 Supersized Snatch Game 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E16.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E10.Snatch.Game.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "project.runway.s17e10.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S17E01.720p.WEB.h264-TBS[eztv].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "project.runway.s17e13.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E03.A.Pair.Of.Balls.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E04.Shes.A.Super.Tease.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S16E11.2160p.WEB.H265-BUSSY[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E01.Big.Opening.1.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project Runway S19E07 Are You Fur Real 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Rupauls Drag Race S16E03 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "rupauls.drag.race.s14e13.1080p.web.h264-secretos[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E02.Big.Opening.2.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E12.Moulin.Ru.The.Rusical.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S16E05 1080p WEB H264-BUSSY"
+(N) 2024-05-12T05:45:00 - Restored torrent. Torrent: "RuPauls Drag Race S15E13 Teacher Makeovers 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(I) 2024-05-12T05:45:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 07:39:38 2024.
+(N) 2024-05-12T05:45:01 - Using custom WebUI. Location: "/opt/vuetorrent".
+(W) 2024-05-12T05:45:01 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-05-12T05:45:01 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-05-12T05:45:02 - Detected external IP. IP: "212.102.49.16"
+(N) 2024-05-12T05:45:07 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:45:07 - Trying to listen on the following list of IP addresses: "0.0.0.0:42292,[::]:42292"
+(I) 2024-05-12T05:45:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/42292"
+(I) 2024-05-12T05:45:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/42292"
+(I) 2024-05-12T05:45:07 - Successfully listening on IP. IP: "10.15.184.116". Port: "TCP/42292"
+(I) 2024-05-12T05:45:07 - Successfully listening on IP. IP: "10.15.184.116". Port: "UTP/42292"
+(I) 2024-05-12T05:45:12 - Detected external IP. IP: "212.102.49.16"
+(N) 2024-05-12T05:45:28 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:45:37 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:45:58 - qBittorrent termination initiated
+(N) 2024-05-12T05:45:58 - qBittorrent is now ready to exit
+(N) 2024-05-12T05:46:04 - qBittorrent v4.6.4 started
+(N) 2024-05-12T05:46:04 - Using config directory: /config/qBittorrent
+(N) 2024-05-12T05:46:04 - Trying to listen on the following list of IP addresses: "0.0.0.0:42292,[::]:42292"
+(I) 2024-05-12T05:46:04 - Peer ID: "-qB4640-"
+(I) 2024-05-12T05:46:04 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-05-12T05:46:04 - Distributed Hash Table (DHT) support: ON
+(I) 2024-05-12T05:46:04 - Local Peer Discovery support: ON
+(I) 2024-05-12T05:46:04 - Peer Exchange (PeX) support: ON
+(I) 2024-05-12T05:46:04 - Anonymous mode: OFF
+(I) 2024-05-12T05:46:04 - Encryption support: ON
+(I) 2024-05-12T05:46:04 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/42292"
+(I) 2024-05-12T05:46:04 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/42292"
+(I) 2024-05-12T05:46:04 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/42292"
+(I) 2024-05-12T05:46:04 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/42292"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project Runway S19E09 The Last Straw 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E06.There.Is.Only.One.You.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E07.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E08.Sheer.Genius.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E09.Suit.Yourself.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E10.Live.and.Let.Tie.Dye.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E13.Finale.Part.1.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E14.Finale.2.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "project.runway.s17e11.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "project.runway.s17e14.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "project.runway.s17e12.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LYS1TH3A] Kanata no Astra Season 1 | Astra Lost in Space (BD 1080p x264 Hi10P Opus) [Dual-Audio]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[Erai-raws] Jujutsu Kaisen 2nd Season - 01 ~ 23 [1080p][HEVC][BATCH][Multiple Subtitle] [ENG][POR-BR][SPA-LA][SPA][ARA][FRE][GER][ITA][RUS]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E16 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E11 Two Queens One Joke 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 06 (1080p) [4AEDD11E].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E14 Blame It On The Edit 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E01 One Night Only Part 1 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E11.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S19E04.Flower.Power.RERIP.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E13 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E03 All Queens Go To Heaven 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E10 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E07 The Daytona Wind 2 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E23 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E06.Glamazon.Prime.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.s17e05.1080p.WEB.x264-300MB"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 01 (1080p) [AC2FAA1A].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E22 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E12 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E07.The.Daytona.Wind.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E09.Menzeses.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E09.Below.Decked.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E15.REPACK.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E02.Project.Redemption.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E20 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project Runway S19E08 Couch Couture 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S19E02.Streetwear.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E17 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E12.Let.Me.See.Your.Peacock.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project Runway S19E05 Go for the Gold Sequin 1080p WEBRip x264-K"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E12 Wigloose The Rusical 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E08.Uncut.Hems.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E08 LipSync Lalaparuza Smackdown 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E06 Old Friends Gold 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project Runway S19E01 A Colorful Return 1080p WEBRip x264-KOMPOS"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E21 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E04.Coronation.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E02 One Night Only Part 2 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E14 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E07 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E15 Reunited 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E05 House Of Fashion 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E12.The.Height.of.Avant.Garde.Fashion.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E04.The.Ultimate.Upcycle.720p.HDTV.x264-CRiMSON[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S19E03.If.You.Got.It.Haunt.It.720p.WEBRip.x264-KOMPOST[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E16 Grand Finale 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E09 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E06.Like.Totally.90s.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E02 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E14.Catwalk.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E13 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S19E11.Haute.Hair.Collab.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Re-Monster - S01E06 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.s17e04.720p.WEB.x264-300MB"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E09 The Crystal Ball Episode 200 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E05.Shes.Sew.Unusual.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S19E10.The.Housewives.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S19E12.The.Model.as.Muse.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "project.runway.s18e02.internal.720p.web.h264-hillary[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E19 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E15 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E06 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E05.Seeing.Red.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E10 1080p WEB H264-SPAMnEGGS"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E05.Save.A.Queen.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Scavengers Reign (2023) S01 1080p AMZN WEBRip AV1 Opus 5.1 [RAV1NE]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S19E13.The.Sky.Is.the.Limit.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E01 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E08.60s.Girl.Groups.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S16E15 720p CRAV WEB-DL DD5 1 H 264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 04 (1080p) [80CB4383].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project Runway S19E14 Finale 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S18E11.Olympic.Game.Plan.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E14.1080p.WEB.h264-EDITH[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project Runway S19E06 Fashion is Back Baby 1080p WEBRip x264-KOM"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E04 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "project.runway.s17e02.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E08 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E04 Supersized Snatch Game 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E16.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E10.Snatch.Game.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "project.runway.s17e10.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S17E01.720p.WEB.h264-TBS[eztv].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "project.runway.s17e13.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 03v2 (1080p) [F6A81A26].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E03.A.Pair.Of.Balls.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E14 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E04.Shes.A.Super.Tease.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S16E11.2160p.WEB.H265-BUSSY[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E01.Big.Opening.1.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project Runway S19E07 Are You Fur Real 1080p WEBRip x264-KOMPOST"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E11.Double.Bind.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Rupauls Drag Race S16E03 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "rupauls.drag.race.s14e13.1080p.web.h264-secretos[eztv.re].mkv[eztvx.to]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E01.Meet.The.All-Stars.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E02.Big.Opening.2.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 05 (1080p) [66D38D8B].mkv"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E07.Fashion.Inside.Out.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E18 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "Project.Runway.S20E13.The.Skys.The.Limit.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E12.Moulin.Ru.The.Rusical.1080p.AMZN.WEBRip.DDP2.0.x264-TEPES[rarbg]"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S16E05 1080p WEB H264-BUSSY"
+(N) 2024-05-12T05:46:04 - Restored torrent. Torrent: "RuPauls Drag Race S15E13 Teacher Makeovers 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(I) 2024-05-12T05:46:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 2 07:39:38 2024.
+(N) 2024-05-12T05:46:04 - Using custom WebUI. Location: "/opt/vuetorrent".
+(W) 2024-05-12T05:46:04 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-05-12T05:46:04 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-05-12T05:46:08 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:46:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:48084,[::]:48084"
+(I) 2024-05-12T05:46:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/48084"
+(I) 2024-05-12T05:46:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/48084"
+(I) 2024-05-12T05:46:08 - Successfully listening on IP. IP: "10.24.143.9". Port: "TCP/48084"
+(I) 2024-05-12T05:46:08 - Successfully listening on IP. IP: "10.24.143.9". Port: "UTP/48084"
+(I) 2024-05-12T05:46:09 - Detected external IP. IP: "212.102.49.78"
+(N) 2024-05-12T05:46:58 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:47:07 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T05:47:19 - Torrent resumed. Torrent: "[Erai-raws] Jujutsu Kaisen 2nd Season - 01 ~ 23 [1080p][HEVC][BATCH][Multiple Subtitle] [ENG][POR-BR][SPA-LA][SPA][ARA][FRE][GER][ITA][RUS]"
+(N) 2024-05-12T05:47:29 - Torrent paused. Torrent: "[Erai-raws] Jujutsu Kaisen 2nd Season - 01 ~ 23 [1080p][HEVC][BATCH][Multiple Subtitle] [ENG][POR-BR][SPA-LA][SPA][ARA][FRE][GER][ITA][RUS]"
+(N) 2024-05-12T06:04:24 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T15:51:30 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T19:20:25 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-12T19:21:12 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: Project.Runway.S17E01.720p.WEB.h264-TBS[eztv].mkv
+(N) 2024-05-12T19:21:22 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: project.runway.s17e02.720p.web.h264-tbs[eztv].mkv
+(N) 2024-05-12T19:21:34 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: project.runway.s17e10.720p.web.h264-tbs[eztv].mkv
+(N) 2024-05-12T19:21:46 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: project.runway.s17e11.720p.web.h264-tbs[eztv].mkv
+(N) 2024-05-12T19:21:58 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: project.runway.s17e12.720p.web.h264-tbs[eztv].mkv
+(N) 2024-05-12T19:22:10 - Added new torrent. Torrent: "Project.Runway.S17E13.720p.WEB.h264-TBS[TGx]"
+(N) 2024-05-12T19:22:23 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: project.runway.s17e14.720p.web.h264-tbs[eztv].mkv
+(N) 2024-05-12T19:22:34 - Added new torrent. Torrent: "Project.Runway.S17E14.720p.WEB.h264-TBS[TGx]"
+(N) 2024-05-13T01:10:51 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-13T04:06:39 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-13T17:15:22 - Added new torrent. Torrent: "Re-Monster - S01E07 - 1080p WEB HEVC -NanDesuKa (B-Global).mkv"
+(N) 2024-05-13T17:15:55 - Torrent download finished. Torrent: "Re-Monster - S01E07 - 1080p WEB HEVC -NanDesuKa (B-Global).mkv"
+(N) 2024-05-13T17:46:23 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 07 (1080p) [08CEE69B].mkv"
+(N) 2024-05-13T17:47:50 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 07 (1080p) [08CEE69B].mkv"
+(N) 2024-05-13T18:04:37 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-13T21:17:54 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-13T21:18:19 - Torrent paused. Torrent: "Re-Monster - S01E07 - 1080p WEB HEVC -NanDesuKa (B-Global).mkv"
+(N) 2024-05-13T21:18:22 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 07 (1080p) [08CEE69B].mkv"
+(N) 2024-05-14T14:16:28 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-14T14:56:11 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-16T17:18:22 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-17T08:05:20 - Added new torrent. Torrent: "Challengers.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX[TGx"
+(N) 2024-05-17T09:25:57 - Torrent download finished. Torrent: "Challengers.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX[TGx"
+(N) 2024-05-17T18:39:08 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-18T18:56:25 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-19T17:48:29 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-20T17:05:36 - Added new torrent. Torrent: "Re-Monster - S01E08 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-20T17:06:30 - Torrent download finished. Torrent: "Re-Monster - S01E08 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-20T17:36:37 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 08 (1080p) [6E9807C6].mkv"
+(N) 2024-05-20T17:38:56 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 08 (1080p) [6E9807C6].mkv"
+(N) 2024-05-20T20:58:54 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-21T04:23:39 - Torrent paused. Torrent: "Re-Monster - S01E08 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-21T04:23:39 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Re-Monster - S01E08 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv".
+(N) 2024-05-21T16:53:48 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-21T16:54:46 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 08 (1080p) [6E9807C6].mkv"
+(N) 2024-05-21T16:54:48 - Torrent paused. Torrent: "Challengers.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX[TGx"
+(N) 2024-05-22T11:30:17 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-22T18:19:29 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-23T19:06:35 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-24T16:42:44 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-26T05:07:07 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-26T17:52:49 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-27T13:20:30 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-27T14:34:50 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-27T17:09:10 - Added new torrent. Torrent: "Re-Monster - S01E09 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-27T17:09:40 - Torrent download finished. Torrent: "Re-Monster - S01E09 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-27T17:40:10 - Added new torrent. Torrent: "[SubsPlease] Re Monster - 09 (1080p) [781258A5].mkv"
+(N) 2024-05-27T17:41:48 - Torrent download finished. Torrent: "[SubsPlease] Re Monster - 09 (1080p) [781258A5].mkv"
+(N) 2024-05-28T03:45:53 - Torrent paused. Torrent: "Re-Monster - S01E09 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-05-28T03:45:53 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "Re-Monster - S01E09 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv".
+(N) 2024-05-28T11:59:22 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-28T23:37:51 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-29T19:21:30 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-05-30T10:32:44 - Torrent paused. Torrent: "[SubsPlease] Re Monster - 09 (1080p) [781258A5].mkv"
+(N) 2024-05-30T10:32:44 - Torrent reached the inactive seeding time limit. Torrent paused. Torrent: "[SubsPlease] Re Monster - 09 (1080p) [781258A5].mkv".
+(N) 2024-05-31T21:34:12 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2024-06-07T19:11:38 - qBittorrent v4.6.4 started
+(N) 2024-06-07T19:11:38 - Using config directory: /config/qBittorrent
+(N) 2024-06-07T19:11:38 - Trying to listen on the following list of IP addresses: "0.0.0.0:48084,[::]:48084"
+(I) 2024-06-07T19:11:38 - Peer ID: "-qB4640-"
+(I) 2024-06-07T19:11:38 - HTTP User-Agent: "qBittorrent/4.6.4"
+(I) 2024-06-07T19:11:38 - Distributed Hash Table (DHT) support: ON
+(I) 2024-06-07T19:11:38 - Local Peer Discovery support: ON
+(I) 2024-06-07T19:11:38 - Peer Exchange (PeX) support: ON
+(I) 2024-06-07T19:11:38 - Anonymous mode: OFF
+(I) 2024-06-07T19:11:38 - Encryption support: ON
+(I) 2024-06-07T19:11:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/48084"
+(I) 2024-06-07T19:11:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/48084"
+(I) 2024-06-07T19:11:38 - Successfully listening on IP. IP: "172.19.0.7". Port: "TCP/48084"
+(I) 2024-06-07T19:11:38 - Successfully listening on IP. IP: "172.19.0.7". Port: "UTP/48084"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S18E06.There.Is.Only.One.You.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S18E07.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S18E08.Sheer.Genius.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S18E09.Suit.Yourself.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S18E10.Live.and.Let.Tie.Dye.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S18E13.Finale.Part.1.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S18E14.Finale.2.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "project.runway.s17e11.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "project.runway.s17e14.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "project.runway.s17e12.720p.web.h264-tbs[eztv].mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "[Erai-raws] Jujutsu Kaisen 2nd Season - 01 ~ 23 [1080p][HEVC][BATCH][Multiple Subtitle] [ENG][POR-BR][SPA-LA][SPA][ARA][FRE][GER][ITA][RUS]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S17E13.720p.WEB.h264-TBS[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S17E14.720p.WEB.h264-TBS[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 09 (1080p) [781258A5].mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Rupauls Drag Race S16E16 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "RuPauls Drag Race S15E11 Two Queens One Joke 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 06 (1080p) [4AEDD11E].mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S20E03.Toying.W-Fashion.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "RuPauls Drag Race S15E01 One Night Only Part 1 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Re-Monster - S01E08 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "RuPauls.Drag.Race.S14E11.1080p.WEB.h264-SECRETOS[rarbg]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S19E04.Flower.Power.RERIP.1080p.WEBRip.x264-KOMPOST[eztv.re].mkv[eztvx.to]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E24 (WEB 1080p x264 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Re-Monster - S01E05 - 1080p WEB H.264 -NanDesuKa (B-Global).mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "[SubsPlease] Re Monster - 02 (1080p) [5DAA694C].mkv"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "[LostYears] The Apothecary Diaries - S01E16 (WEB 1080p x264 E-AC-3 AAC) [Dual-Audio] | Kusuriya no Hitorigoto"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Rupauls Drag Race S16E13 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "RuPauls Drag Race S15E03 All Queens Go To Heaven 1080p AMZN WEB-DL DDP2 0 H 264-FLUX[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Project.Runway.S20E10.Freedom.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Rupauls Drag Race S16E10 2160p CRAV WEB-DL DD5 1 H 265-NTb[TGx]"
+(N) 2024-06-07T19:11:38 - Restored torrent. Torrent: "Challengers.2024.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX[TGx"

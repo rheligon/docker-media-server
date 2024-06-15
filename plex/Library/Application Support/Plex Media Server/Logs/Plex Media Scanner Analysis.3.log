@@ -1,29 +1,86 @@
-May 09, 2024 22:36:31.907 [140732526521848] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
-May 09, 2024 22:36:31.907 [140732526521848] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
-May 09, 2024 22:36:31.907 [140732526521848] INFO - Processor: 4-core AArch64
-May 09, 2024 22:36:31.907 [140732526521848] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 133
-May 09, 2024 22:36:31.906 [140732606800056] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-May 09, 2024 22:36:32.020 [140732606800056] DEBUG - Analyzing media parts for item 133 (tv.plex.agents): 121
-May 09, 2024 22:36:32.021 [140732606800056] DEBUG - [ID 121] Media part analysis: /config/Library/Application Support/Plex Media Server/Metadata/TV Shows/1/99ca46519f45ccf54788fb7d1c953a58b1c4466.bundle/Contents/_combined/themes/tv.plex.agents.series_9175255d74f46ca4a716cf245e4361edd119bd05
-May 09, 2024 22:36:32.024 [140732606800056] DEBUG - [MI] Opening input file: "/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/1/99ca46519f45ccf54788fb7d1c953a58b1c4466.bundle/Contents/_combined/themes/tv.plex.agents.series_9175255d74f46ca4a716cf245e4361edd119bd05"
-May 09, 2024 22:36:32.024 [140732606800056] DEBUG - [FFMPEG] - Opening '/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/1/99ca46519f45ccf54788fb7d1c953a58b1c4466.bundle/Contents/_combined/themes/tv.plex.agents.series_9175255d74f46ca4a716cf245e4361edd119bd05' for reading
-May 09, 2024 22:36:32.024 [140732606800056] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
-May 09, 2024 22:36:32.025 [140732606800056] DEBUG - [FFMPEG] - Format mp3 probed with size=8192 and score=51
-May 09, 2024 22:36:32.025 [140732606800056] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:65664 seeks:2 nb_streams:1
-May 09, 2024 22:36:32.026 [140732606800056] DEBUG - [FFMPEG] - All info found
-May 09, 2024 22:36:32.026 [140732606800056] WARN - [FFMPEG] - Estimating duration from bitrate, this may be inaccurate
-May 09, 2024 22:36:32.026 [140732606800056] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 48128 bytes read:98432 seeks:2 frames:50
-May 09, 2024 22:36:32.026 [140732606800056] DEBUG - [MI]  * 133c35d3b50f6c6d316d8abb1a750cf48e711b4e [mp3 /mp3] Duration: 29355ms, 0x0 (0.000000) 0.000fps, bitrate=320kbps, audio channels=2, optimizedForStreaming=0 ("/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/1/99ca46519f45ccf54788fb7d1c953a58b1c4466.bundle/Contents/_combined/themes/tv.plex.agents.series_9175255d74f46ca4a716cf245e4361edd119bd05")
-May 09, 2024 22:36:32.026 [140732606800056] DEBUG - [MI] Chapters had generic titles, clearing.
-May 09, 2024 22:36:32.027 [140732606800056] DEBUG - [MI] Closing input file: "/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/1/99ca46519f45ccf54788fb7d1c953a58b1c4466.bundle/Contents/_combined/themes/tv.plex.agents.series_9175255d74f46ca4a716cf245e4361edd119bd05"
-May 09, 2024 22:36:32.027 [140732606800056] DEBUG - Committing media stream changes for part 121
-May 09, 2024 22:36:32.028 [140732606800056] DEBUG - Updating media item 121, size=1174208, metadata_item_id=133
-May 09, 2024 22:36:32.028 [140732606800056] DEBUG - Updating part with ID=121 [/config/Library/Application Support/Plex Media Server/Metadata/TV Shows/1/99ca46519f45ccf54788fb7d1c953a58b1c4466.bundle/Contents/_combined/themes/tv.plex.agents.series_9175255d74f46ca4a716cf245e4361edd119bd05]
-May 09, 2024 22:36:32.031 [140732511710712] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-2&metadataItemID=133&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
-May 09, 2024 22:36:32.032 [140732606800056] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
-May 09, 2024 22:36:32.032 [140732606800056] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
-May 09, 2024 22:36:32.033 [140732511170040] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-2&metadataItemID=133&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
-May 09, 2024 22:36:32.033 [140732511710712] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-2&metadataItemID=133&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle
-May 09, 2024 22:36:32.033 [140732511170040] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
-May 09, 2024 22:36:32.034 [140732606800056] DEBUG - Updating metadata item (save) (tv.plex.agents) with ID 133
-May 09, 2024 22:36:32.034 [140732511170040] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-2&metadataItemID=133&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 27, 2024 17:10:39.321 [140732676861432] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 27, 2024 17:10:39.321 [140732676861432] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 27, 2024 17:10:39.321 [140732676861432] INFO - Processor: 4-core AArch64
+May 27, 2024 17:10:39.321 [140732676861432] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 212
+May 27, 2024 17:10:39.322 [140732757139640] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 27, 2024 17:10:39.410 [140732757139640] DEBUG - Analyzing media parts for item 212 (Re:Stive): 226
+May 27, 2024 17:10:39.411 [140732757139640] DEBUG - [ID 226] Media part analysis: /anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv
+May 27, 2024 17:10:39.411 [140732757139640] DEBUG - [MI] Opening input file: "/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv"
+May 27, 2024 17:10:39.411 [140732757139640] DEBUG - [FFMPEG] - Opening '/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv' for reading
+May 27, 2024 17:10:39.411 [140732757139640] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 289
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 370
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 1040
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 1708
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 320841
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 320876
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 320911
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 320946
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 320982
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+May 27, 2024 17:10:39.412 [140732757139640] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 321094 bytes read:348311 seeks:2 nb_streams:5
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 27, 2024 17:10:39.413 [140732757139640] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 27, 2024 17:10:39.416 [140732757139640] DEBUG - [FFMPEG] - no picture 
+May 27, 2024 17:10:39.419 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.422 [140732757139640] DEBUG - [FFMPEG] - no picture 
+May 27, 2024 17:10:39.431 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.434 [140732757139640] DEBUG - [FFMPEG] - no picture 
+May 27, 2024 17:10:39.437 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.440 [140732757139640] DEBUG - [FFMPEG] - no picture 
+May 27, 2024 17:10:39.444 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.451 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.458 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.465 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.469 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.474 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.479 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.488 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.492 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.496 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.499 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.509 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.518 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.526 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.538 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.545 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.556 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.565 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.573 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+May 27, 2024 17:10:39.584 [140732757139640] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 27, 2024 17:10:39.594 [140732757139640] DEBUG - [FFMPEG] - All info found
+May 27, 2024 17:10:39.595 [140732757139640] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 542095 bytes read:577687 seeks:2 frames:93
+May 27, 2024 17:10:39.611 [140732757139640] DEBUG - [MI]  * 5193a8c9f2546ce67db885996cd8c322ffde8df7 [mkv h264/aac] Duration: 1420138ms, 1920x1080 (1.777778) 23.976fps, bitrate=1855kbps, audio channels=2, optimizedForStreaming=0 ("/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv")
+May 27, 2024 17:10:39.611 [140732757139640] DEBUG - [MI] Importing 5 media chapters.
+May 27, 2024 17:10:39.612 [140732757139640] DEBUG - [MI] Closing input file: "/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv"
+May 27, 2024 17:10:39.612 [140732757139640] DEBUG - Committing media stream changes for part 226
+May 27, 2024 17:10:39.613 [140732757139640] DEBUG - Updating media item 226, size=329360415, metadata_item_id=212
+May 27, 2024 17:10:39.614 [140732757139640] DEBUG - Updating part with ID=226 [/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv]
+May 27, 2024 17:10:39.615 [140732659887608] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=212&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 27, 2024 17:10:39.616 [140732757139640] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 27, 2024 17:10:39.616 [140732757139640] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 27, 2024 17:10:39.616 [140732659658232] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=212&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 27, 2024 17:10:39.616 [140732659887608] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=212&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 27, 2024 17:10:39.617 [140732659658232] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=212&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 27, 2024 17:10:39.617 [140732659658232] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 27, 2024 17:10:39.619 [140732757139640] DEBUG - Updating metadata item (save) (Re:Stive) with ID 212
+May 27, 2024 17:10:39.674 [140732659887608] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=1
+May 27, 2024 17:10:39.675 [140732757139640] DEBUG - Doing expensive tags write for 'Re:Stive' because something changed.
+May 27, 2024 17:10:39.675 [140732659658232] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=1 (reused)
+May 27, 2024 17:10:39.680 [140732757139640] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 27, 2024 17:10:39.680 [140732757139640] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 27, 2024 17:10:39.681 [140732659658232] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 27, 2024 17:10:39.681 [140732757139640] DEBUG - Updating metadata item (save) (Re:Stive) with ID 212
+May 27, 2024 17:10:39.681 [140732659887608] DEBUG - [HCl#6] HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=1
+May 27, 2024 17:10:39.682 [140732659658232] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache?metadataItemID=1 (reused)

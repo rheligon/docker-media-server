@@ -1,4 +1,5 @@
-May 03, 2024 18:12:31.071 [140732546136784] INFO - Crash Uploader - Platform: Linux ServerUUID: d81e893f9d5cd6e2c11350eb11037ff2fe2b1a52 UserId: rheligon@gmail.com Version: 1.40.2.8395-c67dce28e
-May 03, 2024 18:12:31.071 [140732546136784] INFO - Pre-processed minidump directory: /config/Library/Application Support/Plex Media Server/Crash Reports/1.40.2.8395-c67dce28e
-May 03, 2024 18:12:31.071 [140732546136784] INFO - Post-processed minidump directory: /tmp
-May 03, 2024 18:12:31.073 [140732582533264] INFO - Crash Uploader - Processing Complete.
+May 10, 2024 21:54:29.867 [140734852643536] INFO - Crash Uploader - Session Health - Status: exited StartTime: 1715297348 Duration: 73521 UserId: rheligon@gmail.com Version: 1.40.2.8395-c67dce28e
+May 10, 2024 21:54:29.871 [140734889040016] DEBUG - [HCl#1] HTTP requesting POST https://o17675.ingest.sentry.io/api/1233455/envelope/?sentry_key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+May 10, 2024 21:54:30.036 [140734852463312] DEBUG - [HttpClient/HCl#1] HTTP/2.0 (0.2s) 200 response from POST https://o17675.ingest.sentry.io/api/1233455/envelope/?sentry_key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+May 10, 2024 21:54:30.036 [140734889040016] INFO - Successfully reported session health
+May 10, 2024 21:54:30.036 [140734889040016] INFO - Crash Uploader - Processing Complete.

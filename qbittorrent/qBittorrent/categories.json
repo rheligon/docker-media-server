@@ -2,6 +2,9 @@
     "anime": {
         "save_path": ""
     },
+    "movie": {
+        "save_path": ""
+    },
     "tv": {
         "save_path": ""
     }

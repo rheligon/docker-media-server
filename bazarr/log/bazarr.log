@@ -1,4 +1,64 @@
-2024-05-11 02:30:11|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
-2024-05-11 03:37:45|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
-2024-05-11 04:00:00|INFO    |root                            |BAZARR All existing movie subtitles indexed from disk.|
-2024-05-11 04:00:06|INFO    |root                            |BAZARR All existing episode subtitles indexed from disk.|
+2024-06-15 00:47:02|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2024-06-15 00:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2024-06-15 04:00:00|INFO    |root                            |BAZARR All existing movie subtitles indexed from disk.|
+2024-06-15 04:00:00|INFO    |root                            |BAZARR All existing episode subtitles indexed from disk.|
+2024-06-15 05:36:43|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2024-06-15 06:47:02|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2024-06-15 06:51:07|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2024-06-15 12:47:02|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2024-06-15 12:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2024-06-15 17:36:43|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2024-06-15 18:28:09|INFO    |root                            |BAZARR Running cache maintenance|
+2024-06-15 18:47:02|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2024-06-15 18:51:06|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2024-06-15 21:46:32|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2024-06-15 21:46:44|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2024-06-15 21:49:43|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2024-06-15 21:49:43|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2024-06-15 21:49:43|INFO    |root                            |BAZARR is started and waiting for request on http://***.***.***.***:6767|
+2024-06-15 21:49:43|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2024-06-15 21:49:43|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2024-06-15 21:51:55|ERROR   |root                            |BAZARR ffprobe cannot analyze this video file /data/media/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E11 - 011 - Re-Match [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv. Could it be corrupted? +-------------------------------------------------------+
+|                     KnowIt 0.5.2                      |
++-------------------------------------------------------+
+|                      pymediainfo                      |
+|                         6.1.0                         |
+|                   libmediainfo.so.0                   |
+|                        v23.11                         |
+|                                                       |
+|                   /usr/bin/ffprobe                    |
+|                        v6.1.1                         |
+|                                                       |
+|                                                       |
+|                        enzyme                         |
+|                         0.4.1                         |
++-------------------------------------------------------+
+|                   provider: ffmpeg                    |
+|               ffmpeg: /usr/bin/ffprobe                |
+|                   profile: default                    |
++-------------------------------------------------------+
+Traceback (most recent call last):
+  File "/app/bin/bazarr/../libs/knowit/api.py", line 59, in know
+    result = provider.describe(video_path, context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/bin/bazarr/../libs/knowit/providers/ffmpeg.py", line 222, in describe
+    data = self.executor.extract_info(video_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/bin/bazarr/../libs/knowit/providers/ffmpeg.py", line 80, in extract_info
+    json_dump = self._execute(filename)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/bin/bazarr/../libs/knowit/providers/ffmpeg.py", line 114, in _execute
+    return check_output([self.location, '-v', 'quiet', '-print_format', 'json',
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/subprocess.py", line 466, in check_output
+    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/usr/bin/ffprobe', '-v', 'quiet', '-print_format', 'json', '-show_format', '-show_streams', '-sexagesimal', '/data/media/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E11 - 011 - Re-Match [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv']' returned non-zero exit status 1.
+
++-------------------------------------------------------+
+|      Please report any bug or feature request at      |
+|       https://github.com/ratoaq2/knowit/issues.       |
++-------------------------------------------------------+|
+2024-06-15 21:51:55|ERROR   |root                            |BAZARR Error ([Errno 2] No such file or directory: '/data/media/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E11 - 011 - Re-Match [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv') trying to get video information for this file: /data/media/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E11 - 011 - Re-Match [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv|'Traceback (most recent call last):\n  File "/app/bin/bazarr/subtitles/utils.py", line 41, in get_video\n    video = parse_video(path, hints=hints, skip_hashing=skip_hashing, dry_run=used_scene_name, providers=providers,\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/app/bin/bazarr/../custom_libs/subzero/video.py", line 61, in parse_video\n    return scan_video(fn, hints=hints, dont_use_actual_file=dry_run, providers=providers,\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/app/bin/bazarr/../custom_libs/subliminal_patch/core.py", line 854, in scan_video\n    video.size = os.path.getsize(hash_path)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "<frozen genericpath>", line 50, in getsize\nFileNotFoundError: [Errno 2] No such file or directory: \'/data/media/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E11 - 011 - Re-Match [WEBDL-1080p][8bit][h264][AAC 2.0][JA]-Global.mkv\''|

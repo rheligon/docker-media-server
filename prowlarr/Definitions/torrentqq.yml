@@ -7,17 +7,8 @@ type: public
 encoding: UTF-8
 followredirect: true
 links:
-  - https://torrentqq313.com/
+  - https://torrentqq320.com/
 legacylinks:
-  - https://torrentqq295.com/
-  - https://torrentqq296.com/
-  - https://torrentqq297.com/
-  - https://torrentqq298.com/
-  - https://torrentqq299.com/
-  - https://torrentqq301.com/
-  - https://torrentqq302.com/
-  - https://torrentqq303.com/
-  - https://torrentqq304.com/
   - https://torrentqq305.com/
   - https://torrentqq306.com/
   - https://torrentqq307.com/
@@ -26,6 +17,13 @@ legacylinks:
   - https://torrentqq310.com/
   - https://torrentqq311.com/
   - https://torrentqq312.com/
+  - https://torrentqq313.com/
+  - https://torrentqq314.com/
+  - https://torrentqq315.com/
+  - https://torrentqq316.com/
+  - https://torrentqq317.com/
+  - https://torrentqq318.com/
+  - https://torrentqq319.com/
 
 caps:
   categorymappings:
@@ -46,10 +44,8 @@ caps:
     music-search: [q]
 
 settings:
-  - name: flaresolverr
-    type: info
-    label: FlareSolverr
-    default: This site may use Cloudflare DDoS Protection, therefore Prowlarr requires <a href="https://wiki.servarr.com/prowlarr/faq#can-i-use-flaresolverr-indexers" target="_blank" rel="noreferrer">FlareSolverr</a> to access it.
+  - name: info_flaresolverr
+    type: info_flaresolverr
 
 download:
   infohash:

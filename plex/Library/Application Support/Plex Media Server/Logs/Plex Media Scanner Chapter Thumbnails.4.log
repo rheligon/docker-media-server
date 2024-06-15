@@ -1,10 +1,11 @@
-May 01, 2024 02:07:01.553 [140732469620216] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
-May 01, 2024 02:07:01.553 [140732469620216] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
-May 01, 2024 02:07:01.553 [140732469620216] INFO - Processor: 4-core AArch64
-May 01, 2024 02:07:01.553 [140732469620216] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 42 --log-file-suffix  Chapter Thumbnails
-May 01, 2024 02:07:01.553 [140732549898424] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-May 01, 2024 02:07:01.634 [140732549898424] DEBUG - Created chapter thumbnail for metadata item 42, media item 36 for chapter number 1:0 at "/config/Library/Application Support/Plex Media Server/Media/localhost/8/dbc3bab537ea5b55a913da2b7d17b897d419307.bundle/Contents/Chapters/chapter1.jpg"
-May 01, 2024 02:07:01.634 [140732549898424] DEBUG - Created chapter thumbnail for metadata item 42, media item 36 for chapter number 2:4000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/8/dbc3bab537ea5b55a913da2b7d17b897d419307.bundle/Contents/Chapters/chapter2.jpg"
-May 01, 2024 02:07:01.634 [140732549898424] DEBUG - Created chapter thumbnail for metadata item 42, media item 36 for chapter number 3:88000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/8/dbc3bab537ea5b55a913da2b7d17b897d419307.bundle/Contents/Chapters/chapter3.jpg"
-May 01, 2024 02:07:01.634 [140732549898424] DEBUG - Created chapter thumbnail for metadata item 42, media item 36 for chapter number 4:1264000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/8/dbc3bab537ea5b55a913da2b7d17b897d419307.bundle/Contents/Chapters/chapter4.jpg"
-May 01, 2024 02:07:01.634 [140732549898424] DEBUG - Generated new chapter thumbnails for Thornapple.
+May 15, 2024 02:04:51.319 [140735617379832] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 15, 2024 02:04:51.319 [140735617379832] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 15, 2024 02:04:51.319 [140735617379832] INFO - Processor: 4-core AArch64
+May 15, 2024 02:04:51.319 [140735617379832] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 176 --log-file-suffix  Chapter Thumbnails
+May 15, 2024 02:04:51.320 [140735697658040] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 15, 2024 02:04:51.411 [140735697658040] DEBUG - Created chapter thumbnail for metadata item 176, media item 161 for chapter number 1:0 at "/config/Library/Application Support/Plex Media Server/Media/localhost/2/59dd36d50fca593ccd8e278d682fa3584f7da86.bundle/Contents/Chapters/chapter1.jpg"
+May 15, 2024 02:04:51.411 [140735697658040] DEBUG - Created chapter thumbnail for metadata item 176, media item 161 for chapter number 2:49020 at "/config/Library/Application Support/Plex Media Server/Media/localhost/2/59dd36d50fca593ccd8e278d682fa3584f7da86.bundle/Contents/Chapters/chapter2.jpg"
+May 15, 2024 02:04:51.411 [140735697658040] DEBUG - Created chapter thumbnail for metadata item 176, media item 161 for chapter number 3:825090 at "/config/Library/Application Support/Plex Media Server/Media/localhost/2/59dd36d50fca593ccd8e278d682fa3584f7da86.bundle/Contents/Chapters/chapter3.jpg"
+May 15, 2024 02:04:51.411 [140735697658040] DEBUG - Created chapter thumbnail for metadata item 176, media item 161 for chapter number 4:1294950 at "/config/Library/Application Support/Plex Media Server/Media/localhost/2/59dd36d50fca593ccd8e278d682fa3584f7da86.bundle/Contents/Chapters/chapter4.jpg"
+May 15, 2024 02:04:51.412 [140735697658040] DEBUG - Created chapter thumbnail for metadata item 176, media item 161 for chapter number 5:1386130 at "/config/Library/Application Support/Plex Media Server/Media/localhost/2/59dd36d50fca593ccd8e278d682fa3584f7da86.bundle/Contents/Chapters/chapter5.jpg"
+May 15, 2024 02:04:51.412 [140735697658040] DEBUG - Generated new chapter thumbnails for Wilderness.

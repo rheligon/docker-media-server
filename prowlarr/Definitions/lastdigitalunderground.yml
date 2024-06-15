@@ -6,6 +6,8 @@ language: en-US
 type: private
 encoding: UTF-8
 links:
+  - https://theldu.to/
+legacylinks:
   - https://theldu.net/
 
 caps:
@@ -25,10 +27,12 @@ caps:
     - {id: 8, cat: Movies/Other, desc: "Anime: Films"}
     - {id: 9, cat: TV/Anime, desc: "Anime: Series/OVAs"}
     - {id: 2, cat: TV, desc: "Series/TV: General"}
+    - {id: 41, cat: TV, desc: "Series/TV: Single Episodes"}
     - {id: 31, cat: TV/Foreign, desc: "Series/TV SP1: Dub"}
     - {id: 29, cat: TV/Foreign, desc: "Series/TV SP2: No English"}
     - {id: 32, cat: TV/Other, desc: "Series/TV SP3: Other"}
     - {id: 38, cat: TV/Other, desc: "Series/TV [TMDB unlisted]"}
+    - {id: 40, cat: TV/Documentary, desc: "Series: Documentary"}
     - {id: 20, cat: TV/Other, desc: "Culture: Stand-up"}
     - {id: 7, cat: Books/EBook, desc: "Culture: Ebooks"}
     - {id: 3, cat: Audio, desc: "Culture: Music"}
@@ -42,6 +46,7 @@ caps:
     - {id: 15, cat: XXX/Pack, desc: "XXX: MegaPacks"}
     - {id: 10, cat: XXX, desc: "XXX: Hentai"}
     - {id: 14, cat: XXX/Other, desc: "XXX: Creators Corner"}
+    - {id: 39, cat: XXX/Other, desc: "XXX: Pain and Violence"}
     - {id: 13, cat: XXX/Other, desc: "XXX: Other"}
     - {id: 11, cat: XXX/Other, desc: "XXX: Zoo"}
     - {id: 26, cat: Other, desc: "FuckedUpShit"}
@@ -61,7 +66,7 @@ settings:
   - name: info_key
     type: info
     label: About your API key
-    default: "Find or Generate a new API Token by accessing your <a href=\"https://theldu.net/\" target=\"_blank\">Last Digital Underground</a> account <i>My Settings</i> page and clicking on the <b>API Key</b> tab."
+    default: "Find or Generate a new API Token by accessing your <a href=\"https://theldu.to/\" target=\"_blank\">Last Digital Underground</a> account <i>My Settings</i> page and clicking on the <b>API Key</b> tab."
   - name: freeleech
     type: checkbox
     label: Search freeleech only
@@ -86,6 +91,10 @@ settings:
     options:
       desc: desc
       asc: asc
+  - name: info_activity
+    type: info
+    label: Account Inactivity
+    default: "You are required to log in once per month. We will be purging user accounts via automated script set at an undisclosed interval."
 
 login:
   path: /api/torrents
@@ -205,6 +214,6 @@ search:
 #    minimumratio:
 #      text: 0.4
     minimumseedtime:
-      # 7 day (as seconds = 7 x 24 x 60 x 60)
+      # 7 days (as seconds = 7 x 24 x 60 x 60)
       text: 604800
-# json UNIT3D 8.0.1
+# json UNIT3D 8.1.3

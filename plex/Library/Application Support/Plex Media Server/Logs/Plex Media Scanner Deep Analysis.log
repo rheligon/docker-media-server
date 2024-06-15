@@ -1,74 +1,86 @@
-May 11, 2024 02:11:18.810 [140732585029112] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
-May 11, 2024 02:11:18.811 [140732585029112] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
-May 11, 2024 02:11:18.811 [140732585029112] INFO - Processor: 4-core AArch64
-May 11, 2024 02:11:18.811 [140732585029112] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 148 --log-file-suffix  Deep Analysis
-May 11, 2024 02:11:18.810 [140732665307320] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-May 11, 2024 02:11:18.891 [140732665307320] DEBUG - [MI] Opening input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv"
-May 11, 2024 02:11:18.891 [140732665307320] DEBUG - [FFMPEG] - Opening '/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv' for reading
-May 11, 2024 02:11:18.891 [140732665307320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
-May 11, 2024 02:11:18.905 [140732665307320] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
-May 11, 2024 02:11:18.905 [140732665307320] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4365
-May 11, 2024 02:11:18.905 [140732665307320] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4434
-May 11, 2024 02:11:18.905 [140732665307320] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4489
-May 11, 2024 02:11:18.914 [140732665307320] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
-May 11, 2024 02:11:18.914 [140732665307320] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
-May 11, 2024 02:11:18.914 [140732665307320] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
-May 11, 2024 02:11:18.914 [140732665307320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5653 bytes read:33738 seeks:2 nb_streams:3
-May 11, 2024 02:11:18.915 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
-May 11, 2024 02:11:18.915 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
-May 11, 2024 02:11:18.915 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
-May 11, 2024 02:11:18.915 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
-May 11, 2024 02:11:18.915 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
-May 11, 2024 02:11:18.915 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
-May 11, 2024 02:11:18.915 [140732665307320] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
-May 11, 2024 02:11:18.918 [140732665307320] DEBUG - [FFMPEG] - no picture 
-May 11, 2024 02:11:18.921 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
-May 11, 2024 02:11:18.924 [140732665307320] DEBUG - [FFMPEG] - no picture 
-May 11, 2024 02:11:18.927 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
-May 11, 2024 02:11:18.934 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
-May 11, 2024 02:11:18.942 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
-May 11, 2024 02:11:18.949 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
-May 11, 2024 02:11:18.954 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
-May 11, 2024 02:11:18.959 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
-May 11, 2024 02:11:18.964 [140732665307320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
-May 11, 2024 02:11:18.969 [140732665307320] DEBUG - [FFMPEG] - All info found
-May 11, 2024 02:11:18.970 [140732665307320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 67333 bytes read:99274 seeks:2 frames:34
-May 11, 2024 02:11:20.540 [140732665307320] DEBUG - Deep Analysis: Read 10000 packets at 140.098000
-May 11, 2024 02:11:22.219 [140732665307320] DEBUG - Deep Analysis: Read 20000 packets at 280.363000
-May 11, 2024 02:11:23.812 [140732665307320] DEBUG - Deep Analysis: Read 30000 packets at 420.587000
-May 11, 2024 02:11:25.591 [140732665307320] DEBUG - Deep Analysis: Read 40000 packets at 561.002000
-May 11, 2024 02:11:27.566 [140732665307320] DEBUG - Deep Analysis: Read 50000 packets at 701.204000
-May 11, 2024 02:11:28.694 [140732665307320] DEBUG - Deep Analysis: Read 60000 packets at 841.428000
-May 11, 2024 02:11:30.156 [140732665307320] DEBUG - Deep Analysis: Read 70000 packets at 981.397000
-May 11, 2024 02:11:31.494 [140732665307320] DEBUG - Deep Analysis: Read 80000 packets at 1121.770000
-May 11, 2024 02:11:32.756 [140732665307320] DEBUG - Deep Analysis: Read 90000 packets at 1261.994000
-May 11, 2024 02:11:33.918 [140732665307320] DEBUG - Deep Analysis: Read 100000 packets at 1402.240000
-May 11, 2024 02:11:35.141 [140732665307320] DEBUG - Deep Analysis: Read 110000 packets at 1542.463000
-May 11, 2024 02:11:36.331 [140732665307320] DEBUG - Deep Analysis: Read 120000 packets at 1682.472000
-May 11, 2024 02:11:39.767 [140732665307320] DEBUG - Deep Analysis: Read 130000 packets at 1822.891000
-May 11, 2024 02:11:41.443 [140732665307320] DEBUG - Deep Analysis: Read 140000 packets at 1963.050000
-May 11, 2024 02:11:42.718 [140732665307320] DEBUG - Deep Analysis: Read 150000 packets at 2103.466000
-May 11, 2024 02:11:44.024 [140732665307320] DEBUG - Deep Analysis: Read 160000 packets at 2243.690000
-May 11, 2024 02:11:45.358 [140732665307320] DEBUG - Deep Analysis: Read 170000 packets at 2383.756000
-May 11, 2024 02:11:46.767 [140732665307320] DEBUG - Deep Analysis: Read 180000 packets at 2524.096000
-May 11, 2024 02:11:48.401 [140732665307320] DEBUG - Deep Analysis: Read 190000 packets at 2664.078000
-May 11, 2024 02:11:49.697 [140732665307320] DEBUG - Deep Analysis: Read 200000 packets at 2804.427000
-May 11, 2024 02:11:51.057 [140732665307320] DEBUG - Deep Analysis: Read 210000 packets at 2944.900000
-May 11, 2024 02:11:52.538 [140732665307320] DEBUG - Deep Analysis: Read 220000 packets at 3085.207000
-May 11, 2024 02:11:53.929 [140732665307320] DEBUG - Deep Analysis: Read 230000 packets at 3225.833000
-May 11, 2024 02:11:55.185 [140732665307320] DEBUG - Deep Analysis: Read 240000 packets at 3366.101000
-May 11, 2024 02:11:57.358 [140732665307320] DEBUG - Deep Analysis: Read 250000 packets at 3506.431000
-May 11, 2024 02:11:58.548 [140732665307320] DEBUG - Deep Analysis: Read 260000 packets at 3646.741000
-May 11, 2024 02:11:59.875 [140732665307320] DEBUG - Deep Analysis: Read 270000 packets at 3787.028000
-May 11, 2024 02:12:01.290 [140732665307320] DEBUG - Deep Analysis: Read 280000 packets at 3927.173000
-May 11, 2024 02:12:01.595 [140732665307320] DEBUG - Deep Analysis: Sorting packets
-May 11, 2024 02:12:01.609 [140732665307320] DEBUG - Deep Analysis: Performing file bitrate analysis
-May 11, 2024 02:12:01.667 [140732665307320] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
-May 11, 2024 02:12:01.680 [140732665307320] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
-May 11, 2024 02:12:01.705 [140732665307320] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 2
-May 11, 2024 02:12:01.706 [140732665307320] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
-May 11, 2024 02:12:01.707 [140732665307320] DEBUG - Deep Analysis: Saving bitrate analysis
-May 11, 2024 02:12:01.708 [140732665307320] DEBUG - Updating part with ID=134 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv]
-May 11, 2024 02:12:01.709 [140732665307320] DEBUG - [MI] Closing input file: "/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv"
-May 11, 2024 02:12:01.709 [140732665307320] DEBUG - Updating media item 134, size=3408079491, metadata_item_id=148
-May 11, 2024 02:12:01.709 [140732665307320] DEBUG - Updating part with ID=134 [/tv/Project Runway (2004) {imdb-tt0437741}/Season 19/Project Runway (2004) - S19E01 - A Colorful Return [WEBRip-1080p][AAC 2.0][x264]-KOMPOS.mkv]
+May 28, 2024 02:04:52.537 [140734208208376] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 28, 2024 02:04:52.537 [140734208208376] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 28, 2024 02:04:52.537 [140734208208376] INFO - Processor: 4-core AArch64
+May 28, 2024 02:04:52.537 [140734208208376] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 212 --log-file-suffix  Deep Analysis
+May 28, 2024 02:04:52.538 [140734288486584] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 28, 2024 02:04:52.618 [140734288486584] DEBUG - [MI] Opening input file: "/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [HDTV-1080p][8bit][x264][AAC 2.0][JA]-SubsPlease.mkv"
+May 28, 2024 02:04:52.618 [140734288486584] DEBUG - [FFMPEG] - Opening '/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [HDTV-1080p][8bit][x264][AAC 2.0][JA]-SubsPlease.mkv' for reading
+May 28, 2024 02:04:52.618 [140734288486584] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 28, 2024 02:04:52.618 [140734288486584] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+May 28, 2024 02:04:52.619 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4344
+May 28, 2024 02:04:52.619 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4429
+May 28, 2024 02:04:52.619 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 6663
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447964939
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447964985
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965026
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965071
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965130
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965197
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965278
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965330
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965376
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965417
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965460
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965519
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965586
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965667
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965716
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965762
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965801
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965841
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965900
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447965967
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - Unknown entry 0x447B at pos. 1447966048
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+May 28, 2024 02:04:52.623 [140734288486584] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+May 28, 2024 02:04:52.633 [140734288486584] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6507684 bytes read:6541612 seeks:2 nb_streams:17
+May 28, 2024 02:04:52.633 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 28, 2024 02:04:52.633 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 28, 2024 02:04:52.639 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 28, 2024 02:04:52.639 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 28, 2024 02:04:52.639 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 28, 2024 02:04:52.639 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 28, 2024 02:04:52.639 [140734288486584] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 28, 2024 02:04:52.645 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 28, 2024 02:04:52.651 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 28, 2024 02:04:52.657 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 28, 2024 02:04:52.663 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 28, 2024 02:04:52.670 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 28, 2024 02:04:52.673 [140734288486584] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 28, 2024 02:04:52.676 [140734288486584] DEBUG - [FFMPEG] - All info found
+May 28, 2024 02:04:52.682 [140734288486584] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 6515427 bytes read:6574380 seeks:2 frames:24
+May 28, 2024 02:04:52.781 [140734288486584] DEBUG - Deep Analysis: Read 10000 packets at 148.899000
+May 28, 2024 02:04:52.861 [140734288486584] DEBUG - Deep Analysis: Read 20000 packets at 297.308000
+May 28, 2024 02:04:52.941 [140734288486584] DEBUG - Deep Analysis: Read 30000 packets at 445.846000
+May 28, 2024 02:04:53.021 [140734288486584] DEBUG - Deep Analysis: Read 40000 packets at 594.407000
+May 28, 2024 02:04:53.112 [140734288486584] DEBUG - Deep Analysis: Read 50000 packets at 742.784000
+May 28, 2024 02:04:53.217 [140734288486584] DEBUG - Deep Analysis: Read 60000 packets at 891.436000
+May 28, 2024 02:04:53.303 [140734288486584] DEBUG - Deep Analysis: Read 70000 packets at 1039.998000
+May 28, 2024 02:04:53.387 [140734288486584] DEBUG - Deep Analysis: Read 80000 packets at 1188.722000
+May 28, 2024 02:04:53.473 [140734288486584] DEBUG - Deep Analysis: Read 90000 packets at 1337.296000
+May 28, 2024 02:04:53.518 [140734288486584] DEBUG - Deep Analysis: Sorting packets
+May 28, 2024 02:04:53.522 [140734288486584] DEBUG - Deep Analysis: Performing file bitrate analysis
+May 28, 2024 02:04:53.535 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+May 28, 2024 02:04:53.542 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+May 28, 2024 02:04:53.544 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 2
+May 28, 2024 02:04:53.544 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 3
+May 28, 2024 02:04:53.545 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 4
+May 28, 2024 02:04:53.545 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 5
+May 28, 2024 02:04:53.545 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 6
+May 28, 2024 02:04:53.545 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 7
+May 28, 2024 02:04:53.545 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 8
+May 28, 2024 02:04:53.545 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 9
+May 28, 2024 02:04:53.546 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 10
+May 28, 2024 02:04:53.546 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 11
+May 28, 2024 02:04:53.546 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 12
+May 28, 2024 02:04:53.546 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 13
+May 28, 2024 02:04:53.546 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 14
+May 28, 2024 02:04:53.546 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 15
+May 28, 2024 02:04:53.546 [140734288486584] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 16
+May 28, 2024 02:04:53.547 [140734288486584] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+May 28, 2024 02:04:53.547 [140734288486584] DEBUG - Deep Analysis: Saving bitrate analysis
+May 28, 2024 02:04:53.548 [140734288486584] DEBUG - Updating part with ID=227 [/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [HDTV-1080p][8bit][x264][AAC 2.0][JA]-SubsPlease.mkv]
+May 28, 2024 02:04:53.548 [140734288486584] DEBUG - [MI] Closing input file: "/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [HDTV-1080p][8bit][x264][AAC 2.0][JA]-SubsPlease.mkv"
+May 28, 2024 02:04:53.549 [140734288486584] DEBUG - Updating media item 227, size=1447966053, metadata_item_id=212
+May 28, 2024 02:04:53.549 [140734288486584] DEBUG - Updating part with ID=227 [/anime/Re-Monster (2024) [imdbid-tt31514720]/Season 1/Re-Monster (2024) - S01E09 - 009 - Re-Stive [HDTV-1080p][8bit][x264][AAC 2.0][JA]-SubsPlease.mkv]

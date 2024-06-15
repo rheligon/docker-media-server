@@ -1,8 +1,6 @@
-May 01, 2024 02:07:01.983 [140733465964024] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
-May 01, 2024 02:07:01.984 [140733465964024] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
-May 01, 2024 02:07:01.984 [140733465964024] INFO - Processor: 4-core AArch64
-May 01, 2024 02:07:01.984 [140733465964024] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 46 --log-file-suffix  Chapter Thumbnails
-May 01, 2024 02:07:01.984 [140733546242232] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-May 01, 2024 02:07:02.065 [140733546242232] DEBUG - Created chapter thumbnail for metadata item 46, media item 40 for chapter number 1:0 at "/config/Library/Application Support/Plex Media Server/Media/localhost/d/3decd1b50513b43e0aab33d495db655aa7c73c6.bundle/Contents/Chapters/chapter1.jpg"
-May 01, 2024 02:07:02.065 [140733546242232] DEBUG - Created chapter thumbnail for metadata item 46, media item 40 for chapter number 2:90000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/d/3decd1b50513b43e0aab33d495db655aa7c73c6.bundle/Contents/Chapters/chapter2.jpg"
-May 01, 2024 02:07:02.065 [140733546242232] DEBUG - Generated new chapter thumbnails for Jinshi and Maomao.
+May 28, 2024 02:04:52.428 [140733224332792] INFO - Plex Media Scanner v1.40.2.8395-c67dce28e - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 02:00
+May 28, 2024 02:04:52.428 [140733224332792] INFO - Linux version: 6.6.28+rpt-rpi-2712, language: en-US
+May 28, 2024 02:04:52.428 [140733224332792] INFO - Processor: 4-core AArch64
+May 28, 2024 02:04:52.428 [140733224332792] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 212 --log-file-suffix  Chapter Thumbnails --force
+May 28, 2024 02:04:52.429 [140733304611000] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 28, 2024 02:04:52.511 [140733304611000] DEBUG - Generated new chapter thumbnails for Re:Stive.
